@@ -6,6 +6,7 @@ let picks = [];
 let bonusPick = null;
 let gameData = [];
 let gameTimes = [];
+let weekStatuses = {}; // ✅ track per-week picks & bonus
 
 // =========================
 // Elements
@@ -14,6 +15,7 @@ const matchupsDiv = document.getElementById("matchups");
 const picksList = document.getElementById("picks-list");
 const weekTitle = document.getElementById("week-title");
 const nextBtn = document.getElementById("next-btn");
+const weekNav = document.getElementById("week-nav"); // ✅ add <div id="week-nav"></div> in HTML
 
 // =========================
 // Logos
@@ -72,6 +74,7 @@ async function loadGameData() {
     gameTimes = await timesRes.json();
 
     renderWeek(currentWeek);
+    renderWeekNav(); // ✅ show nav bar immediately
   } catch (err) {
     console.error("Error loading game data:", err);
     matchupsDiv.innerHTML = "<p>⚠️ Could not load game data.</p>";
@@ -83,8 +86,14 @@ async function loadGameData() {
 // =========================
 function renderWeek(weekNumber) {
   weekTitle.textContent = `Week ${weekNumber}`;
-  picks = [];
-  bonusPick = null;
+  
+  // Restore picks for this week if they exist
+  if (!weekStatuses[weekNumber]) {
+    weekStatuses[weekNumber] = { picks: [], bonus: null };
+  }
+  picks = [...weekStatuses[weekNumber].picks];
+  bonusPick = weekStatuses[weekNumber].bonus;
+
   renderPicks();
 
   const weekObj = gameData.find((w) => w.week === weekNumber);
@@ -153,7 +162,6 @@ function renderWeek(weekNumber) {
       centerCol.className = "center-col";
 
       const away = createTeamBox(game.awayTeam, game.homeTeam, matchupKey);
-
       const at = document.createElement("div");
       at.className = "at-label";
       at.textContent = "at";
@@ -183,6 +191,52 @@ function renderWeek(weekNumber) {
 }
 
 // =========================
+// Week Nav Rendering
+// =========================
+function renderWeekNav() {
+  weekNav.innerHTML = "";
+
+  for (let w = 1; w <= 18; w++) {
+    const btn = document.createElement("button");
+    btn.className = "week-btn";
+    btn.textContent = w;
+
+    const status = getWeekStatus(w);
+    btn.classList.add(status);
+
+    if (w === currentWeek) btn.classList.add("active");
+
+    btn.addEventListener("click", () => {
+      currentWeek = w;
+      renderWeek(currentWeek);
+      renderWeekNav(); // re-highlight active
+    });
+
+    weekNav.appendChild(btn);
+  }
+}
+
+// =========================
+// Week Status
+// =========================
+function getWeekStatus(week) {
+  const state = weekStatuses[week];
+  if (!state || state.picks.length === 0) return "status-grey";
+
+  if (state.picks.length < 5 || !state.bonus) return "status-yellow";
+
+  // check for duplicate bonus teams
+  const allBonus = Object.values(weekStatuses)
+    .map((s) => s?.bonus)
+    .filter(Boolean);
+  const duplicates = allBonus.filter((b, i, arr) => arr.indexOf(b) !== i);
+
+  if (duplicates.includes(state.bonus)) return "status-red";
+
+  return "status-green";
+}
+
+// =========================
 // Create Team Box
 // =========================
 function createTeamBox(team, opponent, matchupKey) {
@@ -201,6 +255,11 @@ function createTeamBox(team, opponent, matchupKey) {
 
   box.appendChild(logo);
   box.appendChild(label);
+
+  // ✅ re-select highlight if team already picked
+  if (picks.find((p) => p.team === team && p.matchup === matchupKey)) {
+    box.classList.add("selected");
+  }
 
   box.addEventListener("click", () =>
     toggleTeam(team, opponent, "Scheduled", box, matchupKey)
@@ -285,7 +344,14 @@ function renderPicks() {
     picksList.appendChild(wrapper);
   });
 
-  document.querySelector("#picks-box h2").textContent = `Your Picks (${picks.length}/5)`;
+  document.querySelector(
+    "#picks-box h2"
+  ).textContent = `Your Picks (${picks.length}/5)`;
+
+  // ✅ update weekStatuses + nav
+  weekStatuses[currentWeek] = { picks: [...picks], bonus: bonusPick };
+  renderWeekNav();
+
   checkReady();
 }
 
@@ -294,7 +360,9 @@ function renderPicks() {
 // =========================
 function removePick(pick) {
   if (bonusPick === pick.team) bonusPick = null;
-  picks = picks.filter((x) => !(x.team === pick.team && x.matchup === pick.matchup));
+  picks = picks.filter(
+    (x) => !(x.team === pick.team && x.matchup === pick.matchup)
+  );
   const teamBox = document.querySelector(
     `.team-box[data-team="${pick.team}"][data-matchup="${pick.matchup}"]`
   );

@@ -20,6 +20,61 @@ body {
 }
 
 /* =========================
+   Week Navigation Bar
+   ========================= */
+#week-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 6px;
+  margin-bottom: 20px;
+}
+
+.week-btn {
+  padding: 6px 12px;
+  border: 2px solid #ccc;
+  border-radius: 6px;
+  background: #f9f9f9;
+  font-weight: bold;
+  cursor: pointer;
+  transition: transform 0.08s ease, background 0.15s ease, border-color 0.15s ease;
+}
+
+.week-btn:hover {
+  transform: translateY(-2px);
+}
+
+/* Status colors */
+.status-grey {
+  background: #e5e7eb;   /* light gray */
+  border-color: #9ca3af;
+  color: #374151;
+}
+
+.status-yellow {
+  background: #fef3c7;   /* light yellow */
+  border-color: #f59e0b;
+  color: #92400e;
+}
+
+.status-red {
+  background: #fecaca;   /* light red */
+  border-color: #dc2626;
+  color: #7f1d1d;
+}
+
+.status-green {
+  background: #bbf7d0;   /* light green */
+  border-color: #16a34a;
+  color: #065f46;
+}
+
+/* Active/current week */
+.week-btn.active {
+  outline: 3px solid #3b82f6;
+}
+
+/* =========================
    Week Sections
    ========================= */
 .weekday-container {
