@@ -1,0 +1,230 @@
+/* =========================
+   Global Layout
+   ========================= */
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.container {
+  max-width: 760px;
+  width: 100%;
+  margin: 24px auto;
+  padding: 16px;
+  text-align: center;
+}
+
+/* =========================
+   Week Sections
+   ========================= */
+.weekday-container {
+  margin: 20px 0;
+  padding: 12px;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  background: #fafafa;
+}
+
+.weekday-header {
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+/* =========================
+   Matchup Rows (3-column layout)
+   ========================= */
+.matchup-row {
+  display: flex;
+  align-items: center;
+  margin: 12px 0;
+  padding: 6px 0;
+  gap: 12px;
+}
+
+.header-row {
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 8px;
+  padding-bottom: 4px;
+  font-weight: bold;
+}
+
+.game-time-header {
+  flex: 0 0 80px;
+  text-align: left;
+  color: #222;
+}
+
+.game-time {
+  flex: 0 0 80px;   /* fixed width */
+  text-align: right;
+  font-weight: bold;
+  color: #444;
+}
+
+.center-col {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+
+.at-label {
+  font-weight: bold;
+  color: #475569;
+}
+
+/* Combined weekday + time header row */
+.day-header-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+  padding: 4px 8px;
+}
+
+.day-header-row .weekday-header {
+  flex: 1;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  color: #1d2d44;
+  margin: 0;
+}
+
+.day-header-row .game-time-header {
+  flex: 0 0 80px;
+  text-align: right;
+  font-size: 14px;
+  font-weight: bold;
+  color: #444;
+}
+
+/* =========================
+   Team Boxes
+   ========================= */
+.team-box {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 14px;
+  background: #fff;
+  border: 2px solid #cfd6e4;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: transform 0.06s ease, box-shadow 0.06s ease, border-color 0.15s ease, background 0.15s ease;
+}
+
+.team-box:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 10px rgba(0,0,0,.06);
+}
+
+.team-box.selected {
+  border-color: #007bff;
+  background: #e6f2ff;
+}
+
+.team-logo {
+  width: 26px;
+  height: 26px;
+  object-fit: contain;
+}
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.game-note {
+  font-size: 12px;
+  color: #666;
+  margin-top: 4px;
+  font-style: italic;
+  text-align: center;
+}
+
+/* =========================
+   Picks Box (User’s Selections)
+   ========================= */
+.picks-box {
+  margin-top: 30px;
+  padding: 14px;
+  background: #fff;
+  border: 2px solid #1f2937;
+  border-radius: 10px;
+}
+
+.picks-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
+
+/* Individual Pick */
+.pick-box {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  position: relative;
+  padding: 6px 28px 6px 10px;
+  border: 2px solid #333;
+  border-radius: 6px;
+  background: #fff;
+  cursor: pointer; /* clicking sets bonus */
+  transition: transform .06s ease;
+}
+
+.pick-box:hover {
+  transform: translateY(-1px);
+}
+
+.pick-box.bonus {
+  background: gold;
+  font-weight: bold;
+  border-color: #b45309;
+}
+
+.pick-logo {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+}
+
+.pick-label {
+  user-select: none;
+}
+
+.pick-remove {
+  position: absolute;
+  right: 6px;
+  top: 4px;
+  border: none;
+  background: transparent;
+  font-size: 16px;
+  line-height: 1;
+  cursor: pointer;
+  color: #6b7280;
+}
+
+.pick-remove:hover {
+  color: #111827;
+}
+
+/* =========================
+   Next Button
+   ========================= */
+.next-btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 18px;
+}
