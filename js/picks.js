@@ -15,7 +15,8 @@ const matchupsDiv = document.getElementById("matchups");
 const picksList = document.getElementById("picks-list");
 const weekTitle = document.getElementById("week-title");
 const nextBtn = document.getElementById("next-btn");
-const weekNav = document.getElementById("week-nav"); // ✅ add <div id="week-nav"></div> in HTML
+const weekNav = document.getElementById("week-nav"); 
+const submitBtn = document.getElementById("submit-btn"); // ✅ add <button id="submit-btn">Submit</button> in HTML
 
 // =========================
 // Logos
@@ -74,7 +75,8 @@ async function loadGameData() {
     gameTimes = await timesRes.json();
 
     renderWeek(currentWeek);
-    renderWeekNav(); // ✅ show nav bar immediately
+    renderWeekNav();
+    updateSubmitButton(); // ✅ check button at load
   } catch (err) {
     console.error("Error loading game data:", err);
     matchupsDiv.innerHTML = "<p>⚠️ Could not load game data.</p>";
@@ -115,7 +117,6 @@ function renderWeek(weekNumber) {
     const dayContainer = document.createElement("div");
     dayContainer.className = "weekday-container";
 
-    // ✅ Header row: day (center) + "Time (CST)" (right)
     const headerRow = document.createElement("div");
     headerRow.className = "weekday-header-row";
 
@@ -131,13 +132,11 @@ function renderWeek(weekNumber) {
     headerRow.appendChild(timeHeader);
     dayContainer.appendChild(headerRow);
 
-    // Render each matchup
     games.forEach(({ game, idx }) => {
       const row = document.createElement("div");
       row.className = "matchup-row";
       const matchupKey = `week${weekNumber}_game${idx}`;
 
-      // Lookup time + note
       const weekTimes = gameTimes.find((w) => w.week === weekNumber);
       let gameTime = "";
       let note = "";
@@ -151,13 +150,11 @@ function renderWeek(weekNumber) {
         }
       }
 
-      // Left column (time)
       const timeDiv = document.createElement("div");
       timeDiv.className = "game-time";
       timeDiv.textContent = gameTime;
       row.appendChild(timeDiv);
 
-      // Center column (matchup)
       const centerCol = document.createElement("div");
       centerCol.className = "center-col";
 
@@ -203,13 +200,11 @@ function renderWeekNav() {
 
     const status = getWeekStatus(w);
     btn.classList.add(status);
-
     if (w === currentWeek) btn.classList.add("active");
 
     btn.addEventListener("click", () => {
       currentWeek = w;
       renderWeek(currentWeek);
-      renderWeekNav(); // re-highlight active
     });
 
     weekNav.appendChild(btn);
@@ -222,17 +217,14 @@ function renderWeekNav() {
 function getWeekStatus(week) {
   const state = weekStatuses[week];
   if (!state || state.picks.length === 0) return "status-grey";
-
   if (state.picks.length < 5 || !state.bonus) return "status-yellow";
 
-  // check for duplicate bonus teams
   const allBonus = Object.values(weekStatuses)
     .map((s) => s?.bonus)
     .filter(Boolean);
   const duplicates = allBonus.filter((b, i, arr) => arr.indexOf(b) !== i);
 
   if (duplicates.includes(state.bonus)) return "status-red";
-
   return "status-green";
 }
 
@@ -256,7 +248,6 @@ function createTeamBox(team, opponent, matchupKey) {
   box.appendChild(logo);
   box.appendChild(label);
 
-  // ✅ re-select highlight if team already picked
   if (picks.find((p) => p.team === team && p.matchup === matchupKey)) {
     box.classList.add("selected");
   }
@@ -344,14 +335,11 @@ function renderPicks() {
     picksList.appendChild(wrapper);
   });
 
-  document.querySelector(
-    "#picks-box h2"
-  ).textContent = `Your Picks (${picks.length}/5)`;
+  document.querySelector("#picks-box h2").textContent = `Your Picks (${picks.length}/5)`;
 
-  // ✅ update weekStatuses + nav
   weekStatuses[currentWeek] = { picks: [...picks], bonus: bonusPick };
   renderWeekNav();
-
+  updateSubmitButton(); // ✅ recalc submit availability
   checkReady();
 }
 
@@ -360,9 +348,7 @@ function renderPicks() {
 // =========================
 function removePick(pick) {
   if (bonusPick === pick.team) bonusPick = null;
-  picks = picks.filter(
-    (x) => !(x.team === pick.team && x.matchup === pick.matchup)
-  );
+  picks = picks.filter((x) => !(x.team === pick.team && x.matchup === pick.matchup));
   const teamBox = document.querySelector(
     `.team-box[data-team="${pick.team}"][data-matchup="${pick.matchup}"]`
   );
@@ -373,6 +359,36 @@ function removePick(pick) {
 function checkReady() {
   nextBtn.disabled = !(picks.length === 5 && bonusPick);
 }
+
+// =========================
+// Submit Button Logic
+// =========================
+function updateSubmitButton() {
+  let allValid = true;
+
+  for (let w = 1; w <= 18; w++) {
+    const state = weekStatuses[w];
+    if (!state || state.picks.length < 5 || !state.bonus) {
+      allValid = false;
+      break;
+    }
+  }
+
+  if (allValid) {
+    submitBtn.disabled = false;
+    submitBtn.classList.add("enabled");
+  } else {
+    submitBtn.disabled = true;
+    submitBtn.classList.remove("enabled");
+  }
+}
+
+submitBtn.addEventListener("click", () => {
+  if (!submitBtn.disabled) {
+    alert("✅ All weeks completed! Submitting picks...");
+    // TODO: push to Firebase
+  }
+});
 
 // =========================
 // Navigation
