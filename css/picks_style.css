@@ -7,7 +7,7 @@ body {
   margin: 0;
   padding: 0;
   height: 100vh;
-  overflow: hidden; /* prevent global scrolling */
+  overflow: hidden;
   display: flex;
   flex-direction: column;
 }
@@ -26,12 +26,11 @@ body {
    ========================= */
 #site-header {
   display: grid;
-  grid-template-columns: 1fr auto 1fr; /* left, center, right */
+  grid-template-columns: 1fr auto 1fr;
   align-items: center;
   padding: 6px 12px;
 }
 
-/* Logo */
 .site-logo {
   justify-self: start;
   height: 100px;
@@ -121,14 +120,18 @@ body {
 }
 
 /* =========================
-   Week Title
+   Week Title + User Info Row
    ========================= */
+#top-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 12px 20px 12px;
+}
+
 #week-title {
-  margin: 0 0 12px 0;
-  text-align: left;
+  margin: 0;
   font-size: 30px;
-  font-weight: bold;
-  font-family: "Montserrat", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -138,6 +141,41 @@ body {
   font-weight: normal;
   color: #6b7280;
 }
+
+/* =========================
+   User Info Bar
+   ========================= */
+.user-info-bar {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 20px;
+  margin-top: 4px;
+}
+
+.user-info-bar .user-label {
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #111; /* solid black */
+}
+
+#user-display {
+  font-weight: normal;     /* not bold */
+  text-transform: none;    /* preserve case */
+  color: #6b7280;          /* grey */
+}
+
+#logout-btn {
+  padding: 6px 12px;
+  font-size: 14px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: white;
+  transition: background-color 0.2s;
+}
+#logout-btn:hover { background-color: #0056b3; }
 
 /* =========================
    Main Layout
@@ -441,4 +479,30 @@ body {
 #back-btn:hover {
   transform: translateY(-2px);
   background: #b91c1c;   /* darker red hover */
+}
+
+.user-info-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 12px;
+  font-weight: bold;
+  background: #f8f9fa;
+  border-radius: 6px;
+  margin-bottom: 15px;
+}
+
+#logout-btn {
+  padding: 6px 12px;
+  font-size: 14px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: white;
+  transition: background-color 0.2s;
+}
+
+#logout-btn:hover {
+  background-color: #0056b3;
 }

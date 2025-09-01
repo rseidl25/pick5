@@ -1,5 +1,3 @@
-// picks_firebase.js
-
 import { app } from "./firebase_init.js";
 import { 
   getFirestore, 
@@ -13,8 +11,8 @@ const db = getFirestore(app);
 const auth = getAuth(app);
 
 /**
- * Manual submit — only saves *complete* weeks, shows alert.
- * Saves to nested structure: picks > uid > weekN > picks
+ * Manual submit — saves complete weeks
+ * Structure: picks/{uid}/weeks/weekN
  */
 export async function saveAllUserPicks(weekStatuses) {
   const user = auth.currentUser;
@@ -37,11 +35,11 @@ export async function saveAllUserPicks(weekStatuses) {
 
       const teamsPicked = state.picks.map(p => ({
         team: p.team,
-        matchup: p.matchup || `week${week}`  // ✅ ensure matchup is saved properly
+        matchup: p.matchup
       }));
 
-      // ✅ Nested structure: picks/{uid}/weekN/picks
-      const weekDocRef = doc(db, "picks", uid, `week${week}`, "picks");
+      // ✅ Store as picks/{uid}/weeks/week{N}
+      const weekDocRef = doc(db, "picks", uid, "weeks", "week" + week);
       promises.push(
         setDoc(weekDocRef, {
           userId: uid,
@@ -55,8 +53,8 @@ export async function saveAllUserPicks(weekStatuses) {
 
     await Promise.all(promises);
 
-    console.log("✅ All picks saved successfully (nested structure)!");
-    alert("✅ Your picks have been submitted!");
+    console.log("✅ All picks saved successfully (weeks subcollection)!");
+    //alert("✅ Your picks have been submitted!");
   } catch (err) {
     console.error("❌ Error saving picks:", err);
     alert("Error saving picks: " + err.message);
@@ -64,8 +62,8 @@ export async function saveAllUserPicks(weekStatuses) {
 }
 
 /**
- * Save a single week silently (autosave).
- * Saves to: picks/{uid}/weekN/picks
+ * Autosave single week silently
+ * Structure: picks/{uid}/weeks/weekN
  */
 export async function autosaveUserPicks(week, state) {
   const user = auth.currentUser;
@@ -75,10 +73,11 @@ export async function autosaveUserPicks(week, state) {
   try {
     const teamsPicked = state.picks.map(p => ({
       team: p.team,
-      matchup: p.matchup || `week${week}`  // ✅ ensure matchupKey is included
+      matchup: p.matchup
     }));
 
-    const weekDocRef = doc(db, "picks", uid, `week${week}`, "picks");
+    // ✅ Store as picks/{uid}/weeks/weekN
+    const weekDocRef = doc(db, "picks", uid, "weeks", "week" + week);
 
     await setDoc(weekDocRef, {
       userId: uid,
@@ -95,8 +94,8 @@ export async function autosaveUserPicks(week, state) {
 }
 
 /**
- * Load all picks for current user from nested structure.
- * Reads: picks/{uid}/weekN/picks
+ * Load all picks for current user
+ * Reads: picks/{uid}/weeks/weekN
  */
 export async function loadUserPicksFromFirestore() {
   const user = auth.currentUser;
@@ -107,10 +106,9 @@ export async function loadUserPicksFromFirestore() {
   try {
     const weekStatuses = {};
 
-    // Fetch all weeks in parallel
     const promises = [];
     for (let week = 1; week <= 18; week++) {
-      const weekDocRef = doc(db, "picks", uid, `week${week}`, "picks");
+      const weekDocRef = doc(db, "picks", uid, "weeks", "week" + week);
       promises.push(getDoc(weekDocRef).then(snap => ({ week, snap })));
     }
 
@@ -124,7 +122,7 @@ export async function loadUserPicksFromFirestore() {
         weekStatuses[week] = {
           picks: teamsPicked.map(p => ({
             team: p.team,
-            matchup: p.matchup || `week${week}`  // ✅ preserve matchup
+            matchup: p.matchup
           })),
           bonus: bonusPick || null
         };

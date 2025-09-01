@@ -663,7 +663,7 @@ backBtn.addEventListener("click", () => {
 
 finalSubmitBtn.addEventListener("click", async () => {
   await saveAllUserPicks(weekStatuses);
-  alert("✅ Your picks have been submitted and synced!");
+  //alert("✅ Your picks have been submitted and synced!");
 });
 
 // =========================

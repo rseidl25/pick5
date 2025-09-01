@@ -25,17 +25,25 @@
       <div id="week-nav-container">
         <span class="week-label">Select Week:</span>
         <div id="week-nav"></div>
-        <!-- Changed Submit → Next -->
         <button id="submit-btn" disabled>Next</button>
       </div>
     </header>
 
-    <!-- Week Title -->
-    <div id="week-title-container">
-      <h1 id="week-title">Week 1</h1>
+    <!-- Week Title + User Info Row -->
+    <div id="top-row">
+      <div id="week-title-container">
+        <h1 id="week-title">Week 1</h1>
+      </div>
+      <div class="user-info-bar">
+        <div class="user-info-left">
+          <span class="user-label">SIGNED IN AS:</span>
+          <span id="user-display">Guest</span>
+        </div>
+        <button id="logout-btn" style="display:none;">Logout</button>
+      </div>
     </div>
 
-    <!-- Main layout (picks & tracker) -->
+    <!-- Main layout -->
     <div id="main-content">
       
       <!-- Left Column -->
@@ -55,7 +63,7 @@
           </div>
         </div>
 
-        <!-- Bonus Tracker Section -->
+        <!-- Bonus Tracker -->
         <div class="sidebar-panel">
           <div id="bonus-tracker" class="picks-box">
             <h2>Bonus Tracker</h2>
@@ -65,14 +73,13 @@
       </div>
     </div>
 
-    <!-- Summary Screen (hidden by default) -->
+    <!-- Summary Screen -->
     <div id="summary-screen" style="display:none;">
       <h2>SUMMARY OF PICKS</h2>
-      <!-- Scrollable box -->
       <div id="summary-content"></div>
     </div>
 
-    <!-- Summary Action Buttons (separate bar below summary) -->
+    <!-- Summary Actions -->
     <div id="summary-actions" style="display:none;">
       <button id="back-btn">Back</button>
       <button id="final-submit-btn">Submit</button>
@@ -80,7 +87,26 @@
 
   </div>
 
+  <!-- Auth Guard -->
+  <script type="module">
+    import { getAuth, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js";
+    import { app } from "./js/firebase_init.js";
+
+    const auth = getAuth(app);
+
+    onAuthStateChanged(auth, (user) => {
+      if (!user) {
+        console.warn("⚠️ Not logged in, redirecting...");
+        window.location.href = "login.html";
+      } else {
+        console.log("✅ Logged in as:", user.uid);
+      }
+    });
+  </script>
+
+  <!-- Scripts -->
   <script type="module" src="js/picks.js"></script>
   <script type="module" src="js/picks_firebase.js"></script>
+  <script type="module" src="js/auth.js"></script>
 </body>
 </html>
