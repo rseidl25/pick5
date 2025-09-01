@@ -2,83 +2,98 @@
    Global Layout
    ========================= */
 body {
-  font-family: Arial, sans-serif;
-  background: #f4f4f9;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
+  font-family: "Montserrat", sans-serif;
+  background: #e0e1dc;
   margin: 0;
+  padding: 0;
+  height: 100vh;
+  overflow: hidden; /* prevent global scrolling */
+  display: flex;
+  flex-direction: column;
 }
 
 .container {
-  max-width: 760px;
   width: 100%;
-  margin: 24px auto;
-  padding: 16px;
-  text-align: center;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 12px;
+  box-sizing: border-box;
+}
+
+/* =========================
+   Site Header Layout
+   ========================= */
+#site-header {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr; /* left, center, right */
+  align-items: center;
+  padding: 6px 12px;
+}
+
+/* Logo */
+.site-logo {
+  justify-self: start;
+  height: 100px;
+  width: auto;
+  cursor: pointer;
 }
 
 /* =========================
    Week Navigation Bar
    ========================= */
 #week-nav-container {
+  justify-self: center;
   display: flex;
-  justify-content: center;
   align-items: center;
-  gap: 16px;
-  margin-bottom: 20px;
+  gap: 12px;
+  background: #3f5c77;
+  padding: 12px;         
+  border: 2px solid #000;
+  border-radius: 4px;
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.6);
+  box-sizing: border-box;
+}
+
+.week-label {
+  font-weight: bold;
+  color: #fff;
+  margin-right: 6px;
 }
 
 #week-nav {
-  display: grid;
-  grid-template-columns: repeat(9, auto); /* 9 buttons per row */
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  white-space: nowrap;
   gap: 6px;
   justify-content: center;
+  padding: 7px 4px; 
 }
 
+/* Week Buttons */
 .week-btn {
-  padding: 6px 12px;
+  padding: 8px 14px;
   border: 2px solid #ccc;
-  border-radius: 6px;
+  border-radius: 4px;
   background: #f9f9f9;
   font-weight: bold;
   cursor: pointer;
+  line-height: 1.4;
+  margin: 0 2px;
   transition: transform 0.08s ease, background 0.15s ease, border-color 0.15s ease;
 }
+.week-btn:hover { transform: translateY(-2px); }
 
-.week-btn:hover {
-  transform: translateY(-2px);
-}
+.status-grey { background: #e5e7eb; border-color: #9ca3af; color: #374151; }
+.status-yellow { background: #fef3c7; border-color: #f59e0b; color: #92400e; }
+.status-red { background: #fecaca; border-color: #dc2626; color: #7f1d1d; }
+.status-green { background: #bbf7d0; border-color: #16a34a; color: #065f46; }
 
-/* Status colors */
-.status-grey {
-  background: #e5e7eb;   /* light gray */
-  border-color: #9ca3af;
-  color: #374151;
-}
-
-.status-yellow {
-  background: #fef3c7;   /* light yellow */
-  border-color: #f59e0b;
-  color: #92400e;
-}
-
-.status-red {
-  background: #fecaca;   /* light red */
-  border-color: #dc2626;
-  color: #7f1d1d;
-}
-
-.status-green {
-  background: #bbf7d0;   /* light green */
-  border-color: #16a34a;
-  color: #065f46;
-}
-
-/* Active/current week */
 .week-btn.active {
   outline: 3px solid #3b82f6;
+  outline-offset: 2px;
+  z-index: 1;
 }
 
 /* =========================
@@ -94,18 +109,164 @@ body {
   cursor: not-allowed;
   transition: transform 0.08s ease, background 0.15s ease, border-color 0.15s ease;
 }
-
 #submit-btn.enabled {
   background: #16a34a;
   border-color: #065f46;
   color: #fff;
   cursor: pointer;
 }
-
 #submit-btn.enabled:hover {
   transform: translateY(-2px);
   background: #15803d;
 }
+
+/* =========================
+   Week Title
+   ========================= */
+#week-title {
+  margin: 0 0 12px 0;
+  text-align: left;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+#week-title::after {
+  content: " (Scroll down to see more)";
+  font-size: 16px;
+  font-weight: normal;
+  color: #6b7280;
+}
+
+/* =========================
+   Main Layout
+   ========================= */
+#main-content {
+  display: flex;
+  flex: 1;
+  gap: 20px;
+  height: calc(100% - 100px);
+  overflow: hidden;
+  align-items: stretch; 
+  padding: 0 12px;      
+  box-sizing: border-box;
+}
+
+/* Left: Matchups */
+.left-panel {
+  flex: 5;
+  display: flex;
+  flex-direction: column;
+  border: 2px solid #000;
+  border-radius: 4px;
+  background: #3f5c77;
+  padding-left: 12px;
+  padding-right: 12px;
+  box-sizing: border-box;
+  overflow-y: auto;
+  scrollbar-width: none; 
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.6);
+}
+.left-panel::-webkit-scrollbar { display: none; }
+
+/* Right: Sidebar */
+.sidebar {
+  flex: 4;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: auto;
+  overflow-y: auto;
+}
+.sidebar::-webkit-scrollbar { display: none; }
+
+.sidebar-panel {
+  background: #3f5c77;
+  padding: 12px;
+  border: 2px solid #000;
+  border-radius: 4px;
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.6);
+  box-sizing: border-box;
+}
+
+/* Picks Box */
+.picks-box {
+  padding: 14px;
+  background: #fff;
+  border: 2px solid #000;
+  border-radius: 0;
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.6);
+}
+.picks-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
+
+.pick-box {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  position: relative;
+  padding: 6px 28px 6px 10px;
+  border: 1px solid #333;
+  border-radius: 0;
+  background: #fff;
+  cursor: pointer;
+  transition: transform .06s ease;
+  font-weight: bold;
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+.pick-box:hover { transform: translateY(-1px); }
+.pick-box.bonus { background: gold; font-weight: bold; border-color: #b45309; }
+
+.pick-logo { width: 20px; height: 20px; object-fit: contain; }
+.pick-label { user-select: none; font-weight: bold; }
+
+.pick-remove {
+  position: absolute;
+  right: 6px;
+  top: 4px;
+  border: none;
+  background: transparent;
+  font-size: 16px;
+  line-height: 1;
+  cursor: pointer;
+  color: #6b7280;
+}
+.pick-remove:hover { color: #111827; }
+
+/* =========================
+   Bonus Tracker
+   ========================= */
+#bonus-tracker {
+  padding: 14px;
+  background: #fff;
+  border: 2px solid #000;
+  border-radius: 0;
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.6);
+}
+#bonus-tracker h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: black;
+}
+.bonus-grid { display: flex; gap: 20px; }
+.bonus-col { flex: 1; display: flex; flex-direction: column; gap: 6px; }
+.bonus-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 0;
+  border-bottom: 1px solid #e5e7eb;
+}
+.bonus-row:last-child { border-bottom: none; }
+.bonus-row span { font-weight: bold; color: #374151; }
+.bonus-team-logo { width: 18px; height: 18px; object-fit: contain; }
+.bonus-alert { width: 16px; height: 16px; }
+.bonus-duplicate { color: #b91c1c; font-weight: bold; }
 
 /* =========================
    Week Sections
@@ -113,11 +274,11 @@ body {
 .weekday-container {
   margin: 20px 0;
   padding: 12px;
-  border: 2px solid #ddd;
-  border-radius: 8px;
-  background: #fafafa;
+  border: 1px solid #000;
+  border-radius: 0;
+  background: #fff;
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.6);
 }
-
 .weekday-header {
   text-align: center;
   font-size: 20px;
@@ -135,157 +296,149 @@ body {
   padding: 6px 0;
   gap: 12px;
 }
-
-.header-row {
-  border-bottom: 1px solid #ccc;
-  margin-bottom: 8px;
-  padding-bottom: 4px;
-  font-weight: bold;
-}
-
-.game-time-header {
-  flex: 0 0 80px;
-  text-align: left;
-  color: #222;
-}
-
-.game-time {
-  flex: 0 0 80px;   /* fixed width */
-  text-align: right;
-  font-weight: bold;
-  color: #444;
-}
-
-.center-col {
-  flex: 1;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 12px;
-}
-
-.at-label {
-  font-weight: bold;
-  color: #475569;
-}
-
-/* =========================
-   Team Boxes
-   ========================= */
+.game-time-header { flex: 0 0 80px; text-align: left; color: #222; }
+.game-time { flex: 0 0 80px; text-align: right; font-weight: bold; color: #444; }
+.center-col { flex: 1; display: flex; justify-content: center; align-items: center; gap: 12px; }
+.at-label { font-weight: bold; color: #475569; }
 .team-box {
-  display: flex;
+  display: inline-flex;       /* keeps consistent sizing like buttons */
   align-items: center;
+  justify-content: flex-start;
   gap: 8px;
   padding: 10px 14px;
   background: #fff;
-  border: 2px solid #cfd6e4;
-  border-radius: 8px;
+  border: 1px solid #000;
+  border-radius: 0;
   cursor: pointer;
   transition: transform 0.06s ease, box-shadow 0.06s ease, border-color 0.15s ease, background 0.15s ease;
-}
-
-.team-box:hover {
-  transform: translateY(-1px);
-  box-shadow: 0 4px 10px rgba(0,0,0,.06);
-}
-
-.team-box.selected {
-  border-color: #007bff;
-  background: #e6f2ff;
-}
-
-.team-logo {
-  width: 26px;
-  height: 26px;
-  object-fit: contain;
-}
-
-.home-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.game-note {
-  font-size: 12px;
-  color: #666;
-  margin-top: 4px;
-  font-style: italic;
-  text-align: center;
-}
-
-/* =========================
-   Picks Box
-   ========================= */
-.picks-box {
-  margin-top: 30px;
-  padding: 14px;
-  background: #fff;
-  border: 2px solid #1f2937;
-  border-radius: 10px;
-}
-
-.picks-list {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  justify-content: center;
-}
-
-.pick-box {
-  display: flex;
-  align-items: center;
-  gap: 6px;
-  position: relative;
-  padding: 6px 28px 6px 10px;
-  border: 2px solid #333;
-  border-radius: 6px;
-  background: #fff;
-  cursor: pointer;
-  transition: transform .06s ease;
-}
-
-.pick-box:hover {
-  transform: translateY(-1px);
-}
-
-.pick-box.bonus {
-  background: gold;
   font-weight: bold;
-  border-color: #b45309;
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+
+  flex: 0 0 auto;    /* 🔑 Prevents flex-grow from stretching width */
+  width: auto;       /* 🔑 Ensure width only wraps content, not text length */
+  min-width: 140px;  /* 🔑 Optional: enforce consistent minimum size */
+}
+.team-box span {
+  user-select: none;   /* prevent highlight inside label */
 }
 
-.pick-logo {
-  width: 20px;
-  height: 20px;
-  object-fit: contain;
-}
-
+/* Picks labels */
 .pick-label {
-  user-select: none;
+  user-select: none;   /* prevent highlight */
 }
+.team-box:hover { transform: translateY(-1px); box-shadow: 3px 3px 6px rgba(0,0,0,0.6); }
+.team-box.selected { border-color: #007bff; background: #e6f2ff; }
+.team-logo { width: 26px; height: 26px; object-fit: contain; }
 
-.pick-remove {
-  position: absolute;
-  right: 6px;
-  top: 4px;
-  border: none;
-  background: transparent;
+/* =========================
+   Summary Screen
+   ========================= */
+#summary-screen {
+  flex: 1;
+  background: #3f5c77;
+  border: 2px solid #000;
+  border-radius: 4px;
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.6);
+  overflow-y: auto;   
+  padding: 15px;
+  margin: 12px;
+  display: none;
+  height: 85%;  /* ✅ leave ~15% for button bar */
+}
+#summary-screen::-webkit-scrollbar { display: none; }
+#summary-screen h2 {
+  margin-top: 0;
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+}
+.summary-week {
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+}
+.summary-week h3 {
+  margin: 0 0 5px 0;
+  padding-left: 10px;
+  font-size: 18px;
+  
+}
+.summary-week p {
+  margin: 0 0 5px 0;
+  padding-left: 10px;
+  font-size: 18px;
+  
+}
+.summary-week ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.summary-week li {
+  margin-bottom: 6px;
   font-size: 16px;
-  line-height: 1;
-  cursor: pointer;
-  color: #6b7280;
+  font-weight: bold;
+  padding-left: 10px;
+}
+/* Alternate week backgrounds */
+.summary-week:nth-child(odd) {
+  background-color: #cecdcd;  /* light grey */
+  border: 2px solid #000;
 }
 
-.pick-remove:hover {
-  color: #111827;
+.summary-week:nth-child(even) {
+  background-color: #ffffff;  /* white */
+  border: 2px solid #000;
+}
+.summary-bonus {
+  background: gold;
+  padding: 4px 6px;
+  border: 1px solid #b45309;
+  border-radius: 4px;
+  font-weight: bold;
+  padding-left: 10px;
 }
 
 /* =========================
-   Next Button
+   Summary Action Bar
    ========================= */
-.next-btn {
-  margin-top: 20px;
-  padding: 10px 20px;
-  font-size: 18px;
+#summary-actions {
+  height: 15%;  /* ✅ bottom space */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 10px;
+}
+
+/* Final Submit Button (green) */
+#final-submit-btn {
+  padding: 8px 16px;
+  border-radius: 6px;
+  border: 2px solid #9ca3af;
+  background: #16a34a;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+  transition: transform 0.08s ease, background 0.15s ease;
+}
+#final-submit-btn:hover {
+  transform: translateY(-2px);
+  background: #15803d;
+}
+
+/* Back Button (red) */
+#back-btn {
+  padding: 8px 16px;
+  border-radius: 6px;
+  border: 2px solid #9ca3af;
+  background: #dc2626;   /* red background */
+  border-color: #7f1d1d; /* darker red border */
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+  transition: transform 0.08s ease, background 0.15s ease;
+}
+#back-btn:hover {
+  transform: translateY(-2px);
+  background: #b91c1c;   /* darker red hover */
 }

@@ -6,8 +6,15 @@ import {
   getAuth, 
   createUserWithEmailAndPassword, 
   signInWithEmailAndPassword, 
-  signOut 
+  signOut,
+  onAuthStateChanged
 } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js";
+import { 
+  getFirestore, 
+  doc, 
+  setDoc, 
+  serverTimestamp 
+} from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
 
 // Your Firebase config (from console)
 const firebaseConfig = {
@@ -21,8 +28,19 @@ const firebaseConfig = {
 };
 
 // Initialize Firebase
-const app = initializeApp(firebaseConfig);
+import { app } from "./firebase_init.js";
 const auth = getAuth(app);
+const db = getFirestore(app);
+
+onAuthStateChanged(auth, async (user) => {
+  if (user) {
+    await loadProgress(user.uid);   // your existing function
+    renderWeek(currentWeek);        // re-render UI with loaded data
+  } else {
+    await loadProgress(null);       // guest mode
+    renderWeek(currentWeek);
+  }
+});
 
 // =======================
 // Signup Logic
@@ -36,7 +54,6 @@ if (signupForm) {
     const password = document.getElementById("signup-password").value;
     const confirmPassword = document.getElementById("confirm-password").value;
 
-    // ✅ Check password match
     if (password !== confirmPassword) {
       alert("Passwords do not match. Please try again.");
       return;
@@ -44,9 +61,18 @@ if (signupForm) {
 
     try {
       const userCredential = await createUserWithEmailAndPassword(auth, email, password);
-      console.log("✅ User signed up:", userCredential.user);
+      const user = userCredential.user;
+
+      // ✅ Create user document in Firestore
+      await setDoc(doc(db, "users", user.uid), {
+        email: user.email,
+        displayName: user.displayName || null,
+        createdAt: serverTimestamp()
+      }, { merge: true });
+
+      console.log("✅ User signed up & Firestore doc created:", user.uid);
       alert("Account created successfully!");
-      window.location.href = "picks.html"; // redirect after signup
+      window.location.href = "picks.html";
     } catch (error) {
       console.error("Signup error:", error.message);
       alert(error.message);
@@ -69,7 +95,7 @@ if (loginForm) {
       const userCredential = await signInWithEmailAndPassword(auth, email, password);
       console.log("✅ Logged in:", userCredential.user);
       alert("Login successful!");
-      window.location.href = "picks.html"; // redirect after login
+      window.location.href = "picks.html";
     } catch (error) {
       console.error("Login error:", error.message);
       alert("Error: " + error.message);

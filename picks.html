@@ -4,34 +4,83 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>NFL Pick 5 - Picks</title>
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/jpeg" href="src/icons/PICK5LOGO.jpg">
+
+  <!-- Styles -->
   <link rel="stylesheet" href="css/picks_style.css">
 </head>
 <body>
   <div class="container">
-    <div id="week-nav-container">
-    <div id="week-nav"></div>
-    <button id="submit-btn" disabled>Submit</button>
-  </div>
 
+    <!-- Header -->
+    <header id="site-header">
+      <img src="src/icons/PICK5LOGO_transparent.jpg" alt="Pick 5 Logo" class="site-logo">
+      <div id="week-nav-container">
+        <span class="week-label">Select Week:</span>
+        <div id="week-nav"></div>
+        <!-- Changed Submit → Next -->
+        <button id="submit-btn" disabled>Next</button>
+      </div>
+    </header>
 
-    <h1 id="week-title">Week 1</h1>
-
-    <!-- Matchups -->
-    <div id="matchups" class="matchups">
-      <!-- Rows will be inserted by picks.js -->
+    <!-- Week Title -->
+    <div id="week-title-container">
+      <h1 id="week-title">Week 1</h1>
     </div>
 
-    <!-- Picks box -->
-    <div id="picks-box" class="picks-box">
-      <h2>Your Picks (0/5)</h2>
-      <div id="picks-list" class="picks-list"></div>
-      <p>Select one of your picks as your <strong>Bonus Pick</strong></p>
+    <!-- Main layout (picks & tracker) -->
+    <div id="main-content">
+      
+      <!-- Left Column -->
+      <div class="left-panel">
+        <div id="matchups" class="matchups"></div>
+      </div>
+
+      <!-- Right Sidebar -->
+      <div class="sidebar">
+        
+        <!-- Picks Section -->
+        <div class="sidebar-panel">
+          <div id="picks-box" class="picks-box">
+            <h2>Your Picks (0/5)</h2>
+            <div id="picks-list" class="picks-list"></div>
+            <p>Select one of your picks as your <strong>Bonus Pick</strong></p>
+          </div>
+        </div>
+
+        <!-- Bonus Tracker Section -->
+        <div class="sidebar-panel">
+          <div id="bonus-tracker" class="picks-box">
+            <h2>Bonus Tracker</h2>
+          </div>
+        </div>
+
+      </div>
     </div>
 
-    <!-- Navigation -->
-    <button id="next-btn" class="next-btn" disabled>Next</button>
+    <!-- Summary Screen (hidden by default) -->
+    <div id="summary-screen" style="display:none;">
+      <h2>SUMMARY OF PICKS</h2>
+      <!-- Scrollable box -->
+      <div id="summary-content"></div>
+    </div>
+
+    <!-- Summary Action Buttons (separate bar below summary) -->
+    <div id="summary-actions" style="display:none;">
+      <button id="back-btn">Back</button>
+      <button id="final-submit-btn">Submit</button>
+    </div>
+
   </div>
 
-  <script src="js/picks.js"></script>
+  <script type="module" src="js/picks.js"></script>
+  <script type="module" src="js/picks_firebase.js"></script>
 </body>
 </html>
