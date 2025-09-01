@@ -4,6 +4,12 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Sign Up - NFL Pick 5</title>
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
   <style>
     body {
       display: flex;
@@ -11,30 +17,49 @@
       align-items: center;
       height: 100vh;
       margin: 0;
-      font-family: Arial, sans-serif;
-      background-color: #f4f4f4;
+      font-family: "Montserrat", Arial, sans-serif;
+      background-color: #e0e1dc;
     }
 
     .container {
-      background: white;
+      background: #fff;
       padding: 30px;
-      border-radius: 12px;
-      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      border: 2px solid #000;
+      border-radius: 6px;
+      box-shadow: 2px 2px 6px rgba(0,0,0,0.6);
       text-align: center;
-      width: 300px;
+      width: 350px;
+    }
+
+    .site-logo {
+      width: 120px;
+      height: auto;
+      margin-bottom: 20px;
     }
 
     h2 {
       margin-bottom: 20px;
+      font-size: 24px;
+      font-weight: 700;
+      color: #111;
+    }
+
+    form {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
     }
 
     input {
       width: 100%;
-      padding: 10px;
+      box-sizing: border-box;
+      padding: 12px;
       margin: 8px 0;
-      border-radius: 6px;
+      border-radius: 4px;
       border: 1px solid #ccc;
       font-size: 14px;
+      font-family: inherit;
+      text-align: left;
     }
 
     button {
@@ -42,16 +67,19 @@
       padding: 12px;
       font-size: 16px;
       margin-top: 10px;
-      border: none;
-      border-radius: 8px;
+      border: 2px solid #000;
+      border-radius: 4px;
       cursor: pointer;
       background-color: #007bff;
       color: white;
-      transition: background-color 0.2s;
+      font-weight: bold;
+      box-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+      transition: transform 0.08s ease, background-color 0.2s;
     }
 
     button:hover {
       background-color: #0056b3;
+      transform: translateY(-2px);
     }
 
     .back-link {
@@ -69,6 +97,7 @@
 </head>
 <body>
   <div class="container">
+    <img src="src/icons/PICK5LOGO_transparent.jpg" alt="Pick 5 Logo" class="site-logo">
     <h2>Create Account</h2>
     <form id="signup-form">
       <input type="text" id="signup-name" placeholder="Display Name" required>
