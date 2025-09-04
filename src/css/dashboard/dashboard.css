@@ -1,0 +1,241 @@
+/* General layout */
+body {
+  font-family: "Montserrat", Arial, sans-serif;
+  background: #e0e1dc;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden; /* ❌ prevent body scroll */
+}
+
+.dashboard-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%; /* full viewport height */
+}
+
+/* Header */
+.dashboard-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px;
+  background: #fff;
+  border-bottom: 2px solid #000;
+  flex-shrink: 0; /* don't shrink */
+}
+
+.dashboard-header .logo {
+  width: 60px;
+  height: auto;
+}
+
+.user-info button {
+  margin-left: 8px;
+}
+
+/* Tabs */
+.dashboard-tabs {
+  display: flex;
+  justify-content: center;
+  border-bottom: 2px solid #000;
+  background: #f8f9fa;
+  flex-shrink: 0; /* don't shrink */
+}
+
+.dashboard-tabs button {
+  flex: 1;
+  padding: 12px;
+  cursor: pointer;
+  border: none;
+  background: #eee;
+  font-weight: bold;
+}
+
+.dashboard-tabs button.active {
+  background: #ddd;
+  border-bottom: 2px solid #000;
+}
+
+/* === Main Grid Layout === */
+.dashboard-grid {
+  display: grid;
+  grid-template-columns: 180px 1fr;
+  flex: 1;
+  min-height: 0; /* ✅ allow inner scroll */
+}
+
+/* Week Nav Bar */
+.week-nav-bar {
+  border-right: 2px solid #000;
+  background: #3f5c77;
+  padding: 12px 6px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  min-width: 120px;
+  overflow-y: auto; /* ✅ scrolls independently */
+}
+
+.week-nav-bar::-webkit-scrollbar {
+  display: none;        /* ✅ hides scrollbar in Chrome/Safari/Edge */
+}
+
+.week-nav-bar h3 {
+  margin: 0 0 10px 0;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+  text-align: center;
+}
+
+#week-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: stretch;
+  width: 100%;
+}
+
+.week-btn {
+  padding: 8px;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background: #f9f9f9;
+  font-weight: bold;
+  cursor: pointer;
+  text-align: center;
+  transition: transform 0.08s ease, background 0.15s ease, border-color 0.15s ease;
+}
+.week-btn:hover { transform: translateX(2px); }
+
+/* Status colors */
+.status-grey { background: #e5e7eb; border-color: #9ca3af; color: #374151; }
+.status-yellow { background: #fef3c7; border-color: #f59e0b; color: #92400e; }
+.status-red { background: #fecaca; border-color: #dc2626; color: #7f1d1d; }
+.status-green { background: #bbf7d0; border-color: #16a34a; color: #065f46; }
+
+.week-btn.active {
+  outline: 3px solid #3b82f6;
+  outline-offset: 2px;
+  z-index: 1;
+}
+
+/* Content Sections */
+.dashboard-main {
+  padding: 20px;
+  overflow: hidden; /* ❌ no full main scroll */
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.tab-section {
+  display: none;
+  flex: 1; /* ✅ fill height */
+  min-height: 0; /* ✅ allow scrolling */
+  overflow-y: auto; /* ✅ section scroll */
+  background: #e0e1dc;
+  border: 2px solid #000;
+  padding: 10px;
+}
+
+.tab-section.active {
+  display: block;
+}
+
+.tab-section:not(.hidden) {
+  display: block;
+}
+
+/* Leaderboard */
+.leaderboard-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+}
+
+.leaderboard-table th,
+.leaderboard-table td {
+  border: 1px solid #000;
+  padding: 8px;
+  text-align: left;
+}
+
+/* Picks Section */
+.picks-controls {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 20px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.weekly-picks-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 12px;
+  max-height: calc(100% - 60px); /* ✅ space for controls */
+  overflow-y: auto;
+}
+
+.pick-box {
+  border: 1px solid #000;
+  padding: 10px;
+  background: #fff;
+}
+
+.pick-box h3 {
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+.pick-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.pick-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #aaa;
+  padding: 6px;
+  margin: 4px 0;
+  font-weight: bold;
+  background: #fff;
+}
+
+.pick-row img.team-logo {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+  margin-right: 8px;
+}
+
+.pick-row span {
+  margin: 0 6px;
+}
+
+.pick-row.bonus {
+  background: gold;
+  border-color: #b45309;
+}
+
+.pick-list li {
+  border: 1px solid #aaa;
+  padding: 6px;
+  margin: 4px 0;
+  text-align: center;
+  font-weight: bold;
+}
+
+.pick-list li.bonus {
+  background: gold;
+  border-color: #b45309;
+}
+

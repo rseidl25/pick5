@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard - NFL Pick 5</title>
+  
+  <!-- Favicon -->
+  <link rel="icon" type="image/jpeg" href="icons/PICK5LOGO.jpg">
+  
+  <!-- Styles -->
+  <link rel="stylesheet" href="../src/css/dashboard/dashboard.css">
+</head>
+<body>
+  <div class="dashboard-container">
+
+    <!-- Header -->
+    <header class="dashboard-header">
+      <div class="last-updated">
+        <span>Last Updated:</span>
+        <div id="last-updated-time">[TIME]</div>
+      </div>
+
+      <img src="icons/PICK5LOGO_transparent.jpg" alt="Pick 5 Logo" class="logo">
+
+      <div class="user-info">
+        <span>Hello, <span id="user-name">[NAME]</span></span>
+        <button id="settings-btn">(SETTINGS)</button>
+        <button id="logout-btn">(LOG OUT)</button>
+      </div>
+    </header>
+
+    <!-- Tabs -->
+    <nav class="dashboard-tabs">
+      <button data-tab="leaderboard">(LEADERBOARD)</button>
+      <button data-tab="picks">(PICKS)</button>
+      <button data-tab="week-stats">(WEEK STATS)</button>
+    </nav>
+
+    <!-- Main Grid Layout -->
+    <div class="dashboard-grid">
+
+      <!-- Week Nav Bar -->
+      <aside class="week-nav-bar">
+        <h3>Week Navigation</h3>
+        <div id="week-buttons"></div>
+      </aside>
+
+      <!-- Content Sections -->
+      <main class="dashboard-main">
+
+        <!-- Leaderboard Section -->
+        <section id="leaderboard-section" class="tab-section">
+          <h2 id="leaderboard-title">[WEEK # / OVERALL] LEADERBOARD</h2>
+          <table class="leaderboard-table">
+            <thead>
+              <tr>
+                <th>POSITION</th>
+                <th>PLAYER</th>
+                <th>SCORE</th>
+              </tr>
+            </thead>
+            <tbody id="leaderboard-body">
+              <!-- Populated dynamically -->
+            </tbody>
+          </table>
+        </section>
+
+        <!-- Picks Section -->
+        <section id="picks-section" class="tab-section hidden">
+          <h2 id="picks-title">[WEEK #] PICKS</h2>
+
+          <!-- Controls -->
+          <div class="picks-controls">
+            <label for="select-player">(SELECT PLAYER):</label>
+            <select id="select-player"></select>
+
+            <label for="select-team">(SELECT TEAM):</label>
+            <select id="select-team"></select>
+
+            <button id="toggle-scores-btn">(SHOW/HIDE SCORES)</button>
+          </div>
+
+          <!-- Weekly Picks Grid -->
+          <div id="weekly-picks-grid" class="weekly-picks-grid">
+            <!-- JS will render equal-sized player pick boxes -->
+          </div>
+        </section>
+
+        <!-- Week Stats Section -->
+        <section id="week-stats-section" class="tab-section hidden">
+          <h2 id="week-stats-title">[WEEK #] STATS</h2>
+          <div id="week-stats-container">
+            <!-- Dynamic stats will render here -->
+          </div>
+        </section>
+      </main>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script type="module" src="../src/js/dashboard/dashboard.js"></script>
+</body>
+</html>
