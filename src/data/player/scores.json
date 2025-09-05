@@ -4559,6 +4559,462 @@
     },
     "overall_score": 10
   },
+  "XKPW7eAMivNTYBrIivGGT9DFV022": {
+    "name": "Joey",
+    "weeks": {
+      "week1": {
+        "teams": {
+          "Philadelphia Eagles": {
+            "points": 10,
+            "bonus": false
+          },
+          "Atlanta Falcons": {
+            "points": 0,
+            "bonus": false
+          },
+          "Cincinnati Bengals": {
+            "points": 0,
+            "bonus": true
+          },
+          "Miami Dolphins": {
+            "points": 0,
+            "bonus": false
+          },
+          "Washington Commanders": {
+            "points": 0,
+            "bonus": false
+          }
+        },
+        "total": 10
+      },
+      "week2": {
+        "teams": {
+          "Buffalo Bills": {
+            "points": 0,
+            "bonus": true
+          },
+          "Atlanta Falcons": {
+            "points": 0,
+            "bonus": false
+          },
+          "Baltimore Ravens": {
+            "points": 0,
+            "bonus": false
+          },
+          "San Francisco 49ers": {
+            "points": 0,
+            "bonus": false
+          },
+          "Cincinnati Bengals": {
+            "points": 0,
+            "bonus": false
+          }
+        },
+        "total": 0
+      },
+      "week3": {
+        "teams": {
+          "Atlanta Falcons": {
+            "points": 0,
+            "bonus": true
+          },
+          "Cincinnati Bengals": {
+            "points": 0,
+            "bonus": false
+          },
+          "Philadelphia Eagles": {
+            "points": 0,
+            "bonus": false
+          },
+          "Washington Commanders": {
+            "points": 0,
+            "bonus": false
+          },
+          "Kansas City Chiefs": {
+            "points": 0,
+            "bonus": false
+          }
+        },
+        "total": 0
+      },
+      "week4": {
+        "teams": {
+          "San Francisco 49ers": {
+            "points": 0,
+            "bonus": false
+          },
+          "Detroit Lions": {
+            "points": 0,
+            "bonus": false
+          },
+          "Buffalo Bills": {
+            "points": 0,
+            "bonus": false
+          },
+          "Miami Dolphins": {
+            "points": 0,
+            "bonus": true
+          },
+          "Los Angeles Rams": {
+            "points": 0,
+            "bonus": false
+          }
+        },
+        "total": 0
+      },
+      "week5": {
+        "teams": {
+          "Buffalo Bills": {
+            "points": 0,
+            "bonus": false
+          },
+          "Philadelphia Eagles": {
+            "points": 0,
+            "bonus": false
+          },
+          "Dallas Cowboys": {
+            "points": 0,
+            "bonus": true
+          },
+          "Miami Dolphins": {
+            "points": 0,
+            "bonus": false
+          },
+          "Tampa Bay Buccaneers": {
+            "points": 0,
+            "bonus": false
+          }
+        },
+        "total": 0
+      },
+      "week6": {
+        "teams": {
+          "Washington Commanders": {
+            "points": 0,
+            "bonus": false
+          },
+          "Dallas Cowboys": {
+            "points": 0,
+            "bonus": false
+          },
+          "Denver Broncos": {
+            "points": 0,
+            "bonus": false
+          },
+          "Philadelphia Eagles": {
+            "points": 0,
+            "bonus": true
+          },
+          "Pittsburgh Steelers": {
+            "points": 0,
+            "bonus": false
+          }
+        },
+        "total": 0
+      },
+      "week7": {
+        "teams": {
+          "Los Angeles Rams": {
+            "points": 0,
+            "bonus": false
+          },
+          "Cincinnati Bengals": {
+            "points": 0,
+            "bonus": false
+          },
+          "Miami Dolphins": {
+            "points": 0,
+            "bonus": false
+          },
+          "Kansas City Chiefs": {
+            "points": 0,
+            "bonus": true
+          },
+          "Philadelphia Eagles": {
+            "points": 0,
+            "bonus": false
+          }
+        },
+        "total": 0
+      },
+      "week8": {
+        "teams": {
+          "Philadelphia Eagles": {
+            "points": 0,
+            "bonus": false
+          },
+          "Cincinnati Bengals": {
+            "points": 0,
+            "bonus": false
+          },
+          "Buffalo Bills": {
+            "points": 0,
+            "bonus": false
+          },
+          "Baltimore Ravens": {
+            "points": 0,
+            "bonus": true
+          },
+          "Green Bay Packers": {
+            "points": 0,
+            "bonus": false
+          }
+        },
+        "total": 0
+      },
+      "week9": {
+        "teams": {
+          "Cincinnati Bengals": {
+            "points": 0,
+            "bonus": false
+          },
+          "Detroit Lions": {
+            "points": 0,
+            "bonus": false
+          },
+          "San Francisco 49ers": {
+            "points": 0,
+            "bonus": true
+          },
+          "Atlanta Falcons": {
+            "points": 0,
+            "bonus": false
+          },
+          "Green Bay Packers": {
+            "points": 0,
+            "bonus": false
+          }
+        },
+        "total": 0
+      },
+      "week10": {
+        "teams": {
+          "Denver Broncos": {
+            "points": 0,
+            "bonus": true
+          },
+          "Atlanta Falcons": {
+            "points": 0,
+            "bonus": false
+          },
+          "Philadelphia Eagles": {
+            "points": 0,
+            "bonus": false
+          },
+          "Baltimore Ravens": {
+            "points": 0,
+            "bonus": false
+          },
+          "Chicago Bears": {
+            "points": 0,
+            "bonus": false
+          }
+        },
+        "total": 0
+      },
+      "week11": {
+        "teams": {
+          "Atlanta Falcons": {
+            "points": 0,
+            "bonus": false
+          },
+          "Buffalo Bills": {
+            "points": 0,
+            "bonus": false
+          },
+          "Dallas Cowboys": {
+            "points": 0,
+            "bonus": false
+          },
+          "Baltimore Ravens": {
+            "points": 0,
+            "bonus": false
+          },
+          "Los Angeles Rams": {
+            "points": 0,
+            "bonus": true
+          }
+        },
+        "total": 0
+      },
+      "week12": {
+        "teams": {
+          "Detroit Lions": {
+            "points": 0,
+            "bonus": true
+          },
+          "Baltimore Ravens": {
+            "points": 0,
+            "bonus": false
+          },
+          "Atlanta Falcons": {
+            "points": 0,
+            "bonus": false
+          },
+          "San Francisco 49ers": {
+            "points": 0,
+            "bonus": false
+          },
+          "Cincinnati Bengals": {
+            "points": 0,
+            "bonus": false
+          }
+        },
+        "total": 0
+      },
+      "week13": {
+        "teams": {
+          "Philadelphia Eagles": {
+            "points": 0,
+            "bonus": false
+          },
+          "Atlanta Falcons": {
+            "points": 0,
+            "bonus": false
+          },
+          "Los Angeles Rams": {
+            "points": 0,
+            "bonus": false
+          },
+          "Buffalo Bills": {
+            "points": 0,
+            "bonus": false
+          },
+          "Tampa Bay Buccaneers": {
+            "points": 0,
+            "bonus": true
+          }
+        },
+        "total": 0
+      },
+      "week14": {
+        "teams": {
+          "Baltimore Ravens": {
+            "points": 0,
+            "bonus": false
+          },
+          "Los Angeles Rams": {
+            "points": 0,
+            "bonus": false
+          },
+          "Philadelphia Eagles": {
+            "points": 0,
+            "bonus": false
+          },
+          "Miami Dolphins": {
+            "points": 0,
+            "bonus": false
+          },
+          "Green Bay Packers": {
+            "points": 0,
+            "bonus": true
+          }
+        },
+        "total": 0
+      },
+      "week15": {
+        "teams": {
+          "New Orleans Saints": {
+            "points": 0,
+            "bonus": false
+          },
+          "Buffalo Bills": {
+            "points": 0,
+            "bonus": false
+          },
+          "Washington Commanders": {
+            "points": 0,
+            "bonus": true
+          },
+          "Philadelphia Eagles": {
+            "points": 0,
+            "bonus": false
+          },
+          "San Francisco 49ers": {
+            "points": 0,
+            "bonus": false
+          }
+        },
+        "total": 0
+      },
+      "week16": {
+        "teams": {
+          "Buffalo Bills": {
+            "points": 0,
+            "bonus": false
+          },
+          "Tampa Bay Buccaneers": {
+            "points": 0,
+            "bonus": false
+          },
+          "San Francisco 49ers": {
+            "points": 0,
+            "bonus": false
+          },
+          "Detroit Lions": {
+            "points": 0,
+            "bonus": false
+          },
+          "New Orleans Saints": {
+            "points": 0,
+            "bonus": true
+          }
+        },
+        "total": 0
+      },
+      "week17": {
+        "teams": {
+          "Cincinnati Bengals": {
+            "points": 0,
+            "bonus": false
+          },
+          "San Francisco 49ers": {
+            "points": 0,
+            "bonus": false
+          },
+          "Houston Texans": {
+            "points": 0,
+            "bonus": false
+          },
+          "New England Patriots": {
+            "points": 0,
+            "bonus": false
+          },
+          "Seattle Seahawks": {
+            "points": 0,
+            "bonus": true
+          }
+        },
+        "total": 0
+      },
+      "week18": {
+        "teams": {
+          "Tampa Bay Buccaneers": {
+            "points": 0,
+            "bonus": false
+          },
+          "Houston Texans": {
+            "points": 0,
+            "bonus": true
+          },
+          "San Francisco 49ers": {
+            "points": 0,
+            "bonus": false
+          },
+          "Kansas City Chiefs": {
+            "points": 0,
+            "bonus": false
+          },
+          "Cincinnati Bengals": {
+            "points": 0,
+            "bonus": false
+          }
+        },
+        "total": 0
+      }
+    },
+    "overall_score": 10
+  },
   "dac8Eg3ax4PxQl7aSydfS9lAWv23": {
     "name": "Ben",
     "weeks": {
