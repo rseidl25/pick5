@@ -1,4 +1,6 @@
-/* General layout */
+/* =========================
+   General layout
+   ========================= */
 body {
   font-family: "Montserrat", Arial, sans-serif;
   background: #e0e1dc;
@@ -15,31 +17,62 @@ body {
   height: 100%;
 }
 
-/* Header */
+button, h1, h2, h3, h4, h5, h6, table, input, select {
+  font-family: "Montserrat", sans-serif;
+}
+
+/* =========================
+   Header
+   ========================= */
 .dashboard-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 12px;
-  background: #fff;
+  background: #1d2d44;
   border-bottom: 2px solid #000;
-  flex-shrink: 0;
+
+  border: 2px solid #000;
+  border-radius: 4px;
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.6);
+
+  color: white;
 }
+.dashboard-header .logo-container {
+  width: 80px;              /* same as logo width */
+  height: 80px;             /* same as logo height */
+  border-radius: 50%;       /* ✅ circle */
+  background: #fff;         /* white background */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;         /* clip logo edges */
+
+  border: 2px solid #000;          /* ✅ same border */
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.6); /* ✅ same shadow */
+}
+
 .dashboard-header .logo {
-  width: 60px;
+  width: 90%;               /* scale inside circle */
   height: auto;
 }
 .user-info button {
   margin-left: 8px;
 }
 
-/* Tabs */
+/* =========================
+   Tabs
+   ========================= */
 .dashboard-tabs {
   display: flex;
   justify-content: center;
   border-bottom: 2px solid #000;
   background: #f8f9fa;
   flex-shrink: 0;
+
+  border: 2px solid #000;
+  border-radius: 4px;
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.6);
 }
 .dashboard-tabs button {
   flex: 1;
@@ -54,7 +87,9 @@ body {
   border-bottom: 2px solid #000;
 }
 
-/* Grid */
+/* =========================
+   Grid
+   ========================= */
 .dashboard-grid {
   display: grid;
   grid-template-columns: 180px 1fr;
@@ -62,10 +97,12 @@ body {
   min-height: 0;
 }
 
-/* Week Nav */
+/* =========================
+   Week Nav
+   ========================= */
 .week-nav-bar {
   border-right: 2px solid #000;
-  background: #3f5c77;
+  background: #1d2d44;
   padding: 12px 6px;
   display: flex;
   flex-direction: column;
@@ -73,6 +110,10 @@ body {
   gap: 10px;
   min-width: 120px;
   overflow-y: auto;
+
+  border: 2px solid #000;
+  border-radius: 4px;
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.6);
 }
 .week-nav-bar::-webkit-scrollbar {
   display: none;
@@ -104,33 +145,19 @@ body {
 .week-btn:hover {
   transform: translateX(2px);
 }
-.status-grey {
-  background: #e5e7eb;
-  border-color: #9ca3af;
-  color: #374151;
-}
-.status-yellow {
-  background: #fef3c7;
-  border-color: #f59e0b;
-  color: #92400e;
-}
-.status-red {
-  background: #fecaca;
-  border-color: #dc2626;
-  color: #7f1d1d;
-}
-.status-green {
-  background: #bbf7d0;
-  border-color: #16a34a;
-  color: #065f46;
-}
+.status-grey { background: #e5e7eb; border-color: #9ca3af; color: #374151; }
+.status-yellow { background: #fef3c7; border-color: #f59e0b; color: #92400e; }
+.status-red { background: #fecaca; border-color: #dc2626; color: #7f1d1d; }
+.status-green { background: #bbf7d0; border-color: #16a34a; color: #065f46; }
 .week-btn.active {
   outline: 3px solid #3b82f6;
   outline-offset: 2px;
   z-index: 1;
 }
 
-/* Sections */
+/* =========================
+   Sections
+   ========================= */
 .dashboard-main {
   padding: 20px;
   overflow: hidden;
@@ -142,48 +169,117 @@ body {
   display: none;
   flex: 1;
   min-height: 0;
-  overflow-y: auto; /* ✅ picks-section scrolls */
+  overflow-y: auto;
   background: #e0e1dc;
   border: 2px solid #000;
   padding: 10px;
+  padding-bottom: 40px;
+
+  border-radius: 4px;
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.6);
 }
-.tab-section::-webkit-scrollbar {
-  display: none; /* ✅ hides scrollbar thumb entirely */
-}
+.tab-section::-webkit-scrollbar { display: none; }
 .tab-section.active,
-.tab-section:not(.hidden) {
-  display: block;
+.tab-section:not(.hidden) { display: block; }
+
+/* =========================
+   Leaderboard
+   ========================= */
+#leaderboard-section {
+  background: #3f5c77;
+  border: 2px solid #000;
+  padding: 10px;
+  padding-bottom: 40px;
+  display: none;
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+}
+#leaderboard-section.active,
+#leaderboard-section:not(.hidden) { display: block; }
+
+#leaderboard-title {
+  color: #fff;
+  font-weight: bold;
+  margin-bottom: 12px;
 }
 
-/* Leaderboard */
+/* Leaderboard Table Container */
 .leaderboard-table {
   width: 100%;
   border-collapse: collapse;
-  background: #fff;
-}
-.leaderboard-table th,
-.leaderboard-table td {
-  border: 1px solid #000;
-  padding: 8px;
-  text-align: left;
+  background: #000000;
+
+  /* ✅ match other containers */
+  border: 2px solid #000;
+  border-radius: 4px;
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.6);
+  overflow: hidden; /* keeps rounded corners clean */
 }
 
-/* Picks Section */
+.leaderboard-table th {
+  background: #1d2d44;
+  color: #fff;
+  font-weight: bold;
+  text-transform: uppercase;
+  border: 1px solid #000;
+  padding: 10px;
+}
+
+.leaderboard-table td {
+  border: 1px solid #000;
+  padding: 10px;
+  font-weight: bold;
+  background: white
+}
+.leaderboard-table tr.position-1 td { background: #e9dea7; }
+.leaderboard-table tr.position-2 td { background: #d6d6d4; }
+.leaderboard-table tr.position-3 td { background: #dac3ab; }
+
+/* =========================
+   Picks Section
+   ========================= */
+#picks-section {
+  background: #3f5c77;
+  border: 2px solid #000;
+  padding: 10px;
+  padding-bottom: 40px;
+  display: none;
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+}
+#picks-section.active,
+#picks-section:not(.hidden) { display: block; }
+
+#picks-title {
+  color: #fff;
+  font-weight: bold;
+  margin: 12px 0 15px 0;
+  padding-left: 10px;
+}
+
 .picks-controls {
   display: flex;
   gap: 12px;
   margin-bottom: 20px;
   align-items: center;
   flex-wrap: wrap;
-  flex-shrink: 0; /* ✅ pinned to top */
+  flex-shrink: 0;
+  color: #fff;
+  font-weight: bold;
+  padding-left: 10px;
 }
+.picks-controls label { color: #fff; font-weight: bold; }
 
-/* Layout split */
+/* =========================
+   Layout split
+   ========================= */
 .picks-layout {
   display: flex;
   flex: 1;
   gap: 20px;
-  align-items: flex-start; /* ✅ matchups box shrink-wraps */
+  align-items: flex-start;
 }
 
 .weekly-picks-grid {
@@ -194,18 +290,17 @@ body {
   grid-gap: 15px;
 }
 
+/* ✅ Correct Matchups Styling */
 .matchups-container {
-  flex: 0 0 auto;   /* ✅ shrink to fit content */
+  flex: 0 0 auto;   /* shrink to fit content */
   background: #fff;
   border: 2px solid #000;
   padding: 10px;
   min-width: 250px;
   margin-top: 0;
-  margin-bottom: 0; /* ✅ end flush with last matchup */
+  margin-bottom: 0;
 }
-.matchups-container.hidden {
-  display: none;
-}
+.matchups-container.hidden { display: none; }
 
 .day-box {
   margin-bottom: 15px;
@@ -227,12 +322,8 @@ body {
   border-top: 1px solid #ccc;
   font-weight: bold;
 }
-.matchup-row .winner {
-  color: green;
-}
-.matchup-row .loser {
-  color: red;
-}
+.matchup-row .winner { color: green; }
+.matchup-row .loser { color: red; }
 
 .team-label {
   display: flex;
@@ -247,21 +338,22 @@ body {
   vertical-align: middle;
 }
 
-/* Pick Cards */
+/* =========================
+   Pick Cards
+   ========================= */
 .pick-box {
   border: 1px solid #000;
   padding: 10px;
-  background: #fff;
+  background: #1d2d44;
+  border-radius: 4px;
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.6);
 }
 .pick-box h3 {
   font-size: 16px;
   margin-bottom: 8px;
+  color: white;
 }
-.pick-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
+.pick-list { list-style: none; padding: 0; margin: 0; }
 .pick-row {
   display: flex;
   align-items: center;
@@ -272,21 +364,7 @@ body {
   font-weight: bold;
   background: #fff;
 }
-.pick-row img.team-logo {
-  width: 20px;
-  height: 20px;
-  object-fit: contain;
-  margin-right: 8px;
-}
-.pick-row span {
-  margin: 0 6px;
-}
-.pick-row.bonus {
-  background: gold;
-  border-color: #b45309;
-}
-#team-pick-counter {
-  font-weight: bold;
-  margin-left: 10px;
-  color: #111;
-}
+.pick-row img.team-logo { width: 20px; height: 20px; object-fit: contain; margin-right: 8px; }
+.pick-row span { margin: 0 6px; }
+.pick-row.bonus { background: rgb(255, 230, 86); border-color: #b45309; }
+#team-pick-counter { font-weight: bold; margin-left: 10px; color: #111; }

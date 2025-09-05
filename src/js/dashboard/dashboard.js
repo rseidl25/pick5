@@ -126,24 +126,36 @@ document.addEventListener("DOMContentLoaded", async () => {
   // Leaderboard
   // =========================
   function loadLeaderboard() {
-    const tbody = document.getElementById("leaderboard-body");
-    tbody.innerHTML = "";
-    const players = Object.entries(scoresData).map(([uid, player]) => ({
-      uid, name: player.name,
-      score: currentWeek === null ? player.overall_score : player.weeks?.[`week${currentWeek}`]?.total || 0,
-    }));
-    players.sort((a, b) => b.score - a.score);
+  const tbody = document.getElementById("leaderboard-body");
+  tbody.innerHTML = "";
 
-    let currentRank = 0, prevScore = null, playersSeen = 0;
-    players.forEach((player) => {
-      playersSeen++;
-      if (player.score !== prevScore) currentRank = playersSeen;
-      prevScore = player.score;
-      const tr = document.createElement("tr");
-      tr.innerHTML = `<td>${currentRank}</td><td>${player.name}</td><td>${player.score}</td>`;
-      tbody.appendChild(tr);
-    });
-  }
+  const players = Object.entries(scoresData).map(([uid, player]) => ({
+    uid,
+    name: player.name,
+    score: currentWeek === null
+      ? player.overall_score
+      : player.weeks?.[`week${currentWeek}`]?.total || 0,
+  }));
+
+  // Sort players by score (desc)
+  players.sort((a, b) => b.score - a.score);
+
+  let currentRank = 0, prevScore = null, playersSeen = 0;
+  players.forEach((player) => {
+    playersSeen++;
+    if (player.score !== prevScore) currentRank = playersSeen;
+    prevScore = player.score;
+
+    const tr = document.createElement("tr");
+    tr.classList.add(`position-${currentRank}`); // ✅ dynamic CSS class
+    tr.innerHTML = `
+      <td>${currentRank}</td>
+      <td>${player.name}</td>
+      <td>${player.score}</td>
+    `;
+    tbody.appendChild(tr);
+  });
+}
 
   // =========================
   // Players Dropdown
