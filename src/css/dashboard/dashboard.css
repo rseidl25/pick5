@@ -22,42 +22,142 @@ button, h1, h2, h3, h4, h5, h6, table, input, select {
 }
 
 /* =========================
-   Header
+   Header Layout (Desktop ≥ 701px)
    ========================= */
 .dashboard-header {
-  display: flex;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: 1fr auto 1fr; /* left | center | right */
   align-items: center;
-  padding: 12px;
   background: #1d2d44;
-  border-bottom: 2px solid #000;
-
+  padding: 8px 16px;
   border: 2px solid #000;
-  border-radius: 0;
   box-shadow: 2px 2px 4px rgba(0,0,0,0.6);
-
   color: white;
+  font-size: clamp(12px, 1.2vw, 14px);
+  gap: 8px;
 }
+
+/* Left: Last Updated */
+.dashboard-header .last-updated {
+  justify-self: start;
+  font-size: clamp(11px, 1vw, 13px);
+  line-height: 1.4;
+}
+
+/* Center: Logo */
 .dashboard-header .logo-container {
-  width: 80px;              /* same as logo width */
-  height: 80px;             /* same as logo height */
-  border-radius: 50%;       /* ✅ circle */
-  background: #fff;         /* white background */
+  justify-self: center;
+  width: clamp(40px, 7vw, 65px);
+  height: clamp(40px, 7vw, 65px);
+  border-radius: 50%;
+  background: #fff;
   display: flex;
   align-items: center;
   justify-content: center;
-  overflow: hidden;         /* clip logo edges */
-
-  border: 2px solid #000;          /* ✅ same border */
-  box-shadow: 2px 2px 4px rgba(0,0,0,0.6); /* ✅ same shadow */
+  overflow: hidden;
+  border: 2px solid #000;
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.6);
 }
-
 .dashboard-header .logo {
-  width: 90%;               /* scale inside circle */
+  width: 90%;
   height: auto;
 }
-.user-info button {
-  margin-left: 8px;
+
+/* Right: User Info */
+.dashboard-header .user-info {
+  justify-self: end;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: clamp(12px, 1.1vw, 14px);
+}
+
+.dashboard-header .user-info button {
+  padding: 4px 8px;
+  font-size: clamp(11px, 1vw, 13px);
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+  background: #eee;
+  color: #000;
+  border-radius: 4px;
+  transition: background 0.2s ease;
+}
+.dashboard-header .user-info button:hover {
+  background: #ccc;
+}
+
+/* =========================
+   Mobile Layout (≤ 700px)
+   ========================= */
+@media (max-width: 700px) {
+  .dashboard-header {
+    display: grid;
+    grid-template-columns: auto 1fr auto; /* logo | spacer | right */
+    grid-template-rows: auto auto;
+    align-items: center;
+    padding: 12px;
+    gap: 10px;
+  }
+
+  /* Logo top-left with padding */
+  .dashboard-header .logo-container {
+    grid-column: 1;
+    grid-row: 1;
+    width: 75px;
+    height: 75px;
+    margin-left: 12px;
+  }
+
+  /* User info top-right with padding */
+  .dashboard-header .user-info {
+    grid-column: 2 / 4;         /* span across spacer + right */
+    grid-row: 1;
+    justify-self: center;       /* ✅ center horizontally */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+    font-size: 14px;
+    margin: 0;                  /* remove old margins */
+  }
+
+  .dashboard-header .user-info span {
+    font-weight: bold;
+    text-align: center;    /* ✅ make sure Hello text centers */
+    width: 100%;           /* span full width so it centers properly */
+  }
+
+  /* Buttons on same line */
+  .dashboard-header .user-info .buttons {
+    display: flex;
+    gap: 8px;
+    justify-content: center; /* ✅ center buttons under Hello */
+    width: 100%;
+  }
+
+  .dashboard-header .user-info button {
+    padding: 5px 10px;
+    font-size: 13px;
+  }
+
+  /* ✅ Force Last updated to center */
+  .dashboard-header .last-updated {
+    grid-column: 1 / -1;   /* span both columns */
+    grid-row: 2;           /* second row */
+    text-align: center;    /* center text inside */
+    justify-self: center;  /* center block itself */
+    width: 100%;           /* full width */
+    margin: 6px 0 0 0;
+    font-size: 12px;
+  }
+
+  /* ✅ Shrink tab button text on mobile */
+  .dashboard-tabs button {
+    font-size: 11px;
+    padding: 10px 4px; /* reduce padding so buttons don’t stretch */
+    white-space: nowrap; /* prevent wrapping */
+  }
 }
 
 /* =========================
@@ -95,6 +195,127 @@ button, h1, h2, h3, h4, h5, h6, table, input, select {
   grid-template-columns: 180px 1fr;
   flex: 1;
   min-height: 0;
+}
+
+/* =========================
+   Mobile Week Nav Above Content
+   ========================= */
+@media (max-width: 700px) {
+  .dashboard-grid {
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* Move week nav above content */
+  .week-nav-bar {
+    order: -1; /* puts it above tab-section containers */
+    border-right: none; /* remove sidebar border */
+    border-bottom: 2px solid #000;
+    width: 100%;
+    min-width: unset;
+    flex-direction: column;
+    background: #1d2d44;
+    padding: 8px;
+  }
+
+  /* Week buttons row-style */
+  #week-buttons {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    gap: 6px;
+    padding: 4px 0;
+    width: 100%;
+  }
+
+  #week-buttons::-webkit-scrollbar {
+    display: none;
+  }
+
+  .week-btn {
+    flex: 0 0 auto;
+    padding: 6px 8px;
+    font-size: 12px;
+  }
+}
+
+/* =========================
+   Fix Mobile Overflow
+   ========================= */
+@media (max-width: 700px) {
+  html, body {
+    overflow-x: hidden; /* stop whole page side scrolling */
+  }
+
+  .dashboard-grid {
+    max-width: 100vw; /* ensure grid fits inside screen */
+    overflow-x: hidden;
+  }
+
+  .week-nav-bar {
+    width: 100%;
+    max-width: 100vw;
+    box-sizing: border-box; /* include padding/borders in width */
+    overflow-x: hidden;     /* prevent nav bar from overflowing */
+  }
+
+  #week-buttons {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    overflow-x: auto;   /* scroll just the buttons */
+    overflow-y: hidden;
+    max-width: 100%;    /* force buttons row inside viewport */
+    box-sizing: border-box;
+  }
+
+  #week-buttons .week-btn {
+    flex: 0 0 auto;
+  }
+}
+
+/* =========================
+   Mobile Picks Section Cleanup
+   ========================= */
+@media (max-width: 700px) {
+  /* Hide Show/Hide Matchups button */
+  #toggle-scores-btn {
+    display: none !important;
+  }
+
+  /* Center the WEEK X PICKS title */
+  #picks-title {
+    text-align: center;
+    padding-left: 0;   /* remove old offset */
+    margin: 12px 0;
+  }
+
+  /* Force SELECT TEAM and dropdown on separate lines */
+  .picks-controls {
+    flex-direction: column; /* stack vertically */
+    align-items: flex-start; /* align left inside container */
+    gap: 6px;
+  }
+
+  .picks-controls label {
+    width: 100%; /* make label span full width */
+    text-align: left;
+  }
+
+  .picks-controls select {
+    width: 100%; /* make dropdown fill container */
+    max-width: 100%;
+  }
+
+  /* =========================
+   Center Leaderboard Title
+   ========================= */
+  #leaderboard-title {
+    text-align: center;
+    padding-left: 0;   /* remove offset */
+    margin: 12px 0;
+  }
 }
 
 /* =========================
@@ -153,6 +374,63 @@ button, h1, h2, h3, h4, h5, h6, table, input, select {
   outline: 3px solid #3b82f6;
   outline-offset: 2px;
   z-index: 1;
+}
+
+/* =========================
+   Compact Week Nav (≤700px)
+   ========================= */
+@media (max-width: 700px) {
+  .week-nav-bar h3 {
+    display: none; /* hide "Week Navigation" */
+  }
+
+  #week-buttons {
+    gap: 4px; /* tighter spacing */
+  }
+
+  .week-btn {
+    padding: 6px;        /* smaller button */
+    font-size: 12px;     /* shrink text */
+    border-radius: 3px;
+  }
+}
+
+/* =========================
+   Mobile Week Nav - Horizontal Scroll
+   ========================= */
+@media (max-width: 700px) {
+  #week-buttons {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    gap: 6px;
+    padding: 4px 0;
+    width: 100%;
+  }
+
+  #week-buttons::-webkit-scrollbar {
+    display: none; /* hide scrollbar for cleaner look */
+  }
+
+  .week-btn {
+    flex: 0 0 auto;  /* prevent shrinking */
+  }
+
+  .week-btn.compact-btn {
+    padding: 4px 6px;
+    font-size: 12px;
+    min-width: 32px; /* keep them touch-friendly */
+  }
+}
+
+
+/* Compact week buttons for mobile */
+.week-btn.compact-btn {
+  padding: 4px 6px;
+  font-size: 12px;
+  flex: 0 1 auto;
+  min-width: 28px;
 }
 
 /* =========================
@@ -293,12 +571,17 @@ button, h1, h2, h3, h4, h5, h6, table, input, select {
 /* ✅ Correct Matchups Styling */
 .matchups-container {
   flex: 0 0 auto;   /* shrink to fit content */
-  background: #fff;
+  background: #e0e1dc;
   border: 2px solid #000;
   padding: 10px;
   min-width: 250px;
   margin-top: 0;
   margin-bottom: 0;
+}
+.matchups-container h3 {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 10px;
 }
 .matchups-container.hidden { display: none; }
 
@@ -315,15 +598,39 @@ button, h1, h2, h3, h4, h5, h6, table, input, select {
   text-align: center;
 }
 .matchup-row {
-  display: flex;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: 1fr 40px 40px 1fr; /* team, score, team, score */
   align-items: center;
   padding: 6px;
   border-top: 1px solid #ccc;
   font-weight: bold;
+  text-align: center;
 }
-.matchup-row .winner { color: green; }
-.matchup-row .loser { color: red; }
+.matchup-row .team-label {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  justify-content: flex-start; /* away team name right-aligned */
+}
+
+.matchup-row .home-label {
+  justify-content: flex-end; /* home team name left-aligned */
+}
+
+.matchup-row .team-score {
+  font-weight: bold;
+}
+
+/* =========================
+   Matchup Row Winner/Loser
+   ========================= */
+.matchup-row .winner {
+  color: green !important;
+  font-weight: bold;
+}
+.matchup-row .loser {
+  color: red !important;
+}
 
 .team-label {
   display: flex;
@@ -367,4 +674,149 @@ button, h1, h2, h3, h4, h5, h6, table, input, select {
 .pick-row img.team-logo { width: 20px; height: 20px; object-fit: contain; margin-right: 8px; }
 .pick-row span { margin: 0 6px; }
 .pick-row.bonus { background: rgb(255, 230, 86); border-color: #b45309; }
-#team-pick-counter { font-weight: bold; margin-left: 10px; color: #111; }
+#team-pick-counter { font-weight: bold; margin-left: 10px; color: white; }
+
+/* =========================
+   Modal
+   ========================= */
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.modal.hidden {
+  display: none;
+}
+
+.modal-content {
+  background: #fff;
+  padding: 20px;
+  border-radius: 6px;
+  max-width: 400px;
+  width: 90%;
+  position: relative;
+  box-shadow: 2px 2px 6px rgba(0,0,0,0.5);
+}
+
+.close-btn {
+  position: absolute;
+  top: 8px;
+  right: 12px;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* =========================
+   Settings Modal Form (stacked)
+   ========================= */
+#settings-form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px; /* space between items */
+}
+
+#settings-form label {
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+#settings-form input[type="text"],
+#settings-form input[type="url"],   /* ✅ added for Profile Picture URL */
+#settings-form input[type="file"] {
+  padding: 6px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+  font-family: inherit;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+#settings-form input[type="url"]:focus,
+#settings-form input[type="text"]:focus {
+  outline: none;
+  border-color: #3f5c77;
+  box-shadow: 0 0 4px rgba(63, 92, 119, 0.4);
+}
+
+#settings-form button {
+  margin-top: 12px;
+  align-self: center; /* centers horizontally */
+  padding: 8px 16px;
+  background: #1d2d44;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+#settings-form button:hover {
+  background: #3f5c77;
+}
+
+/* Secondary button styling (for reset) */
+#reset-avatar-btn {
+  margin-top: -4px;        /* tighter to the input */
+  align-self: flex-start;  /* align left under input */
+  padding: 6px 12px;
+  background: #bbb;
+  color: #000;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 13px;
+}
+
+#reset-avatar-btn:hover {
+  background: #999;
+}
+
+/* =========================
+   Profile Pictures
+   ========================= */
+.profile-pic {
+  width: 40px;           /* or whatever size you want */
+  height: 40px;
+  border-radius: 50%;    /* makes it circular */
+  object-fit: cover;     /* ✅ fills the whole circle */
+  display: inline-block;
+  background: white;
+}
+
+.player-cell {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.player-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 6px;
+}
+.player-header h3 {
+  margin: 0;
+  font-size: 16px;
+  color: white;
+}
+
+.avatar-circle {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 6px;
+  vertical-align: middle;
+}

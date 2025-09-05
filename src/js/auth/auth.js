@@ -22,6 +22,13 @@ const auth = getAuth(app);
 const db = getFirestore(app);
 
 // =======================
+// Config Flags
+// =======================
+export const signup_period = false; 
+// true  = preseason window → signups open, picks editable
+// false = season started → signups closed, picks locked
+
+// =======================
 // Auth Listener
 // =======================
 onAuthStateChanged(auth, async (user) => {
@@ -38,8 +45,8 @@ onAuthStateChanged(auth, async (user) => {
       if (userSnap.exists()) {
         const data = userSnap.data();
 
-        // ✅ If already submitted → boot them
-        if (data.picks_submitted === true) {
+        if (signup_period && data.picks_submitted === true) {
+          // preseason + already submitted → lock them out
           alert("⚠️ Your picks are locked for the season.");
           await signOut(auth);
           window.location.href = "index.html";
@@ -47,7 +54,6 @@ onAuthStateChanged(auth, async (user) => {
         }
       }
 
-      // ✅ Show displayName/email
       const name = user.displayName || user.email || "User";
       if (userDisplay) userDisplay.textContent = name;
       if (logoutBtn) {
@@ -83,6 +89,12 @@ if (signupForm) {
   signupForm.addEventListener("submit", async (e) => {
     e.preventDefault();
 
+    if (!signup_period) {
+      alert("🚫 Signup is closed for this season.");
+      window.location.href = "dashboard.html";
+      return;
+    }
+
     const displayName = document.getElementById("signup-name").value.trim();
     const email = document.getElementById("signup-email").value.trim();
     const password = document.getElementById("signup-password").value;
@@ -99,7 +111,6 @@ if (signupForm) {
 
       await updateProfile(user, { displayName });
 
-      // ✅ Create user doc with picks_submitted false
       await setDoc(doc(db, "users", user.uid), {
         uid: user.uid,
         email: user.email,
@@ -110,7 +121,7 @@ if (signupForm) {
 
       console.log("✅ User signed up & Firestore doc created:", user.uid);
       alert("Account created successfully!");
-      window.location.href = "picks.html";
+      window.location.href = "dashboard.html";
 
     } catch (error) {
       console.error("Signup error:", error.message);
@@ -141,15 +152,20 @@ if (loginForm) {
       const user = userCredential.user;
 
       const userSnap = await getDoc(doc(db, "users", user.uid));
+
       if (userSnap.exists() && userSnap.data().picks_submitted === true) {
-        alert("⚠️ Your picks are locked for the season.");
-        await signOut(auth);
-        window.location.href = "index.html";
-      } else {
-        console.log("✅ Logged in:", userCredential.user);
-        alert("Login successful!");
-        window.location.href = "picks.html";
+        if (signup_period) {
+          // preseason + already submitted → block
+          alert("⚠️ Your picks are locked for the season.");
+          await signOut(auth);
+          window.location.href = "index.html";
+          return;
+        }
       }
+
+      console.log("✅ Logged in:", userCredential.user);
+      window.location.href = "dashboard.html";
+
     } catch (error) {
       console.error("Login error:", error.message);
       alert("Error: " + error.message);
@@ -176,7 +192,6 @@ if (finalSubmitBtn) {
 
       const user = auth.currentUser;
       if (user) {
-        // ✅ Lock for season
         await setDoc(doc(db, "users", user.uid), { picks_submitted: true }, { merge: true });
 
         alert("✅ Your picks have been submitted and locked for the season!");
@@ -200,5 +215,19 @@ export async function logoutUser() {
     window.location.href = "index.html";
   } catch (error) {
     alert(error.message);
+  }
+}
+
+// =======================
+// Adjust Login Footer Link
+// =======================
+const authLink = document.getElementById("auth-link");
+if (authLink) {
+  if (!signup_period) {
+    authLink.textContent = "Back to home";
+    authLink.href = "index.html";
+  } else {
+    authLink.textContent = "Don’t have an account? Sign Up";
+    authLink.href = "signup.html";
   }
 }

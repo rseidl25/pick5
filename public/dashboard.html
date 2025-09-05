@@ -9,10 +9,10 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
-  
+
   <!-- Favicon -->
   <link rel="icon" type="image/jpeg" href="icons/PICK5LOGO.jpg">
-  
+
   <!-- Styles -->
   <link rel="stylesheet" href="../src/css/dashboard/dashboard.css">
 </head>
@@ -31,10 +31,14 @@
       </div>
 
       <div class="user-info">
-        <span>Hello, <span id="user-name">[NAME]</span></span>
-        <button id="settings-btn">SETTINGS</button>
-        <button id="logout-btn">LOG OUT</button>
+        <span>Hello, <span id="user-name">Guest</span></span>
+        <div class="buttons">
+          <button id="login-btn">LOG IN</button>
+          <button id="settings-btn" style="display:none;">SETTINGS</button>
+          <button id="logout-btn" style="display:none;">LOG OUT</button>
+        </div>
       </div>
+
     </header>
 
     <!-- Tabs -->
@@ -106,6 +110,26 @@
           <div id="week-stats-container"></div>
         </section>
       </main>
+    </div>
+  </div>
+
+  <!-- ⚙️ Settings Modal -->
+  <div id="settings-modal" class="modal hidden">
+    <div class="modal-content">
+      <span class="close-btn" id="close-settings">&times;</span>
+      <h2>Account Settings</h2>
+      <form id="settings-form">
+        <label for="display-name">Change Display Name:</label>
+        <input type="text" id="display-name" placeholder="Enter new name">
+
+        <label for="profile-url">Profile Picture URL:</label>
+        <input type="url" id="profile-url" placeholder="Paste image url here">
+
+        <!-- New reset button -->
+        <button type="button" id="reset-avatar-btn" class="secondary-btn">Reset to Default Profile Picture</button>
+
+        <button type="submit">Save Changes</button>
+      </form>
     </div>
   </div>
 

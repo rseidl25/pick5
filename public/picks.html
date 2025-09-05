@@ -91,10 +91,17 @@
   <script type="module">
     import { getAuth, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js";
     import { app } from "../src/js/auth/firebase_init.js";
+    import { signup_period } from "../src/js/auth/auth.js";
 
     const auth = getAuth(app);
 
     onAuthStateChanged(auth, (user) => {
+      if (!signup_period) {
+        console.warn("🚫 Picks page closed, redirecting...");
+        window.location.href = "dashboard.html";
+        return;
+      }
+
       if (!user) {
         console.warn("⚠️ Not logged in, redirecting...");
         window.location.href = "login.html";

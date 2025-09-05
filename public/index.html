@@ -15,13 +15,35 @@
 
   <!-- Styles -->
   <link rel="stylesheet" href="../src/css/auth/index.css">
+  <style>
+    .disabled-btn {
+      opacity: 0.5;
+      pointer-events: none;
+      cursor: not-allowed;
+    }
+  </style>
 </head>
 <body>
   <div class="container">
     <img src="icons/PICK5LOGO_transparent.jpg" alt="Pick 5 Logo" class="site-logo">
     <h1>NFL Pick 5</h1>
-    <button onclick="window.location.href='signup.html'">Sign Up</button>
+    <button id="signup-btn">Sign Up</button>
     <button onclick="window.location.href='login.html'">Log In</button>
+    <button onclick="window.location.href='dashboard.html'">Continue as Guest</button>
   </div>
+
+  <!-- Control Sign Up availability -->
+  <script type="module">
+    import { signup_period } from "../src/js/auth/auth.js";
+
+    const signupBtn = document.getElementById("signup-btn");
+
+    if (signup_period) {
+      signupBtn.onclick = () => window.location.href = "signup.html";
+    } else {
+      signupBtn.classList.add("disabled-btn");
+      signupBtn.textContent = "Sign Up Closed";
+    }
+  </script>
 </body>
 </html>
