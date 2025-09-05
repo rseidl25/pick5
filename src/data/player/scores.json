@@ -9,7 +9,7 @@
             "bonus": true
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Kansas City Chiefs": {
@@ -25,7 +25,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week2": {
         "teams": {
@@ -453,7 +453,7 @@
         "total": 0
       }
     },
-    "overall_score": 0
+    "overall_score": 10
   },
   "A5dssZETIMhNd0WYKQamFxxb9Ak2": {
     "name": "Judy Phillip",
@@ -461,7 +461,7 @@
       "week1": {
         "teams": {
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Washington Commanders": {
@@ -481,7 +481,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week2": {
         "teams": {
@@ -909,7 +909,7 @@
         "total": 0
       }
     },
-    "overall_score": 0
+    "overall_score": 10
   },
   "AmEIaRh92vdP40uVAseDWGxcZBM2": {
     "name": "Brett Sievwright",
@@ -917,7 +917,7 @@
       "week1": {
         "teams": {
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Kansas City Chiefs": {
@@ -937,7 +937,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week2": {
         "teams": {
@@ -1365,7 +1365,7 @@
         "total": 0
       }
     },
-    "overall_score": 0
+    "overall_score": 10
   },
   "D2fLoPEINITIuA9oJNB8ybVaOps2": {
     "name": "Kalysta",
@@ -1829,7 +1829,7 @@
       "week1": {
         "teams": {
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Cincinnati Bengals": {
@@ -1849,7 +1849,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week2": {
         "teams": {
@@ -2277,7 +2277,7 @@
         "total": 0
       }
     },
-    "overall_score": 0
+    "overall_score": 10
   },
   "Fn25s976WxT6gML22x8yJsQ33PM2": {
     "name": "Milly",
@@ -2757,11 +2757,11 @@
             "bonus": false
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week2": {
         "teams": {
@@ -3189,7 +3189,7 @@
         "total": 0
       }
     },
-    "overall_score": 0
+    "overall_score": 10
   },
   "LKY6YytQUfbPzmcw2yfIYm0XEQD2": {
     "name": "Kelly",
@@ -3197,7 +3197,7 @@
       "week1": {
         "teams": {
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Cincinnati Bengals": {
@@ -3217,7 +3217,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week2": {
         "teams": {
@@ -3645,7 +3645,7 @@
         "total": 0
       }
     },
-    "overall_score": 0
+    "overall_score": 10
   },
   "NluZaqiuGKRzhuir9Jfu5uKRm302": {
     "name": "Angie Phillip",
@@ -3653,7 +3653,7 @@
       "week1": {
         "teams": {
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 34,
             "bonus": true
           },
           "Cincinnati Bengals": {
@@ -3673,7 +3673,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 34
       },
       "week2": {
         "teams": {
@@ -4101,7 +4101,7 @@
         "total": 0
       }
     },
-    "overall_score": 0
+    "overall_score": 34
   },
   "US8t7rlGTXV5t8M3K8OWB2kzQo93": {
     "name": "Sam",
@@ -4121,7 +4121,7 @@
             "bonus": false
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Washington Commanders": {
@@ -4129,7 +4129,7 @@
             "bonus": true
           }
         },
-        "total": 0
+        "total": 10
       },
       "week2": {
         "teams": {
@@ -4557,7 +4557,7 @@
         "total": 0
       }
     },
-    "overall_score": 0
+    "overall_score": 10
   },
   "dac8Eg3ax4PxQl7aSydfS9lAWv23": {
     "name": "Ben",
@@ -4565,7 +4565,7 @@
       "week1": {
         "teams": {
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Cincinnati Bengals": {
@@ -4585,7 +4585,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week2": {
         "teams": {
@@ -5013,7 +5013,7 @@
         "total": 0
       }
     },
-    "overall_score": 0
+    "overall_score": 10
   },
   "hELkxczX1UerNFvp4fpORxqLr9X2": {
     "name": "PP",
@@ -5037,11 +5037,11 @@
             "bonus": false
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week2": {
         "teams": {
@@ -5469,7 +5469,7 @@
         "total": 0
       }
     },
-    "overall_score": 0
+    "overall_score": 10
   },
   "hR9aypGuwBfk5pE5MwNjxEvfkh43": {
     "name": "Ryan",
@@ -6393,7 +6393,7 @@
             "bonus": false
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
@@ -6409,7 +6409,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week2": {
         "teams": {
@@ -6837,7 +6837,7 @@
         "total": 0
       }
     },
-    "overall_score": 0
+    "overall_score": 10
   },
   "u8geiYcJqpcTBRxAtLVB5QKA8Ii2": {
     "name": "Lisa: Certified League Wrecker",
@@ -6845,7 +6845,7 @@
       "week1": {
         "teams": {
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
@@ -6865,7 +6865,7 @@
             "bonus": true
           }
         },
-        "total": 0
+        "total": 10
       },
       "week2": {
         "teams": {
@@ -7293,6 +7293,6 @@
         "total": 0
       }
     },
-    "overall_score": 0
+    "overall_score": 10
   }
 }

@@ -3,15 +3,6 @@
     "week": 1,
     "games": [
       {
-        "homeTeam": "Philadelphia Eagles",
-        "homeScore": 7,
-        "awayTeam": "Dallas Cowboys",
-        "awayScore": 7,
-        "weekday": "Thursday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Los Angeles Chargers",
         "homeScore": 0,
         "awayTeam": "Kansas City Chiefs",
@@ -19,6 +10,15 @@
         "weekday": "Friday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Philadelphia Eagles",
+        "homeScore": 24,
+        "awayTeam": "Dallas Cowboys",
+        "awayScore": 20,
+        "weekday": "Thursday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Atlanta Falcons",
