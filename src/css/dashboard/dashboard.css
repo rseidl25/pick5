@@ -33,7 +33,7 @@ button, h1, h2, h3, h4, h5, h6, table, input, select {
   border-bottom: 2px solid #000;
 
   border: 2px solid #000;
-  border-radius: 4px;
+  border-radius: 0;
   box-shadow: 2px 2px 4px rgba(0,0,0,0.6);
 
   color: white;
@@ -71,7 +71,7 @@ button, h1, h2, h3, h4, h5, h6, table, input, select {
   flex-shrink: 0;
 
   border: 2px solid #000;
-  border-radius: 4px;
+  border-radius: 0;
   box-shadow: 2px 2px 4px rgba(0,0,0,0.6);
 }
 .dashboard-tabs button {
@@ -112,7 +112,7 @@ button, h1, h2, h3, h4, h5, h6, table, input, select {
   overflow-y: auto;
 
   border: 2px solid #000;
-  border-radius: 4px;
+  border-radius: 0;
   box-shadow: 2px 2px 4px rgba(0,0,0,0.6);
 }
 .week-nav-bar::-webkit-scrollbar {
