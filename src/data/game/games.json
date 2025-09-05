@@ -4,9 +4,9 @@
     "games": [
       {
         "homeTeam": "Philadelphia Eagles",
-        "homeScore": 14,
+        "homeScore": 21,
         "awayTeam": "Dallas Cowboys",
-        "awayScore": 14,
+        "awayScore": 20,
         "weekday": "Thursday",
         "gameTime": null,
         "status": "In Progress"
