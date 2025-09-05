@@ -8,6 +8,7 @@
     "grab-picks": "node src/js/util/grab_picks.js",
     "calculate-scores": "node src/js/util/calculate_scores.js",
     "fetch-games": "node src/js/util/fetch_game_data.js",
+    "update-all": "node src/js/util/update_all.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
