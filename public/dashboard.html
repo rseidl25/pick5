@@ -25,16 +25,16 @@
 
       <div class="user-info">
         <span>Hello, <span id="user-name">[NAME]</span></span>
-        <button id="settings-btn">(SETTINGS)</button>
-        <button id="logout-btn">(LOG OUT)</button>
+        <button id="settings-btn">SETTINGS</button>
+        <button id="logout-btn">LOG OUT</button>
       </div>
     </header>
 
     <!-- Tabs -->
     <nav class="dashboard-tabs">
-      <button data-tab="leaderboard">(LEADERBOARD)</button>
-      <button data-tab="picks">(PICKS)</button>
-      <button data-tab="week-stats">(WEEK STATS)</button>
+      <button data-tab="leaderboard">LEADERBOARD</button>
+      <button data-tab="picks">PICKS</button>
+      <button data-tab="week-stats" disabled>WEEK STATS (COMING SOON)</button>
     </nav>
 
     <!-- Main Grid Layout -->
@@ -60,9 +60,7 @@
                 <th>SCORE</th>
               </tr>
             </thead>
-            <tbody id="leaderboard-body">
-              <!-- Populated dynamically -->
-            </tbody>
+            <tbody id="leaderboard-body"></tbody>
           </table>
         </section>
 
@@ -72,27 +70,33 @@
 
           <!-- Controls -->
           <div class="picks-controls">
-            <label for="select-player">(SELECT PLAYER):</label>
+            <label for="select-player">SELECT PLAYER:</label>
             <select id="select-player"></select>
 
-            <label for="select-team">(SELECT TEAM):</label>
+            <label for="select-team">SELECT TEAM:</label>
             <select id="select-team"></select>
+            <span id="team-pick-counter" style="display: none;"></span>
 
-            <button id="toggle-scores-btn">(SHOW/HIDE SCORES)</button>
+            <button id="toggle-scores-btn">SHOW/HIDE SCORES</button>
           </div>
 
-          <!-- Weekly Picks Grid -->
-          <div id="weekly-picks-grid" class="weekly-picks-grid">
-            <!-- JS will render equal-sized player pick boxes -->
+          <!-- Layout split -->
+          <div class="picks-layout">
+            <!-- Left: Picks -->
+            <div id="weekly-picks-grid" class="weekly-picks-grid"></div>
+
+            <!-- Right: Matchups -->
+            <aside id="matchups-container" class="matchups-container hidden">
+              <h3>This Week's Matchups</h3>
+              <div id="matchups-list"></div>
+            </aside>
           </div>
         </section>
 
         <!-- Week Stats Section -->
         <section id="week-stats-section" class="tab-section hidden">
           <h2 id="week-stats-title">[WEEK #] STATS</h2>
-          <div id="week-stats-container">
-            <!-- Dynamic stats will render here -->
-          </div>
+          <div id="week-stats-container"></div>
         </section>
       </main>
     </div>

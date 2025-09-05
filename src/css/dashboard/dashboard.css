@@ -7,13 +7,12 @@ body {
   height: 100vh;
   display: flex;
   flex-direction: column;
-  overflow: hidden; /* ❌ prevent body scroll */
+  overflow: hidden;
 }
-
 .dashboard-container {
   display: flex;
   flex-direction: column;
-  height: 100%; /* full viewport height */
+  height: 100%;
 }
 
 /* Header */
@@ -24,14 +23,12 @@ body {
   padding: 12px;
   background: #fff;
   border-bottom: 2px solid #000;
-  flex-shrink: 0; /* don't shrink */
+  flex-shrink: 0;
 }
-
 .dashboard-header .logo {
   width: 60px;
   height: auto;
 }
-
 .user-info button {
   margin-left: 8px;
 }
@@ -42,9 +39,8 @@ body {
   justify-content: center;
   border-bottom: 2px solid #000;
   background: #f8f9fa;
-  flex-shrink: 0; /* don't shrink */
+  flex-shrink: 0;
 }
-
 .dashboard-tabs button {
   flex: 1;
   padding: 12px;
@@ -53,21 +49,20 @@ body {
   background: #eee;
   font-weight: bold;
 }
-
 .dashboard-tabs button.active {
   background: #ddd;
   border-bottom: 2px solid #000;
 }
 
-/* === Main Grid Layout === */
+/* Grid */
 .dashboard-grid {
   display: grid;
   grid-template-columns: 180px 1fr;
   flex: 1;
-  min-height: 0; /* ✅ allow inner scroll */
+  min-height: 0;
 }
 
-/* Week Nav Bar */
+/* Week Nav */
 .week-nav-bar {
   border-right: 2px solid #000;
   background: #3f5c77;
@@ -77,21 +72,18 @@ body {
   align-items: center;
   gap: 10px;
   min-width: 120px;
-  overflow-y: auto; /* ✅ scrolls independently */
+  overflow-y: auto;
 }
-
 .week-nav-bar::-webkit-scrollbar {
-  display: none;        /* ✅ hides scrollbar in Chrome/Safari/Edge */
+  display: none;
 }
-
 .week-nav-bar h3 {
-  margin: 0 0 10px 0;
+  margin: 0 0 10px;
   font-size: 16px;
   font-weight: bold;
   color: #fff;
   text-align: center;
 }
-
 #week-buttons {
   display: flex;
   flex-direction: column;
@@ -99,7 +91,6 @@ body {
   align-items: stretch;
   width: 100%;
 }
-
 .week-btn {
   padding: 8px;
   border: 2px solid #ccc;
@@ -110,43 +101,56 @@ body {
   text-align: center;
   transition: transform 0.08s ease, background 0.15s ease, border-color 0.15s ease;
 }
-.week-btn:hover { transform: translateX(2px); }
-
-/* Status colors */
-.status-grey { background: #e5e7eb; border-color: #9ca3af; color: #374151; }
-.status-yellow { background: #fef3c7; border-color: #f59e0b; color: #92400e; }
-.status-red { background: #fecaca; border-color: #dc2626; color: #7f1d1d; }
-.status-green { background: #bbf7d0; border-color: #16a34a; color: #065f46; }
-
+.week-btn:hover {
+  transform: translateX(2px);
+}
+.status-grey {
+  background: #e5e7eb;
+  border-color: #9ca3af;
+  color: #374151;
+}
+.status-yellow {
+  background: #fef3c7;
+  border-color: #f59e0b;
+  color: #92400e;
+}
+.status-red {
+  background: #fecaca;
+  border-color: #dc2626;
+  color: #7f1d1d;
+}
+.status-green {
+  background: #bbf7d0;
+  border-color: #16a34a;
+  color: #065f46;
+}
 .week-btn.active {
   outline: 3px solid #3b82f6;
   outline-offset: 2px;
   z-index: 1;
 }
 
-/* Content Sections */
+/* Sections */
 .dashboard-main {
   padding: 20px;
-  overflow: hidden; /* ❌ no full main scroll */
+  overflow: hidden;
   display: flex;
   flex-direction: column;
   height: 100%;
 }
-
 .tab-section {
   display: none;
-  flex: 1; /* ✅ fill height */
-  min-height: 0; /* ✅ allow scrolling */
-  overflow-y: auto; /* ✅ section scroll */
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto; /* ✅ picks-section scrolls */
   background: #e0e1dc;
   border: 2px solid #000;
   padding: 10px;
 }
-
-.tab-section.active {
-  display: block;
+.tab-section::-webkit-scrollbar {
+  display: none; /* ✅ hides scrollbar thumb entirely */
 }
-
+.tab-section.active,
 .tab-section:not(.hidden) {
   display: block;
 }
@@ -157,7 +161,6 @@ body {
   border-collapse: collapse;
   background: #fff;
 }
-
 .leaderboard-table th,
 .leaderboard-table td {
   border: 1px solid #000;
@@ -172,33 +175,93 @@ body {
   margin-bottom: 20px;
   align-items: center;
   flex-wrap: wrap;
+  flex-shrink: 0; /* ✅ pinned to top */
+}
+
+/* Layout split */
+.picks-layout {
+  display: flex;
+  flex: 1;
+  gap: 20px;
+  align-items: flex-start; /* ✅ matchups box shrink-wraps */
 }
 
 .weekly-picks-grid {
+  flex: 3;
+  padding: 10px;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-  gap: 12px;
-  max-height: calc(100% - 60px); /* ✅ space for controls */
-  overflow-y: auto;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 15px;
 }
 
+.matchups-container {
+  flex: 0 0 auto;   /* ✅ shrink to fit content */
+  background: #fff;
+  border: 2px solid #000;
+  padding: 10px;
+  min-width: 250px;
+  margin-top: 0;
+  margin-bottom: 0; /* ✅ end flush with last matchup */
+}
+.matchups-container.hidden {
+  display: none;
+}
+
+.day-box {
+  margin-bottom: 15px;
+  border: 1px solid #000;
+  background: #f9f9f9;
+}
+.day-header {
+  background: #2c3e50;
+  color: #fff;
+  font-weight: bold;
+  padding: 6px;
+  text-align: center;
+}
+.matchup-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px;
+  border-top: 1px solid #ccc;
+  font-weight: bold;
+}
+.matchup-row .winner {
+  color: green;
+}
+.matchup-row .loser {
+  color: red;
+}
+
+.team-label {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.matchup-logo {
+  width: 18px;
+  height: 18px;
+  object-fit: contain;
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+/* Pick Cards */
 .pick-box {
   border: 1px solid #000;
   padding: 10px;
   background: #fff;
 }
-
 .pick-box h3 {
   font-size: 16px;
   margin-bottom: 8px;
 }
-
 .pick-list {
   list-style: none;
   padding: 0;
   margin: 0;
 }
-
 .pick-row {
   display: flex;
   align-items: center;
@@ -209,33 +272,21 @@ body {
   font-weight: bold;
   background: #fff;
 }
-
 .pick-row img.team-logo {
   width: 20px;
   height: 20px;
   object-fit: contain;
   margin-right: 8px;
 }
-
 .pick-row span {
   margin: 0 6px;
 }
-
 .pick-row.bonus {
   background: gold;
   border-color: #b45309;
 }
-
-.pick-list li {
-  border: 1px solid #aaa;
-  padding: 6px;
-  margin: 4px 0;
-  text-align: center;
+#team-pick-counter {
   font-weight: bold;
+  margin-left: 10px;
+  color: #111;
 }
-
-.pick-list li.bonus {
-  background: gold;
-  border-color: #b45309;
-}
-
