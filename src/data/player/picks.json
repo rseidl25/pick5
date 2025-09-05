@@ -17,8 +17,8 @@
             "matchup": "week1_game1"
           },
           {
-            "team": "Pittsburgh Steelers",
-            "matchup": "week1_game7"
+            "matchup": "week1_game7",
+            "team": "Pittsburgh Steelers"
           },
           {
             "team": "Seattle Seahawks",
@@ -30,24 +30,24 @@
       "week2": {
         "picks": [
           {
-            "matchup": "week2_game9",
-            "team": "Baltimore Ravens"
+            "team": "Baltimore Ravens",
+            "matchup": "week2_game9"
           },
           {
-            "matchup": "week2_game7",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week2_game7"
           },
           {
-            "matchup": "week2_game2",
-            "team": "Dallas Cowboys"
+            "team": "Dallas Cowboys",
+            "matchup": "week2_game2"
           },
           {
             "team": "Los Angeles Rams",
             "matchup": "week2_game4"
           },
           {
-            "matchup": "week2_game5",
-            "team": "Miami Dolphins"
+            "team": "Miami Dolphins",
+            "matchup": "week2_game5"
           }
         ],
         "bonus": "Baltimore Ravens"
@@ -59,20 +59,20 @@
             "matchup": "week3_game14"
           },
           {
-            "team": "Green Bay Packers",
-            "matchup": "week3_game1"
+            "matchup": "week3_game1",
+            "team": "Green Bay Packers"
           },
           {
-            "matchup": "week3_game0",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week3_game0"
           },
           {
             "team": "Houston Texans",
             "matchup": "week3_game9"
           },
           {
-            "matchup": "week3_game11",
-            "team": "Seattle Seahawks"
+            "team": "Seattle Seahawks",
+            "matchup": "week3_game11"
           }
         ],
         "bonus": "Kansas City Chiefs"
@@ -80,8 +80,8 @@
       "week4": {
         "picks": [
           {
-            "matchup": "week4_game4",
-            "team": "Detroit Lions"
+            "team": "Detroit Lions",
+            "matchup": "week4_game4"
           },
           {
             "matchup": "week4_game3",
@@ -92,12 +92,12 @@
             "matchup": "week4_game6"
           },
           {
-            "matchup": "week4_game8",
-            "team": "Houston Texans"
+            "team": "Houston Texans",
+            "matchup": "week4_game8"
           },
           {
-            "team": "Seattle Seahawks",
-            "matchup": "week4_game0"
+            "matchup": "week4_game0",
+            "team": "Seattle Seahawks"
           }
         ],
         "bonus": "Detroit Lions"
@@ -130,24 +130,24 @@
       "week6": {
         "picks": [
           {
-            "team": "Philadelphia Eagles",
-            "matchup": "week6_game0"
+            "matchup": "week6_game0",
+            "team": "Philadelphia Eagles"
           },
           {
-            "matchup": "week6_game13",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week6_game13"
           },
           {
-            "team": "Seattle Seahawks",
-            "matchup": "week6_game7"
+            "matchup": "week6_game7",
+            "team": "Seattle Seahawks"
           },
           {
             "team": "Dallas Cowboys",
             "matchup": "week6_game6"
           },
           {
-            "matchup": "week6_game14",
-            "team": "Washington Commanders"
+            "team": "Washington Commanders",
+            "matchup": "week6_game14"
           }
         ],
         "bonus": "Philadelphia Eagles"
@@ -155,20 +155,20 @@
       "week7": {
         "picks": [
           {
-            "team": "Los Angeles Rams",
-            "matchup": "week7_game1"
+            "matchup": "week7_game1",
+            "team": "Los Angeles Rams"
           },
           {
-            "matchup": "week7_game10",
-            "team": "Washington Commanders"
+            "team": "Washington Commanders",
+            "matchup": "week7_game10"
           },
           {
             "team": "Kansas City Chiefs",
             "matchup": "week7_game5"
           },
           {
-            "team": "Denver Broncos",
-            "matchup": "week7_game8"
+            "matchup": "week7_game8",
+            "team": "Denver Broncos"
           },
           {
             "matchup": "week7_game3",
@@ -192,8 +192,8 @@
             "matchup": "week8_game5"
           },
           {
-            "team": "Houston Texans",
-            "matchup": "week8_game7"
+            "matchup": "week8_game7",
+            "team": "Houston Texans"
           },
           {
             "team": "Baltimore Ravens",
@@ -209,20 +209,20 @@
             "team": "Los Angeles Chargers"
           },
           {
-            "team": "Green Bay Packers",
-            "matchup": "week9_game3"
+            "matchup": "week9_game3",
+            "team": "Green Bay Packers"
           },
           {
             "matchup": "week9_game10",
             "team": "Los Angeles Rams"
           },
           {
-            "matchup": "week9_game1",
-            "team": "Cincinnati Bengals"
+            "team": "Cincinnati Bengals",
+            "matchup": "week9_game1"
           },
           {
-            "team": "Baltimore Ravens",
-            "matchup": "week9_game0"
+            "matchup": "week9_game0",
+            "team": "Baltimore Ravens"
           }
         ],
         "bonus": "Los Angeles Chargers"
@@ -242,8 +242,8 @@
             "matchup": "week10_game6"
           },
           {
-            "matchup": "week10_game2",
-            "team": "Chicago Bears"
+            "team": "Chicago Bears",
+            "matchup": "week10_game2"
           },
           {
             "team": "Buffalo Bills",
@@ -255,16 +255,16 @@
       "week11": {
         "picks": [
           {
-            "matchup": "week11_game6",
-            "team": "Green Bay Packers"
+            "team": "Green Bay Packers",
+            "matchup": "week11_game6"
           },
           {
             "team": "Washington Commanders",
             "matchup": "week11_game1"
           },
           {
-            "team": "Baltimore Ravens",
-            "matchup": "week11_game11"
+            "matchup": "week11_game11",
+            "team": "Baltimore Ravens"
           },
           {
             "matchup": "week11_game8",
@@ -284,20 +284,20 @@
             "matchup": "week12_game5"
           },
           {
-            "matchup": "week12_game3",
-            "team": "Detroit Lions"
+            "team": "Detroit Lions",
+            "matchup": "week12_game3"
           },
           {
             "team": "Cincinnati Bengals",
             "matchup": "week12_game2"
           },
           {
-            "team": "Baltimore Ravens",
-            "matchup": "week12_game7"
+            "matchup": "week12_game7",
+            "team": "Baltimore Ravens"
           },
           {
-            "team": "Philadelphia Eagles",
-            "matchup": "week12_game10"
+            "matchup": "week12_game10",
+            "team": "Philadelphia Eagles"
           }
         ],
         "bonus": "Seattle Seahawks"
@@ -305,20 +305,20 @@
       "week13": {
         "picks": [
           {
-            "team": "Miami Dolphins",
-            "matchup": "week13_game7"
+            "matchup": "week13_game7",
+            "team": "Miami Dolphins"
           },
           {
-            "team": "Washington Commanders",
-            "matchup": "week13_game14"
+            "matchup": "week13_game14",
+            "team": "Washington Commanders"
           },
           {
             "matchup": "week13_game2",
             "team": "Baltimore Ravens"
           },
           {
-            "team": "San Francisco 49ers",
-            "matchup": "week13_game4"
+            "matchup": "week13_game4",
+            "team": "San Francisco 49ers"
           },
           {
             "team": "Los Angeles Chargers",
@@ -330,24 +330,24 @@
       "week14": {
         "picks": [
           {
-            "matchup": "week14_game9",
-            "team": "Denver Broncos"
+            "team": "Denver Broncos",
+            "matchup": "week14_game9"
           },
           {
-            "team": "Buffalo Bills",
-            "matchup": "week14_game10"
+            "matchup": "week14_game10",
+            "team": "Buffalo Bills"
           },
           {
-            "matchup": "week14_game0",
-            "team": "Detroit Lions"
+            "team": "Detroit Lions",
+            "matchup": "week14_game0"
           },
           {
-            "matchup": "week14_game6",
-            "team": "Tampa Bay Buccaneers"
+            "team": "Tampa Bay Buccaneers",
+            "matchup": "week14_game6"
           },
           {
-            "team": "Indianapolis Colts",
-            "matchup": "week14_game7"
+            "matchup": "week14_game7",
+            "team": "Indianapolis Colts"
           }
         ],
         "bonus": "Denver Broncos"
@@ -355,16 +355,16 @@
       "week15": {
         "picks": [
           {
-            "matchup": "week15_game1",
-            "team": "Chicago Bears"
+            "team": "Chicago Bears",
+            "matchup": "week15_game1"
           },
           {
-            "matchup": "week15_game4",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week15_game4"
           },
           {
-            "matchup": "week15_game5",
-            "team": "Washington Commanders"
+            "team": "Washington Commanders",
+            "matchup": "week15_game5"
           },
           {
             "matchup": "week15_game6",
@@ -380,8 +380,8 @@
       "week16": {
         "picks": [
           {
-            "team": "Minnesota Vikings",
-            "matchup": "week16_game7"
+            "matchup": "week16_game7",
+            "team": "Minnesota Vikings"
           },
           {
             "team": "Kansas City Chiefs",
@@ -392,12 +392,12 @@
             "matchup": "week16_game3"
           },
           {
-            "team": "Philadelphia Eagles",
-            "matchup": "week16_game2"
+            "matchup": "week16_game2",
+            "team": "Philadelphia Eagles"
           },
           {
-            "matchup": "week16_game8",
-            "team": "Tampa Bay Buccaneers"
+            "team": "Tampa Bay Buccaneers",
+            "matchup": "week16_game8"
           }
         ],
         "bonus": "Minnesota Vikings"
@@ -405,24 +405,24 @@
       "week17": {
         "picks": [
           {
-            "team": "Pittsburgh Steelers",
-            "matchup": "week17_game8"
+            "matchup": "week17_game8",
+            "team": "Pittsburgh Steelers"
           },
           {
-            "team": "Washington Commanders",
-            "matchup": "week17_game0"
+            "matchup": "week17_game0",
+            "team": "Washington Commanders"
           },
           {
             "team": "Las Vegas Raiders",
             "matchup": "week17_game5"
           },
           {
-            "matchup": "week17_game7",
-            "team": "Seattle Seahawks"
+            "team": "Seattle Seahawks",
+            "matchup": "week17_game7"
           },
           {
-            "team": "Indianapolis Colts",
-            "matchup": "week17_game10"
+            "matchup": "week17_game10",
+            "team": "Indianapolis Colts"
           }
         ],
         "bonus": "Pittsburgh Steelers"
@@ -430,16 +430,16 @@
       "week18": {
         "picks": [
           {
-            "matchup": "week18_game3",
-            "team": "Cincinnati Bengals"
+            "team": "Cincinnati Bengals",
+            "matchup": "week18_game3"
           },
           {
             "team": "Buffalo Bills",
             "matchup": "week18_game1"
           },
           {
-            "matchup": "week18_game5",
-            "team": "Kansas City Chiefs"
+            "team": "Kansas City Chiefs",
+            "matchup": "week18_game5"
           },
           {
             "team": "Miami Dolphins",
@@ -460,12 +460,12 @@
       "week1": {
         "picks": [
           {
-            "matchup": "week1_game0",
-            "team": "Philadelphia Eagles"
+            "team": "Philadelphia Eagles",
+            "matchup": "week1_game0"
           },
           {
-            "team": "Washington Commanders",
-            "matchup": "week1_game8"
+            "matchup": "week1_game8",
+            "team": "Washington Commanders"
           },
           {
             "team": "Denver Broncos",
@@ -476,8 +476,8 @@
             "team": "Minnesota Vikings"
           },
           {
-            "matchup": "week1_game3",
-            "team": "Cincinnati Bengals"
+            "team": "Cincinnati Bengals",
+            "matchup": "week1_game3"
           }
         ],
         "bonus": "Washington Commanders"
@@ -489,20 +489,20 @@
             "team": "Buffalo Bills"
           },
           {
-            "matchup": "week2_game9",
-            "team": "Baltimore Ravens"
+            "team": "Baltimore Ravens",
+            "matchup": "week2_game9"
           },
           {
-            "team": "Los Angeles Chargers",
-            "matchup": "week2_game15"
+            "matchup": "week2_game15",
+            "team": "Los Angeles Chargers"
           },
           {
-            "team": "Los Angeles Rams",
-            "matchup": "week2_game4"
+            "matchup": "week2_game4",
+            "team": "Los Angeles Rams"
           },
           {
-            "team": "Detroit Lions",
-            "matchup": "week2_game3"
+            "matchup": "week2_game3",
+            "team": "Detroit Lions"
           }
         ],
         "bonus": "Baltimore Ravens"
@@ -514,20 +514,20 @@
             "team": "Kansas City Chiefs"
           },
           {
-            "matchup": "week3_game9",
-            "team": "Houston Texans"
+            "team": "Houston Texans",
+            "matchup": "week3_game9"
           },
           {
             "matchup": "week3_game1",
             "team": "Green Bay Packers"
           },
           {
-            "team": "Pittsburgh Steelers",
-            "matchup": "week3_game4"
+            "matchup": "week3_game4",
+            "team": "Pittsburgh Steelers"
           },
           {
-            "team": "Buffalo Bills",
-            "matchup": "week3_game0"
+            "matchup": "week3_game0",
+            "team": "Buffalo Bills"
           }
         ],
         "bonus": "Kansas City Chiefs"
@@ -543,16 +543,16 @@
             "matchup": "week4_game4"
           },
           {
-            "matchup": "week4_game6",
-            "team": "Los Angeles Chargers"
+            "team": "Los Angeles Chargers",
+            "matchup": "week4_game6"
           },
           {
             "matchup": "week4_game8",
             "team": "Houston Texans"
           },
           {
-            "matchup": "week4_game9",
-            "team": "Los Angeles Rams"
+            "team": "Los Angeles Rams",
+            "matchup": "week4_game9"
           }
         ],
         "bonus": "Detroit Lions"
@@ -568,8 +568,8 @@
             "matchup": "week5_game8"
           },
           {
-            "team": "Detroit Lions",
-            "matchup": "week5_game10"
+            "matchup": "week5_game10",
+            "team": "Detroit Lions"
           },
           {
             "team": "Buffalo Bills",
@@ -593,12 +593,12 @@
             "team": "Pittsburgh Steelers"
           },
           {
-            "team": "Buffalo Bills",
-            "matchup": "week6_game13"
+            "matchup": "week6_game13",
+            "team": "Buffalo Bills"
           },
           {
-            "team": "Arizona Cardinals",
-            "matchup": "week6_game2"
+            "matchup": "week6_game2",
+            "team": "Arizona Cardinals"
           },
           {
             "matchup": "week6_game14",
@@ -610,20 +610,20 @@
       "week7": {
         "picks": [
           {
-            "team": "Los Angeles Rams",
-            "matchup": "week7_game1"
+            "matchup": "week7_game1",
+            "team": "Los Angeles Rams"
           },
           {
-            "team": "Kansas City Chiefs",
-            "matchup": "week7_game5"
+            "matchup": "week7_game5",
+            "team": "Kansas City Chiefs"
           },
           {
-            "matchup": "week7_game8",
-            "team": "Denver Broncos"
+            "team": "Denver Broncos",
+            "matchup": "week7_game8"
           },
           {
-            "matchup": "week7_game10",
-            "team": "Washington Commanders"
+            "team": "Washington Commanders",
+            "matchup": "week7_game10"
           },
           {
             "team": "Detroit Lions",
@@ -635,24 +635,24 @@
       "week8": {
         "picks": [
           {
-            "matchup": "week8_game4",
-            "team": "Philadelphia Eagles"
+            "team": "Philadelphia Eagles",
+            "matchup": "week8_game4"
           },
           {
-            "matchup": "week8_game5",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week8_game5"
           },
           {
             "matchup": "week8_game6",
             "team": "Baltimore Ravens"
           },
           {
-            "team": "Tampa Bay Buccaneers",
-            "matchup": "week8_game8"
+            "matchup": "week8_game8",
+            "team": "Tampa Bay Buccaneers"
           },
           {
-            "team": "Indianapolis Colts",
-            "matchup": "week8_game10"
+            "matchup": "week8_game10",
+            "team": "Indianapolis Colts"
           }
         ],
         "bonus": "Philadelphia Eagles"
@@ -660,8 +660,8 @@
       "week9": {
         "picks": [
           {
-            "matchup": "week9_game10",
-            "team": "Los Angeles Rams"
+            "team": "Los Angeles Rams",
+            "matchup": "week9_game10"
           },
           {
             "matchup": "week9_game4",
@@ -672,8 +672,8 @@
             "team": "Baltimore Ravens"
           },
           {
-            "team": "Cincinnati Bengals",
-            "matchup": "week9_game1"
+            "matchup": "week9_game1",
+            "team": "Cincinnati Bengals"
           },
           {
             "matchup": "week9_game3",
@@ -710,8 +710,8 @@
       "week11": {
         "picks": [
           {
-            "matchup": "week11_game6",
-            "team": "Green Bay Packers"
+            "team": "Green Bay Packers",
+            "matchup": "week11_game6"
           },
           {
             "team": "Minnesota Vikings",
@@ -722,8 +722,8 @@
             "team": "Los Angeles Chargers"
           },
           {
-            "matchup": "week11_game4",
-            "team": "Houston Texans"
+            "team": "Houston Texans",
+            "matchup": "week11_game4"
           },
           {
             "team": "Baltimore Ravens",
@@ -739,16 +739,16 @@
             "team": "Indianapolis Colts"
           },
           {
-            "matchup": "week12_game2",
-            "team": "Cincinnati Bengals"
+            "team": "Cincinnati Bengals",
+            "matchup": "week12_game2"
           },
           {
             "matchup": "week12_game3",
             "team": "Detroit Lions"
           },
           {
-            "matchup": "week12_game5",
-            "team": "Seattle Seahawks"
+            "team": "Seattle Seahawks",
+            "matchup": "week12_game5"
           },
           {
             "matchup": "week12_game10",
@@ -764,12 +764,12 @@
             "team": "Miami Dolphins"
           },
           {
-            "matchup": "week13_game1",
-            "team": "Kansas City Chiefs"
+            "team": "Kansas City Chiefs",
+            "matchup": "week13_game1"
           },
           {
-            "matchup": "week13_game3",
-            "team": "Philadelphia Eagles"
+            "team": "Philadelphia Eagles",
+            "matchup": "week13_game3"
           },
           {
             "team": "Los Angeles Rams",
@@ -785,12 +785,12 @@
       "week14": {
         "picks": [
           {
-            "matchup": "week14_game6",
-            "team": "Tampa Bay Buccaneers"
+            "team": "Tampa Bay Buccaneers",
+            "matchup": "week14_game6"
           },
           {
-            "matchup": "week14_game0",
-            "team": "Detroit Lions"
+            "team": "Detroit Lions",
+            "matchup": "week14_game0"
           },
           {
             "team": "Green Bay Packers",
@@ -801,8 +801,8 @@
             "team": "Denver Broncos"
           },
           {
-            "team": "Kansas City Chiefs",
-            "matchup": "week14_game12"
+            "matchup": "week14_game12",
+            "team": "Kansas City Chiefs"
           }
         ],
         "bonus": "Tampa Bay Buccaneers"
@@ -814,16 +814,16 @@
             "matchup": "week15_game4"
           },
           {
-            "team": "Washington Commanders",
-            "matchup": "week15_game5"
+            "matchup": "week15_game5",
+            "team": "Washington Commanders"
           },
           {
             "team": "Minnesota Vikings",
             "matchup": "week15_game14"
           },
           {
-            "team": "Detroit Lions",
-            "matchup": "week15_game10"
+            "matchup": "week15_game10",
+            "team": "Detroit Lions"
           },
           {
             "team": "Kansas City Chiefs",
@@ -843,16 +843,16 @@
             "matchup": "week16_game5"
           },
           {
-            "team": "Minnesota Vikings",
-            "matchup": "week16_game7"
+            "matchup": "week16_game7",
+            "team": "Minnesota Vikings"
           },
           {
             "matchup": "week16_game9",
             "team": "Baltimore Ravens"
           },
           {
-            "matchup": "week16_game3",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week16_game3"
           }
         ],
         "bonus": "Denver Broncos"
@@ -868,16 +868,16 @@
             "matchup": "week17_game7"
           },
           {
-            "matchup": "week17_game0",
-            "team": "Washington Commanders"
+            "team": "Washington Commanders",
+            "matchup": "week17_game0"
           },
           {
             "team": "Kansas City Chiefs",
             "matchup": "week17_game2"
           },
           {
-            "team": "Indianapolis Colts",
-            "matchup": "week17_game10"
+            "matchup": "week17_game10",
+            "team": "Indianapolis Colts"
           }
         ],
         "bonus": "Pittsburgh Steelers"
@@ -897,12 +897,12 @@
             "team": "Kansas City Chiefs"
           },
           {
-            "matchup": "week18_game1",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week18_game1"
           },
           {
-            "matchup": "week18_game13",
-            "team": "Tampa Bay Buccaneers"
+            "team": "Tampa Bay Buccaneers",
+            "matchup": "week18_game13"
           }
         ],
         "bonus": "Cincinnati Bengals"
@@ -915,16 +915,16 @@
       "week1": {
         "picks": [
           {
-            "matchup": "week1_game0",
-            "team": "Philadelphia Eagles"
+            "team": "Philadelphia Eagles",
+            "matchup": "week1_game0"
           },
           {
             "matchup": "week1_game1",
             "team": "Kansas City Chiefs"
           },
           {
-            "team": "Atlanta Falcons",
-            "matchup": "week1_game2"
+            "matchup": "week1_game2",
+            "team": "Atlanta Falcons"
           },
           {
             "team": "Cleveland Browns",
@@ -952,12 +952,12 @@
             "matchup": "week2_game3"
           },
           {
-            "team": "Miami Dolphins",
-            "matchup": "week2_game5"
+            "matchup": "week2_game5",
+            "team": "Miami Dolphins"
           },
           {
-            "team": "Arizona Cardinals",
-            "matchup": "week2_game11"
+            "matchup": "week2_game11",
+            "team": "Arizona Cardinals"
           }
         ],
         "bonus": "Buffalo Bills"
@@ -973,12 +973,12 @@
             "matchup": "week3_game12"
           },
           {
-            "team": "Tampa Bay Buccaneers",
-            "matchup": "week3_game6"
+            "matchup": "week3_game6",
+            "team": "Tampa Bay Buccaneers"
           },
           {
-            "matchup": "week3_game1",
-            "team": "Green Bay Packers"
+            "team": "Green Bay Packers",
+            "matchup": "week3_game1"
           },
           {
             "matchup": "week3_game3",
@@ -990,24 +990,24 @@
       "week4": {
         "picks": [
           {
-            "matchup": "week4_game14",
-            "team": "Miami Dolphins"
+            "team": "Miami Dolphins",
+            "matchup": "week4_game14"
           },
           {
             "team": "Houston Texans",
             "matchup": "week4_game8"
           },
           {
-            "team": "San Francisco 49ers",
-            "matchup": "week4_game10"
+            "matchup": "week4_game10",
+            "team": "San Francisco 49ers"
           },
           {
             "team": "Washington Commanders",
             "matchup": "week4_game2"
           },
           {
-            "team": "Detroit Lions",
-            "matchup": "week4_game4"
+            "matchup": "week4_game4",
+            "team": "Detroit Lions"
           }
         ],
         "bonus": "Detroit Lions"
@@ -1015,24 +1015,24 @@
       "week5": {
         "picks": [
           {
-            "team": "Miami Dolphins",
-            "matchup": "week5_game6"
+            "matchup": "week5_game6",
+            "team": "Miami Dolphins"
           },
           {
-            "team": "Buffalo Bills",
-            "matchup": "week5_game12"
+            "matchup": "week5_game12",
+            "team": "Buffalo Bills"
           },
           {
-            "matchup": "week5_game13",
-            "team": "Kansas City Chiefs"
+            "team": "Kansas City Chiefs",
+            "matchup": "week5_game13"
           },
           {
-            "matchup": "week5_game3",
-            "team": "New Orleans Saints"
+            "team": "New Orleans Saints",
+            "matchup": "week5_game3"
           },
           {
-            "team": "Minnesota Vikings",
-            "matchup": "week5_game1"
+            "matchup": "week5_game1",
+            "team": "Minnesota Vikings"
           }
         ],
         "bonus": "Kansas City Chiefs"
@@ -1040,24 +1040,24 @@
       "week6": {
         "picks": [
           {
-            "matchup": "week6_game14",
-            "team": "Washington Commanders"
+            "team": "Washington Commanders",
+            "matchup": "week6_game14"
           },
           {
             "team": "Tennessee Titans",
             "matchup": "week6_game9"
           },
           {
-            "matchup": "week6_game0",
-            "team": "Philadelphia Eagles"
+            "team": "Philadelphia Eagles",
+            "matchup": "week6_game0"
           },
           {
             "team": "Seattle Seahawks",
             "matchup": "week6_game7"
           },
           {
-            "matchup": "week6_game13",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week6_game13"
           }
         ],
         "bonus": "Washington Commanders"
@@ -1069,8 +1069,8 @@
             "team": "Green Bay Packers"
           },
           {
-            "team": "Detroit Lions",
-            "matchup": "week7_game13"
+            "matchup": "week7_game13",
+            "team": "Detroit Lions"
           },
           {
             "matchup": "week7_game8",
@@ -1098,16 +1098,16 @@
             "team": "Buffalo Bills"
           },
           {
-            "team": "Green Bay Packers",
-            "matchup": "week8_game11"
+            "matchup": "week8_game11",
+            "team": "Green Bay Packers"
           },
           {
-            "team": "Indianapolis Colts",
-            "matchup": "week8_game10"
+            "matchup": "week8_game10",
+            "team": "Indianapolis Colts"
           },
           {
-            "team": "New Orleans Saints",
-            "matchup": "week8_game8"
+            "matchup": "week8_game8",
+            "team": "New Orleans Saints"
           }
         ],
         "bonus": "New Orleans Saints"
@@ -1115,8 +1115,8 @@
       "week9": {
         "picks": [
           {
-            "matchup": "week9_game3",
-            "team": "Green Bay Packers"
+            "team": "Green Bay Packers",
+            "matchup": "week9_game3"
           },
           {
             "team": "San Francisco 49ers",
@@ -1131,8 +1131,8 @@
             "matchup": "week9_game8"
           },
           {
-            "team": "Las Vegas Raiders",
-            "matchup": "week9_game9"
+            "matchup": "week9_game9",
+            "team": "Las Vegas Raiders"
           }
         ],
         "bonus": "San Francisco 49ers"
@@ -1173,16 +1173,16 @@
             "team": "Green Bay Packers"
           },
           {
-            "matchup": "week11_game11",
-            "team": "Baltimore Ravens"
+            "team": "Baltimore Ravens",
+            "matchup": "week11_game11"
           },
           {
-            "matchup": "week11_game12",
-            "team": "Kansas City Chiefs"
+            "team": "Kansas City Chiefs",
+            "matchup": "week11_game12"
           },
           {
-            "matchup": "week11_game14",
-            "team": "Dallas Cowboys"
+            "team": "Dallas Cowboys",
+            "matchup": "week11_game14"
           }
         ],
         "bonus": "Dallas Cowboys"
@@ -1190,12 +1190,12 @@
       "week12": {
         "picks": [
           {
-            "team": "Detroit Lions",
-            "matchup": "week12_game3"
+            "matchup": "week12_game3",
+            "team": "Detroit Lions"
           },
           {
-            "team": "Kansas City Chiefs",
-            "matchup": "week12_game6"
+            "matchup": "week12_game6",
+            "team": "Kansas City Chiefs"
           },
           {
             "team": "Baltimore Ravens",
@@ -1206,8 +1206,8 @@
             "matchup": "week12_game10"
           },
           {
-            "matchup": "week12_game13",
-            "team": "San Francisco 49ers"
+            "team": "San Francisco 49ers",
+            "matchup": "week12_game13"
           }
         ],
         "bonus": "Philadelphia Eagles"
@@ -1244,16 +1244,16 @@
             "matchup": "week14_game3"
           },
           {
-            "matchup": "week14_game5",
-            "team": "Miami Dolphins"
+            "team": "Miami Dolphins",
+            "matchup": "week14_game5"
           },
           {
-            "matchup": "week14_game11",
-            "team": "Los Angeles Rams"
+            "team": "Los Angeles Rams",
+            "matchup": "week14_game11"
           },
           {
-            "matchup": "week14_game0",
-            "team": "Detroit Lions"
+            "team": "Detroit Lions",
+            "matchup": "week14_game0"
           },
           {
             "matchup": "week14_game7",
@@ -1273,8 +1273,8 @@
             "matchup": "week15_game5"
           },
           {
-            "matchup": "week15_game15",
-            "team": "Miami Dolphins"
+            "team": "Miami Dolphins",
+            "matchup": "week15_game15"
           },
           {
             "team": "Houston Texans",
@@ -1290,16 +1290,16 @@
       "week16": {
         "picks": [
           {
-            "matchup": "week16_game1",
-            "team": "Green Bay Packers"
+            "team": "Green Bay Packers",
+            "matchup": "week16_game1"
           },
           {
-            "matchup": "week16_game3",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week16_game3"
           },
           {
-            "matchup": "week16_game5",
-            "team": "Kansas City Chiefs"
+            "team": "Kansas City Chiefs",
+            "matchup": "week16_game5"
           },
           {
             "matchup": "week16_game10",
@@ -1315,20 +1315,20 @@
       "week17": {
         "picks": [
           {
-            "team": "Las Vegas Raiders",
-            "matchup": "week17_game5"
+            "matchup": "week17_game5",
+            "team": "Las Vegas Raiders"
           },
           {
-            "matchup": "week17_game2",
-            "team": "Kansas City Chiefs"
+            "team": "Kansas City Chiefs",
+            "matchup": "week17_game2"
           },
           {
             "matchup": "week17_game1",
             "team": "Detroit Lions"
           },
           {
-            "matchup": "week17_game7",
-            "team": "Seattle Seahawks"
+            "team": "Seattle Seahawks",
+            "matchup": "week17_game7"
           },
           {
             "team": "Indianapolis Colts",
@@ -1340,12 +1340,12 @@
       "week18": {
         "picks": [
           {
-            "team": "Dallas Cowboys",
-            "matchup": "week18_game9"
+            "matchup": "week18_game9",
+            "team": "Dallas Cowboys"
           },
           {
-            "matchup": "week18_game12",
-            "team": "Seattle Seahawks"
+            "team": "Seattle Seahawks",
+            "matchup": "week18_game12"
           },
           {
             "matchup": "week18_game14",
@@ -1378,12 +1378,12 @@
             "matchup": "week1_game7"
           },
           {
-            "team": "Cincinnati Bengals",
-            "matchup": "week1_game3"
+            "matchup": "week1_game3",
+            "team": "Cincinnati Bengals"
           },
           {
-            "team": "Washington Commanders",
-            "matchup": "week1_game8"
+            "matchup": "week1_game8",
+            "team": "Washington Commanders"
           },
           {
             "matchup": "week1_game10",
@@ -1399,16 +1399,16 @@
             "team": "Cincinnati Bengals"
           },
           {
-            "team": "Buffalo Bills",
-            "matchup": "week2_game7"
+            "matchup": "week2_game7",
+            "team": "Buffalo Bills"
           },
           {
-            "matchup": "week2_game15",
-            "team": "Los Angeles Chargers"
+            "team": "Los Angeles Chargers",
+            "matchup": "week2_game15"
           },
           {
-            "matchup": "week2_game8",
-            "team": "Seattle Seahawks"
+            "team": "Seattle Seahawks",
+            "matchup": "week2_game8"
           },
           {
             "team": "Baltimore Ravens",
@@ -1424,8 +1424,8 @@
             "team": "Green Bay Packers"
           },
           {
-            "matchup": "week3_game14",
-            "team": "Kansas City Chiefs"
+            "team": "Kansas City Chiefs",
+            "matchup": "week3_game14"
           },
           {
             "matchup": "week3_game9",
@@ -1445,24 +1445,24 @@
       "week4": {
         "picks": [
           {
-            "matchup": "week4_game1",
-            "team": "Minnesota Vikings"
+            "team": "Minnesota Vikings",
+            "matchup": "week4_game1"
           },
           {
-            "matchup": "week4_game9",
-            "team": "Los Angeles Rams"
+            "team": "Los Angeles Rams",
+            "matchup": "week4_game9"
           },
           {
-            "matchup": "week4_game7",
-            "team": "Philadelphia Eagles"
+            "team": "Philadelphia Eagles",
+            "matchup": "week4_game7"
           },
           {
-            "team": "Buffalo Bills",
-            "matchup": "week4_game3"
+            "matchup": "week4_game3",
+            "team": "Buffalo Bills"
           },
           {
-            "matchup": "week4_game6",
-            "team": "Los Angeles Chargers"
+            "team": "Los Angeles Chargers",
+            "matchup": "week4_game6"
           }
         ],
         "bonus": "Los Angeles Chargers"
@@ -1474,20 +1474,20 @@
             "matchup": "week5_game4"
           },
           {
-            "matchup": "week5_game12",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week5_game12"
           },
           {
             "matchup": "week5_game13",
             "team": "Kansas City Chiefs"
           },
           {
-            "team": "Los Angeles Rams",
-            "matchup": "week5_game0"
+            "matchup": "week5_game0",
+            "team": "Los Angeles Rams"
           },
           {
-            "team": "Arizona Cardinals",
-            "matchup": "week5_game8"
+            "matchup": "week5_game8",
+            "team": "Arizona Cardinals"
           }
         ],
         "bonus": "Kansas City Chiefs"
@@ -1495,8 +1495,8 @@
       "week6": {
         "picks": [
           {
-            "matchup": "week6_game0",
-            "team": "Philadelphia Eagles"
+            "team": "Philadelphia Eagles",
+            "matchup": "week6_game0"
           },
           {
             "matchup": "week6_game14",
@@ -1507,12 +1507,12 @@
             "team": "Tampa Bay Buccaneers"
           },
           {
-            "team": "Denver Broncos",
-            "matchup": "week6_game1"
+            "matchup": "week6_game1",
+            "team": "Denver Broncos"
           },
           {
-            "matchup": "week6_game6",
-            "team": "Dallas Cowboys"
+            "team": "Dallas Cowboys",
+            "matchup": "week6_game6"
           }
         ],
         "bonus": "Philadelphia Eagles"
@@ -1545,12 +1545,12 @@
       "week8": {
         "picks": [
           {
-            "team": "Cincinnati Bengals",
-            "matchup": "week8_game2"
+            "matchup": "week8_game2",
+            "team": "Cincinnati Bengals"
           },
           {
-            "team": "Buffalo Bills",
-            "matchup": "week8_game5"
+            "matchup": "week8_game5",
+            "team": "Buffalo Bills"
           },
           {
             "team": "Baltimore Ravens",
@@ -1561,8 +1561,8 @@
             "matchup": "week8_game11"
           },
           {
-            "matchup": "week8_game4",
-            "team": "Philadelphia Eagles"
+            "team": "Philadelphia Eagles",
+            "matchup": "week8_game4"
           }
         ],
         "bonus": "Cincinnati Bengals"
@@ -1599,8 +1599,8 @@
             "matchup": "week10_game3"
           },
           {
-            "team": "Los Angeles Chargers",
-            "matchup": "week10_game12"
+            "matchup": "week10_game12",
+            "team": "Los Angeles Chargers"
           },
           {
             "team": "Tampa Bay Buccaneers",
@@ -1611,8 +1611,8 @@
             "matchup": "week10_game9"
           },
           {
-            "team": "Denver Broncos",
-            "matchup": "week10_game0"
+            "matchup": "week10_game0",
+            "team": "Denver Broncos"
           }
         ],
         "bonus": "Tampa Bay Buccaneers"
@@ -1624,16 +1624,16 @@
             "team": "Minnesota Vikings"
           },
           {
-            "matchup": "week11_game6",
-            "team": "Green Bay Packers"
+            "team": "Green Bay Packers",
+            "matchup": "week11_game6"
           },
           {
             "matchup": "week11_game11",
             "team": "Baltimore Ravens"
           },
           {
-            "matchup": "week11_game14",
-            "team": "Dallas Cowboys"
+            "team": "Dallas Cowboys",
+            "matchup": "week11_game14"
           },
           {
             "matchup": "week11_game7",
@@ -1645,20 +1645,20 @@
       "week12": {
         "picks": [
           {
-            "matchup": "week12_game2",
-            "team": "Cincinnati Bengals"
+            "team": "Cincinnati Bengals",
+            "matchup": "week12_game2"
           },
           {
-            "matchup": "week12_game3",
-            "team": "Detroit Lions"
+            "team": "Detroit Lions",
+            "matchup": "week12_game3"
           },
           {
-            "team": "Baltimore Ravens",
-            "matchup": "week12_game7"
+            "matchup": "week12_game7",
+            "team": "Baltimore Ravens"
           },
           {
-            "team": "San Francisco 49ers",
-            "matchup": "week12_game13"
+            "matchup": "week12_game13",
+            "team": "San Francisco 49ers"
           },
           {
             "team": "Kansas City Chiefs",
@@ -1670,24 +1670,24 @@
       "week13": {
         "picks": [
           {
-            "team": "Philadelphia Eagles",
-            "matchup": "week13_game3"
+            "matchup": "week13_game3",
+            "team": "Philadelphia Eagles"
           },
           {
             "team": "Atlanta Falcons",
             "matchup": "week13_game8"
           },
           {
-            "matchup": "week13_game10",
-            "team": "Los Angeles Rams"
+            "team": "Los Angeles Rams",
+            "matchup": "week13_game10"
           },
           {
             "matchup": "week13_game12",
             "team": "Buffalo Bills"
           },
           {
-            "matchup": "week13_game7",
-            "team": "Miami Dolphins"
+            "team": "Miami Dolphins",
+            "matchup": "week13_game7"
           }
         ],
         "bonus": "Atlanta Falcons"
@@ -1695,24 +1695,24 @@
       "week14": {
         "picks": [
           {
-            "matchup": "week14_game3",
-            "team": "Green Bay Packers"
+            "team": "Green Bay Packers",
+            "matchup": "week14_game3"
           },
           {
-            "team": "Kansas City Chiefs",
-            "matchup": "week14_game12"
+            "matchup": "week14_game12",
+            "team": "Kansas City Chiefs"
           },
           {
             "team": "Tampa Bay Buccaneers",
             "matchup": "week14_game6"
           },
           {
-            "matchup": "week14_game9",
-            "team": "Denver Broncos"
+            "team": "Denver Broncos",
+            "matchup": "week14_game9"
           },
           {
-            "team": "Baltimore Ravens",
-            "matchup": "week14_game8"
+            "matchup": "week14_game8",
+            "team": "Baltimore Ravens"
           }
         ],
         "bonus": "Denver Broncos"
@@ -1720,24 +1720,24 @@
       "week15": {
         "picks": [
           {
-            "team": "Green Bay Packers",
-            "matchup": "week15_game9"
+            "matchup": "week15_game9",
+            "team": "Green Bay Packers"
           },
           {
             "matchup": "week15_game7",
             "team": "Jacksonville Jaguars"
           },
           {
-            "team": "Minnesota Vikings",
-            "matchup": "week15_game14"
+            "matchup": "week15_game14",
+            "team": "Minnesota Vikings"
           },
           {
-            "team": "Philadelphia Eagles",
-            "matchup": "week15_game6"
+            "matchup": "week15_game6",
+            "team": "Philadelphia Eagles"
           },
           {
-            "matchup": "week15_game1",
-            "team": "Chicago Bears"
+            "team": "Chicago Bears",
+            "matchup": "week15_game1"
           }
         ],
         "bonus": "Jacksonville Jaguars"
@@ -1749,20 +1749,20 @@
             "matchup": "week16_game1"
           },
           {
-            "team": "Buffalo Bills",
-            "matchup": "week16_game3"
+            "matchup": "week16_game3",
+            "team": "Buffalo Bills"
           },
           {
-            "matchup": "week16_game8",
-            "team": "Tampa Bay Buccaneers"
+            "team": "Tampa Bay Buccaneers",
+            "matchup": "week16_game8"
           },
           {
-            "team": "Minnesota Vikings",
-            "matchup": "week16_game7"
+            "matchup": "week16_game7",
+            "team": "Minnesota Vikings"
           },
           {
-            "team": "Houston Texans",
-            "matchup": "week16_game13"
+            "matchup": "week16_game13",
+            "team": "Houston Texans"
           }
         ],
         "bonus": "Buffalo Bills"
@@ -1770,12 +1770,12 @@
       "week17": {
         "picks": [
           {
-            "team": "Seattle Seahawks",
-            "matchup": "week17_game7"
+            "matchup": "week17_game7",
+            "team": "Seattle Seahawks"
           },
           {
-            "team": "Tampa Bay Buccaneers",
-            "matchup": "week17_game11"
+            "matchup": "week17_game11",
+            "team": "Tampa Bay Buccaneers"
           },
           {
             "matchup": "week17_game3",
@@ -1803,8 +1803,8 @@
             "team": "Miami Dolphins"
           },
           {
-            "team": "Baltimore Ravens",
-            "matchup": "week18_game11"
+            "matchup": "week18_game11",
+            "team": "Baltimore Ravens"
           },
           {
             "team": "Cincinnati Bengals",
@@ -1829,12 +1829,12 @@
             "matchup": "week1_game0"
           },
           {
-            "team": "Cincinnati Bengals",
-            "matchup": "week1_game3"
+            "matchup": "week1_game3",
+            "team": "Cincinnati Bengals"
           },
           {
-            "team": "Washington Commanders",
-            "matchup": "week1_game8"
+            "matchup": "week1_game8",
+            "team": "Washington Commanders"
           },
           {
             "team": "Denver Broncos",
@@ -1862,12 +1862,12 @@
             "team": "Dallas Cowboys"
           },
           {
-            "team": "Cincinnati Bengals",
-            "matchup": "week2_game1"
+            "matchup": "week2_game1",
+            "team": "Cincinnati Bengals"
           },
           {
-            "matchup": "week2_game9",
-            "team": "Baltimore Ravens"
+            "team": "Baltimore Ravens",
+            "matchup": "week2_game9"
           }
         ],
         "bonus": "Cincinnati Bengals"
@@ -1879,8 +1879,8 @@
             "matchup": "week3_game6"
           },
           {
-            "matchup": "week3_game1",
-            "team": "Green Bay Packers"
+            "team": "Green Bay Packers",
+            "matchup": "week3_game1"
           },
           {
             "team": "Philadelphia Eagles",
@@ -1891,8 +1891,8 @@
             "matchup": "week3_game7"
           },
           {
-            "matchup": "week3_game11",
-            "team": "Seattle Seahawks"
+            "team": "Seattle Seahawks",
+            "matchup": "week3_game11"
           }
         ],
         "bonus": "Tampa Bay Buccaneers"
@@ -1900,8 +1900,8 @@
       "week4": {
         "picks": [
           {
-            "matchup": "week4_game3",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week4_game3"
           },
           {
             "team": "Detroit Lions",
@@ -1912,12 +1912,12 @@
             "matchup": "week4_game8"
           },
           {
-            "matchup": "week4_game10",
-            "team": "San Francisco 49ers"
+            "team": "San Francisco 49ers",
+            "matchup": "week4_game10"
           },
           {
-            "matchup": "week4_game14",
-            "team": "Miami Dolphins"
+            "team": "Miami Dolphins",
+            "matchup": "week4_game14"
           }
         ],
         "bonus": "Buffalo Bills"
@@ -1925,8 +1925,8 @@
       "week5": {
         "picks": [
           {
-            "team": "Minnesota Vikings",
-            "matchup": "week5_game1"
+            "matchup": "week5_game1",
+            "team": "Minnesota Vikings"
           },
           {
             "team": "Baltimore Ravens",
@@ -1941,8 +1941,8 @@
             "matchup": "week5_game12"
           },
           {
-            "team": "Kansas City Chiefs",
-            "matchup": "week5_game13"
+            "matchup": "week5_game13",
+            "team": "Kansas City Chiefs"
           }
         ],
         "bonus": "Minnesota Vikings"
@@ -1958,8 +1958,8 @@
             "team": "Philadelphia Eagles"
           },
           {
-            "matchup": "week6_game8",
-            "team": "Baltimore Ravens"
+            "team": "Baltimore Ravens",
+            "matchup": "week6_game8"
           },
           {
             "matchup": "week6_game4",
@@ -1987,12 +1987,12 @@
             "team": "Denver Broncos"
           },
           {
-            "matchup": "week7_game12",
-            "team": "San Francisco 49ers"
+            "team": "San Francisco 49ers",
+            "matchup": "week7_game12"
           },
           {
-            "matchup": "week7_game13",
-            "team": "Detroit Lions"
+            "team": "Detroit Lions",
+            "matchup": "week7_game13"
           }
         ],
         "bonus": "Chicago Bears"
@@ -2008,12 +2008,12 @@
             "matchup": "week8_game2"
           },
           {
-            "matchup": "week8_game6",
-            "team": "Baltimore Ravens"
+            "team": "Baltimore Ravens",
+            "matchup": "week8_game6"
           },
           {
-            "team": "Buffalo Bills",
-            "matchup": "week8_game5"
+            "matchup": "week8_game5",
+            "team": "Buffalo Bills"
           },
           {
             "matchup": "week8_game8",
@@ -2025,8 +2025,8 @@
       "week9": {
         "picks": [
           {
-            "team": "Green Bay Packers",
-            "matchup": "week9_game3"
+            "matchup": "week9_game3",
+            "team": "Green Bay Packers"
           },
           {
             "matchup": "week9_game2",
@@ -2037,12 +2037,12 @@
             "matchup": "week9_game10"
           },
           {
-            "matchup": "week9_game6",
-            "team": "San Francisco 49ers"
+            "team": "San Francisco 49ers",
+            "matchup": "week9_game6"
           },
           {
-            "matchup": "week9_game7",
-            "team": "Pittsburgh Steelers"
+            "team": "Pittsburgh Steelers",
+            "matchup": "week9_game7"
           }
         ],
         "bonus": "Green Bay Packers"
@@ -2054,20 +2054,20 @@
             "team": "Houston Texans"
           },
           {
-            "team": "Tampa Bay Buccaneers",
-            "matchup": "week10_game6"
+            "matchup": "week10_game6",
+            "team": "Tampa Bay Buccaneers"
           },
           {
             "matchup": "week10_game2",
             "team": "Chicago Bears"
           },
           {
-            "matchup": "week10_game0",
-            "team": "Denver Broncos"
+            "team": "Denver Broncos",
+            "matchup": "week10_game0"
           },
           {
-            "matchup": "week10_game5",
-            "team": "New York Jets"
+            "team": "New York Jets",
+            "matchup": "week10_game5"
           }
         ],
         "bonus": "Houston Texans"
@@ -2087,12 +2087,12 @@
             "team": "Los Angeles Chargers"
           },
           {
-            "matchup": "week11_game11",
-            "team": "Baltimore Ravens"
+            "team": "Baltimore Ravens",
+            "matchup": "week11_game11"
           },
           {
-            "team": "Los Angeles Rams",
-            "matchup": "week11_game9"
+            "matchup": "week11_game9",
+            "team": "Los Angeles Rams"
           }
         ],
         "bonus": "Baltimore Ravens"
@@ -2100,8 +2100,8 @@
       "week12": {
         "picks": [
           {
-            "team": "Cincinnati Bengals",
-            "matchup": "week12_game2"
+            "matchup": "week12_game2",
+            "team": "Cincinnati Bengals"
           },
           {
             "matchup": "week12_game3",
@@ -2112,8 +2112,8 @@
             "team": "Baltimore Ravens"
           },
           {
-            "team": "Kansas City Chiefs",
-            "matchup": "week12_game6"
+            "matchup": "week12_game6",
+            "team": "Kansas City Chiefs"
           },
           {
             "matchup": "week12_game13",
@@ -2129,12 +2129,12 @@
             "matchup": "week13_game3"
           },
           {
-            "matchup": "week13_game10",
-            "team": "Los Angeles Rams"
+            "team": "Los Angeles Rams",
+            "matchup": "week13_game10"
           },
           {
-            "team": "San Francisco 49ers",
-            "matchup": "week13_game4"
+            "matchup": "week13_game4",
+            "team": "San Francisco 49ers"
           },
           {
             "matchup": "week13_game13",
@@ -2154,20 +2154,20 @@
             "matchup": "week14_game0"
           },
           {
-            "matchup": "week14_game3",
-            "team": "Green Bay Packers"
+            "team": "Green Bay Packers",
+            "matchup": "week14_game3"
           },
           {
             "team": "Tampa Bay Buccaneers",
             "matchup": "week14_game6"
           },
           {
-            "matchup": "week14_game12",
-            "team": "Kansas City Chiefs"
+            "team": "Kansas City Chiefs",
+            "matchup": "week14_game12"
           },
           {
-            "matchup": "week14_game9",
-            "team": "Denver Broncos"
+            "team": "Denver Broncos",
+            "matchup": "week14_game9"
           }
         ],
         "bonus": "Kansas City Chiefs"
@@ -2175,8 +2175,8 @@
       "week15": {
         "picks": [
           {
-            "team": "Chicago Bears",
-            "matchup": "week15_game1"
+            "matchup": "week15_game1",
+            "team": "Chicago Bears"
           },
           {
             "matchup": "week15_game0",
@@ -2187,12 +2187,12 @@
             "team": "Philadelphia Eagles"
           },
           {
-            "matchup": "week15_game12",
-            "team": "San Francisco 49ers"
+            "team": "San Francisco 49ers",
+            "matchup": "week15_game12"
           },
           {
-            "team": "Pittsburgh Steelers",
-            "matchup": "week15_game15"
+            "matchup": "week15_game15",
+            "team": "Pittsburgh Steelers"
           }
         ],
         "bonus": "San Francisco 49ers"
@@ -2208,8 +2208,8 @@
             "matchup": "week16_game5"
           },
           {
-            "team": "Denver Broncos",
-            "matchup": "week16_game10"
+            "matchup": "week16_game10",
+            "team": "Denver Broncos"
           },
           {
             "team": "Tampa Bay Buccaneers",
@@ -2225,12 +2225,12 @@
       "week17": {
         "picks": [
           {
-            "matchup": "week17_game7",
-            "team": "Seattle Seahawks"
+            "team": "Seattle Seahawks",
+            "matchup": "week17_game7"
           },
           {
-            "team": "Cincinnati Bengals",
-            "matchup": "week17_game3"
+            "matchup": "week17_game3",
+            "team": "Cincinnati Bengals"
           },
           {
             "matchup": "week17_game5",
@@ -2241,8 +2241,8 @@
             "matchup": "week17_game9"
           },
           {
-            "matchup": "week17_game14",
-            "team": "San Francisco 49ers"
+            "team": "San Francisco 49ers",
+            "matchup": "week17_game14"
           }
         ],
         "bonus": "Seattle Seahawks"
@@ -2250,24 +2250,24 @@
       "week18": {
         "picks": [
           {
-            "matchup": "week18_game0",
-            "team": "Atlanta Falcons"
+            "team": "Atlanta Falcons",
+            "matchup": "week18_game0"
           },
           {
             "team": "Buffalo Bills",
             "matchup": "week18_game1"
           },
           {
-            "team": "Cincinnati Bengals",
-            "matchup": "week18_game3"
+            "matchup": "week18_game3",
+            "team": "Cincinnati Bengals"
           },
           {
             "matchup": "week18_game12",
             "team": "San Francisco 49ers"
           },
           {
-            "team": "Tampa Bay Buccaneers",
-            "matchup": "week18_game13"
+            "matchup": "week18_game13",
+            "team": "Tampa Bay Buccaneers"
           }
         ],
         "bonus": "Atlanta Falcons"
@@ -2280,8 +2280,8 @@
       "week1": {
         "picks": [
           {
-            "matchup": "week1_game6",
-            "team": "Arizona Cardinals"
+            "team": "Arizona Cardinals",
+            "matchup": "week1_game6"
           },
           {
             "matchup": "week1_game10",
@@ -2292,12 +2292,12 @@
             "matchup": "week1_game11"
           },
           {
-            "team": "Las Vegas Raiders",
-            "matchup": "week1_game5"
+            "matchup": "week1_game5",
+            "team": "Las Vegas Raiders"
           },
           {
-            "matchup": "week1_game8",
-            "team": "Washington Commanders"
+            "team": "Washington Commanders",
+            "matchup": "week1_game8"
           }
         ],
         "bonus": "Arizona Cardinals"
@@ -2309,8 +2309,8 @@
             "matchup": "week2_game1"
           },
           {
-            "team": "Miami Dolphins",
-            "matchup": "week2_game5"
+            "matchup": "week2_game5",
+            "team": "Miami Dolphins"
           },
           {
             "matchup": "week2_game6",
@@ -2321,8 +2321,8 @@
             "matchup": "week2_game13"
           },
           {
-            "matchup": "week2_game11",
-            "team": "Arizona Cardinals"
+            "team": "Arizona Cardinals",
+            "matchup": "week2_game11"
           }
         ],
         "bonus": "Minnesota Vikings"
@@ -2334,16 +2334,16 @@
             "matchup": "week3_game0"
           },
           {
-            "team": "Green Bay Packers",
-            "matchup": "week3_game1"
+            "matchup": "week3_game1",
+            "team": "Green Bay Packers"
           },
           {
             "team": "Washington Commanders",
             "matchup": "week3_game7"
           },
           {
-            "team": "Seattle Seahawks",
-            "matchup": "week3_game11"
+            "matchup": "week3_game11",
+            "team": "Seattle Seahawks"
           },
           {
             "matchup": "week3_game6",
@@ -2359,16 +2359,16 @@
             "matchup": "week4_game3"
           },
           {
-            "team": "Detroit Lions",
-            "matchup": "week4_game4"
+            "matchup": "week4_game4",
+            "team": "Detroit Lions"
           },
           {
             "matchup": "week4_game10",
             "team": "San Francisco 49ers"
           },
           {
-            "team": "Green Bay Packers",
-            "matchup": "week4_game13"
+            "matchup": "week4_game13",
+            "team": "Green Bay Packers"
           },
           {
             "team": "Houston Texans",
@@ -2384,20 +2384,20 @@
             "matchup": "week5_game8"
           },
           {
-            "matchup": "week5_game12",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week5_game12"
           },
           {
-            "team": "Kansas City Chiefs",
-            "matchup": "week5_game13"
+            "matchup": "week5_game13",
+            "team": "Kansas City Chiefs"
           },
           {
-            "matchup": "week5_game3",
-            "team": "New York Giants"
+            "team": "New York Giants",
+            "matchup": "week5_game3"
           },
           {
-            "matchup": "week5_game1",
-            "team": "Minnesota Vikings"
+            "team": "Minnesota Vikings",
+            "matchup": "week5_game1"
           }
         ],
         "bonus": "New York Giants"
@@ -2405,8 +2405,8 @@
       "week6": {
         "picks": [
           {
-            "team": "Dallas Cowboys",
-            "matchup": "week6_game6"
+            "matchup": "week6_game6",
+            "team": "Dallas Cowboys"
           },
           {
             "team": "Washington Commanders",
@@ -2430,8 +2430,8 @@
       "week7": {
         "picks": [
           {
-            "team": "Chicago Bears",
-            "matchup": "week7_game2"
+            "matchup": "week7_game2",
+            "team": "Chicago Bears"
           },
           {
             "team": "New York Jets",
@@ -2446,8 +2446,8 @@
             "team": "Los Angeles Chargers"
           },
           {
-            "matchup": "week7_game14",
-            "team": "Seattle Seahawks"
+            "team": "Seattle Seahawks",
+            "matchup": "week7_game14"
           }
         ],
         "bonus": "Chicago Bears"
@@ -2455,24 +2455,24 @@
       "week8": {
         "picks": [
           {
-            "team": "Philadelphia Eagles",
-            "matchup": "week8_game4"
+            "matchup": "week8_game4",
+            "team": "Philadelphia Eagles"
           },
           {
             "team": "Houston Texans",
             "matchup": "week8_game7"
           },
           {
-            "matchup": "week8_game8",
-            "team": "Tampa Bay Buccaneers"
+            "team": "Tampa Bay Buccaneers",
+            "matchup": "week8_game8"
           },
           {
-            "matchup": "week8_game5",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week8_game5"
           },
           {
-            "matchup": "week8_game11",
-            "team": "Green Bay Packers"
+            "team": "Green Bay Packers",
+            "matchup": "week8_game11"
           }
         ],
         "bonus": "Tampa Bay Buccaneers"
@@ -2488,16 +2488,16 @@
             "team": "Green Bay Packers"
           },
           {
-            "matchup": "week9_game8",
-            "team": "Houston Texans"
+            "team": "Houston Texans",
+            "matchup": "week9_game8"
           },
           {
             "matchup": "week9_game9",
             "team": "Las Vegas Raiders"
           },
           {
-            "team": "Los Angeles Rams",
-            "matchup": "week9_game10"
+            "matchup": "week9_game10",
+            "team": "Los Angeles Rams"
           }
         ],
         "bonus": "Los Angeles Rams"
@@ -2505,8 +2505,8 @@
       "week10": {
         "picks": [
           {
-            "matchup": "week10_game12",
-            "team": "Los Angeles Chargers"
+            "team": "Los Angeles Chargers",
+            "matchup": "week10_game12"
           },
           {
             "matchup": "week10_game9",
@@ -2538,16 +2538,16 @@
             "matchup": "week11_game6"
           },
           {
-            "matchup": "week11_game3",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week11_game3"
           },
           {
             "matchup": "week11_game1",
             "team": "Washington Commanders"
           },
           {
-            "team": "Los Angeles Chargers",
-            "matchup": "week11_game8"
+            "matchup": "week11_game8",
+            "team": "Los Angeles Chargers"
           }
         ],
         "bonus": "Los Angeles Chargers"
@@ -2555,12 +2555,12 @@
       "week12": {
         "picks": [
           {
-            "team": "Cincinnati Bengals",
-            "matchup": "week12_game2"
+            "matchup": "week12_game2",
+            "team": "Cincinnati Bengals"
           },
           {
-            "team": "Detroit Lions",
-            "matchup": "week12_game3"
+            "matchup": "week12_game3",
+            "team": "Detroit Lions"
           },
           {
             "matchup": "week12_game6",
@@ -2571,8 +2571,8 @@
             "matchup": "week12_game13"
           },
           {
-            "team": "Las Vegas Raiders",
-            "matchup": "week12_game8"
+            "matchup": "week12_game8",
+            "team": "Las Vegas Raiders"
           }
         ],
         "bonus": "Las Vegas Raiders"
@@ -2580,16 +2580,16 @@
       "week13": {
         "picks": [
           {
-            "team": "Philadelphia Eagles",
-            "matchup": "week13_game3"
+            "matchup": "week13_game3",
+            "team": "Philadelphia Eagles"
           },
           {
-            "team": "Miami Dolphins",
-            "matchup": "week13_game7"
+            "matchup": "week13_game7",
+            "team": "Miami Dolphins"
           },
           {
-            "matchup": "week13_game8",
-            "team": "New York Jets"
+            "team": "New York Jets",
+            "matchup": "week13_game8"
           },
           {
             "matchup": "week13_game10",
@@ -2609,16 +2609,16 @@
             "team": "Detroit Lions"
           },
           {
-            "matchup": "week14_game6",
-            "team": "Tampa Bay Buccaneers"
+            "team": "Tampa Bay Buccaneers",
+            "matchup": "week14_game6"
           },
           {
             "team": "Jacksonville Jaguars",
             "matchup": "week14_game7"
           },
           {
-            "team": "Kansas City Chiefs",
-            "matchup": "week14_game12"
+            "matchup": "week14_game12",
+            "team": "Kansas City Chiefs"
           },
           {
             "matchup": "week14_game8",
@@ -2642,8 +2642,8 @@
             "matchup": "week15_game4"
           },
           {
-            "matchup": "week15_game12",
-            "team": "San Francisco 49ers"
+            "team": "San Francisco 49ers",
+            "matchup": "week15_game12"
           },
           {
             "team": "Seattle Seahawks",
@@ -2667,12 +2667,12 @@
             "team": "Denver Broncos"
           },
           {
-            "team": "Detroit Lions",
-            "matchup": "week16_game12"
+            "matchup": "week16_game12",
+            "team": "Detroit Lions"
           },
           {
-            "matchup": "week16_game6",
-            "team": "New York Jets"
+            "team": "New York Jets",
+            "matchup": "week16_game6"
           }
         ],
         "bonus": "Baltimore Ravens"
@@ -2680,20 +2680,20 @@
       "week17": {
         "picks": [
           {
-            "matchup": "week17_game0",
-            "team": "Washington Commanders"
+            "team": "Washington Commanders",
+            "matchup": "week17_game0"
           },
           {
             "team": "Cincinnati Bengals",
             "matchup": "week17_game3"
           },
           {
-            "matchup": "week17_game5",
-            "team": "Las Vegas Raiders"
+            "team": "Las Vegas Raiders",
+            "matchup": "week17_game5"
           },
           {
-            "team": "New York Jets",
-            "matchup": "week17_game12"
+            "matchup": "week17_game12",
+            "team": "New York Jets"
           },
           {
             "team": "Seattle Seahawks",
@@ -2705,24 +2705,24 @@
       "week18": {
         "picks": [
           {
-            "team": "Atlanta Falcons",
-            "matchup": "week18_game0"
+            "matchup": "week18_game0",
+            "team": "Atlanta Falcons"
           },
           {
             "team": "Cincinnati Bengals",
             "matchup": "week18_game3"
           },
           {
-            "team": "Tampa Bay Buccaneers",
-            "matchup": "week18_game13"
+            "matchup": "week18_game13",
+            "team": "Tampa Bay Buccaneers"
           },
           {
             "team": "Houston Texans",
             "matchup": "week18_game15"
           },
           {
-            "matchup": "week18_game6",
-            "team": "Los Angeles Rams"
+            "team": "Los Angeles Rams",
+            "matchup": "week18_game6"
           }
         ],
         "bonus": "Cincinnati Bengals"
@@ -2739,16 +2739,16 @@
             "matchup": "week1_game8"
           },
           {
-            "team": "Minnesota Vikings",
-            "matchup": "week1_game15"
+            "matchup": "week1_game15",
+            "team": "Minnesota Vikings"
           },
           {
-            "team": "Cincinnati Bengals",
-            "matchup": "week1_game3"
+            "matchup": "week1_game3",
+            "team": "Cincinnati Bengals"
           },
           {
-            "matchup": "week1_game10",
-            "team": "Denver Broncos"
+            "team": "Denver Broncos",
+            "matchup": "week1_game10"
           },
           {
             "team": "Philadelphia Eagles",
@@ -2760,20 +2760,20 @@
       "week2": {
         "picks": [
           {
-            "team": "Baltimore Ravens",
-            "matchup": "week2_game9"
+            "matchup": "week2_game9",
+            "team": "Baltimore Ravens"
           },
           {
             "team": "Detroit Lions",
             "matchup": "week2_game3"
           },
           {
-            "matchup": "week2_game7",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week2_game7"
           },
           {
-            "team": "Los Angeles Chargers",
-            "matchup": "week2_game15"
+            "matchup": "week2_game15",
+            "team": "Los Angeles Chargers"
           },
           {
             "matchup": "week2_game4",
@@ -2785,20 +2785,20 @@
       "week3": {
         "picks": [
           {
-            "team": "Green Bay Packers",
-            "matchup": "week3_game1"
+            "matchup": "week3_game1",
+            "team": "Green Bay Packers"
           },
           {
-            "team": "Kansas City Chiefs",
-            "matchup": "week3_game14"
+            "matchup": "week3_game14",
+            "team": "Kansas City Chiefs"
           },
           {
-            "team": "Washington Commanders",
-            "matchup": "week3_game7"
+            "matchup": "week3_game7",
+            "team": "Washington Commanders"
           },
           {
-            "team": "Pittsburgh Steelers",
-            "matchup": "week3_game4"
+            "matchup": "week3_game4",
+            "team": "Pittsburgh Steelers"
           },
           {
             "team": "Buffalo Bills",
@@ -2814,12 +2814,12 @@
             "matchup": "week4_game4"
           },
           {
-            "matchup": "week4_game3",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week4_game3"
           },
           {
-            "team": "Los Angeles Chargers",
-            "matchup": "week4_game6"
+            "matchup": "week4_game6",
+            "team": "Los Angeles Chargers"
           },
           {
             "matchup": "week4_game8",
@@ -2835,12 +2835,12 @@
       "week5": {
         "picks": [
           {
-            "team": "Minnesota Vikings",
-            "matchup": "week5_game1"
+            "matchup": "week5_game1",
+            "team": "Minnesota Vikings"
           },
           {
-            "team": "Kansas City Chiefs",
-            "matchup": "week5_game13"
+            "matchup": "week5_game13",
+            "team": "Kansas City Chiefs"
           },
           {
             "team": "Buffalo Bills",
@@ -2851,8 +2851,8 @@
             "team": "Detroit Lions"
           },
           {
-            "matchup": "week5_game8",
-            "team": "Arizona Cardinals"
+            "team": "Arizona Cardinals",
+            "matchup": "week5_game8"
           }
         ],
         "bonus": "Minnesota Vikings"
@@ -2860,8 +2860,8 @@
       "week6": {
         "picks": [
           {
-            "matchup": "week6_game0",
-            "team": "Philadelphia Eagles"
+            "team": "Philadelphia Eagles",
+            "matchup": "week6_game0"
           },
           {
             "matchup": "week6_game14",
@@ -2872,12 +2872,12 @@
             "team": "Pittsburgh Steelers"
           },
           {
-            "matchup": "week6_game7",
-            "team": "Seattle Seahawks"
+            "team": "Seattle Seahawks",
+            "matchup": "week6_game7"
           },
           {
-            "team": "Buffalo Bills",
-            "matchup": "week6_game13"
+            "matchup": "week6_game13",
+            "team": "Buffalo Bills"
           }
         ],
         "bonus": "Philadelphia Eagles"
@@ -2893,12 +2893,12 @@
             "team": "Kansas City Chiefs"
           },
           {
-            "matchup": "week7_game1",
-            "team": "Los Angeles Rams"
+            "team": "Los Angeles Rams",
+            "matchup": "week7_game1"
           },
           {
-            "team": "Washington Commanders",
-            "matchup": "week7_game10"
+            "matchup": "week7_game10",
+            "team": "Washington Commanders"
           },
           {
             "team": "Miami Dolphins",
@@ -2910,24 +2910,24 @@
       "week8": {
         "picks": [
           {
-            "matchup": "week8_game10",
-            "team": "Indianapolis Colts"
+            "team": "Indianapolis Colts",
+            "matchup": "week8_game10"
           },
           {
-            "team": "Philadelphia Eagles",
-            "matchup": "week8_game4"
+            "matchup": "week8_game4",
+            "team": "Philadelphia Eagles"
           },
           {
-            "team": "Buffalo Bills",
-            "matchup": "week8_game5"
+            "matchup": "week8_game5",
+            "team": "Buffalo Bills"
           },
           {
             "team": "Baltimore Ravens",
             "matchup": "week8_game6"
           },
           {
-            "team": "Tampa Bay Buccaneers",
-            "matchup": "week8_game8"
+            "matchup": "week8_game8",
+            "team": "Tampa Bay Buccaneers"
           }
         ],
         "bonus": "Indianapolis Colts"
@@ -2935,20 +2935,20 @@
       "week9": {
         "picks": [
           {
-            "team": "Los Angeles Chargers",
-            "matchup": "week9_game4"
+            "matchup": "week9_game4",
+            "team": "Los Angeles Chargers"
           },
           {
-            "matchup": "week9_game3",
-            "team": "Green Bay Packers"
+            "team": "Green Bay Packers",
+            "matchup": "week9_game3"
           },
           {
             "team": "Baltimore Ravens",
             "matchup": "week9_game0"
           },
           {
-            "matchup": "week9_game1",
-            "team": "Cincinnati Bengals"
+            "team": "Cincinnati Bengals",
+            "matchup": "week9_game1"
           },
           {
             "team": "Los Angeles Rams",
@@ -2964,20 +2964,20 @@
             "matchup": "week10_game6"
           },
           {
-            "matchup": "week10_game0",
-            "team": "Denver Broncos"
+            "team": "Denver Broncos",
+            "matchup": "week10_game0"
           },
           {
             "team": "Buffalo Bills",
             "matchup": "week10_game3"
           },
           {
-            "team": "Houston Texans",
-            "matchup": "week10_game8"
+            "matchup": "week10_game8",
+            "team": "Houston Texans"
           },
           {
-            "team": "Detroit Lions",
-            "matchup": "week10_game11"
+            "matchup": "week10_game11",
+            "team": "Detroit Lions"
           }
         ],
         "bonus": "Tampa Bay Buccaneers"
@@ -2985,8 +2985,8 @@
       "week11": {
         "picks": [
           {
-            "matchup": "week11_game4",
-            "team": "Houston Texans"
+            "team": "Houston Texans",
+            "matchup": "week11_game4"
           },
           {
             "team": "Baltimore Ravens",
@@ -2997,8 +2997,8 @@
             "team": "Minnesota Vikings"
           },
           {
-            "team": "Green Bay Packers",
-            "matchup": "week11_game6"
+            "matchup": "week11_game6",
+            "team": "Green Bay Packers"
           },
           {
             "matchup": "week11_game8",
@@ -3010,20 +3010,20 @@
       "week12": {
         "picks": [
           {
-            "matchup": "week12_game5",
-            "team": "Seattle Seahawks"
+            "team": "Seattle Seahawks",
+            "matchup": "week12_game5"
           },
           {
             "team": "Detroit Lions",
             "matchup": "week12_game3"
           },
           {
-            "team": "Baltimore Ravens",
-            "matchup": "week12_game7"
+            "matchup": "week12_game7",
+            "team": "Baltimore Ravens"
           },
           {
-            "team": "Kansas City Chiefs",
-            "matchup": "week12_game6"
+            "matchup": "week12_game6",
+            "team": "Kansas City Chiefs"
           },
           {
             "matchup": "week12_game10",
@@ -3035,24 +3035,24 @@
       "week13": {
         "picks": [
           {
-            "matchup": "week13_game10",
-            "team": "Los Angeles Rams"
+            "team": "Los Angeles Rams",
+            "matchup": "week13_game10"
           },
           {
-            "matchup": "week13_game0",
-            "team": "Detroit Lions"
+            "team": "Detroit Lions",
+            "matchup": "week13_game0"
           },
           {
-            "team": "Philadelphia Eagles",
-            "matchup": "week13_game3"
+            "matchup": "week13_game3",
+            "team": "Philadelphia Eagles"
           },
           {
             "matchup": "week13_game1",
             "team": "Kansas City Chiefs"
           },
           {
-            "matchup": "week13_game13",
-            "team": "Los Angeles Chargers"
+            "team": "Los Angeles Chargers",
+            "matchup": "week13_game13"
           }
         ],
         "bonus": "Los Angeles Rams"
@@ -3072,12 +3072,12 @@
             "team": "Green Bay Packers"
           },
           {
-            "team": "Denver Broncos",
-            "matchup": "week14_game9"
+            "matchup": "week14_game9",
+            "team": "Denver Broncos"
           },
           {
-            "team": "Tampa Bay Buccaneers",
-            "matchup": "week14_game6"
+            "matchup": "week14_game6",
+            "team": "Tampa Bay Buccaneers"
           }
         ],
         "bonus": "Miami Dolphins"
@@ -3093,16 +3093,16 @@
             "matchup": "week15_game6"
           },
           {
-            "team": "Washington Commanders",
-            "matchup": "week15_game5"
+            "matchup": "week15_game5",
+            "team": "Washington Commanders"
           },
           {
             "matchup": "week15_game14",
             "team": "Minnesota Vikings"
           },
           {
-            "matchup": "week15_game10",
-            "team": "Detroit Lions"
+            "team": "Detroit Lions",
+            "matchup": "week15_game10"
           }
         ],
         "bonus": "Buffalo Bills"
@@ -3110,8 +3110,8 @@
       "week16": {
         "picks": [
           {
-            "team": "Kansas City Chiefs",
-            "matchup": "week16_game5"
+            "matchup": "week16_game5",
+            "team": "Kansas City Chiefs"
           },
           {
             "team": "Minnesota Vikings",
@@ -3135,8 +3135,8 @@
       "week17": {
         "picks": [
           {
-            "team": "Pittsburgh Steelers",
-            "matchup": "week17_game8"
+            "matchup": "week17_game8",
+            "team": "Pittsburgh Steelers"
           },
           {
             "matchup": "week17_game0",
@@ -3151,8 +3151,8 @@
             "team": "Kansas City Chiefs"
           },
           {
-            "team": "Indianapolis Colts",
-            "matchup": "week17_game10"
+            "matchup": "week17_game10",
+            "team": "Indianapolis Colts"
           }
         ],
         "bonus": "Pittsburgh Steelers"
@@ -3160,16 +3160,16 @@
       "week18": {
         "picks": [
           {
-            "team": "Cincinnati Bengals",
-            "matchup": "week18_game3"
+            "matchup": "week18_game3",
+            "team": "Cincinnati Bengals"
           },
           {
-            "matchup": "week18_game13",
-            "team": "Tampa Bay Buccaneers"
+            "team": "Tampa Bay Buccaneers",
+            "matchup": "week18_game13"
           },
           {
-            "matchup": "week18_game2",
-            "team": "Detroit Lions"
+            "team": "Detroit Lions",
+            "matchup": "week18_game2"
           },
           {
             "team": "Kansas City Chiefs",
@@ -3198,16 +3198,16 @@
             "team": "Cincinnati Bengals"
           },
           {
-            "matchup": "week1_game10",
-            "team": "Denver Broncos"
+            "team": "Denver Broncos",
+            "matchup": "week1_game10"
           },
           {
             "team": "Arizona Cardinals",
             "matchup": "week1_game6"
           },
           {
-            "matchup": "week1_game8",
-            "team": "Washington Commanders"
+            "team": "Washington Commanders",
+            "matchup": "week1_game8"
           }
         ],
         "bonus": "Denver Broncos"
@@ -3215,20 +3215,20 @@
       "week2": {
         "picks": [
           {
-            "matchup": "week2_game7",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week2_game7"
           },
           {
             "team": "Baltimore Ravens",
             "matchup": "week2_game9"
           },
           {
-            "matchup": "week2_game3",
-            "team": "Detroit Lions"
+            "team": "Detroit Lions",
+            "matchup": "week2_game3"
           },
           {
-            "team": "Arizona Cardinals",
-            "matchup": "week2_game11"
+            "matchup": "week2_game11",
+            "team": "Arizona Cardinals"
           },
           {
             "team": "Cincinnati Bengals",
@@ -3240,24 +3240,24 @@
       "week3": {
         "picks": [
           {
-            "team": "Buffalo Bills",
-            "matchup": "week3_game0"
+            "matchup": "week3_game0",
+            "team": "Buffalo Bills"
           },
           {
-            "matchup": "week3_game7",
-            "team": "Washington Commanders"
+            "team": "Washington Commanders",
+            "matchup": "week3_game7"
           },
           {
-            "matchup": "week3_game14",
-            "team": "Kansas City Chiefs"
+            "team": "Kansas City Chiefs",
+            "matchup": "week3_game14"
           },
           {
-            "team": "Green Bay Packers",
-            "matchup": "week3_game1"
+            "matchup": "week3_game1",
+            "team": "Green Bay Packers"
           },
           {
-            "team": "Houston Texans",
-            "matchup": "week3_game9"
+            "matchup": "week3_game9",
+            "team": "Houston Texans"
           }
         ],
         "bonus": "Kansas City Chiefs"
@@ -3265,20 +3265,20 @@
       "week4": {
         "picks": [
           {
-            "team": "Buffalo Bills",
-            "matchup": "week4_game3"
+            "matchup": "week4_game3",
+            "team": "Buffalo Bills"
           },
           {
             "team": "Detroit Lions",
             "matchup": "week4_game4"
           },
           {
-            "team": "Los Angeles Rams",
-            "matchup": "week4_game9"
+            "matchup": "week4_game9",
+            "team": "Los Angeles Rams"
           },
           {
-            "team": "San Francisco 49ers",
-            "matchup": "week4_game10"
+            "matchup": "week4_game10",
+            "team": "San Francisco 49ers"
           },
           {
             "matchup": "week4_game14",
@@ -3294,16 +3294,16 @@
             "matchup": "week5_game7"
           },
           {
-            "matchup": "week5_game12",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week5_game12"
           },
           {
-            "matchup": "week5_game13",
-            "team": "Kansas City Chiefs"
+            "team": "Kansas City Chiefs",
+            "matchup": "week5_game13"
           },
           {
-            "matchup": "week5_game1",
-            "team": "Minnesota Vikings"
+            "team": "Minnesota Vikings",
+            "matchup": "week5_game1"
           },
           {
             "matchup": "week5_game9",
@@ -3315,16 +3315,16 @@
       "week6": {
         "picks": [
           {
-            "team": "Buffalo Bills",
-            "matchup": "week6_game13"
+            "matchup": "week6_game13",
+            "team": "Buffalo Bills"
           },
           {
-            "team": "Washington Commanders",
-            "matchup": "week6_game14"
+            "matchup": "week6_game14",
+            "team": "Washington Commanders"
           },
           {
-            "team": "Philadelphia Eagles",
-            "matchup": "week6_game0"
+            "matchup": "week6_game0",
+            "team": "Philadelphia Eagles"
           },
           {
             "matchup": "week6_game1",
@@ -3352,12 +3352,12 @@
             "team": "Green Bay Packers"
           },
           {
-            "matchup": "week7_game12",
-            "team": "San Francisco 49ers"
+            "team": "San Francisco 49ers",
+            "matchup": "week7_game12"
           },
           {
-            "matchup": "week7_game1",
-            "team": "Los Angeles Rams"
+            "team": "Los Angeles Rams",
+            "matchup": "week7_game1"
           }
         ],
         "bonus": "San Francisco 49ers"
@@ -3377,12 +3377,12 @@
             "team": "Buffalo Bills"
           },
           {
-            "matchup": "week8_game6",
-            "team": "Baltimore Ravens"
+            "team": "Baltimore Ravens",
+            "matchup": "week8_game6"
           },
           {
-            "team": "Tampa Bay Buccaneers",
-            "matchup": "week8_game8"
+            "matchup": "week8_game8",
+            "team": "Tampa Bay Buccaneers"
           }
         ],
         "bonus": "Philadelphia Eagles"
@@ -3423,16 +3423,16 @@
             "team": "Buffalo Bills"
           },
           {
-            "matchup": "week10_game8",
-            "team": "Houston Texans"
+            "team": "Houston Texans",
+            "matchup": "week10_game8"
           },
           {
-            "matchup": "week10_game12",
-            "team": "Los Angeles Chargers"
+            "team": "Los Angeles Chargers",
+            "matchup": "week10_game12"
           },
           {
-            "matchup": "week10_game6",
-            "team": "Tampa Bay Buccaneers"
+            "team": "Tampa Bay Buccaneers",
+            "matchup": "week10_game6"
           }
         ],
         "bonus": "Houston Texans"
@@ -3440,20 +3440,20 @@
       "week11": {
         "picks": [
           {
-            "team": "Dallas Cowboys",
-            "matchup": "week11_game14"
+            "matchup": "week11_game14",
+            "team": "Dallas Cowboys"
           },
           {
             "team": "Los Angeles Rams",
             "matchup": "week11_game9"
           },
           {
-            "team": "Baltimore Ravens",
-            "matchup": "week11_game11"
+            "matchup": "week11_game11",
+            "team": "Baltimore Ravens"
           },
           {
-            "team": "Minnesota Vikings",
-            "matchup": "week11_game5"
+            "matchup": "week11_game5",
+            "team": "Minnesota Vikings"
           },
           {
             "team": "Los Angeles Chargers",
@@ -3465,12 +3465,12 @@
       "week12": {
         "picks": [
           {
-            "team": "Baltimore Ravens",
-            "matchup": "week12_game7"
+            "matchup": "week12_game7",
+            "team": "Baltimore Ravens"
           },
           {
-            "team": "Kansas City Chiefs",
-            "matchup": "week12_game6"
+            "matchup": "week12_game6",
+            "team": "Kansas City Chiefs"
           },
           {
             "matchup": "week12_game3",
@@ -3481,8 +3481,8 @@
             "team": "Cincinnati Bengals"
           },
           {
-            "matchup": "week12_game13",
-            "team": "San Francisco 49ers"
+            "team": "San Francisco 49ers",
+            "matchup": "week12_game13"
           }
         ],
         "bonus": "Detroit Lions"
@@ -3494,8 +3494,8 @@
             "team": "Philadelphia Eagles"
           },
           {
-            "matchup": "week13_game10",
-            "team": "Los Angeles Rams"
+            "team": "Los Angeles Rams",
+            "matchup": "week13_game10"
           },
           {
             "team": "Los Angeles Chargers",
@@ -3506,8 +3506,8 @@
             "team": "Buffalo Bills"
           },
           {
-            "matchup": "week13_game11",
-            "team": "Minnesota Vikings"
+            "team": "Minnesota Vikings",
+            "matchup": "week13_game11"
           }
         ],
         "bonus": "Los Angeles Rams"
@@ -3515,24 +3515,24 @@
       "week14": {
         "picks": [
           {
-            "team": "Green Bay Packers",
-            "matchup": "week14_game3"
+            "matchup": "week14_game3",
+            "team": "Green Bay Packers"
           },
           {
-            "matchup": "week14_game8",
-            "team": "Baltimore Ravens"
+            "team": "Baltimore Ravens",
+            "matchup": "week14_game8"
           },
           {
             "matchup": "week14_game9",
             "team": "Denver Broncos"
           },
           {
-            "matchup": "week14_game6",
-            "team": "Tampa Bay Buccaneers"
+            "team": "Tampa Bay Buccaneers",
+            "matchup": "week14_game6"
           },
           {
-            "matchup": "week14_game0",
-            "team": "Detroit Lions"
+            "team": "Detroit Lions",
+            "matchup": "week14_game0"
           }
         ],
         "bonus": "Tampa Bay Buccaneers"
@@ -3544,20 +3544,20 @@
             "team": "Buffalo Bills"
           },
           {
-            "matchup": "week15_game5",
-            "team": "Washington Commanders"
+            "team": "Washington Commanders",
+            "matchup": "week15_game5"
           },
           {
-            "matchup": "week15_game6",
-            "team": "Philadelphia Eagles"
+            "team": "Philadelphia Eagles",
+            "matchup": "week15_game6"
           },
           {
             "matchup": "week15_game12",
             "team": "San Francisco 49ers"
           },
           {
-            "matchup": "week15_game0",
-            "team": "Tampa Bay Buccaneers"
+            "team": "Tampa Bay Buccaneers",
+            "matchup": "week15_game0"
           }
         ],
         "bonus": "Washington Commanders"
@@ -3565,8 +3565,8 @@
       "week16": {
         "picks": [
           {
-            "matchup": "week16_game12",
-            "team": "Detroit Lions"
+            "team": "Detroit Lions",
+            "matchup": "week16_game12"
           },
           {
             "team": "Baltimore Ravens",
@@ -3581,8 +3581,8 @@
             "team": "Kansas City Chiefs"
           },
           {
-            "team": "Houston Texans",
-            "matchup": "week16_game13"
+            "matchup": "week16_game13",
+            "team": "Houston Texans"
           }
         ],
         "bonus": "Baltimore Ravens"
@@ -3590,24 +3590,24 @@
       "week17": {
         "picks": [
           {
-            "team": "Los Angeles Rams",
-            "matchup": "week17_game15"
+            "matchup": "week17_game15",
+            "team": "Los Angeles Rams"
           },
           {
             "team": "Washington Commanders",
             "matchup": "week17_game0"
           },
           {
-            "team": "Cincinnati Bengals",
-            "matchup": "week17_game3"
+            "matchup": "week17_game3",
+            "team": "Cincinnati Bengals"
           },
           {
-            "team": "Tampa Bay Buccaneers",
-            "matchup": "week17_game11"
+            "matchup": "week17_game11",
+            "team": "Tampa Bay Buccaneers"
           },
           {
-            "matchup": "week17_game14",
-            "team": "San Francisco 49ers"
+            "team": "San Francisco 49ers",
+            "matchup": "week17_game14"
           }
         ],
         "bonus": "Cincinnati Bengals"
@@ -3627,8 +3627,8 @@
             "matchup": "week18_game2"
           },
           {
-            "team": "Cincinnati Bengals",
-            "matchup": "week18_game3"
+            "matchup": "week18_game3",
+            "team": "Cincinnati Bengals"
           },
           {
             "matchup": "week18_game15",
@@ -3653,16 +3653,16 @@
             "matchup": "week1_game3"
           },
           {
-            "team": "Denver Broncos",
-            "matchup": "week1_game10"
+            "matchup": "week1_game10",
+            "team": "Denver Broncos"
           },
           {
-            "team": "Pittsburgh Steelers",
-            "matchup": "week1_game7"
+            "matchup": "week1_game7",
+            "team": "Pittsburgh Steelers"
           },
           {
-            "team": "Minnesota Vikings",
-            "matchup": "week1_game15"
+            "matchup": "week1_game15",
+            "team": "Minnesota Vikings"
           }
         ],
         "bonus": "Philadelphia Eagles"
@@ -3670,16 +3670,16 @@
       "week2": {
         "picks": [
           {
-            "team": "Buffalo Bills",
-            "matchup": "week2_game7"
+            "matchup": "week2_game7",
+            "team": "Buffalo Bills"
           },
           {
             "matchup": "week2_game9",
             "team": "Baltimore Ravens"
           },
           {
-            "matchup": "week2_game6",
-            "team": "San Francisco 49ers"
+            "team": "San Francisco 49ers",
+            "matchup": "week2_game6"
           },
           {
             "matchup": "week2_game3",
@@ -3695,24 +3695,24 @@
       "week3": {
         "picks": [
           {
-            "team": "Green Bay Packers",
-            "matchup": "week3_game1"
+            "matchup": "week3_game1",
+            "team": "Green Bay Packers"
           },
           {
             "matchup": "week3_game6",
             "team": "Tampa Bay Buccaneers"
           },
           {
-            "team": "Kansas City Chiefs",
-            "matchup": "week3_game14"
+            "matchup": "week3_game14",
+            "team": "Kansas City Chiefs"
           },
           {
-            "matchup": "week3_game8",
-            "team": "Atlanta Falcons"
+            "team": "Atlanta Falcons",
+            "matchup": "week3_game8"
           },
           {
-            "matchup": "week3_game0",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week3_game0"
           }
         ],
         "bonus": "Buffalo Bills"
@@ -3720,16 +3720,16 @@
       "week4": {
         "picks": [
           {
-            "matchup": "week4_game6",
-            "team": "Los Angeles Chargers"
+            "team": "Los Angeles Chargers",
+            "matchup": "week4_game6"
           },
           {
-            "matchup": "week4_game8",
-            "team": "Houston Texans"
+            "team": "Houston Texans",
+            "matchup": "week4_game8"
           },
           {
-            "team": "Los Angeles Rams",
-            "matchup": "week4_game9"
+            "matchup": "week4_game9",
+            "team": "Los Angeles Rams"
           },
           {
             "team": "Detroit Lions",
@@ -3749,20 +3749,20 @@
             "matchup": "week5_game13"
           },
           {
-            "team": "Arizona Cardinals",
-            "matchup": "week5_game8"
+            "matchup": "week5_game8",
+            "team": "Arizona Cardinals"
           },
           {
-            "matchup": "week5_game9",
-            "team": "Tampa Bay Buccaneers"
+            "team": "Tampa Bay Buccaneers",
+            "matchup": "week5_game9"
           },
           {
             "team": "Baltimore Ravens",
             "matchup": "week5_game7"
           },
           {
-            "matchup": "week5_game1",
-            "team": "Minnesota Vikings"
+            "team": "Minnesota Vikings",
+            "matchup": "week5_game1"
           }
         ],
         "bonus": "Kansas City Chiefs"
@@ -3770,20 +3770,20 @@
       "week6": {
         "picks": [
           {
-            "team": "Denver Broncos",
-            "matchup": "week6_game1"
+            "matchup": "week6_game1",
+            "team": "Denver Broncos"
           },
           {
-            "team": "Los Angeles Chargers",
-            "matchup": "week6_game3"
+            "matchup": "week6_game3",
+            "team": "Los Angeles Chargers"
           },
           {
-            "matchup": "week6_game4",
-            "team": "Pittsburgh Steelers"
+            "team": "Pittsburgh Steelers",
+            "matchup": "week6_game4"
           },
           {
-            "team": "Washington Commanders",
-            "matchup": "week6_game14"
+            "matchup": "week6_game14",
+            "team": "Washington Commanders"
           },
           {
             "matchup": "week6_game13",
@@ -3795,20 +3795,20 @@
       "week7": {
         "picks": [
           {
-            "team": "Washington Commanders",
-            "matchup": "week7_game10"
+            "matchup": "week7_game10",
+            "team": "Washington Commanders"
           },
           {
             "matchup": "week7_game8",
             "team": "Denver Broncos"
           },
           {
-            "matchup": "week7_game1",
-            "team": "Los Angeles Rams"
+            "team": "Los Angeles Rams",
+            "matchup": "week7_game1"
           },
           {
-            "matchup": "week7_game9",
-            "team": "Los Angeles Chargers"
+            "team": "Los Angeles Chargers",
+            "matchup": "week7_game9"
           },
           {
             "team": "Kansas City Chiefs",
@@ -3832,12 +3832,12 @@
             "team": "Philadelphia Eagles"
           },
           {
-            "matchup": "week8_game5",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week8_game5"
           },
           {
-            "team": "Tampa Bay Buccaneers",
-            "matchup": "week8_game8"
+            "matchup": "week8_game8",
+            "team": "Tampa Bay Buccaneers"
           }
         ],
         "bonus": "New England Patriots"
@@ -3845,24 +3845,24 @@
       "week9": {
         "picks": [
           {
-            "matchup": "week9_game3",
-            "team": "Green Bay Packers"
+            "team": "Green Bay Packers",
+            "matchup": "week9_game3"
           },
           {
-            "team": "Los Angeles Rams",
-            "matchup": "week9_game10"
+            "matchup": "week9_game10",
+            "team": "Los Angeles Rams"
           },
           {
-            "matchup": "week9_game12",
-            "team": "Washington Commanders"
+            "team": "Washington Commanders",
+            "matchup": "week9_game12"
           },
           {
-            "team": "Cincinnati Bengals",
-            "matchup": "week9_game1"
+            "matchup": "week9_game1",
+            "team": "Cincinnati Bengals"
           },
           {
-            "matchup": "week9_game0",
-            "team": "Baltimore Ravens"
+            "team": "Baltimore Ravens",
+            "matchup": "week9_game0"
           }
         ],
         "bonus": "Cincinnati Bengals"
@@ -3886,8 +3886,8 @@
             "team": "Baltimore Ravens"
           },
           {
-            "matchup": "week10_game6",
-            "team": "Tampa Bay Buccaneers"
+            "team": "Tampa Bay Buccaneers",
+            "matchup": "week10_game6"
           }
         ],
         "bonus": "Chicago Bears"
@@ -3895,8 +3895,8 @@
       "week11": {
         "picks": [
           {
-            "team": "Washington Commanders",
-            "matchup": "week11_game1"
+            "matchup": "week11_game1",
+            "team": "Washington Commanders"
           },
           {
             "team": "Houston Texans",
@@ -3920,16 +3920,16 @@
       "week12": {
         "picks": [
           {
-            "matchup": "week12_game3",
-            "team": "Detroit Lions"
+            "team": "Detroit Lions",
+            "matchup": "week12_game3"
           },
           {
-            "matchup": "week12_game6",
-            "team": "Kansas City Chiefs"
+            "team": "Kansas City Chiefs",
+            "matchup": "week12_game6"
           },
           {
-            "team": "Philadelphia Eagles",
-            "matchup": "week12_game10"
+            "matchup": "week12_game10",
+            "team": "Philadelphia Eagles"
           },
           {
             "team": "San Francisco 49ers",
@@ -3949,20 +3949,20 @@
             "matchup": "week13_game8"
           },
           {
-            "matchup": "week13_game12",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week13_game12"
           },
           {
-            "matchup": "week13_game13",
-            "team": "Los Angeles Chargers"
+            "team": "Los Angeles Chargers",
+            "matchup": "week13_game13"
           },
           {
-            "team": "Los Angeles Rams",
-            "matchup": "week13_game10"
+            "matchup": "week13_game10",
+            "team": "Los Angeles Rams"
           },
           {
-            "matchup": "week13_game5",
-            "team": "Jacksonville Jaguars"
+            "team": "Jacksonville Jaguars",
+            "matchup": "week13_game5"
           }
         ],
         "bonus": "Los Angeles Chargers"
@@ -3974,20 +3974,20 @@
             "team": "Tampa Bay Buccaneers"
           },
           {
-            "matchup": "week14_game8",
-            "team": "Baltimore Ravens"
+            "team": "Baltimore Ravens",
+            "matchup": "week14_game8"
           },
           {
             "team": "Los Angeles Rams",
             "matchup": "week14_game11"
           },
           {
-            "team": "Detroit Lions",
-            "matchup": "week14_game0"
+            "matchup": "week14_game0",
+            "team": "Detroit Lions"
           },
           {
-            "matchup": "week14_game3",
-            "team": "Green Bay Packers"
+            "team": "Green Bay Packers",
+            "matchup": "week14_game3"
           }
         ],
         "bonus": "Tampa Bay Buccaneers"
@@ -3995,20 +3995,20 @@
       "week15": {
         "picks": [
           {
-            "team": "Buffalo Bills",
-            "matchup": "week15_game4"
+            "matchup": "week15_game4",
+            "team": "Buffalo Bills"
           },
           {
             "team": "Pittsburgh Steelers",
             "matchup": "week15_game15"
           },
           {
-            "team": "Minnesota Vikings",
-            "matchup": "week15_game14"
+            "matchup": "week15_game14",
+            "team": "Minnesota Vikings"
           },
           {
-            "matchup": "week15_game8",
-            "team": "Houston Texans"
+            "team": "Houston Texans",
+            "matchup": "week15_game8"
           },
           {
             "team": "Philadelphia Eagles",
@@ -4020,24 +4020,24 @@
       "week16": {
         "picks": [
           {
-            "matchup": "week16_game3",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week16_game3"
           },
           {
-            "team": "Minnesota Vikings",
-            "matchup": "week16_game7"
+            "matchup": "week16_game7",
+            "team": "Minnesota Vikings"
           },
           {
             "matchup": "week16_game10",
             "team": "Denver Broncos"
           },
           {
-            "team": "Cincinnati Bengals",
-            "matchup": "week16_game14"
+            "matchup": "week16_game14",
+            "team": "Cincinnati Bengals"
           },
           {
-            "matchup": "week16_game5",
-            "team": "Kansas City Chiefs"
+            "team": "Kansas City Chiefs",
+            "matchup": "week16_game5"
           }
         ],
         "bonus": "Denver Broncos"
@@ -4049,16 +4049,16 @@
             "matchup": "week17_game0"
           },
           {
-            "team": "Cincinnati Bengals",
-            "matchup": "week17_game3"
+            "matchup": "week17_game3",
+            "team": "Cincinnati Bengals"
           },
           {
-            "matchup": "week17_game8",
-            "team": "Pittsburgh Steelers"
+            "team": "Pittsburgh Steelers",
+            "matchup": "week17_game8"
           },
           {
-            "team": "Tampa Bay Buccaneers",
-            "matchup": "week17_game11"
+            "matchup": "week17_game11",
+            "team": "Tampa Bay Buccaneers"
           },
           {
             "matchup": "week17_game15",
@@ -4074,8 +4074,8 @@
             "team": "Kansas City Chiefs"
           },
           {
-            "team": "Baltimore Ravens",
-            "matchup": "week18_game11"
+            "matchup": "week18_game11",
+            "team": "Baltimore Ravens"
           },
           {
             "matchup": "week18_game3",
@@ -4100,8 +4100,8 @@
       "week1": {
         "picks": [
           {
-            "matchup": "week1_game1",
-            "team": "Kansas City Chiefs"
+            "team": "Kansas City Chiefs",
+            "matchup": "week1_game1"
           },
           {
             "matchup": "week1_game10",
@@ -4116,8 +4116,8 @@
             "team": "Philadelphia Eagles"
           },
           {
-            "team": "Washington Commanders",
-            "matchup": "week1_game8"
+            "matchup": "week1_game8",
+            "team": "Washington Commanders"
           }
         ],
         "bonus": "Washington Commanders"
@@ -4141,8 +4141,8 @@
             "team": "Detroit Lions"
           },
           {
-            "matchup": "week2_game13",
-            "team": "Minnesota Vikings"
+            "team": "Minnesota Vikings",
+            "matchup": "week2_game13"
           }
         ],
         "bonus": "San Francisco 49ers"
@@ -4154,16 +4154,16 @@
             "matchup": "week3_game11"
           },
           {
-            "matchup": "week3_game1",
-            "team": "Green Bay Packers"
+            "team": "Green Bay Packers",
+            "matchup": "week3_game1"
           },
           {
             "team": "Buffalo Bills",
             "matchup": "week3_game0"
           },
           {
-            "team": "Kansas City Chiefs",
-            "matchup": "week3_game14"
+            "matchup": "week3_game14",
+            "team": "Kansas City Chiefs"
           },
           {
             "team": "Houston Texans",
@@ -4183,16 +4183,16 @@
             "matchup": "week4_game4"
           },
           {
-            "matchup": "week4_game8",
-            "team": "Houston Texans"
+            "team": "Houston Texans",
+            "matchup": "week4_game8"
           },
           {
             "matchup": "week4_game10",
             "team": "San Francisco 49ers"
           },
           {
-            "matchup": "week4_game9",
-            "team": "Los Angeles Rams"
+            "team": "Los Angeles Rams",
+            "matchup": "week4_game9"
           }
         ],
         "bonus": "Buffalo Bills"
@@ -4204,8 +4204,8 @@
             "team": "Kansas City Chiefs"
           },
           {
-            "matchup": "week5_game12",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week5_game12"
           },
           {
             "team": "Minnesota Vikings",
@@ -4216,8 +4216,8 @@
             "matchup": "week5_game6"
           },
           {
-            "team": "Dallas Cowboys",
-            "matchup": "week5_game4"
+            "matchup": "week5_game4",
+            "team": "Dallas Cowboys"
           }
         ],
         "bonus": "Minnesota Vikings"
@@ -4225,12 +4225,12 @@
       "week6": {
         "picks": [
           {
-            "team": "Philadelphia Eagles",
-            "matchup": "week6_game0"
+            "matchup": "week6_game0",
+            "team": "Philadelphia Eagles"
           },
           {
-            "team": "Pittsburgh Steelers",
-            "matchup": "week6_game4"
+            "matchup": "week6_game4",
+            "team": "Pittsburgh Steelers"
           },
           {
             "team": "Baltimore Ravens",
@@ -4241,8 +4241,8 @@
             "team": "Denver Broncos"
           },
           {
-            "matchup": "week6_game13",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week6_game13"
           }
         ],
         "bonus": "Denver Broncos"
@@ -4250,12 +4250,12 @@
       "week7": {
         "picks": [
           {
-            "team": "Chicago Bears",
-            "matchup": "week7_game2"
+            "matchup": "week7_game2",
+            "team": "Chicago Bears"
           },
           {
-            "matchup": "week7_game5",
-            "team": "Kansas City Chiefs"
+            "team": "Kansas City Chiefs",
+            "matchup": "week7_game5"
           },
           {
             "matchup": "week7_game8",
@@ -4275,16 +4275,16 @@
       "week8": {
         "picks": [
           {
-            "team": "Tampa Bay Buccaneers",
-            "matchup": "week8_game8"
+            "matchup": "week8_game8",
+            "team": "Tampa Bay Buccaneers"
           },
           {
-            "team": "Baltimore Ravens",
-            "matchup": "week8_game6"
+            "matchup": "week8_game6",
+            "team": "Baltimore Ravens"
           },
           {
-            "matchup": "week8_game5",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week8_game5"
           },
           {
             "team": "Denver Broncos",
@@ -4300,8 +4300,8 @@
       "week9": {
         "picks": [
           {
-            "team": "Baltimore Ravens",
-            "matchup": "week9_game0"
+            "matchup": "week9_game0",
+            "team": "Baltimore Ravens"
           },
           {
             "matchup": "week9_game3",
@@ -4325,24 +4325,24 @@
       "week10": {
         "picks": [
           {
-            "matchup": "week10_game10",
-            "team": "San Francisco 49ers"
+            "team": "San Francisco 49ers",
+            "matchup": "week10_game10"
           },
           {
-            "team": "Baltimore Ravens",
-            "matchup": "week10_game4"
+            "matchup": "week10_game4",
+            "team": "Baltimore Ravens"
           },
           {
-            "team": "Denver Broncos",
-            "matchup": "week10_game0"
+            "matchup": "week10_game0",
+            "team": "Denver Broncos"
           },
           {
-            "team": "Buffalo Bills",
-            "matchup": "week10_game3"
+            "matchup": "week10_game3",
+            "team": "Buffalo Bills"
           },
           {
-            "matchup": "week10_game8",
-            "team": "Houston Texans"
+            "team": "Houston Texans",
+            "matchup": "week10_game8"
           }
         ],
         "bonus": "Houston Texans"
@@ -4350,24 +4350,24 @@
       "week11": {
         "picks": [
           {
-            "matchup": "week11_game11",
-            "team": "Baltimore Ravens"
+            "team": "Baltimore Ravens",
+            "matchup": "week11_game11"
           },
           {
-            "team": "Houston Texans",
-            "matchup": "week11_game4"
+            "matchup": "week11_game4",
+            "team": "Houston Texans"
           },
           {
-            "team": "Dallas Cowboys",
-            "matchup": "week11_game14"
+            "matchup": "week11_game14",
+            "team": "Dallas Cowboys"
           },
           {
             "matchup": "week11_game10",
             "team": "San Francisco 49ers"
           },
           {
-            "matchup": "week11_game6",
-            "team": "Green Bay Packers"
+            "team": "Green Bay Packers",
+            "matchup": "week11_game6"
           }
         ],
         "bonus": "Dallas Cowboys"
@@ -4383,16 +4383,16 @@
             "team": "San Francisco 49ers"
           },
           {
-            "team": "Baltimore Ravens",
-            "matchup": "week12_game7"
+            "matchup": "week12_game7",
+            "team": "Baltimore Ravens"
           },
           {
             "team": "Detroit Lions",
             "matchup": "week12_game3"
           },
           {
-            "team": "Kansas City Chiefs",
-            "matchup": "week12_game6"
+            "matchup": "week12_game6",
+            "team": "Kansas City Chiefs"
           }
         ],
         "bonus": "Kansas City Chiefs"
@@ -4416,8 +4416,8 @@
             "matchup": "week13_game6"
           },
           {
-            "matchup": "week13_game4",
-            "team": "San Francisco 49ers"
+            "team": "San Francisco 49ers",
+            "matchup": "week13_game4"
           }
         ],
         "bonus": "Miami Dolphins"
@@ -4433,12 +4433,12 @@
             "matchup": "week14_game13"
           },
           {
-            "matchup": "week14_game0",
-            "team": "Detroit Lions"
+            "team": "Detroit Lions",
+            "matchup": "week14_game0"
           },
           {
-            "matchup": "week14_game8",
-            "team": "Baltimore Ravens"
+            "team": "Baltimore Ravens",
+            "matchup": "week14_game8"
           },
           {
             "matchup": "week14_game3",
@@ -4450,8 +4450,8 @@
       "week15": {
         "picks": [
           {
-            "team": "Houston Texans",
-            "matchup": "week15_game8"
+            "matchup": "week15_game8",
+            "team": "Houston Texans"
           },
           {
             "matchup": "week15_game12",
@@ -4462,8 +4462,8 @@
             "team": "Chicago Bears"
           },
           {
-            "team": "Philadelphia Eagles",
-            "matchup": "week15_game6"
+            "matchup": "week15_game6",
+            "team": "Philadelphia Eagles"
           },
           {
             "team": "Tampa Bay Buccaneers",
@@ -4479,20 +4479,20 @@
             "team": "Baltimore Ravens"
           },
           {
-            "matchup": "week16_game13",
-            "team": "Houston Texans"
+            "team": "Houston Texans",
+            "matchup": "week16_game13"
           },
           {
-            "team": "Detroit Lions",
-            "matchup": "week16_game12"
+            "matchup": "week16_game12",
+            "team": "Detroit Lions"
           },
           {
             "team": "Kansas City Chiefs",
             "matchup": "week16_game5"
           },
           {
-            "matchup": "week16_game3",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week16_game3"
           }
         ],
         "bonus": "Baltimore Ravens"
@@ -4500,8 +4500,8 @@
       "week17": {
         "picks": [
           {
-            "matchup": "week17_game4",
-            "team": "Baltimore Ravens"
+            "team": "Baltimore Ravens",
+            "matchup": "week17_game4"
           },
           {
             "team": "Detroit Lions",
@@ -4525,27 +4525,482 @@
       "week18": {
         "picks": [
           {
-            "team": "Buffalo Bills",
-            "matchup": "week18_game1"
+            "matchup": "week18_game1",
+            "team": "Buffalo Bills"
           },
           {
             "team": "Dallas Cowboys",
             "matchup": "week18_game9"
           },
           {
-            "matchup": "week18_game15",
-            "team": "Houston Texans"
+            "team": "Houston Texans",
+            "matchup": "week18_game15"
           },
           {
-            "team": "Kansas City Chiefs",
-            "matchup": "week18_game5"
+            "matchup": "week18_game5",
+            "team": "Kansas City Chiefs"
           },
           {
-            "matchup": "week18_game6",
-            "team": "Los Angeles Rams"
+            "team": "Los Angeles Rams",
+            "matchup": "week18_game6"
           }
         ],
         "bonus": "Los Angeles Rams"
+      }
+    }
+  },
+  "XKPW7eAMivNTYBrIivGGT9DFV022": {
+    "name": "Joey",
+    "weeks": {
+      "week1": {
+        "picks": [
+          {
+            "team": "Philadelphia Eagles",
+            "matchup": "week1_game0"
+          },
+          {
+            "team": "Atlanta Falcons",
+            "matchup": "week1_game2"
+          },
+          {
+            "matchup": "week1_game3",
+            "team": "Cincinnati Bengals"
+          },
+          {
+            "team": "Miami Dolphins",
+            "matchup": "week1_game4"
+          },
+          {
+            "team": "Washington Commanders",
+            "matchup": "week1_game8"
+          }
+        ],
+        "bonus": "Cincinnati Bengals"
+      },
+      "week2": {
+        "picks": [
+          {
+            "matchup": "week2_game7",
+            "team": "Buffalo Bills"
+          },
+          {
+            "matchup": "week2_game13",
+            "team": "Atlanta Falcons"
+          },
+          {
+            "matchup": "week2_game9",
+            "team": "Baltimore Ravens"
+          },
+          {
+            "matchup": "week2_game6",
+            "team": "San Francisco 49ers"
+          },
+          {
+            "matchup": "week2_game1",
+            "team": "Cincinnati Bengals"
+          }
+        ],
+        "bonus": "Buffalo Bills"
+      },
+      "week3": {
+        "picks": [
+          {
+            "team": "Atlanta Falcons",
+            "matchup": "week3_game8"
+          },
+          {
+            "matchup": "week3_game3",
+            "team": "Cincinnati Bengals"
+          },
+          {
+            "team": "Philadelphia Eagles",
+            "matchup": "week3_game5"
+          },
+          {
+            "matchup": "week3_game7",
+            "team": "Washington Commanders"
+          },
+          {
+            "team": "Kansas City Chiefs",
+            "matchup": "week3_game14"
+          }
+        ],
+        "bonus": "Atlanta Falcons"
+      },
+      "week4": {
+        "picks": [
+          {
+            "team": "San Francisco 49ers",
+            "matchup": "week4_game10"
+          },
+          {
+            "matchup": "week4_game4",
+            "team": "Detroit Lions"
+          },
+          {
+            "team": "Buffalo Bills",
+            "matchup": "week4_game3"
+          },
+          {
+            "matchup": "week4_game14",
+            "team": "Miami Dolphins"
+          },
+          {
+            "matchup": "week4_game9",
+            "team": "Los Angeles Rams"
+          }
+        ],
+        "bonus": "Miami Dolphins"
+      },
+      "week5": {
+        "picks": [
+          {
+            "team": "Buffalo Bills",
+            "matchup": "week5_game12"
+          },
+          {
+            "matchup": "week5_game5",
+            "team": "Philadelphia Eagles"
+          },
+          {
+            "matchup": "week5_game4",
+            "team": "Dallas Cowboys"
+          },
+          {
+            "team": "Miami Dolphins",
+            "matchup": "week5_game6"
+          },
+          {
+            "team": "Tampa Bay Buccaneers",
+            "matchup": "week5_game9"
+          }
+        ],
+        "bonus": "Dallas Cowboys"
+      },
+      "week6": {
+        "picks": [
+          {
+            "matchup": "week6_game14",
+            "team": "Washington Commanders"
+          },
+          {
+            "matchup": "week6_game6",
+            "team": "Dallas Cowboys"
+          },
+          {
+            "team": "Denver Broncos",
+            "matchup": "week6_game1"
+          },
+          {
+            "matchup": "week6_game0",
+            "team": "Philadelphia Eagles"
+          },
+          {
+            "matchup": "week6_game4",
+            "team": "Pittsburgh Steelers"
+          }
+        ],
+        "bonus": "Philadelphia Eagles"
+      },
+      "week7": {
+        "picks": [
+          {
+            "matchup": "week7_game1",
+            "team": "Los Angeles Rams"
+          },
+          {
+            "matchup": "week7_game0",
+            "team": "Cincinnati Bengals"
+          },
+          {
+            "matchup": "week7_game3",
+            "team": "Miami Dolphins"
+          },
+          {
+            "team": "Kansas City Chiefs",
+            "matchup": "week7_game5"
+          },
+          {
+            "matchup": "week7_game6",
+            "team": "Philadelphia Eagles"
+          }
+        ],
+        "bonus": "Kansas City Chiefs"
+      },
+      "week8": {
+        "picks": [
+          {
+            "team": "Philadelphia Eagles",
+            "matchup": "week8_game4"
+          },
+          {
+            "matchup": "week8_game2",
+            "team": "Cincinnati Bengals"
+          },
+          {
+            "team": "Buffalo Bills",
+            "matchup": "week8_game5"
+          },
+          {
+            "matchup": "week8_game6",
+            "team": "Baltimore Ravens"
+          },
+          {
+            "team": "Green Bay Packers",
+            "matchup": "week8_game11"
+          }
+        ],
+        "bonus": "Baltimore Ravens"
+      },
+      "week9": {
+        "picks": [
+          {
+            "matchup": "week9_game1",
+            "team": "Cincinnati Bengals"
+          },
+          {
+            "team": "Detroit Lions",
+            "matchup": "week9_game2"
+          },
+          {
+            "matchup": "week9_game6",
+            "team": "San Francisco 49ers"
+          },
+          {
+            "matchup": "week9_game5",
+            "team": "Atlanta Falcons"
+          },
+          {
+            "matchup": "week9_game3",
+            "team": "Green Bay Packers"
+          }
+        ],
+        "bonus": "San Francisco 49ers"
+      },
+      "week10": {
+        "picks": [
+          {
+            "team": "Denver Broncos",
+            "matchup": "week10_game0"
+          },
+          {
+            "matchup": "week10_game1",
+            "team": "Atlanta Falcons"
+          },
+          {
+            "team": "Philadelphia Eagles",
+            "matchup": "week10_game13"
+          },
+          {
+            "matchup": "week10_game4",
+            "team": "Baltimore Ravens"
+          },
+          {
+            "matchup": "week10_game2",
+            "team": "Chicago Bears"
+          }
+        ],
+        "bonus": "Denver Broncos"
+      },
+      "week11": {
+        "picks": [
+          {
+            "team": "Atlanta Falcons",
+            "matchup": "week11_game2"
+          },
+          {
+            "team": "Buffalo Bills",
+            "matchup": "week11_game3"
+          },
+          {
+            "matchup": "week11_game14",
+            "team": "Dallas Cowboys"
+          },
+          {
+            "matchup": "week11_game11",
+            "team": "Baltimore Ravens"
+          },
+          {
+            "team": "Los Angeles Rams",
+            "matchup": "week11_game9"
+          }
+        ],
+        "bonus": "Los Angeles Rams"
+      },
+      "week12": {
+        "picks": [
+          {
+            "matchup": "week12_game3",
+            "team": "Detroit Lions"
+          },
+          {
+            "team": "Baltimore Ravens",
+            "matchup": "week12_game7"
+          },
+          {
+            "team": "Atlanta Falcons",
+            "matchup": "week12_game11"
+          },
+          {
+            "matchup": "week12_game13",
+            "team": "San Francisco 49ers"
+          },
+          {
+            "team": "Cincinnati Bengals",
+            "matchup": "week12_game2"
+          }
+        ],
+        "bonus": "Detroit Lions"
+      },
+      "week13": {
+        "picks": [
+          {
+            "matchup": "week13_game3",
+            "team": "Philadelphia Eagles"
+          },
+          {
+            "matchup": "week13_game8",
+            "team": "Atlanta Falcons"
+          },
+          {
+            "matchup": "week13_game10",
+            "team": "Los Angeles Rams"
+          },
+          {
+            "team": "Buffalo Bills",
+            "matchup": "week13_game12"
+          },
+          {
+            "team": "Tampa Bay Buccaneers",
+            "matchup": "week13_game9"
+          }
+        ],
+        "bonus": "Tampa Bay Buccaneers"
+      },
+      "week14": {
+        "picks": [
+          {
+            "team": "Baltimore Ravens",
+            "matchup": "week14_game8"
+          },
+          {
+            "team": "Los Angeles Rams",
+            "matchup": "week14_game11"
+          },
+          {
+            "team": "Philadelphia Eagles",
+            "matchup": "week14_game13"
+          },
+          {
+            "team": "Miami Dolphins",
+            "matchup": "week14_game5"
+          },
+          {
+            "matchup": "week14_game3",
+            "team": "Green Bay Packers"
+          }
+        ],
+        "bonus": "Green Bay Packers"
+      },
+      "week15": {
+        "picks": [
+          {
+            "team": "New Orleans Saints",
+            "matchup": "week15_game11"
+          },
+          {
+            "team": "Buffalo Bills",
+            "matchup": "week15_game4"
+          },
+          {
+            "team": "Washington Commanders",
+            "matchup": "week15_game5"
+          },
+          {
+            "matchup": "week15_game6",
+            "team": "Philadelphia Eagles"
+          },
+          {
+            "matchup": "week15_game12",
+            "team": "San Francisco 49ers"
+          }
+        ],
+        "bonus": "Washington Commanders"
+      },
+      "week16": {
+        "picks": [
+          {
+            "team": "Buffalo Bills",
+            "matchup": "week16_game3"
+          },
+          {
+            "matchup": "week16_game8",
+            "team": "Tampa Bay Buccaneers"
+          },
+          {
+            "team": "San Francisco 49ers",
+            "matchup": "week16_game15"
+          },
+          {
+            "matchup": "week16_game12",
+            "team": "Detroit Lions"
+          },
+          {
+            "team": "New Orleans Saints",
+            "matchup": "week16_game6"
+          }
+        ],
+        "bonus": "New Orleans Saints"
+      },
+      "week17": {
+        "picks": [
+          {
+            "matchup": "week17_game3",
+            "team": "Cincinnati Bengals"
+          },
+          {
+            "team": "San Francisco 49ers",
+            "matchup": "week17_game14"
+          },
+          {
+            "team": "Houston Texans",
+            "matchup": "week17_game6"
+          },
+          {
+            "matchup": "week17_game12",
+            "team": "New England Patriots"
+          },
+          {
+            "matchup": "week17_game7",
+            "team": "Seattle Seahawks"
+          }
+        ],
+        "bonus": "Seattle Seahawks"
+      },
+      "week18": {
+        "picks": [
+          {
+            "matchup": "week18_game13",
+            "team": "Tampa Bay Buccaneers"
+          },
+          {
+            "team": "Houston Texans",
+            "matchup": "week18_game15"
+          },
+          {
+            "matchup": "week18_game12",
+            "team": "San Francisco 49ers"
+          },
+          {
+            "matchup": "week18_game5",
+            "team": "Kansas City Chiefs"
+          },
+          {
+            "matchup": "week18_game3",
+            "team": "Cincinnati Bengals"
+          }
+        ],
+        "bonus": "Houston Texans"
       }
     }
   },
@@ -4555,8 +5010,8 @@
       "week1": {
         "picks": [
           {
-            "matchup": "week1_game0",
-            "team": "Philadelphia Eagles"
+            "team": "Philadelphia Eagles",
+            "matchup": "week1_game0"
           },
           {
             "matchup": "week1_game3",
@@ -4571,8 +5026,8 @@
             "matchup": "week1_game7"
           },
           {
-            "matchup": "week1_game10",
-            "team": "Denver Broncos"
+            "team": "Denver Broncos",
+            "matchup": "week1_game10"
           }
         ],
         "bonus": "Cincinnati Bengals"
@@ -4592,12 +5047,12 @@
             "team": "Chicago Bears"
           },
           {
-            "matchup": "week2_game10",
-            "team": "Indianapolis Colts"
+            "team": "Indianapolis Colts",
+            "matchup": "week2_game10"
           },
           {
-            "matchup": "week2_game6",
-            "team": "San Francisco 49ers"
+            "team": "San Francisco 49ers",
+            "matchup": "week2_game6"
           }
         ],
         "bonus": "San Francisco 49ers"
@@ -4609,20 +5064,20 @@
             "team": "Green Bay Packers"
           },
           {
-            "team": "Buffalo Bills",
-            "matchup": "week3_game0"
+            "matchup": "week3_game0",
+            "team": "Buffalo Bills"
           },
           {
             "team": "Pittsburgh Steelers",
             "matchup": "week3_game4"
           },
           {
-            "matchup": "week3_game6",
-            "team": "Tampa Bay Buccaneers"
+            "team": "Tampa Bay Buccaneers",
+            "matchup": "week3_game6"
           },
           {
-            "matchup": "week3_game14",
-            "team": "Kansas City Chiefs"
+            "team": "Kansas City Chiefs",
+            "matchup": "week3_game14"
           }
         ],
         "bonus": "Green Bay Packers"
@@ -4638,16 +5093,16 @@
             "matchup": "week4_game2"
           },
           {
-            "team": "Detroit Lions",
-            "matchup": "week4_game4"
+            "matchup": "week4_game4",
+            "team": "Detroit Lions"
           },
           {
             "team": "Houston Texans",
             "matchup": "week4_game8"
           },
           {
-            "matchup": "week4_game13",
-            "team": "Green Bay Packers"
+            "team": "Green Bay Packers",
+            "matchup": "week4_game13"
           }
         ],
         "bonus": "Buffalo Bills"
@@ -4667,12 +5122,12 @@
             "team": "Philadelphia Eagles"
           },
           {
-            "team": "Buffalo Bills",
-            "matchup": "week5_game12"
+            "matchup": "week5_game12",
+            "team": "Buffalo Bills"
           },
           {
-            "matchup": "week5_game13",
-            "team": "Kansas City Chiefs"
+            "team": "Kansas City Chiefs",
+            "matchup": "week5_game13"
           }
         ],
         "bonus": "Arizona Cardinals"
@@ -4680,20 +5135,20 @@
       "week6": {
         "picks": [
           {
-            "team": "Pittsburgh Steelers",
-            "matchup": "week6_game4"
+            "matchup": "week6_game4",
+            "team": "Pittsburgh Steelers"
           },
           {
-            "team": "Philadelphia Eagles",
-            "matchup": "week6_game0"
+            "matchup": "week6_game0",
+            "team": "Philadelphia Eagles"
           },
           {
-            "team": "Denver Broncos",
-            "matchup": "week6_game1"
+            "matchup": "week6_game1",
+            "team": "Denver Broncos"
           },
           {
-            "team": "Los Angeles Chargers",
-            "matchup": "week6_game3"
+            "matchup": "week6_game3",
+            "team": "Los Angeles Chargers"
           },
           {
             "team": "Buffalo Bills",
@@ -4705,20 +5160,20 @@
       "week7": {
         "picks": [
           {
-            "team": "Kansas City Chiefs",
-            "matchup": "week7_game5"
+            "matchup": "week7_game5",
+            "team": "Kansas City Chiefs"
           },
           {
-            "team": "Chicago Bears",
-            "matchup": "week7_game2"
+            "matchup": "week7_game2",
+            "team": "Chicago Bears"
           },
           {
-            "team": "Philadelphia Eagles",
-            "matchup": "week7_game6"
+            "matchup": "week7_game6",
+            "team": "Philadelphia Eagles"
           },
           {
-            "team": "Los Angeles Chargers",
-            "matchup": "week7_game9"
+            "matchup": "week7_game9",
+            "team": "Los Angeles Chargers"
           },
           {
             "team": "Washington Commanders",
@@ -4730,8 +5185,8 @@
       "week8": {
         "picks": [
           {
-            "matchup": "week8_game8",
-            "team": "Tampa Bay Buccaneers"
+            "team": "Tampa Bay Buccaneers",
+            "matchup": "week8_game8"
           },
           {
             "matchup": "week8_game2",
@@ -4742,12 +5197,12 @@
             "matchup": "week8_game4"
           },
           {
-            "team": "Buffalo Bills",
-            "matchup": "week8_game5"
+            "matchup": "week8_game5",
+            "team": "Buffalo Bills"
           },
           {
-            "matchup": "week8_game6",
-            "team": "Baltimore Ravens"
+            "team": "Baltimore Ravens",
+            "matchup": "week8_game6"
           }
         ],
         "bonus": "Tampa Bay Buccaneers"
@@ -4755,24 +5210,24 @@
       "week9": {
         "picks": [
           {
-            "team": "Los Angeles Rams",
-            "matchup": "week9_game10"
+            "matchup": "week9_game10",
+            "team": "Los Angeles Rams"
           },
           {
-            "matchup": "week9_game0",
-            "team": "Baltimore Ravens"
+            "team": "Baltimore Ravens",
+            "matchup": "week9_game0"
           },
           {
             "team": "Green Bay Packers",
             "matchup": "week9_game3"
           },
           {
-            "matchup": "week9_game7",
-            "team": "Pittsburgh Steelers"
+            "team": "Pittsburgh Steelers",
+            "matchup": "week9_game7"
           },
           {
-            "team": "Los Angeles Chargers",
-            "matchup": "week9_game4"
+            "matchup": "week9_game4",
+            "team": "Los Angeles Chargers"
           }
         ],
         "bonus": "Los Angeles Rams"
@@ -4784,16 +5239,16 @@
             "matchup": "week10_game0"
           },
           {
-            "matchup": "week10_game8",
-            "team": "Houston Texans"
+            "team": "Houston Texans",
+            "matchup": "week10_game8"
           },
           {
             "matchup": "week10_game3",
             "team": "Buffalo Bills"
           },
           {
-            "team": "Baltimore Ravens",
-            "matchup": "week10_game4"
+            "matchup": "week10_game4",
+            "team": "Baltimore Ravens"
           },
           {
             "team": "Tampa Bay Buccaneers",
@@ -4805,12 +5260,12 @@
       "week11": {
         "picks": [
           {
-            "team": "Baltimore Ravens",
-            "matchup": "week11_game11"
+            "matchup": "week11_game11",
+            "team": "Baltimore Ravens"
           },
           {
-            "matchup": "week11_game1",
-            "team": "Washington Commanders"
+            "team": "Washington Commanders",
+            "matchup": "week11_game1"
           },
           {
             "team": "Green Bay Packers",
@@ -4821,8 +5276,8 @@
             "team": "Houston Texans"
           },
           {
-            "matchup": "week11_game12",
-            "team": "Kansas City Chiefs"
+            "team": "Kansas City Chiefs",
+            "matchup": "week11_game12"
           }
         ],
         "bonus": "Baltimore Ravens"
@@ -4830,20 +5285,20 @@
       "week12": {
         "picks": [
           {
-            "matchup": "week12_game10",
-            "team": "Philadelphia Eagles"
+            "team": "Philadelphia Eagles",
+            "matchup": "week12_game10"
           },
           {
-            "matchup": "week12_game7",
-            "team": "Baltimore Ravens"
+            "team": "Baltimore Ravens",
+            "matchup": "week12_game7"
           },
           {
             "team": "Cincinnati Bengals",
             "matchup": "week12_game2"
           },
           {
-            "team": "Detroit Lions",
-            "matchup": "week12_game3"
+            "matchup": "week12_game3",
+            "team": "Detroit Lions"
           },
           {
             "matchup": "week12_game6",
@@ -4855,8 +5310,8 @@
       "week13": {
         "picks": [
           {
-            "team": "Houston Texans",
-            "matchup": "week13_game6"
+            "matchup": "week13_game6",
+            "team": "Houston Texans"
           },
           {
             "team": "Kansas City Chiefs",
@@ -4884,16 +5339,16 @@
             "matchup": "week14_game0"
           },
           {
-            "matchup": "week14_game3",
-            "team": "Green Bay Packers"
+            "team": "Green Bay Packers",
+            "matchup": "week14_game3"
           },
           {
             "matchup": "week14_game6",
             "team": "Tampa Bay Buccaneers"
           },
           {
-            "matchup": "week14_game9",
-            "team": "Denver Broncos"
+            "team": "Denver Broncos",
+            "matchup": "week14_game9"
           },
           {
             "matchup": "week14_game12",
@@ -4905,20 +5360,20 @@
       "week15": {
         "picks": [
           {
-            "team": "Washington Commanders",
-            "matchup": "week15_game5"
+            "matchup": "week15_game5",
+            "team": "Washington Commanders"
           },
           {
-            "matchup": "week15_game4",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week15_game4"
           },
           {
             "team": "Philadelphia Eagles",
             "matchup": "week15_game6"
           },
           {
-            "team": "San Francisco 49ers",
-            "matchup": "week15_game12"
+            "matchup": "week15_game12",
+            "team": "San Francisco 49ers"
           },
           {
             "matchup": "week15_game15",
@@ -4930,24 +5385,24 @@
       "week16": {
         "picks": [
           {
-            "matchup": "week16_game4",
-            "team": "Los Angeles Chargers"
+            "team": "Los Angeles Chargers",
+            "matchup": "week16_game4"
           },
           {
-            "team": "Baltimore Ravens",
-            "matchup": "week16_game9"
+            "matchup": "week16_game9",
+            "team": "Baltimore Ravens"
           },
           {
             "team": "Buffalo Bills",
             "matchup": "week16_game3"
           },
           {
-            "matchup": "week16_game5",
-            "team": "Kansas City Chiefs"
+            "team": "Kansas City Chiefs",
+            "matchup": "week16_game5"
           },
           {
-            "matchup": "week16_game14",
-            "team": "Cincinnati Bengals"
+            "team": "Cincinnati Bengals",
+            "matchup": "week16_game14"
           }
         ],
         "bonus": "Los Angeles Chargers"
@@ -4955,8 +5410,8 @@
       "week17": {
         "picks": [
           {
-            "team": "Seattle Seahawks",
-            "matchup": "week17_game7"
+            "matchup": "week17_game7",
+            "team": "Seattle Seahawks"
           },
           {
             "matchup": "week17_game0",
@@ -4971,8 +5426,8 @@
             "team": "Pittsburgh Steelers"
           },
           {
-            "team": "Tampa Bay Buccaneers",
-            "matchup": "week17_game11"
+            "matchup": "week17_game11",
+            "team": "Tampa Bay Buccaneers"
           }
         ],
         "bonus": "Seattle Seahawks"
@@ -4980,16 +5435,16 @@
       "week18": {
         "picks": [
           {
-            "matchup": "week18_game14",
-            "team": "Jacksonville Jaguars"
+            "team": "Jacksonville Jaguars",
+            "matchup": "week18_game14"
           },
           {
-            "team": "Buffalo Bills",
-            "matchup": "week18_game1"
+            "matchup": "week18_game1",
+            "team": "Buffalo Bills"
           },
           {
-            "team": "Cincinnati Bengals",
-            "matchup": "week18_game3"
+            "matchup": "week18_game3",
+            "team": "Cincinnati Bengals"
           },
           {
             "team": "Kansas City Chiefs",
@@ -5010,24 +5465,24 @@
       "week1": {
         "picks": [
           {
-            "team": "Cincinnati Bengals",
-            "matchup": "week1_game3"
+            "matchup": "week1_game3",
+            "team": "Cincinnati Bengals"
           },
           {
-            "team": "Denver Broncos",
-            "matchup": "week1_game10"
+            "matchup": "week1_game10",
+            "team": "Denver Broncos"
           },
           {
-            "team": "Washington Commanders",
-            "matchup": "week1_game8"
+            "matchup": "week1_game8",
+            "team": "Washington Commanders"
           },
           {
-            "matchup": "week1_game7",
-            "team": "Pittsburgh Steelers"
+            "team": "Pittsburgh Steelers",
+            "matchup": "week1_game7"
           },
           {
-            "matchup": "week1_game0",
-            "team": "Philadelphia Eagles"
+            "team": "Philadelphia Eagles",
+            "matchup": "week1_game0"
           }
         ],
         "bonus": "Washington Commanders"
@@ -5051,8 +5506,8 @@
             "matchup": "week2_game9"
           },
           {
-            "team": "Minnesota Vikings",
-            "matchup": "week2_game13"
+            "matchup": "week2_game13",
+            "team": "Minnesota Vikings"
           }
         ],
         "bonus": "Minnesota Vikings"
@@ -5060,8 +5515,8 @@
       "week3": {
         "picks": [
           {
-            "matchup": "week3_game0",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week3_game0"
           },
           {
             "matchup": "week3_game1",
@@ -5072,12 +5527,12 @@
             "matchup": "week3_game3"
           },
           {
-            "matchup": "week3_game6",
-            "team": "Tampa Bay Buccaneers"
+            "team": "Tampa Bay Buccaneers",
+            "matchup": "week3_game6"
           },
           {
-            "matchup": "week3_game7",
-            "team": "Washington Commanders"
+            "team": "Washington Commanders",
+            "matchup": "week3_game7"
           }
         ],
         "bonus": "Buffalo Bills"
@@ -5126,8 +5581,8 @@
             "matchup": "week5_game3"
           },
           {
-            "team": "Baltimore Ravens",
-            "matchup": "week5_game7"
+            "matchup": "week5_game7",
+            "team": "Baltimore Ravens"
           }
         ],
         "bonus": "Kansas City Chiefs"
@@ -5135,8 +5590,8 @@
       "week6": {
         "picks": [
           {
-            "matchup": "week6_game0",
-            "team": "Philadelphia Eagles"
+            "team": "Philadelphia Eagles",
+            "matchup": "week6_game0"
           },
           {
             "matchup": "week6_game4",
@@ -5147,12 +5602,12 @@
             "matchup": "week6_game8"
           },
           {
-            "team": "Buffalo Bills",
-            "matchup": "week6_game13"
+            "matchup": "week6_game13",
+            "team": "Buffalo Bills"
           },
           {
-            "matchup": "week6_game14",
-            "team": "Washington Commanders"
+            "team": "Washington Commanders",
+            "matchup": "week6_game14"
           }
         ],
         "bonus": "Pittsburgh Steelers"
@@ -5160,24 +5615,24 @@
       "week7": {
         "picks": [
           {
-            "matchup": "week7_game0",
-            "team": "Cincinnati Bengals"
+            "team": "Cincinnati Bengals",
+            "matchup": "week7_game0"
           },
           {
             "team": "Kansas City Chiefs",
             "matchup": "week7_game5"
           },
           {
-            "matchup": "week7_game6",
-            "team": "Philadelphia Eagles"
+            "team": "Philadelphia Eagles",
+            "matchup": "week7_game6"
           },
           {
             "team": "Denver Broncos",
             "matchup": "week7_game8"
           },
           {
-            "matchup": "week7_game9",
-            "team": "Los Angeles Chargers"
+            "team": "Los Angeles Chargers",
+            "matchup": "week7_game9"
           }
         ],
         "bonus": "Los Angeles Chargers"
@@ -5197,8 +5652,8 @@
             "team": "Philadelphia Eagles"
           },
           {
-            "team": "Buffalo Bills",
-            "matchup": "week8_game5"
+            "matchup": "week8_game5",
+            "team": "Buffalo Bills"
           },
           {
             "team": "Baltimore Ravens",
@@ -5214,16 +5669,16 @@
             "team": "Cincinnati Bengals"
           },
           {
-            "team": "Detroit Lions",
-            "matchup": "week9_game2"
+            "matchup": "week9_game2",
+            "team": "Detroit Lions"
           },
           {
-            "matchup": "week9_game3",
-            "team": "Green Bay Packers"
+            "team": "Green Bay Packers",
+            "matchup": "week9_game3"
           },
           {
-            "team": "Los Angeles Rams",
-            "matchup": "week9_game10"
+            "matchup": "week9_game10",
+            "team": "Los Angeles Rams"
           },
           {
             "matchup": "week9_game7",
@@ -5247,12 +5702,12 @@
             "matchup": "week10_game12"
           },
           {
-            "matchup": "week10_game4",
-            "team": "Baltimore Ravens"
+            "team": "Baltimore Ravens",
+            "matchup": "week10_game4"
           },
           {
-            "team": "Tampa Bay Buccaneers",
-            "matchup": "week10_game6"
+            "matchup": "week10_game6",
+            "team": "Tampa Bay Buccaneers"
           }
         ],
         "bonus": "Houston Texans"
@@ -5264,12 +5719,12 @@
             "matchup": "week11_game2"
           },
           {
-            "matchup": "week11_game4",
-            "team": "Houston Texans"
+            "team": "Houston Texans",
+            "matchup": "week11_game4"
           },
           {
-            "team": "Green Bay Packers",
-            "matchup": "week11_game6"
+            "matchup": "week11_game6",
+            "team": "Green Bay Packers"
           },
           {
             "matchup": "week11_game12",
@@ -5289,12 +5744,12 @@
             "team": "Detroit Lions"
           },
           {
-            "matchup": "week12_game4",
-            "team": "Green Bay Packers"
+            "team": "Green Bay Packers",
+            "matchup": "week12_game4"
           },
           {
-            "matchup": "week12_game6",
-            "team": "Kansas City Chiefs"
+            "team": "Kansas City Chiefs",
+            "matchup": "week12_game6"
           },
           {
             "matchup": "week12_game7",
@@ -5314,20 +5769,20 @@
             "team": "Kansas City Chiefs"
           },
           {
-            "matchup": "week13_game3",
-            "team": "Philadelphia Eagles"
+            "team": "Philadelphia Eagles",
+            "matchup": "week13_game3"
           },
           {
-            "team": "San Francisco 49ers",
-            "matchup": "week13_game4"
+            "matchup": "week13_game4",
+            "team": "San Francisco 49ers"
           },
           {
-            "team": "Miami Dolphins",
-            "matchup": "week13_game7"
+            "matchup": "week13_game7",
+            "team": "Miami Dolphins"
           },
           {
-            "matchup": "week13_game13",
-            "team": "Los Angeles Chargers"
+            "team": "Los Angeles Chargers",
+            "matchup": "week13_game13"
           }
         ],
         "bonus": "Miami Dolphins"
@@ -5339,12 +5794,12 @@
             "team": "Detroit Lions"
           },
           {
-            "matchup": "week14_game3",
-            "team": "Green Bay Packers"
+            "team": "Green Bay Packers",
+            "matchup": "week14_game3"
           },
           {
-            "team": "Washington Commanders",
-            "matchup": "week14_game4"
+            "matchup": "week14_game4",
+            "team": "Washington Commanders"
           },
           {
             "matchup": "week14_game6",
@@ -5360,24 +5815,24 @@
       "week15": {
         "picks": [
           {
-            "matchup": "week15_game0",
-            "team": "Tampa Bay Buccaneers"
+            "team": "Tampa Bay Buccaneers",
+            "matchup": "week15_game0"
           },
           {
-            "team": "Kansas City Chiefs",
-            "matchup": "week15_game3"
+            "matchup": "week15_game3",
+            "team": "Kansas City Chiefs"
           },
           {
-            "team": "Washington Commanders",
-            "matchup": "week15_game5"
+            "matchup": "week15_game5",
+            "team": "Washington Commanders"
           },
           {
             "team": "Philadelphia Eagles",
             "matchup": "week15_game6"
           },
           {
-            "matchup": "week15_game10",
-            "team": "Detroit Lions"
+            "team": "Detroit Lions",
+            "matchup": "week15_game10"
           }
         ],
         "bonus": "Philadelphia Eagles"
@@ -5393,8 +5848,8 @@
             "team": "Buffalo Bills"
           },
           {
-            "team": "Kansas City Chiefs",
-            "matchup": "week16_game5"
+            "matchup": "week16_game5",
+            "team": "Kansas City Chiefs"
           },
           {
             "matchup": "week16_game8",
@@ -5418,16 +5873,16 @@
             "matchup": "week17_game1"
           },
           {
-            "matchup": "week17_game14",
-            "team": "San Francisco 49ers"
+            "team": "San Francisco 49ers",
+            "matchup": "week17_game14"
           },
           {
-            "team": "Los Angeles Rams",
-            "matchup": "week17_game15"
+            "matchup": "week17_game15",
+            "team": "Los Angeles Rams"
           },
           {
-            "matchup": "week17_game8",
-            "team": "Pittsburgh Steelers"
+            "team": "Pittsburgh Steelers",
+            "matchup": "week17_game8"
           }
         ],
         "bonus": "Los Angeles Rams"
@@ -5447,8 +5902,8 @@
             "team": "Cincinnati Bengals"
           },
           {
-            "team": "Tampa Bay Buccaneers",
-            "matchup": "week18_game13"
+            "matchup": "week18_game13",
+            "team": "Tampa Bay Buccaneers"
           },
           {
             "team": "Kansas City Chiefs",
@@ -5469,16 +5924,16 @@
             "team": "Cincinnati Bengals"
           },
           {
-            "team": "Denver Broncos",
-            "matchup": "week1_game10"
+            "matchup": "week1_game10",
+            "team": "Denver Broncos"
           },
           {
             "matchup": "week1_game6",
             "team": "Arizona Cardinals"
           },
           {
-            "matchup": "week1_game4",
-            "team": "Miami Dolphins"
+            "team": "Miami Dolphins",
+            "matchup": "week1_game4"
           },
           {
             "team": "Washington Commanders",
@@ -5498,12 +5953,12 @@
             "matchup": "week2_game3"
           },
           {
-            "matchup": "week2_game6",
-            "team": "San Francisco 49ers"
+            "team": "San Francisco 49ers",
+            "matchup": "week2_game6"
           },
           {
-            "team": "Baltimore Ravens",
-            "matchup": "week2_game9"
+            "matchup": "week2_game9",
+            "team": "Baltimore Ravens"
           },
           {
             "team": "Los Angeles Rams",
@@ -5523,12 +5978,12 @@
             "matchup": "week3_game6"
           },
           {
-            "matchup": "week3_game7",
-            "team": "Washington Commanders"
+            "team": "Washington Commanders",
+            "matchup": "week3_game7"
           },
           {
-            "team": "Houston Texans",
-            "matchup": "week3_game9"
+            "matchup": "week3_game9",
+            "team": "Houston Texans"
           },
           {
             "matchup": "week3_game14",
@@ -5552,12 +6007,12 @@
             "matchup": "week4_game8"
           },
           {
-            "matchup": "week4_game9",
-            "team": "Los Angeles Rams"
+            "team": "Los Angeles Rams",
+            "matchup": "week4_game9"
           },
           {
-            "matchup": "week4_game10",
-            "team": "San Francisco 49ers"
+            "team": "San Francisco 49ers",
+            "matchup": "week4_game10"
           }
         ],
         "bonus": "Detroit Lions"
@@ -5569,8 +6024,8 @@
             "matchup": "week5_game12"
           },
           {
-            "team": "Kansas City Chiefs",
-            "matchup": "week5_game13"
+            "matchup": "week5_game13",
+            "team": "Kansas City Chiefs"
           },
           {
             "matchup": "week5_game3",
@@ -5581,8 +6036,8 @@
             "team": "Dallas Cowboys"
           },
           {
-            "team": "Arizona Cardinals",
-            "matchup": "week5_game8"
+            "matchup": "week5_game8",
+            "team": "Arizona Cardinals"
           }
         ],
         "bonus": "Buffalo Bills"
@@ -5598,16 +6053,16 @@
             "matchup": "week6_game4"
           },
           {
-            "matchup": "week6_game6",
-            "team": "Dallas Cowboys"
+            "team": "Dallas Cowboys",
+            "matchup": "week6_game6"
           },
           {
-            "matchup": "week6_game8",
-            "team": "Baltimore Ravens"
+            "team": "Baltimore Ravens",
+            "matchup": "week6_game8"
           },
           {
-            "matchup": "week6_game13",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week6_game13"
           }
         ],
         "bonus": "Dallas Cowboys"
@@ -5615,24 +6070,24 @@
       "week7": {
         "picks": [
           {
-            "matchup": "week7_game12",
-            "team": "San Francisco 49ers"
+            "team": "San Francisco 49ers",
+            "matchup": "week7_game12"
           },
           {
-            "team": "Kansas City Chiefs",
-            "matchup": "week7_game5"
+            "matchup": "week7_game5",
+            "team": "Kansas City Chiefs"
           },
           {
-            "team": "Chicago Bears",
-            "matchup": "week7_game2"
+            "matchup": "week7_game2",
+            "team": "Chicago Bears"
           },
           {
-            "matchup": "week7_game1",
-            "team": "Los Angeles Rams"
+            "team": "Los Angeles Rams",
+            "matchup": "week7_game1"
           },
           {
-            "team": "Los Angeles Chargers",
-            "matchup": "week7_game9"
+            "matchup": "week7_game9",
+            "team": "Los Angeles Chargers"
           }
         ],
         "bonus": "Chicago Bears"
@@ -5640,8 +6095,8 @@
       "week8": {
         "picks": [
           {
-            "matchup": "week8_game2",
-            "team": "Cincinnati Bengals"
+            "team": "Cincinnati Bengals",
+            "matchup": "week8_game2"
           },
           {
             "matchup": "week8_game4",
@@ -5652,8 +6107,8 @@
             "team": "Buffalo Bills"
           },
           {
-            "team": "Baltimore Ravens",
-            "matchup": "week8_game6"
+            "matchup": "week8_game6",
+            "team": "Baltimore Ravens"
           },
           {
             "matchup": "week8_game8",
@@ -5665,8 +6120,8 @@
       "week9": {
         "picks": [
           {
-            "matchup": "week9_game2",
-            "team": "Detroit Lions"
+            "team": "Detroit Lions",
+            "matchup": "week9_game2"
           },
           {
             "team": "Green Bay Packers",
@@ -5677,12 +6132,12 @@
             "team": "Los Angeles Chargers"
           },
           {
-            "matchup": "week9_game10",
-            "team": "Los Angeles Rams"
+            "team": "Los Angeles Rams",
+            "matchup": "week9_game10"
           },
           {
-            "team": "Dallas Cowboys",
-            "matchup": "week9_game13"
+            "matchup": "week9_game13",
+            "team": "Dallas Cowboys"
           }
         ],
         "bonus": "Green Bay Packers"
@@ -5694,12 +6149,12 @@
             "team": "Denver Broncos"
           },
           {
-            "team": "Tampa Bay Buccaneers",
-            "matchup": "week10_game6"
+            "matchup": "week10_game6",
+            "team": "Tampa Bay Buccaneers"
           },
           {
-            "matchup": "week10_game8",
-            "team": "Houston Texans"
+            "team": "Houston Texans",
+            "matchup": "week10_game8"
           },
           {
             "matchup": "week10_game12",
@@ -5715,20 +6170,20 @@
       "week11": {
         "picks": [
           {
-            "team": "Houston Texans",
-            "matchup": "week11_game4"
+            "matchup": "week11_game4",
+            "team": "Houston Texans"
           },
           {
-            "matchup": "week11_game8",
-            "team": "Los Angeles Chargers"
+            "team": "Los Angeles Chargers",
+            "matchup": "week11_game8"
           },
           {
             "team": "Los Angeles Rams",
             "matchup": "week11_game9"
           },
           {
-            "matchup": "week11_game11",
-            "team": "Baltimore Ravens"
+            "team": "Baltimore Ravens",
+            "matchup": "week11_game11"
           },
           {
             "team": "Dallas Cowboys",
@@ -5740,8 +6195,8 @@
       "week12": {
         "picks": [
           {
-            "team": "Cincinnati Bengals",
-            "matchup": "week12_game2"
+            "matchup": "week12_game2",
+            "team": "Cincinnati Bengals"
           },
           {
             "team": "Detroit Lions",
@@ -5752,8 +6207,8 @@
             "team": "Kansas City Chiefs"
           },
           {
-            "matchup": "week12_game7",
-            "team": "Baltimore Ravens"
+            "team": "Baltimore Ravens",
+            "matchup": "week12_game7"
           },
           {
             "matchup": "week12_game13",
@@ -5765,24 +6220,24 @@
       "week13": {
         "picks": [
           {
-            "team": "Philadelphia Eagles",
-            "matchup": "week13_game3"
+            "matchup": "week13_game3",
+            "team": "Philadelphia Eagles"
           },
           {
             "team": "San Francisco 49ers",
             "matchup": "week13_game4"
           },
           {
-            "matchup": "week13_game7",
-            "team": "Miami Dolphins"
+            "team": "Miami Dolphins",
+            "matchup": "week13_game7"
           },
           {
-            "matchup": "week13_game10",
-            "team": "Los Angeles Rams"
+            "team": "Los Angeles Rams",
+            "matchup": "week13_game10"
           },
           {
-            "team": "Tampa Bay Buccaneers",
-            "matchup": "week13_game9"
+            "matchup": "week13_game9",
+            "team": "Tampa Bay Buccaneers"
           }
         ],
         "bonus": "Miami Dolphins"
@@ -5790,8 +6245,8 @@
       "week14": {
         "picks": [
           {
-            "matchup": "week14_game3",
-            "team": "Green Bay Packers"
+            "team": "Green Bay Packers",
+            "matchup": "week14_game3"
           },
           {
             "team": "Tampa Bay Buccaneers",
@@ -5802,12 +6257,12 @@
             "team": "Baltimore Ravens"
           },
           {
-            "matchup": "week14_game1",
-            "team": "Atlanta Falcons"
+            "team": "Atlanta Falcons",
+            "matchup": "week14_game1"
           },
           {
-            "matchup": "week14_game9",
-            "team": "Denver Broncos"
+            "team": "Denver Broncos",
+            "matchup": "week14_game9"
           }
         ],
         "bonus": "Atlanta Falcons"
@@ -5815,8 +6270,8 @@
       "week15": {
         "picks": [
           {
-            "matchup": "week15_game0",
-            "team": "Tampa Bay Buccaneers"
+            "team": "Tampa Bay Buccaneers",
+            "matchup": "week15_game0"
           },
           {
             "team": "Buffalo Bills",
@@ -5827,12 +6282,12 @@
             "team": "Philadelphia Eagles"
           },
           {
-            "matchup": "week15_game12",
-            "team": "San Francisco 49ers"
+            "team": "San Francisco 49ers",
+            "matchup": "week15_game12"
           },
           {
-            "matchup": "week15_game8",
-            "team": "Houston Texans"
+            "team": "Houston Texans",
+            "matchup": "week15_game8"
           }
         ],
         "bonus": "Tampa Bay Buccaneers"
@@ -5840,12 +6295,12 @@
       "week16": {
         "picks": [
           {
-            "team": "Buffalo Bills",
-            "matchup": "week16_game3"
+            "matchup": "week16_game3",
+            "team": "Buffalo Bills"
           },
           {
-            "matchup": "week16_game5",
-            "team": "Kansas City Chiefs"
+            "team": "Kansas City Chiefs",
+            "matchup": "week16_game5"
           },
           {
             "matchup": "week16_game9",
@@ -5873,16 +6328,16 @@
             "team": "Cincinnati Bengals"
           },
           {
-            "team": "Los Angeles Rams",
-            "matchup": "week17_game15"
+            "matchup": "week17_game15",
+            "team": "Los Angeles Rams"
           },
           {
             "team": "Baltimore Ravens",
             "matchup": "week17_game4"
           },
           {
-            "team": "New York Jets",
-            "matchup": "week17_game12"
+            "matchup": "week17_game12",
+            "team": "New York Jets"
           }
         ],
         "bonus": "Cincinnati Bengals"
@@ -5906,8 +6361,8 @@
             "team": "Tampa Bay Buccaneers"
           },
           {
-            "team": "Los Angeles Rams",
-            "matchup": "week18_game6"
+            "matchup": "week18_game6",
+            "team": "Los Angeles Rams"
           }
         ],
         "bonus": "Los Angeles Rams"
@@ -5928,8 +6383,8 @@
             "matchup": "week1_game8"
           },
           {
-            "team": "Denver Broncos",
-            "matchup": "week1_game10"
+            "matchup": "week1_game10",
+            "team": "Denver Broncos"
           },
           {
             "matchup": "week1_game11",
@@ -5945,24 +6400,24 @@
       "week2": {
         "picks": [
           {
-            "team": "Los Angeles Rams",
-            "matchup": "week2_game4"
+            "matchup": "week2_game4",
+            "team": "Los Angeles Rams"
           },
           {
-            "matchup": "week2_game7",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week2_game7"
           },
           {
-            "matchup": "week2_game9",
-            "team": "Baltimore Ravens"
+            "team": "Baltimore Ravens",
+            "matchup": "week2_game9"
           },
           {
             "team": "Denver Broncos",
             "matchup": "week2_game10"
           },
           {
-            "matchup": "week2_game1",
-            "team": "Cincinnati Bengals"
+            "team": "Cincinnati Bengals",
+            "matchup": "week2_game1"
           }
         ],
         "bonus": "Denver Broncos"
@@ -5974,20 +6429,20 @@
             "matchup": "week3_game1"
           },
           {
-            "team": "Pittsburgh Steelers",
-            "matchup": "week3_game4"
+            "matchup": "week3_game4",
+            "team": "Pittsburgh Steelers"
           },
           {
-            "matchup": "week3_game9",
-            "team": "Houston Texans"
+            "team": "Houston Texans",
+            "matchup": "week3_game9"
           },
           {
             "team": "Kansas City Chiefs",
             "matchup": "week3_game14"
           },
           {
-            "matchup": "week3_game12",
-            "team": "Dallas Cowboys"
+            "team": "Dallas Cowboys",
+            "matchup": "week3_game12"
           }
         ],
         "bonus": "Kansas City Chiefs"
@@ -5995,8 +6450,8 @@
       "week4": {
         "picks": [
           {
-            "team": "Detroit Lions",
-            "matchup": "week4_game4"
+            "matchup": "week4_game4",
+            "team": "Detroit Lions"
           },
           {
             "team": "Los Angeles Chargers",
@@ -6007,8 +6462,8 @@
             "team": "Washington Commanders"
           },
           {
-            "matchup": "week4_game3",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week4_game3"
           },
           {
             "matchup": "week4_game8",
@@ -6028,8 +6483,8 @@
             "team": "Kansas City Chiefs"
           },
           {
-            "matchup": "week5_game5",
-            "team": "Philadelphia Eagles"
+            "team": "Philadelphia Eagles",
+            "matchup": "week5_game5"
           },
           {
             "matchup": "week5_game7",
@@ -6049,8 +6504,8 @@
             "team": "Baltimore Ravens"
           },
           {
-            "matchup": "week6_game4",
-            "team": "Pittsburgh Steelers"
+            "team": "Pittsburgh Steelers",
+            "matchup": "week6_game4"
           },
           {
             "matchup": "week6_game6",
@@ -6061,8 +6516,8 @@
             "team": "Buffalo Bills"
           },
           {
-            "matchup": "week6_game14",
-            "team": "Washington Commanders"
+            "team": "Washington Commanders",
+            "matchup": "week6_game14"
           }
         ],
         "bonus": "Washington Commanders"
@@ -6078,8 +6533,8 @@
             "matchup": "week7_game5"
           },
           {
-            "team": "Denver Broncos",
-            "matchup": "week7_game8"
+            "matchup": "week7_game8",
+            "team": "Denver Broncos"
           },
           {
             "matchup": "week7_game12",
@@ -6095,20 +6550,20 @@
       "week8": {
         "picks": [
           {
-            "matchup": "week8_game2",
-            "team": "Cincinnati Bengals"
+            "team": "Cincinnati Bengals",
+            "matchup": "week8_game2"
           },
           {
             "team": "Philadelphia Eagles",
             "matchup": "week8_game4"
           },
           {
-            "team": "Buffalo Bills",
-            "matchup": "week8_game5"
+            "matchup": "week8_game5",
+            "team": "Buffalo Bills"
           },
           {
-            "team": "Baltimore Ravens",
-            "matchup": "week8_game6"
+            "matchup": "week8_game6",
+            "team": "Baltimore Ravens"
           },
           {
             "team": "Green Bay Packers",
@@ -6120,24 +6575,24 @@
       "week9": {
         "picks": [
           {
-            "matchup": "week9_game1",
-            "team": "Cincinnati Bengals"
+            "team": "Cincinnati Bengals",
+            "matchup": "week9_game1"
           },
           {
             "team": "Green Bay Packers",
             "matchup": "week9_game3"
           },
           {
-            "matchup": "week9_game13",
-            "team": "Dallas Cowboys"
+            "team": "Dallas Cowboys",
+            "matchup": "week9_game13"
           },
           {
-            "team": "Washington Commanders",
-            "matchup": "week9_game12"
+            "matchup": "week9_game12",
+            "team": "Washington Commanders"
           },
           {
-            "team": "Los Angeles Rams",
-            "matchup": "week9_game10"
+            "matchup": "week9_game10",
+            "team": "Los Angeles Rams"
           }
         ],
         "bonus": "Los Angeles Rams"
@@ -6149,20 +6604,20 @@
             "matchup": "week10_game8"
           },
           {
-            "team": "Los Angeles Chargers",
-            "matchup": "week10_game12"
+            "matchup": "week10_game12",
+            "team": "Los Angeles Chargers"
           },
           {
-            "matchup": "week10_game3",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week10_game3"
           },
           {
             "matchup": "week10_game5",
             "team": "New York Jets"
           },
           {
-            "team": "Tampa Bay Buccaneers",
-            "matchup": "week10_game6"
+            "matchup": "week10_game6",
+            "team": "Tampa Bay Buccaneers"
           }
         ],
         "bonus": "Tampa Bay Buccaneers"
@@ -6178,16 +6633,16 @@
             "matchup": "week11_game5"
           },
           {
-            "matchup": "week11_game11",
-            "team": "Baltimore Ravens"
+            "team": "Baltimore Ravens",
+            "matchup": "week11_game11"
           },
           {
             "team": "Cincinnati Bengals",
             "matchup": "week11_game7"
           },
           {
-            "team": "Green Bay Packers",
-            "matchup": "week11_game6"
+            "matchup": "week11_game6",
+            "team": "Green Bay Packers"
           }
         ],
         "bonus": "Atlanta Falcons"
@@ -6199,8 +6654,8 @@
             "team": "Detroit Lions"
           },
           {
-            "matchup": "week12_game2",
-            "team": "Cincinnati Bengals"
+            "team": "Cincinnati Bengals",
+            "matchup": "week12_game2"
           },
           {
             "matchup": "week12_game6",
@@ -6228,12 +6683,12 @@
             "team": "Tampa Bay Buccaneers"
           },
           {
-            "team": "New York Jets",
-            "matchup": "week13_game8"
+            "matchup": "week13_game8",
+            "team": "New York Jets"
           },
           {
-            "team": "Philadelphia Eagles",
-            "matchup": "week13_game3"
+            "matchup": "week13_game3",
+            "team": "Philadelphia Eagles"
           },
           {
             "team": "Los Angeles Chargers",
@@ -6245,8 +6700,8 @@
       "week14": {
         "picks": [
           {
-            "team": "Tampa Bay Buccaneers",
-            "matchup": "week14_game6"
+            "matchup": "week14_game6",
+            "team": "Tampa Bay Buccaneers"
           },
           {
             "team": "Kansas City Chiefs",
@@ -6261,8 +6716,8 @@
             "team": "Green Bay Packers"
           },
           {
-            "matchup": "week14_game0",
-            "team": "Detroit Lions"
+            "team": "Detroit Lions",
+            "matchup": "week14_game0"
           }
         ],
         "bonus": "Green Bay Packers"
@@ -6270,8 +6725,8 @@
       "week15": {
         "picks": [
           {
-            "team": "Buffalo Bills",
-            "matchup": "week15_game4"
+            "matchup": "week15_game4",
+            "team": "Buffalo Bills"
           },
           {
             "team": "Washington Commanders",
@@ -6286,8 +6741,8 @@
             "matchup": "week15_game12"
           },
           {
-            "team": "Houston Texans",
-            "matchup": "week15_game8"
+            "matchup": "week15_game8",
+            "team": "Houston Texans"
           }
         ],
         "bonus": "San Francisco 49ers"
@@ -6295,20 +6750,20 @@
       "week16": {
         "picks": [
           {
-            "team": "Buffalo Bills",
-            "matchup": "week16_game3"
+            "matchup": "week16_game3",
+            "team": "Buffalo Bills"
           },
           {
-            "matchup": "week16_game5",
-            "team": "Kansas City Chiefs"
+            "team": "Kansas City Chiefs",
+            "matchup": "week16_game5"
           },
           {
-            "team": "Houston Texans",
-            "matchup": "week16_game13"
+            "matchup": "week16_game13",
+            "team": "Houston Texans"
           },
           {
-            "team": "Denver Broncos",
-            "matchup": "week16_game10"
+            "matchup": "week16_game10",
+            "team": "Denver Broncos"
           },
           {
             "team": "Baltimore Ravens",
@@ -6324,20 +6779,20 @@
             "team": "Cincinnati Bengals"
           },
           {
-            "team": "Las Vegas Raiders",
-            "matchup": "week17_game5"
+            "matchup": "week17_game5",
+            "team": "Las Vegas Raiders"
           },
           {
             "matchup": "week17_game12",
             "team": "New York Jets"
           },
           {
-            "matchup": "week17_game15",
-            "team": "Atlanta Falcons"
+            "team": "Atlanta Falcons",
+            "matchup": "week17_game15"
           },
           {
-            "matchup": "week17_game14",
-            "team": "San Francisco 49ers"
+            "team": "San Francisco 49ers",
+            "matchup": "week17_game14"
           }
         ],
         "bonus": "Las Vegas Raiders"
@@ -6361,8 +6816,8 @@
             "matchup": "week18_game15"
           },
           {
-            "matchup": "week18_game8",
-            "team": "Miami Dolphins"
+            "team": "Miami Dolphins",
+            "matchup": "week18_game8"
           }
         ],
         "bonus": "Miami Dolphins"
@@ -6383,12 +6838,12 @@
             "team": "Philadelphia Eagles"
           },
           {
-            "team": "Tampa Bay Buccaneers",
-            "matchup": "week1_game2"
+            "matchup": "week1_game2",
+            "team": "Tampa Bay Buccaneers"
           },
           {
-            "matchup": "week1_game8",
-            "team": "Washington Commanders"
+            "team": "Washington Commanders",
+            "matchup": "week1_game8"
           },
           {
             "matchup": "week1_game10",
@@ -6404,8 +6859,8 @@
             "team": "Baltimore Ravens"
           },
           {
-            "team": "Buffalo Bills",
-            "matchup": "week2_game7"
+            "matchup": "week2_game7",
+            "team": "Buffalo Bills"
           },
           {
             "team": "Denver Broncos",
@@ -6425,20 +6880,20 @@
       "week3": {
         "picks": [
           {
-            "matchup": "week3_game0",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week3_game0"
           },
           {
             "team": "Kansas City Chiefs",
             "matchup": "week3_game14"
           },
           {
-            "team": "Green Bay Packers",
-            "matchup": "week3_game1"
+            "matchup": "week3_game1",
+            "team": "Green Bay Packers"
           },
           {
-            "matchup": "week3_game6",
-            "team": "Tampa Bay Buccaneers"
+            "team": "Tampa Bay Buccaneers",
+            "matchup": "week3_game6"
           },
           {
             "matchup": "week3_game7",
@@ -6458,8 +6913,8 @@
             "team": "Detroit Lions"
           },
           {
-            "team": "Washington Commanders",
-            "matchup": "week4_game2"
+            "matchup": "week4_game2",
+            "team": "Washington Commanders"
           },
           {
             "matchup": "week4_game13",
@@ -6475,12 +6930,12 @@
       "week5": {
         "picks": [
           {
-            "matchup": "week5_game7",
-            "team": "Baltimore Ravens"
+            "team": "Baltimore Ravens",
+            "matchup": "week5_game7"
           },
           {
-            "matchup": "week5_game12",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week5_game12"
           },
           {
             "matchup": "week5_game13",
@@ -6504,20 +6959,20 @@
             "matchup": "week6_game0"
           },
           {
-            "matchup": "week6_game13",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week6_game13"
           },
           {
-            "matchup": "week6_game5",
-            "team": "Tampa Bay Buccaneers"
+            "team": "Tampa Bay Buccaneers",
+            "matchup": "week6_game5"
           },
           {
             "team": "Washington Commanders",
             "matchup": "week6_game14"
           },
           {
-            "team": "Denver Broncos",
-            "matchup": "week6_game1"
+            "matchup": "week6_game1",
+            "team": "Denver Broncos"
           }
         ],
         "bonus": "Denver Broncos"
@@ -6525,8 +6980,8 @@
       "week7": {
         "picks": [
           {
-            "matchup": "week7_game6",
-            "team": "Philadelphia Eagles"
+            "team": "Philadelphia Eagles",
+            "matchup": "week7_game6"
           },
           {
             "team": "Kansas City Chiefs",
@@ -6537,8 +6992,8 @@
             "team": "Green Bay Packers"
           },
           {
-            "team": "Denver Broncos",
-            "matchup": "week7_game8"
+            "matchup": "week7_game8",
+            "team": "Denver Broncos"
           },
           {
             "matchup": "week7_game1",
@@ -6550,20 +7005,20 @@
       "week8": {
         "picks": [
           {
-            "team": "Philadelphia Eagles",
-            "matchup": "week8_game4"
+            "matchup": "week8_game4",
+            "team": "Philadelphia Eagles"
           },
           {
-            "matchup": "week8_game6",
-            "team": "Baltimore Ravens"
+            "team": "Baltimore Ravens",
+            "matchup": "week8_game6"
           },
           {
-            "team": "Buffalo Bills",
-            "matchup": "week8_game5"
+            "matchup": "week8_game5",
+            "team": "Buffalo Bills"
           },
           {
-            "team": "Tampa Bay Buccaneers",
-            "matchup": "week8_game8"
+            "matchup": "week8_game8",
+            "team": "Tampa Bay Buccaneers"
           },
           {
             "team": "Cincinnati Bengals",
@@ -6575,20 +7030,20 @@
       "week9": {
         "picks": [
           {
-            "matchup": "week9_game0",
-            "team": "Baltimore Ravens"
+            "team": "Baltimore Ravens",
+            "matchup": "week9_game0"
           },
           {
             "matchup": "week9_game3",
             "team": "Green Bay Packers"
           },
           {
-            "matchup": "week9_game12",
-            "team": "Washington Commanders"
+            "team": "Washington Commanders",
+            "matchup": "week9_game12"
           },
           {
-            "matchup": "week9_game10",
-            "team": "Los Angeles Rams"
+            "team": "Los Angeles Rams",
+            "matchup": "week9_game10"
           },
           {
             "team": "Los Angeles Chargers",
@@ -6600,24 +7055,24 @@
       "week10": {
         "picks": [
           {
-            "matchup": "week10_game4",
-            "team": "Baltimore Ravens"
+            "team": "Baltimore Ravens",
+            "matchup": "week10_game4"
           },
           {
-            "matchup": "week10_game3",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week10_game3"
           },
           {
-            "matchup": "week10_game6",
-            "team": "Tampa Bay Buccaneers"
+            "team": "Tampa Bay Buccaneers",
+            "matchup": "week10_game6"
           },
           {
-            "team": "Denver Broncos",
-            "matchup": "week10_game0"
+            "matchup": "week10_game0",
+            "team": "Denver Broncos"
           },
           {
-            "matchup": "week10_game8",
-            "team": "Houston Texans"
+            "team": "Houston Texans",
+            "matchup": "week10_game8"
           }
         ],
         "bonus": "Houston Texans"
@@ -6633,12 +7088,12 @@
             "matchup": "week11_game6"
           },
           {
-            "matchup": "week11_game1",
-            "team": "Washington Commanders"
+            "team": "Washington Commanders",
+            "matchup": "week11_game1"
           },
           {
-            "team": "Houston Texans",
-            "matchup": "week11_game4"
+            "matchup": "week11_game4",
+            "team": "Houston Texans"
           },
           {
             "team": "Los Angeles Chargers",
@@ -6654,20 +7109,20 @@
             "team": "Philadelphia Eagles"
           },
           {
-            "team": "Baltimore Ravens",
-            "matchup": "week12_game7"
+            "matchup": "week12_game7",
+            "team": "Baltimore Ravens"
           },
           {
-            "team": "Kansas City Chiefs",
-            "matchup": "week12_game6"
+            "matchup": "week12_game6",
+            "team": "Kansas City Chiefs"
           },
           {
-            "team": "Detroit Lions",
-            "matchup": "week12_game3"
+            "matchup": "week12_game3",
+            "team": "Detroit Lions"
           },
           {
-            "matchup": "week12_game2",
-            "team": "Cincinnati Bengals"
+            "team": "Cincinnati Bengals",
+            "matchup": "week12_game2"
           }
         ],
         "bonus": "Kansas City Chiefs"
@@ -6683,16 +7138,16 @@
             "matchup": "week13_game12"
           },
           {
-            "team": "Kansas City Chiefs",
-            "matchup": "week13_game1"
+            "matchup": "week13_game1",
+            "team": "Kansas City Chiefs"
           },
           {
             "matchup": "week13_game10",
             "team": "Los Angeles Rams"
           },
           {
-            "matchup": "week13_game6",
-            "team": "Houston Texans"
+            "team": "Houston Texans",
+            "matchup": "week13_game6"
           }
         ],
         "bonus": "Philadelphia Eagles"
@@ -6700,20 +7155,20 @@
       "week14": {
         "picks": [
           {
-            "team": "Philadelphia Eagles",
-            "matchup": "week14_game13"
+            "matchup": "week14_game13",
+            "team": "Philadelphia Eagles"
           },
           {
-            "matchup": "week14_game8",
-            "team": "Baltimore Ravens"
+            "team": "Baltimore Ravens",
+            "matchup": "week14_game8"
           },
           {
-            "matchup": "week14_game0",
-            "team": "Detroit Lions"
+            "team": "Detroit Lions",
+            "matchup": "week14_game0"
           },
           {
-            "team": "Tampa Bay Buccaneers",
-            "matchup": "week14_game6"
+            "matchup": "week14_game6",
+            "team": "Tampa Bay Buccaneers"
           },
           {
             "matchup": "week14_game3",
@@ -6725,24 +7180,24 @@
       "week15": {
         "picks": [
           {
-            "team": "Philadelphia Eagles",
-            "matchup": "week15_game6"
+            "matchup": "week15_game6",
+            "team": "Philadelphia Eagles"
           },
           {
-            "matchup": "week15_game1",
-            "team": "Chicago Bears"
+            "team": "Chicago Bears",
+            "matchup": "week15_game1"
           },
           {
-            "team": "Washington Commanders",
-            "matchup": "week15_game5"
+            "matchup": "week15_game5",
+            "team": "Washington Commanders"
           },
           {
             "team": "San Francisco 49ers",
             "matchup": "week15_game12"
           },
           {
-            "team": "Buffalo Bills",
-            "matchup": "week15_game4"
+            "matchup": "week15_game4",
+            "team": "Buffalo Bills"
           }
         ],
         "bonus": "Chicago Bears"
@@ -6754,8 +7209,8 @@
             "team": "Baltimore Ravens"
           },
           {
-            "matchup": "week16_game3",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week16_game3"
           },
           {
             "team": "Kansas City Chiefs",
@@ -6775,20 +7230,20 @@
       "week17": {
         "picks": [
           {
-            "team": "Tampa Bay Buccaneers",
-            "matchup": "week17_game11"
+            "matchup": "week17_game11",
+            "team": "Tampa Bay Buccaneers"
           },
           {
-            "matchup": "week17_game15",
-            "team": "Los Angeles Rams"
+            "team": "Los Angeles Rams",
+            "matchup": "week17_game15"
           },
           {
             "team": "Pittsburgh Steelers",
             "matchup": "week17_game8"
           },
           {
-            "team": "Seattle Seahawks",
-            "matchup": "week17_game7"
+            "matchup": "week17_game7",
+            "team": "Seattle Seahawks"
           },
           {
             "matchup": "week17_game0",
@@ -6800,20 +7255,20 @@
       "week18": {
         "picks": [
           {
-            "matchup": "week18_game11",
-            "team": "Baltimore Ravens"
+            "team": "Baltimore Ravens",
+            "matchup": "week18_game11"
           },
           {
             "matchup": "week18_game1",
             "team": "Buffalo Bills"
           },
           {
-            "matchup": "week18_game5",
-            "team": "Kansas City Chiefs"
+            "team": "Kansas City Chiefs",
+            "matchup": "week18_game5"
           },
           {
-            "team": "Detroit Lions",
-            "matchup": "week18_game2"
+            "matchup": "week18_game2",
+            "team": "Detroit Lions"
           },
           {
             "team": "Atlanta Falcons",
@@ -6834,20 +7289,20 @@
             "team": "Philadelphia Eagles"
           },
           {
-            "matchup": "week1_game2",
-            "team": "Tampa Bay Buccaneers"
+            "team": "Tampa Bay Buccaneers",
+            "matchup": "week1_game2"
           },
           {
-            "team": "Cincinnati Bengals",
-            "matchup": "week1_game3"
+            "matchup": "week1_game3",
+            "team": "Cincinnati Bengals"
           },
           {
             "team": "Washington Commanders",
             "matchup": "week1_game8"
           },
           {
-            "team": "Denver Broncos",
-            "matchup": "week1_game10"
+            "matchup": "week1_game10",
+            "team": "Denver Broncos"
           }
         ],
         "bonus": "Denver Broncos"
@@ -6896,8 +7351,8 @@
             "matchup": "week3_game7"
           },
           {
-            "matchup": "week3_game14",
-            "team": "Kansas City Chiefs"
+            "team": "Kansas City Chiefs",
+            "matchup": "week3_game14"
           }
         ],
         "bonus": "Green Bay Packers"
@@ -6909,16 +7364,16 @@
             "team": "Buffalo Bills"
           },
           {
-            "matchup": "week4_game4",
-            "team": "Detroit Lions"
+            "team": "Detroit Lions",
+            "matchup": "week4_game4"
           },
           {
-            "team": "Los Angeles Chargers",
-            "matchup": "week4_game6"
+            "matchup": "week4_game6",
+            "team": "Los Angeles Chargers"
           },
           {
-            "team": "Los Angeles Rams",
-            "matchup": "week4_game9"
+            "matchup": "week4_game9",
+            "team": "Los Angeles Rams"
           },
           {
             "matchup": "week4_game13",
@@ -6930,24 +7385,24 @@
       "week5": {
         "picks": [
           {
-            "team": "Minnesota Vikings",
-            "matchup": "week5_game1"
+            "matchup": "week5_game1",
+            "team": "Minnesota Vikings"
           },
           {
             "team": "Baltimore Ravens",
             "matchup": "week5_game7"
           },
           {
-            "matchup": "week5_game8",
-            "team": "Arizona Cardinals"
+            "team": "Arizona Cardinals",
+            "matchup": "week5_game8"
           },
           {
-            "team": "Buffalo Bills",
-            "matchup": "week5_game12"
+            "matchup": "week5_game12",
+            "team": "Buffalo Bills"
           },
           {
-            "matchup": "week5_game13",
-            "team": "Kansas City Chiefs"
+            "team": "Kansas City Chiefs",
+            "matchup": "week5_game13"
           }
         ],
         "bonus": "Minnesota Vikings"
@@ -6955,24 +7410,24 @@
       "week6": {
         "picks": [
           {
-            "matchup": "week6_game0",
-            "team": "Philadelphia Eagles"
+            "team": "Philadelphia Eagles",
+            "matchup": "week6_game0"
           },
           {
-            "team": "Denver Broncos",
-            "matchup": "week6_game1"
+            "matchup": "week6_game1",
+            "team": "Denver Broncos"
           },
           {
             "team": "Los Angeles Chargers",
             "matchup": "week6_game3"
           },
           {
-            "team": "Pittsburgh Steelers",
-            "matchup": "week6_game4"
+            "matchup": "week6_game4",
+            "team": "Pittsburgh Steelers"
           },
           {
-            "matchup": "week6_game13",
-            "team": "Buffalo Bills"
+            "team": "Buffalo Bills",
+            "matchup": "week6_game13"
           }
         ],
         "bonus": "Philadelphia Eagles"
@@ -6992,8 +7447,8 @@
             "matchup": "week7_game5"
           },
           {
-            "team": "Denver Broncos",
-            "matchup": "week7_game8"
+            "matchup": "week7_game8",
+            "team": "Denver Broncos"
           },
           {
             "team": "Los Angeles Chargers",
@@ -7009,16 +7464,16 @@
             "team": "Cincinnati Bengals"
           },
           {
-            "matchup": "week8_game4",
-            "team": "Philadelphia Eagles"
+            "team": "Philadelphia Eagles",
+            "matchup": "week8_game4"
           },
           {
             "matchup": "week8_game6",
             "team": "Baltimore Ravens"
           },
           {
-            "team": "Buffalo Bills",
-            "matchup": "week8_game5"
+            "matchup": "week8_game5",
+            "team": "Buffalo Bills"
           },
           {
             "matchup": "week8_game8",
@@ -7042,12 +7497,12 @@
             "matchup": "week9_game6"
           },
           {
-            "team": "Los Angeles Chargers",
-            "matchup": "week9_game4"
+            "matchup": "week9_game4",
+            "team": "Los Angeles Chargers"
           },
           {
-            "team": "Los Angeles Rams",
-            "matchup": "week9_game10"
+            "matchup": "week9_game10",
+            "team": "Los Angeles Rams"
           }
         ],
         "bonus": "Los Angeles Chargers"
@@ -7055,24 +7510,24 @@
       "week10": {
         "picks": [
           {
-            "matchup": "week10_game0",
-            "team": "Denver Broncos"
+            "team": "Denver Broncos",
+            "matchup": "week10_game0"
           },
           {
-            "matchup": "week10_game2",
-            "team": "Chicago Bears"
+            "team": "Chicago Bears",
+            "matchup": "week10_game2"
           },
           {
-            "team": "Buffalo Bills",
-            "matchup": "week10_game3"
+            "matchup": "week10_game3",
+            "team": "Buffalo Bills"
           },
           {
-            "team": "Baltimore Ravens",
-            "matchup": "week10_game4"
+            "matchup": "week10_game4",
+            "team": "Baltimore Ravens"
           },
           {
-            "team": "Tampa Bay Buccaneers",
-            "matchup": "week10_game6"
+            "matchup": "week10_game6",
+            "team": "Tampa Bay Buccaneers"
           }
         ],
         "bonus": "Buffalo Bills"
@@ -7088,12 +7543,12 @@
             "team": "Los Angeles Chargers"
           },
           {
-            "matchup": "week11_game6",
-            "team": "Green Bay Packers"
+            "team": "Green Bay Packers",
+            "matchup": "week11_game6"
           },
           {
-            "team": "Baltimore Ravens",
-            "matchup": "week11_game11"
+            "matchup": "week11_game11",
+            "team": "Baltimore Ravens"
           },
           {
             "team": "Houston Texans",
@@ -7109,8 +7564,8 @@
             "matchup": "week12_game7"
           },
           {
-            "team": "Detroit Lions",
-            "matchup": "week12_game3"
+            "matchup": "week12_game3",
+            "team": "Detroit Lions"
           },
           {
             "matchup": "week12_game6",
@@ -7121,8 +7576,8 @@
             "team": "Seattle Seahawks"
           },
           {
-            "team": "Philadelphia Eagles",
-            "matchup": "week12_game10"
+            "matchup": "week12_game10",
+            "team": "Philadelphia Eagles"
           }
         ],
         "bonus": "Seattle Seahawks"
@@ -7134,16 +7589,16 @@
             "matchup": "week13_game1"
           },
           {
-            "matchup": "week13_game3",
-            "team": "Philadelphia Eagles"
+            "team": "Philadelphia Eagles",
+            "matchup": "week13_game3"
           },
           {
             "matchup": "week13_game10",
             "team": "Los Angeles Rams"
           },
           {
-            "matchup": "week13_game4",
-            "team": "San Francisco 49ers"
+            "team": "San Francisco 49ers",
+            "matchup": "week13_game4"
           },
           {
             "team": "Buffalo Bills",
@@ -7155,12 +7610,12 @@
       "week14": {
         "picks": [
           {
-            "team": "Detroit Lions",
-            "matchup": "week14_game0"
+            "matchup": "week14_game0",
+            "team": "Detroit Lions"
           },
           {
-            "team": "Baltimore Ravens",
-            "matchup": "week14_game8"
+            "matchup": "week14_game8",
+            "team": "Baltimore Ravens"
           },
           {
             "team": "Tampa Bay Buccaneers",
@@ -7171,8 +7626,8 @@
             "team": "Denver Broncos"
           },
           {
-            "matchup": "week14_game13",
-            "team": "Philadelphia Eagles"
+            "team": "Philadelphia Eagles",
+            "matchup": "week14_game13"
           }
         ],
         "bonus": "Detroit Lions"
@@ -7230,12 +7685,12 @@
       "week17": {
         "picks": [
           {
-            "team": "Washington Commanders",
-            "matchup": "week17_game0"
+            "matchup": "week17_game0",
+            "team": "Washington Commanders"
           },
           {
-            "matchup": "week17_game7",
-            "team": "Seattle Seahawks"
+            "team": "Seattle Seahawks",
+            "matchup": "week17_game7"
           },
           {
             "matchup": "week17_game8",
@@ -7263,12 +7718,12 @@
             "matchup": "week18_game3"
           },
           {
-            "team": "Kansas City Chiefs",
-            "matchup": "week18_game5"
+            "matchup": "week18_game5",
+            "team": "Kansas City Chiefs"
           },
           {
-            "matchup": "week18_game11",
-            "team": "Baltimore Ravens"
+            "team": "Baltimore Ravens",
+            "matchup": "week18_game11"
           },
           {
             "matchup": "week18_game13",
