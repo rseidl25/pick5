@@ -539,6 +539,8 @@ button, h1, h2, h3, h4, h5, h6, table, input, select {
 .leaderboard-table tr.position-2 td { background: #d6d6d4; }
 .leaderboard-table tr.position-3 td { background: #dac3ab; }
 
+
+
 /* =========================
    Picks Section
    ========================= */
@@ -805,6 +807,86 @@ button, h1, h2, h3, h4, h5, h6, table, input, select {
 
 #reset-avatar-btn:hover {
   background: #999;
+}
+
+/* =========================
+   Mobile Leaderboard Column Widths
+   ========================= */
+@media (max-width: 700px) {
+  .leaderboard-table {
+    width: 100% !important;  
+    table-layout: fixed;
+    font-size: 13px;
+  }
+
+  .leaderboard-table th,
+  .leaderboard-table td {
+    padding: 6px;
+    font-size: 12px;
+    word-break: break-word;
+    white-space: normal;
+  }
+
+  /* Narrow Position column */
+  .leaderboard-table th:nth-child(1),
+  .leaderboard-table td:nth-child(1) {
+    width: 15%;      /* make smaller */
+    text-align: center;
+  }
+
+  /* Wide Player column */
+  .leaderboard-table th:nth-child(2),
+  .leaderboard-table td:nth-child(2) {
+    width: 70%;      /* give most space to names */
+    text-align: left;
+    white-space: normal;
+    word-break: break-word;
+  }
+
+  /* Narrow Score column */
+  .leaderboard-table th:nth-child(3),
+  .leaderboard-table td:nth-child(3) {
+    width: 15%;      /* make smaller */
+    text-align: center;
+  }
+}
+
+/* =========================
+   Mobile Leaderboard Header Fix
+   ========================= */
+@media (max-width: 700px) {
+  .leaderboard-table th:nth-child(1),  /* Position header */
+  .leaderboard-table th:nth-child(3) { /* Score header */
+    font-size: 10px;   /* smaller text */
+    white-space: nowrap; /* keep it on one line */
+    padding: 4px;       /* tighter padding */
+  }
+
+  .leaderboard-table th:nth-child(2) {
+    font-size: 12px;   /* keep player readable */
+  }
+}
+
+/* =========================
+   Mobile Leaderboard Header Fix (Tighter)
+   ========================= */
+@media (max-width: 700px) {
+  .leaderboard-table th:nth-child(1) { /* Position header */
+    font-size: 9px;         /* even smaller */
+    white-space: nowrap;    /* force one line */
+    padding: 3px 2px;       /* tighter padding */
+    letter-spacing: -0.3px; /* squeeze text slightly */
+  }
+
+  .leaderboard-table th:nth-child(3) { /* Score header */
+    font-size: 10px;
+    white-space: nowrap;
+    padding: 4px 2px;
+  }
+
+  .leaderboard-table th:nth-child(2) { /* Player header */
+    font-size: 12px; /* keep readable */
+  }
 }
 
 /* =========================
