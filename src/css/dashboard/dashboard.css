@@ -21,6 +21,28 @@ button, h1, h2, h3, h4, h5, h6, table, input, select {
   font-family: "Montserrat", sans-serif;
 }
 
+@media (max-width: 700px) {
+  body {
+    overflow: hidden;      /* no scroll on body */
+    position: fixed;       /* lock it in place */
+    width: 100%;           /* prevent side-scroll */
+    height: 100%;          /* prevent vertical body scroll */
+  }
+
+  .dashboard-container {
+    height: 100vh;         /* fill full viewport */
+    overflow: hidden;      /* don’t scroll dashboard container */
+  }
+
+  .dashboard-main,
+  #leaderboard-section,
+  #picks-section,
+  #week-stats-section {
+    overflow-y: auto;      /* allow scrolling INSIDE sections */
+    -webkit-overflow-scrolling: touch; /* smooth iOS scroll */
+  }
+}
+
 /* =========================
    Header Layout (Desktop ≥ 701px)
    ========================= */
@@ -308,13 +330,17 @@ button, h1, h2, h3, h4, h5, h6, table, input, select {
     max-width: 100%;
   }
 
-  /* =========================
-   Center Leaderboard Title
-   ========================= */
+  /* Center Leaderboard Title */
   #leaderboard-title {
     text-align: center;
     padding-left: 0;   /* remove offset */
     margin: 12px 0;
+  }
+
+  /* ✅ Extra bottom space for mobile safe area */
+  #leaderboard-section,
+  #picks-section {
+    padding-bottom: 80px; /* was 40px, give more margin for bottom bar */
   }
 }
 
@@ -423,7 +449,6 @@ button, h1, h2, h3, h4, h5, h6, table, input, select {
     min-width: 32px; /* keep them touch-friendly */
   }
 }
-
 
 /* Compact week buttons for mobile */
 .week-btn.compact-btn {

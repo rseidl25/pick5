@@ -133,7 +133,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         { merge: true }
       );
 
-      alert("✅ Profile updated!");
+      alert("✅ Profile updated! Changes will take effect on next site update (about every 15 minutes)!");
       window.location.reload();
     } catch (err) {
       console.error("❌ Error updating profile:", err);
@@ -153,7 +153,7 @@ document.addEventListener("DOMContentLoaded", async () => {
           { photoURL: DEFAULT_AVATAR },
           { merge: true }
         );
-        alert("✅ Profile picture reset to default!");
+        alert("✅ Profile picture reset to default! Changes will take effect on next site update (about every 15 minutes)!");
         window.location.reload();
       } catch (err) {
         console.error("❌ Error resetting avatar:", err);
@@ -585,6 +585,14 @@ document.addEventListener("DOMContentLoaded", async () => {
         gamesData.find((g) => g.week === currentWeek)?.games || [];
       renderMatchups(gamesForWeek);
     }
+  });
+
+  // ✅ FIX: Reload picks when dropdowns change
+  playerSelect.addEventListener("change", () => {
+    if (currentTab === "picks") loadWeeklyPicks(currentWeek);
+  });
+  teamSelect.addEventListener("change", () => {
+    if (currentTab === "picks") loadWeeklyPicks(currentWeek);
   });
 
   showSection("leaderboard");
