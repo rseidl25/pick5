@@ -101,8 +101,8 @@ async function fetchAllWeeks() {
               status = "Scheduled";
             }
 
-            const homeTeamWithCity = `${teamCities[homeTeam] || ""} ${homeTeam}`;
-            const awayTeamWithCity = `${teamCities[awayTeam] || ""} ${awayTeam}`;
+            const homeTeamWithCity = `${teamCities[homeTeam] || ""} ${homeTeam}`.trim();
+            const awayTeamWithCity = `${teamCities[awayTeam] || ""} ${awayTeam}`.trim();
 
             games.push({
               homeTeam: homeTeamWithCity,
@@ -121,12 +121,16 @@ async function fetchAllWeeks() {
         games: games,
       });
     } catch (error) {
-      console.error(`Error fetching Week ${week}:`, error);
+      console.error(`Error fetching Week ${week}:`, error.message);
     }
   }
 
+  // ✅ Ensure directory exists before writing
+  const outputDir = "src/data/game";
+  fs.mkdirSync(outputDir, { recursive: true });
+
   fs.writeFileSync(
-    "src/data/game/games.json",
+    `${outputDir}/games.json`,
     JSON.stringify(allWeeks, null, 2)
   );
   console.log("✅ All weeks fetched and stored in games.json");
