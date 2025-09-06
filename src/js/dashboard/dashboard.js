@@ -358,134 +358,149 @@ document.addEventListener("DOMContentLoaded", async () => {
   }
 
   // =========================
-  // Picks Grid
-  // =========================
-  async function loadWeeklyPicks(weekNumber) {
-    weeklyGrid.innerHTML = "";
-    const gamesRes = await fetch("../src/data/game/games.json");
-    const gamesData = await gamesRes.json();
-    const gamesForWeek =
-      gamesData.find((g) => g.week === weekNumber)?.games || [];
-    const selectedPlayer = playerSelect.value;
-    const selectedTeam = teamSelect.value;
+// Picks Grid
+// =========================
+async function loadWeeklyPicks(weekNumber) {
+  weeklyGrid.innerHTML = "";
+  const gamesRes = await fetch("../src/data/game/games.json");
+  const gamesData = await gamesRes.json();
+  const gamesForWeek =
+    gamesData.find((g) => g.week === weekNumber)?.games || [];
+  const selectedPlayer = playerSelect.value;
+  const selectedTeam = teamSelect.value;
 
-    // ✅ alphabetize always
-    const playersToShow =
-      selectedPlayer === "all"
-        ? allPlayers.slice().sort((a, b) => a.name.localeCompare(b.name))
-        : allPlayers.filter((p) => p.uid === selectedPlayer);
+  // build player objects with points for this week
+  const playersToShow =
+    selectedPlayer === "all"
+      ? allPlayers.slice()
+      : allPlayers.filter((p) => p.uid === selectedPlayer);
 
-    let countPicked = 0;
-    const cards = [];
+  const playerCards = playersToShow.map((player) => {
+    const weekData = scoresData[player.uid].weeks[`week${weekNumber}`] || { total: 0, teams: {} };
+    return {
+      ...player,
+      points: weekData.total || 0,
+      weekData
+    };
+  });
 
-    playersToShow.forEach((player) => {
-      const weekData = scoresData[player.uid].weeks[`week${weekNumber}`];
-      const card = document.createElement("div");
-      card.className = "pick-box";
+  // ✅ sort: most points first, fallback alphabetical
+  playerCards.sort((a, b) => {
+    if (b.points !== a.points) return b.points - a.points;
+    return a.name.localeCompare(b.name);
+  });
 
-      // highlight logged in user
-      if (loggedInUser && player.name === loggedInUser) {
-        card.style.border = "3px solid gold";
-      }
+  let countPicked = 0;
 
-      const title = document.createElement("div");
-      title.className = "player-header";
-      title.innerHTML = `
-        <img src="${scoresData[player.uid].photoURL || DEFAULT_AVATAR}" 
-             alt="${player.name}" class="profile-pic">
-        <h3>${player.name}</h3>
-      `;
-      card.appendChild(title);
+  playerCards.forEach((player) => {
+    const weekData = player.weekData;
+    const card = document.createElement("div");
+    card.className = "pick-box";
 
-      const ul = document.createElement("ul");
-      ul.className = "pick-list";
+    // highlight logged in user
+    if (loggedInUser && player.name === loggedInUser) {
+      card.style.border = "3px solid gold";
+    }
 
-      if (!weekData || Object.keys(weekData.teams).length === 0) {
+    const title = document.createElement("div");
+    title.className = "player-header";
+    title.innerHTML = `
+      <img src="${scoresData[player.uid].photoURL || DEFAULT_AVATAR}" 
+           alt="${player.name}" class="profile-pic">
+      <h3>${player.name}</h3>
+    `;
+    card.appendChild(title);
+
+    const ul = document.createElement("ul");
+    ul.className = "pick-list";
+
+    if (!weekData || Object.keys(weekData.teams).length === 0) {
+      const li = document.createElement("li");
+      li.textContent = "No picks submitted";
+      ul.appendChild(li);
+    } else {
+      const bonusTeam = Object.entries(weekData.teams).find(
+        ([, info]) => info.bonus
+      );
+      const otherTeams = Object.entries(weekData.teams).filter(
+        ([, info]) => !info.bonus
+      );
+      otherTeams.sort(([a], [b]) => {
+        const idxA = gamesForWeek.findIndex(
+          (g) => g.homeTeam === a || g.awayTeam === a
+        );
+        const idxB = gamesForWeek.findIndex(
+          (g) => g.homeTeam === b || g.awayTeam === b
+        );
+        return idxA - idxB;
+      });
+      const orderedTeams = [];
+      if (bonusTeam) orderedTeams.push(bonusTeam);
+      orderedTeams.push(...otherTeams);
+      let pickedThisTeam = false;
+
+      for (const [team, info] of orderedTeams) {
         const li = document.createElement("li");
-        li.textContent = "No picks submitted";
-        ul.appendChild(li);
-      } else {
-        const bonusTeam = Object.entries(weekData.teams).find(
-          ([, info]) => info.bonus
-        );
-        const otherTeams = Object.entries(weekData.teams).filter(
-          ([, info]) => !info.bonus
-        );
-        otherTeams.sort(([a], [b]) => {
-          const idxA = gamesForWeek.findIndex(
-            (g) => g.homeTeam === a || g.awayTeam === a
-          );
-          const idxB = gamesForWeek.findIndex(
-            (g) => g.homeTeam === b || g.awayTeam === b
-          );
-          return idxA - idxB;
-        });
-        const orderedTeams = [];
-        if (bonusTeam) orderedTeams.push(bonusTeam);
-        orderedTeams.push(...otherTeams);
-        let pickedThisTeam = false;
-
-        for (const [team, info] of orderedTeams) {
-          const li = document.createElement("li");
-          li.className = "pick-row";
-          if (info.bonus) li.classList.add("bonus");
-          if (selectedTeam !== "all" && team === selectedTeam) {
-            li.style.backgroundColor = "lightblue";
-            pickedThisTeam = true;
-          }
-
-          const game = gamesForWeek.find(
-            (g) => g.homeTeam === team || g.awayTeam === team
-          );
-          let teamColor = "black";
-          if (game && game.status === "Completed") {
-            const winner =
-              game.homeScore > game.awayScore ? game.homeTeam : game.awayTeam;
-            teamColor = winner === team ? "green" : "red";
-          }
-
-          const mascot = team.split(" ").pop();
-          const logoFile = teamLogoMap[mascot] || "default.png";
-          const logo = document.createElement("img");
-          logo.src = `logos/${logoFile}`;
-          logo.alt = team;
-          logo.className = "team-logo";
-          li.appendChild(logo);
-          const nameSpan = document.createElement("span");
-          nameSpan.textContent = team;
-          nameSpan.style.color = teamColor;
-          li.appendChild(nameSpan);
-          const ptsSpan = document.createElement("span");
-          ptsSpan.className = "team-points";
-          ptsSpan.textContent = info.points;
-          li.appendChild(ptsSpan);
-          ul.appendChild(li);
+        li.className = "pick-row";
+        if (info.bonus) li.classList.add("bonus");
+        if (selectedTeam !== "all" && team === selectedTeam) {
+          li.style.backgroundColor = "lightblue";
+          pickedThisTeam = true;
         }
-        if (pickedThisTeam) countPicked++;
+
+        const game = gamesForWeek.find(
+          (g) => g.homeTeam === team || g.awayTeam === team
+        );
+        let teamColor = "black";
+        if (game && game.status === "Completed") {
+          const winner =
+            game.homeScore > game.awayScore ? game.homeTeam : game.awayTeam;
+          teamColor = winner === team ? "green" : "red";
+        }
+
+        const mascot = team.split(" ").pop();
+        const logoFile = teamLogoMap[mascot] || "default.png";
+        const logo = document.createElement("img");
+        logo.src = `logos/${logoFile}`;
+        logo.alt = team;
+        logo.className = "team-logo";
+        li.appendChild(logo);
+        const nameSpan = document.createElement("span");
+        nameSpan.textContent = team;
+        nameSpan.style.color = teamColor;
+        li.appendChild(nameSpan);
+        const ptsSpan = document.createElement("span");
+        ptsSpan.className = "team-points";
+        ptsSpan.textContent = info.points;
+        li.appendChild(ptsSpan);
+        ul.appendChild(li);
       }
-      card.appendChild(ul);
-      cards.push({ name: player.name, element: card });
-    });
-
-    // ✅ move logged in user to top
-    if (loggedInUser) {
-      const idx = cards.findIndex(c => c.name === loggedInUser);
-      if (idx !== -1) {
-        const [userCard] = cards.splice(idx, 1);
-        cards.unshift(userCard);
-      }
+      if (pickedThisTeam) countPicked++;
     }
+    card.appendChild(ul);
 
-    cards.forEach(c => weeklyGrid.appendChild(c.element));
+    // ✅ Add total row at bottom
+    const totalRow = document.createElement("div");
+    totalRow.style.marginTop = "8px";
+    totalRow.style.fontWeight = "bold";
+    totalRow.style.textAlign = "center";
+    totalRow.style.color = "white";          // ✅ white text
+    totalRow.style.borderTop = "1px solid #ccc"; // optional subtle separator
+    totalRow.style.paddingTop = "6px";
+    totalRow.textContent = `Total: ${player.points}`;
+    card.appendChild(totalRow);
 
-    counterEl.style.display = selectedTeam !== "all" ? "inline" : "none";
-    if (selectedTeam !== "all")
-      counterEl.textContent = `${countPicked}/${allPlayers.length} player(s)`;
+    weeklyGrid.appendChild(card);
+  });
 
-    if (!matchupsContainer.classList.contains("hidden")) {
-      renderMatchups(gamesForWeek);
-    }
+  counterEl.style.display = selectedTeam !== "all" ? "inline" : "none";
+  if (selectedTeam !== "all")
+    counterEl.textContent = `${countPicked}/${allPlayers.length} player(s)`;
+
+  if (!matchupsContainer.classList.contains("hidden")) {
+    renderMatchups(gamesForWeek);
   }
+}
 
   // =========================
   // Matchups Rendering
