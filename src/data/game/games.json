@@ -3,20 +3,20 @@
     "week": 1,
     "games": [
       {
-        "homeTeam": "Los Angeles Chargers",
-        "homeScore": 27,
-        "awayTeam": "Kansas City Chiefs",
-        "awayScore": 21,
-        "weekday": "Friday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "Philadelphia Eagles",
         "homeScore": 24,
         "awayTeam": "Dallas Cowboys",
         "awayScore": 20,
         "weekday": "Thursday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Los Angeles Chargers",
+        "homeScore": 27,
+        "awayTeam": "Kansas City Chiefs",
+        "awayScore": 21,
+        "weekday": "Friday",
         "gameTime": null,
         "status": "Completed"
       },
