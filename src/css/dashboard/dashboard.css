@@ -492,12 +492,13 @@ button, h1, h2, h3, h4, h5, h6, table, input, select {
   background: #3f5c77;
   border: 2px solid #000;
   padding: 10px;
-  padding-bottom: 40px;
+  padding-bottom: 80px; /* ⬅️ was 40px, give more breathing room */
   display: none;
   flex: 1;
   min-height: 0;
   overflow-y: auto;
 }
+
 #leaderboard-section.active,
 #leaderboard-section:not(.hidden) { display: block; }
 

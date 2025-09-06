@@ -267,47 +267,54 @@ document.addEventListener("DOMContentLoaded", async () => {
   }
 
   // =========================
-  // Leaderboard
-  // =========================
-  function loadLeaderboard() {
-    const tbody = document.getElementById("leaderboard-body");
-    tbody.innerHTML = "";
+// Leaderboard
+// =========================
+function loadLeaderboard() {
+  const tbody = document.getElementById("leaderboard-body");
+  tbody.innerHTML = "";
 
-    const players = Object.entries(scoresData).map(([uid, player]) => ({
-      uid,
-      name: player.name,
-      score:
-        currentWeek === null
-          ? player.overall_score
-          : player.weeks?.[`week${currentWeek}`]?.total || 0,
-      photoURL: player.photoURL || DEFAULT_AVATAR
-    }));
+  const players = Object.entries(scoresData).map(([uid, player]) => ({
+    uid,
+    name: player.name,
+    score:
+      currentWeek === null
+        ? player.overall_score
+        : player.weeks?.[`week${currentWeek}`]?.total || 0,
+    photoURL: player.photoURL || DEFAULT_AVATAR,
+  }));
 
-    players.sort((a, b) => b.score - a.score);
+  // ✅ sort: most points first, fallback alphabetical
+  players.sort((a, b) => {
+    if (b.score !== a.score) return b.score - a.score;
+    return a.name.localeCompare(b.name);
+  });
 
-    let currentRank = 0,
-      prevScore = null,
-      playersSeen = 0;
-    players.forEach((player) => {
-      playersSeen++;
-      if (player.score !== prevScore) currentRank = playersSeen;
-      prevScore = player.score;
+  // assign ranks (ties share same rank)
+  let currentRank = 0,
+    prevScore = null,
+    playersSeen = 0;
 
-      const tr = document.createElement("tr");
-      tr.classList.add(`position-${currentRank}`);
-      tr.innerHTML = `
-        <td>${currentRank}</td>
-        <td>
-          <div class="player-cell">
-            <img src="${player.photoURL}" alt="${player.name}" class="profile-pic">
-            <span>${player.name}</span>
-          </div>
-        </td>
-        <td>${player.score}</td>
-      `;
-      tbody.appendChild(tr);
-    });
-  }
+  players.forEach((player) => {
+    playersSeen++;
+    if (player.score !== prevScore) currentRank = playersSeen;
+    prevScore = player.score;
+
+    const tr = document.createElement("tr");
+    tr.classList.add(`position-${currentRank}`);
+
+    tr.innerHTML = `
+      <td>${currentRank}</td>
+      <td>
+        <div class="player-cell">
+          <img src="${player.photoURL}" alt="${player.name}" class="profile-pic">
+          <span>${player.name}</span>
+        </div>
+      </td>
+      <td>${player.score}</td>
+    `;
+    tbody.appendChild(tr);
+  });
+}
 
   // =========================
   // Players Dropdown
