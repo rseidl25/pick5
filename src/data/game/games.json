@@ -4,9 +4,9 @@
     "games": [
       {
         "homeTeam": "Los Angeles Chargers",
-        "homeScore": 7,
+        "homeScore": 13,
         "awayTeam": "Kansas City Chiefs",
-        "awayScore": 0,
+        "awayScore": 6,
         "weekday": "Friday",
         "gameTime": null,
         "status": "In Progress"
