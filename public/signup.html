@@ -30,6 +30,29 @@
     <a href="index.html" class="back-link">Back to Home</a>
   </div>
 
+  <!-- Auth Guard -->
+  <script type="module">
+    import { getAuth, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js";
+    import { app } from "../src/js/auth/firebase_init.js";
+    import { signup_period } from "../src/js/auth/auth.js";
+
+    const auth = getAuth(app);
+
+    onAuthStateChanged(auth, (user) => {
+      if (!signup_period) {
+        console.warn("🚫 Signup closed, redirecting...");
+        window.location.href = "index.html"; // send them back to home
+        return;
+      }
+
+      // (Optional) If user is already logged in, redirect to dashboard
+      if (user) {
+        console.log("⚠️ Already logged in, redirecting...");
+        window.location.href = "dashboard.html";
+      }
+    });
+  </script>
+
   <!-- Import your Firebase auth.js -->
   <script type="module" src="../src/js/auth/auth.js"></script>
 </body>

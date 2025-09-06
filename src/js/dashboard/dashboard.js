@@ -52,6 +52,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   let currentWeek = null;
   let scoresData = {};
   let allPlayers = [];
+  let loggedInUser = null; // ✅ track logged in user name
 
   // --- Settings Modal Elements
   const settingsModal = document.getElementById("settings-modal");
@@ -69,6 +70,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   onAuthStateChanged(auth, (user) => {
     if (user) {
       const name = user.displayName || user.email || "User";
+      loggedInUser = name; // ✅ save for picks ordering
       userName.textContent = name;
 
       loginBtn.style.display = "none";
@@ -80,6 +82,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         window.location.reload();
       };
     } else {
+      loggedInUser = null;
       userName.textContent = "Guest";
 
       loginBtn.style.display = "inline-block";
@@ -264,14 +267,6 @@ document.addEventListener("DOMContentLoaded", async () => {
   }
 
   // =========================
-  // Auto-refresh week buttons on resize
-  // =========================
-  window.addEventListener("resize", () => {
-    renderWeekButtons();
-    updateTitles();
-  });
-
-  // =========================
   // Leaderboard
   // =========================
   function loadLeaderboard() {
@@ -373,16 +368,25 @@ document.addEventListener("DOMContentLoaded", async () => {
       gamesData.find((g) => g.week === weekNumber)?.games || [];
     const selectedPlayer = playerSelect.value;
     const selectedTeam = teamSelect.value;
+
+    // ✅ alphabetize always
     const playersToShow =
       selectedPlayer === "all"
-        ? allPlayers
+        ? allPlayers.slice().sort((a, b) => a.name.localeCompare(b.name))
         : allPlayers.filter((p) => p.uid === selectedPlayer);
+
     let countPicked = 0;
+    const cards = [];
 
     playersToShow.forEach((player) => {
       const weekData = scoresData[player.uid].weeks[`week${weekNumber}`];
       const card = document.createElement("div");
       card.className = "pick-box";
+
+      // highlight logged in user
+      if (loggedInUser && player.name === loggedInUser) {
+        card.style.border = "3px solid gold";
+      }
 
       const title = document.createElement("div");
       title.className = "player-header";
@@ -460,8 +464,19 @@ document.addEventListener("DOMContentLoaded", async () => {
         if (pickedThisTeam) countPicked++;
       }
       card.appendChild(ul);
-      weeklyGrid.appendChild(card);
+      cards.push({ name: player.name, element: card });
     });
+
+    // ✅ move logged in user to top
+    if (loggedInUser) {
+      const idx = cards.findIndex(c => c.name === loggedInUser);
+      if (idx !== -1) {
+        const [userCard] = cards.splice(idx, 1);
+        cards.unshift(userCard);
+      }
+    }
+
+    cards.forEach(c => weeklyGrid.appendChild(c.element));
 
     counterEl.style.display = selectedTeam !== "all" ? "inline" : "none";
     if (selectedTeam !== "all")
@@ -587,7 +602,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     }
   });
 
-  // ✅ FIX: Reload picks when dropdowns change
+  // ✅ Reload picks when dropdowns change
   playerSelect.addEventListener("change", () => {
     if (currentTab === "picks") loadWeeklyPicks(currentWeek);
   });
