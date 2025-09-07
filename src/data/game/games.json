@@ -3,19 +3,10 @@
     "week": 1,
     "games": [
       {
-        "homeTeam": "Jacksonville Jaguars",
-        "homeScore": 26,
-        "awayTeam": "Carolina Panthers",
-        "awayScore": 10,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Denver Broncos",
         "homeScore": 3,
         "awayTeam": "Tennessee Titans",
-        "awayScore": 3,
+        "awayScore": 6,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -31,9 +22,9 @@
       },
       {
         "homeTeam": "Green Bay Packers",
-        "homeScore": 10,
+        "homeScore": 17,
         "awayTeam": "Detroit Lions",
-        "awayScore": 0,
+        "awayScore": 3,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -42,7 +33,7 @@
         "homeTeam": "Los Angeles Rams",
         "homeScore": 0,
         "awayTeam": "Houston Texans",
-        "awayScore": 3,
+        "awayScore": 6,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -115,6 +106,15 @@
         "homeScore": 21,
         "awayTeam": "New York Giants",
         "awayScore": 6,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Jacksonville Jaguars",
+        "homeScore": 26,
+        "awayTeam": "Carolina Panthers",
+        "awayScore": 10,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
