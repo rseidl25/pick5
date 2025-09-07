@@ -13,7 +13,7 @@
       },
       {
         "homeTeam": "Cleveland Browns",
-        "homeScore": 10,
+        "homeScore": 16,
         "awayTeam": "Cincinnati Bengals",
         "awayScore": 14,
         "weekday": "Sunday",
@@ -22,7 +22,7 @@
       },
       {
         "homeTeam": "Indianapolis Colts",
-        "homeScore": 20,
+        "homeScore": 23,
         "awayTeam": "Miami Dolphins",
         "awayScore": 0,
         "weekday": "Sunday",
@@ -42,7 +42,7 @@
         "homeTeam": "New Orleans Saints",
         "homeScore": 10,
         "awayTeam": "Arizona Cardinals",
-        "awayScore": 17,
+        "awayScore": 20,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
