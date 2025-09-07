@@ -31,7 +31,7 @@
       },
       {
         "homeTeam": "Green Bay Packers",
-        "homeScore": 0,
+        "homeScore": 7,
         "awayTeam": "Detroit Lions",
         "awayScore": 0,
         "weekday": "Sunday",
@@ -61,15 +61,6 @@
         "homeScore": 20,
         "awayTeam": "Tampa Bay Buccaneers",
         "awayScore": 23,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
-        "homeTeam": "Washington Commanders",
-        "homeScore": 21,
-        "awayTeam": "New York Giants",
-        "awayScore": 6,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
@@ -115,6 +106,15 @@
         "homeScore": 32,
         "awayTeam": "Pittsburgh Steelers",
         "awayScore": 34,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Washington Commanders",
+        "homeScore": 21,
+        "awayTeam": "New York Giants",
+        "awayScore": 6,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
