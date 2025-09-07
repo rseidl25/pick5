@@ -4,7 +4,7 @@
     "games": [
       {
         "homeTeam": "Denver Broncos",
-        "homeScore": 13,
+        "homeScore": 20,
         "awayTeam": "Tennessee Titans",
         "awayScore": 12,
         "weekday": "Sunday",
@@ -12,17 +12,8 @@
         "status": "In Progress"
       },
       {
-        "homeTeam": "Seattle Seahawks",
-        "homeScore": 13,
-        "awayTeam": "San Francisco 49ers",
-        "awayScore": 10,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Green Bay Packers",
-        "homeScore": 24,
+        "homeScore": 27,
         "awayTeam": "Detroit Lions",
         "awayScore": 6,
         "weekday": "Sunday",
@@ -46,6 +37,15 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Seattle Seahawks",
+        "homeScore": 13,
+        "awayTeam": "San Francisco 49ers",
+        "awayScore": 17,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Atlanta Falcons",
