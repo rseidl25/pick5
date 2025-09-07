@@ -12,24 +12,6 @@
         "status": "In Progress"
       },
       {
-        "homeTeam": "Green Bay Packers",
-        "homeScore": 27,
-        "awayTeam": "Detroit Lions",
-        "awayScore": 6,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Los Angeles Rams",
-        "homeScore": 14,
-        "awayTeam": "Houston Texans",
-        "awayScore": 9,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Buffalo Bills",
         "homeScore": 0,
         "awayTeam": "Baltimore Ravens",
@@ -39,10 +21,10 @@
         "status": "Preview"
       },
       {
-        "homeTeam": "Seattle Seahawks",
-        "homeScore": 13,
-        "awayTeam": "San Francisco 49ers",
-        "awayScore": 17,
+        "homeTeam": "Los Angeles Rams",
+        "homeScore": 14,
+        "awayTeam": "Houston Texans",
+        "awayScore": 9,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
@@ -115,6 +97,24 @@
         "homeScore": 26,
         "awayTeam": "Carolina Panthers",
         "awayScore": 10,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Seattle Seahawks",
+        "homeScore": 13,
+        "awayTeam": "San Francisco 49ers",
+        "awayScore": 17,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Green Bay Packers",
+        "homeScore": 27,
+        "awayTeam": "Detroit Lions",
+        "awayScore": 13,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
