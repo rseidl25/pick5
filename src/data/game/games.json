@@ -24,7 +24,7 @@
         "homeTeam": "Indianapolis Colts",
         "homeScore": 30,
         "awayTeam": "Miami Dolphins",
-        "awayScore": 0,
+        "awayScore": 8,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -51,7 +51,7 @@
         "homeTeam": "New York Jets",
         "homeScore": 26,
         "awayTeam": "Pittsburgh Steelers",
-        "awayScore": 17,
+        "awayScore": 31,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -60,14 +60,14 @@
         "homeTeam": "Washington Commanders",
         "homeScore": 14,
         "awayTeam": "New York Giants",
-        "awayScore": 3,
+        "awayScore": 6,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Jacksonville Jaguars",
-        "homeScore": 10,
+        "homeScore": 17,
         "awayTeam": "Carolina Panthers",
         "awayScore": 3,
         "weekday": "Sunday",
