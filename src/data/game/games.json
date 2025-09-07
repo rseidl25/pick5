@@ -4,7 +4,7 @@
     "games": [
       {
         "homeTeam": "Atlanta Falcons",
-        "homeScore": 7,
+        "homeScore": 10,
         "awayTeam": "Tampa Bay Buccaneers",
         "awayScore": 10,
         "weekday": "Sunday",
@@ -13,7 +13,7 @@
       },
       {
         "homeTeam": "Cleveland Browns",
-        "homeScore": 7,
+        "homeScore": 10,
         "awayTeam": "Cincinnati Bengals",
         "awayScore": 14,
         "weekday": "Sunday",
@@ -22,7 +22,7 @@
       },
       {
         "homeTeam": "Indianapolis Colts",
-        "homeScore": 17,
+        "homeScore": 20,
         "awayTeam": "Miami Dolphins",
         "awayScore": 0,
         "weekday": "Sunday",
@@ -31,7 +31,7 @@
       },
       {
         "homeTeam": "New England Patriots",
-        "homeScore": 7,
+        "homeScore": 10,
         "awayTeam": "Las Vegas Raiders",
         "awayScore": 7,
         "weekday": "Sunday",
@@ -42,7 +42,7 @@
         "homeTeam": "New Orleans Saints",
         "homeScore": 10,
         "awayTeam": "Arizona Cardinals",
-        "awayScore": 16,
+        "awayScore": 17,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -51,7 +51,7 @@
         "homeTeam": "New York Jets",
         "homeScore": 19,
         "awayTeam": "Pittsburgh Steelers",
-        "awayScore": 10,
+        "awayScore": 17,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
