@@ -4,16 +4,16 @@
     "games": [
       {
         "homeTeam": "Denver Broncos",
-        "homeScore": 3,
+        "homeScore": 10,
         "awayTeam": "Tennessee Titans",
-        "awayScore": 6,
+        "awayScore": 9,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Seattle Seahawks",
-        "homeScore": 7,
+        "homeScore": 10,
         "awayTeam": "San Francisco 49ers",
         "awayScore": 7,
         "weekday": "Sunday",
