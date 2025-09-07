@@ -17,7 +17,7 @@
             "bonus": false
           },
           "Pittsburgh Steelers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Seattle Seahawks": {
@@ -25,7 +25,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week2": {
         "teams": {
@@ -453,7 +453,7 @@
         "total": 0
       }
     },
-    "overall_score": 10
+    "overall_score": 20
   },
   "A5dssZETIMhNd0WYKQamFxxb9Ak2": {
     "name": "Judy Phillip",
@@ -477,11 +477,11 @@
             "bonus": false
           },
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week2": {
         "teams": {
@@ -909,7 +909,7 @@
         "total": 0
       }
     },
-    "overall_score": 10
+    "overall_score": 20
   },
   "AmEIaRh92vdP40uVAseDWGxcZBM2": {
     "name": "Brett Sievwright",
@@ -1377,11 +1377,11 @@
             "bonus": true
           },
           "Pittsburgh Steelers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Washington Commanders": {
@@ -1393,7 +1393,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 20
       },
       "week2": {
         "teams": {
@@ -1821,7 +1821,7 @@
         "total": 0
       }
     },
-    "overall_score": 0
+    "overall_score": 20
   },
   "FkbsYIXzm7TorvwE2qbaTiKsrmi1": {
     "name": "Steve",
@@ -1833,7 +1833,7 @@
             "bonus": false
           },
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Washington Commanders": {
@@ -1845,11 +1845,11 @@
             "bonus": false
           },
           "Arizona Cardinals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 10
+        "total": 30
       },
       "week2": {
         "teams": {
@@ -2277,7 +2277,7 @@
         "total": 0
       }
     },
-    "overall_score": 10
+    "overall_score": 30
   },
   "Fn25s976WxT6gML22x8yJsQ33PM2": {
     "name": "Milly",
@@ -2285,7 +2285,7 @@
       "week1": {
         "teams": {
           "Arizona Cardinals": {
-            "points": 0,
+            "points": 30,
             "bonus": true
           },
           "Denver Broncos": {
@@ -2297,7 +2297,7 @@
             "bonus": false
           },
           "Las Vegas Raiders": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Washington Commanders": {
@@ -2305,7 +2305,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 40
       },
       "week2": {
         "teams": {
@@ -2733,7 +2733,7 @@
         "total": 0
       }
     },
-    "overall_score": 0
+    "overall_score": 40
   },
   "K9X8fKAf1bNvZjJH0jM9eO2uobP2": {
     "name": "Bryan",
@@ -2749,7 +2749,7 @@
             "bonus": false
           },
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Denver Broncos": {
@@ -2761,7 +2761,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week2": {
         "teams": {
@@ -3189,7 +3189,7 @@
         "total": 0
       }
     },
-    "overall_score": 10
+    "overall_score": 20
   },
   "LKY6YytQUfbPzmcw2yfIYm0XEQD2": {
     "name": "Smelly Kelly",
@@ -3201,7 +3201,7 @@
             "bonus": false
           },
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Denver Broncos": {
@@ -3209,7 +3209,7 @@
             "bonus": true
           },
           "Arizona Cardinals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Washington Commanders": {
@@ -3217,7 +3217,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 30
       },
       "week2": {
         "teams": {
@@ -3645,7 +3645,7 @@
         "total": 0
       }
     },
-    "overall_score": 10
+    "overall_score": 30
   },
   "NluZaqiuGKRzhuir9Jfu5uKRm302": {
     "name": "Angie Phillip",
@@ -3657,7 +3657,7 @@
             "bonus": true
           },
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Denver Broncos": {
@@ -3665,7 +3665,7 @@
             "bonus": false
           },
           "Pittsburgh Steelers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Minnesota Vikings": {
@@ -3673,7 +3673,7 @@
             "bonus": false
           }
         },
-        "total": 34
+        "total": 54
       },
       "week2": {
         "teams": {
@@ -4101,7 +4101,7 @@
         "total": 0
       }
     },
-    "overall_score": 34
+    "overall_score": 54
   },
   "US8t7rlGTXV5t8M3K8OWB2kzQo93": {
     "name": "Sam",
@@ -4117,7 +4117,7 @@
             "bonus": false
           },
           "Arizona Cardinals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Philadelphia Eagles": {
@@ -4129,7 +4129,7 @@
             "bonus": true
           }
         },
-        "total": 10
+        "total": 20
       },
       "week2": {
         "teams": {
@@ -4557,7 +4557,7 @@
         "total": 0
       }
     },
-    "overall_score": 10
+    "overall_score": 20
   },
   "XKPW7eAMivNTYBrIivGGT9DFV022": {
     "name": "Joey",
@@ -4573,7 +4573,7 @@
             "bonus": false
           },
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 27,
             "bonus": true
           },
           "Miami Dolphins": {
@@ -4585,7 +4585,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 37
       },
       "week2": {
         "teams": {
@@ -5013,7 +5013,7 @@
         "total": 0
       }
     },
-    "overall_score": 10
+    "overall_score": 37
   },
   "dac8Eg3ax4PxQl7aSydfS9lAWv23": {
     "name": "Ben",
@@ -5025,15 +5025,15 @@
             "bonus": false
           },
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 27,
             "bonus": true
           },
           "Arizona Cardinals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Pittsburgh Steelers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Denver Broncos": {
@@ -5041,7 +5041,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 57
       },
       "week2": {
         "teams": {
@@ -5469,7 +5469,7 @@
         "total": 0
       }
     },
-    "overall_score": 10
+    "overall_score": 57
   },
   "hELkxczX1UerNFvp4fpORxqLr9X2": {
     "name": "PP",
@@ -5477,7 +5477,7 @@
       "week1": {
         "teams": {
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Denver Broncos": {
@@ -5489,7 +5489,7 @@
             "bonus": true
           },
           "Pittsburgh Steelers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Philadelphia Eagles": {
@@ -5497,7 +5497,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 30
       },
       "week2": {
         "teams": {
@@ -5925,7 +5925,7 @@
         "total": 0
       }
     },
-    "overall_score": 10
+    "overall_score": 30
   },
   "hR9aypGuwBfk5pE5MwNjxEvfkh43": {
     "name": "Ryan",
@@ -5933,7 +5933,7 @@
       "week1": {
         "teams": {
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Denver Broncos": {
@@ -5941,7 +5941,7 @@
             "bonus": true
           },
           "Arizona Cardinals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Miami Dolphins": {
@@ -5953,7 +5953,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 20
       },
       "week2": {
         "teams": {
@@ -6381,7 +6381,7 @@
         "total": 0
       }
     },
-    "overall_score": 0
+    "overall_score": 20
   },
   "jydlml7YsWe72ieLWGDFhuxY3Nb2": {
     "name": "Cal",
@@ -6389,7 +6389,7 @@
       "week1": {
         "teams": {
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 27,
             "bonus": true
           },
           "Washington Commanders": {
@@ -6409,7 +6409,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 27
       },
       "week2": {
         "teams": {
@@ -6837,7 +6837,7 @@
         "total": 0
       }
     },
-    "overall_score": 0
+    "overall_score": 27
   },
   "tinL2DkOXZTYEdYZDlT3cQzk6Yi2": {
     "name": "Lauren",
@@ -7309,7 +7309,7 @@
             "bonus": false
           },
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Washington Commanders": {
@@ -7321,7 +7321,7 @@
             "bonus": true
           }
         },
-        "total": 10
+        "total": 20
       },
       "week2": {
         "teams": {
@@ -7749,6 +7749,6 @@
         "total": 0
       }
     },
-    "overall_score": 10
+    "overall_score": 20
   }
 }
