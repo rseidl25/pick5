@@ -6,7 +6,7 @@
         "homeTeam": "Denver Broncos",
         "homeScore": 10,
         "awayTeam": "Tennessee Titans",
-        "awayScore": 9,
+        "awayScore": 12,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -24,14 +24,14 @@
         "homeTeam": "Green Bay Packers",
         "homeScore": 17,
         "awayTeam": "Detroit Lions",
-        "awayScore": 3,
+        "awayScore": 6,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Los Angeles Rams",
-        "homeScore": 7,
+        "homeScore": 14,
         "awayTeam": "Houston Texans",
         "awayScore": 9,
         "weekday": "Sunday",
