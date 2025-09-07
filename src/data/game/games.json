@@ -4,7 +4,7 @@
     "games": [
       {
         "homeTeam": "Jacksonville Jaguars",
-        "homeScore": 20,
+        "homeScore": 23,
         "awayTeam": "Carolina Panthers",
         "awayScore": 3,
         "weekday": "Sunday",
@@ -22,7 +22,7 @@
       },
       {
         "homeTeam": "Seattle Seahawks",
-        "homeScore": 0,
+        "homeScore": 7,
         "awayTeam": "San Francisco 49ers",
         "awayScore": 7,
         "weekday": "Sunday",
