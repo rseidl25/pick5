@@ -3,15 +3,6 @@
     "week": 1,
     "games": [
       {
-        "homeTeam": "Buffalo Bills",
-        "homeScore": 38,
-        "awayTeam": "Baltimore Ravens",
-        "awayScore": 40,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Atlanta Falcons",
         "homeScore": 20,
         "awayTeam": "Tampa Bay Buccaneers",
@@ -115,6 +106,15 @@
         "homeScore": 14,
         "awayTeam": "Houston Texans",
         "awayScore": 9,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Buffalo Bills",
+        "homeScore": 41,
+        "awayTeam": "Baltimore Ravens",
+        "awayScore": 40,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
