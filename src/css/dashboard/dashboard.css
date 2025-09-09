@@ -683,26 +683,69 @@ button, h1, h2, h3, h4, h5, h6, table, input, select {
   border-radius: 4px;
   box-shadow: 2px 2px 4px rgba(0,0,0,0.6);
 }
+
 .pick-box h3 {
   font-size: 16px;
   margin-bottom: 8px;
   color: white;
 }
-.pick-list { list-style: none; padding: 0; margin: 0; }
+
+.pick-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
 .pick-row {
   display: flex;
   align-items: center;
-  justify-content: space-between;
   border: 1px solid #aaa;
   padding: 6px;
   margin: 4px 0;
   font-weight: bold;
   background: #fff;
 }
-.pick-row img.team-logo { width: 20px; height: 20px; object-fit: contain; margin-right: 8px; }
-.pick-row span { margin: 0 6px; }
-.pick-row.bonus { background: rgb(255, 230, 86); border-color: #b45309; }
-#team-pick-counter { font-weight: bold; margin-left: 10px; color: white; }
+
+.pick-row img.team-logo {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+  margin-right: 8px;
+}
+
+/* ✅ Team name only shrinks when needed */
+.pick-row .team-name {
+  flex: 1 1 auto;             /* take remaining space */
+  min-width: 0;               /* allow flexbox to shrink it */
+  text-align: center;         /* always center the text */
+  white-space: nowrap;        /* keep it on one line */
+  font-size: 14px;            /* default size */
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* ✅ Smart scaling: only shrink long names on small screens */
+@media (max-width: 700px) {
+  .pick-row .team-name {
+    font-size: clamp(10px, 2.8vw, 14px); /* shrink only if needed */
+  }
+}
+
+.pick-row .team-points {
+  margin-left: 6px;
+  flex-shrink: 0;  /* score never shrinks */
+}
+
+.pick-row.bonus {
+  background: rgb(255, 230, 86);
+  border-color: #b45309;
+}
+
+#team-pick-counter {
+  font-weight: bold;
+  margin-left: 10px;
+  color: white;
+}
 
 /* =========================
    Modal
@@ -894,10 +937,11 @@ button, h1, h2, h3, h4, h5, h6, table, input, select {
    Profile Pictures
    ========================= */
 .profile-pic {
-  width: 52px;           /* or whatever size you want */
-  height: 52px;
-  border-radius: 50%;    /* makes it circular */
-  object-fit: cover;     /* ✅ fills the whole circle */
+  width: 60px;              /* keep consistent size */
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;        /* ✅ crops instead of stretching */
+  image-rendering: auto;    /* ✅ smooth scaling */
   display: inline-block;
   background: white;
   border: 1px solid #000;
@@ -929,4 +973,129 @@ button, h1, h2, h3, h4, h5, h6, table, input, select {
   object-fit: cover;
   margin-right: 6px;
   vertical-align: middle;
+}
+
+/* =========================
+   Mobile Last Updated Placement
+   ========================= */
+@media (max-width: 700px) {
+  .dashboard-header {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* logo | user-info */
+    grid-template-rows: auto auto;  /* user-info row + date row */
+    align-items: center;
+    padding: 12px;
+    gap: 6px;
+  }
+
+  /* Logo top-left */
+  .dashboard-header .logo-container {
+    grid-column: 1;
+    grid-row: 1 / span 2; /* spans both rows */
+    justify-self: start;
+    width: 70px;
+    height: 70px;
+  }
+
+  /* User info top-right */
+  .dashboard-header .user-info {
+    grid-column: 2;
+    grid-row: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+  }
+
+  /* Date/time directly under user-info */
+  .dashboard-header .last-updated {
+    grid-column: 2;
+    grid-row: 2;
+    text-align: center;
+    font-size: clamp(10px, 3.5vw, 13px);
+    margin: 0;
+  }
+
+  .dashboard-header .last-updated span {
+    display: none; /* hide label */
+  }
+
+  #last-updated-time {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100%;
+    display: block;
+  }
+
+  .dashboard-tabs {
+    display: flex;
+    justify-content: flex-start; /* align left so scroll works */
+    overflow-x: auto;            /* enable horizontal scroll */
+    -webkit-overflow-scrolling: touch; /* smooth iOS scroll */
+    scrollbar-width: none;       /* hide scrollbar Firefox */
+  }
+
+  .dashboard-tabs::-webkit-scrollbar {
+    display: none; /* hide scrollbar Chrome/Safari */
+  }
+
+  .dashboard-tabs button {
+    flex: 1 1 auto;            /* let them shrink */
+    min-width: 0;              /* required for ellipsis to work */
+    font-size: clamp(10px, 3vw, 13px);
+    padding: 8px 6px;
+    white-space: nowrap;       /* no wrapping */
+    overflow: hidden;          /* hide extra text */
+    text-overflow: ellipsis;   /* show … when clipped */
+    text-align: center;
+  }
+
+  #picks-section {
+    overflow-x: hidden;   /* stop horizontal scroll */
+  }
+
+  .picks-layout {
+    flex-direction: column; /* stack picks and matchups */
+    gap: 16px;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+
+  .weekly-picks-grid {
+    display: flex;              /* stack cards vertically */
+    flex-direction: column;
+    align-items: center;        /* center them */
+    gap: 16px;
+  }
+
+  .pick-box {
+    width: 95%;                 /* a little wider than before */
+    max-width: 400px;           /* don’t get too huge */
+    margin: 0 auto;             /* center horizontally */
+  }
+
+  .matchups-container {
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    overflow-x: hidden;
+  }
+  
+  .leaderboard-table th:first-child {
+    font-size: 11px;
+    white-space: nowrap;
+    position: relative;
+    color: transparent; /* hide original text */
+  }
+
+  .leaderboard-table th:first-child::after {
+    content: "Pos"; /* replacement text */
+    color: #fff;    /* visible color */
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
 }
