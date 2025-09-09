@@ -3,15 +3,6 @@
     "week": 1,
     "games": [
       {
-        "homeTeam": "Chicago Bears",
-        "homeScore": 24,
-        "awayTeam": "Minnesota Vikings",
-        "awayScore": 27,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "Philadelphia Eagles",
         "homeScore": 24,
         "awayTeam": "Dallas Cowboys",
@@ -143,6 +134,15 @@
         "awayTeam": "Baltimore Ravens",
         "awayScore": 40,
         "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Chicago Bears",
+        "homeScore": 24,
+        "awayTeam": "Minnesota Vikings",
+        "awayScore": 27,
+        "weekday": "Monday",
         "gameTime": null,
         "status": "Completed"
       }
