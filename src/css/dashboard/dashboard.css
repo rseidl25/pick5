@@ -1074,8 +1074,8 @@ button, h1, h2, h3, h4, h5, h6, table, input, select {
   }
 
   .pick-box {
-    width: 92%;   /* ensure card fills screen */
-    max-width: 92%;
+    width: 93%;   /* ensure card fills screen */
+    max-width: 93%;
   }
 
   .matchups-container {
