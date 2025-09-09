@@ -473,7 +473,7 @@
             "bonus": false
           },
           "Minnesota Vikings": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Cincinnati Bengals": {
@@ -481,7 +481,7 @@
             "bonus": false
           }
         },
-        "total": 61
+        "total": 71
       },
       "week2": {
         "teams": {
@@ -909,7 +909,7 @@
         "total": 0
       }
     },
-    "overall_score": 61
+    "overall_score": 71
   },
   "AmEIaRh92vdP40uVAseDWGxcZBM2": {
     "name": "Brett Sievwright",
@@ -1373,7 +1373,7 @@
       "week1": {
         "teams": {
           "Minnesota Vikings": {
-            "points": 0,
+            "points": 37,
             "bonus": true
           },
           "Pittsburgh Steelers": {
@@ -1393,7 +1393,7 @@
             "bonus": false
           }
         },
-        "total": 40
+        "total": 77
       },
       "week2": {
         "teams": {
@@ -1821,7 +1821,7 @@
         "total": 0
       }
     },
-    "overall_score": 40
+    "overall_score": 77
   },
   "FkbsYIXzm7TorvwE2qbaTiKsrmi1": {
     "name": "Steve",
@@ -2745,7 +2745,7 @@
             "bonus": true
           },
           "Minnesota Vikings": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Cincinnati Bengals": {
@@ -2761,7 +2761,7 @@
             "bonus": false
           }
         },
-        "total": 61
+        "total": 71
       },
       "week2": {
         "teams": {
@@ -3189,7 +3189,7 @@
         "total": 0
       }
     },
-    "overall_score": 61
+    "overall_score": 71
   },
   "LKY6YytQUfbPzmcw2yfIYm0XEQD2": {
     "name": "Smelly Kelly",
@@ -3669,11 +3669,11 @@
             "bonus": false
           },
           "Minnesota Vikings": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 64
+        "total": 74
       },
       "week2": {
         "teams": {
@@ -4101,7 +4101,7 @@
         "total": 0
       }
     },
-    "overall_score": 64
+    "overall_score": 74
   },
   "US8t7rlGTXV5t8M3K8OWB2kzQo93": {
     "name": "Sam",
