@@ -4,9 +4,9 @@
     "games": [
       {
         "homeTeam": "Chicago Bears",
-        "homeScore": 17,
+        "homeScore": 24,
         "awayTeam": "Minnesota Vikings",
-        "awayScore": 6,
+        "awayScore": 27,
         "weekday": "Monday",
         "gameTime": null,
         "status": "In Progress"
