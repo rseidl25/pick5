@@ -153,9 +153,9 @@
     "games": [
       {
         "homeTeam": "Green Bay Packers",
-        "homeScore": 17,
+        "homeScore": 27,
         "awayTeam": "Washington Commanders",
-        "awayScore": 3,
+        "awayScore": 10,
         "weekday": "Thursday",
         "gameTime": null,
         "status": "In Progress"
