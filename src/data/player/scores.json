@@ -946,7 +946,7 @@
             "bonus": true
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Detroit Lions": {
@@ -962,7 +962,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week3": {
         "teams": {
@@ -1365,7 +1365,7 @@
         "total": 0
       }
     },
-    "overall_score": 20
+    "overall_score": 30
   },
   "D2fLoPEINITIuA9oJNB8ybVaOps2": {
     "name": "Kalysta",

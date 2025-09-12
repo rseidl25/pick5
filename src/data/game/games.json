@@ -155,10 +155,10 @@
         "homeTeam": "Green Bay Packers",
         "homeScore": 27,
         "awayTeam": "Washington Commanders",
-        "awayScore": 10,
+        "awayScore": 18,
         "weekday": "Thursday",
         "gameTime": null,
-        "status": "In Progress"
+        "status": "Completed"
       },
       {
         "homeTeam": "Cincinnati Bengals",
