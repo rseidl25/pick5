@@ -153,7 +153,7 @@
     "games": [
       {
         "homeTeam": "Indianapolis Colts",
-        "homeScore": 6,
+        "homeScore": 13,
         "awayTeam": "Denver Broncos",
         "awayScore": 7,
         "weekday": "Sunday",
@@ -173,7 +173,7 @@
         "homeTeam": "Kansas City Chiefs",
         "homeScore": 0,
         "awayTeam": "Philadelphia Eagles",
-        "awayScore": 0,
+        "awayScore": 7,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -188,19 +188,19 @@
         "status": "Preview"
       },
       {
-        "homeTeam": "Dallas Cowboys",
-        "homeScore": 40,
-        "awayTeam": "New York Giants",
-        "awayScore": 37,
+        "homeTeam": "Cincinnati Bengals",
+        "homeScore": 31,
+        "awayTeam": "Jacksonville Jaguars",
+        "awayScore": 27,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
       },
       {
-        "homeTeam": "Cincinnati Bengals",
-        "homeScore": 31,
-        "awayTeam": "Jacksonville Jaguars",
-        "awayScore": 27,
+        "homeTeam": "Dallas Cowboys",
+        "homeScore": 40,
+        "awayTeam": "New York Giants",
+        "awayScore": 37,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
