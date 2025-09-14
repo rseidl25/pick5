@@ -161,24 +161,6 @@
         "status": "Preview"
       },
       {
-        "homeTeam": "Arizona Cardinals",
-        "homeScore": 27,
-        "awayTeam": "Carolina Panthers",
-        "awayScore": 22,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
-        "homeTeam": "Kansas City Chiefs",
-        "homeScore": 17,
-        "awayTeam": "Philadelphia Eagles",
-        "awayScore": 20,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "Cincinnati Bengals",
         "homeScore": 31,
         "awayTeam": "Jacksonville Jaguars",
@@ -264,6 +246,24 @@
         "homeScore": 29,
         "awayTeam": "Denver Broncos",
         "awayScore": 28,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Arizona Cardinals",
+        "homeScore": 27,
+        "awayTeam": "Carolina Panthers",
+        "awayScore": 22,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Kansas City Chiefs",
+        "homeScore": 17,
+        "awayTeam": "Philadelphia Eagles",
+        "awayScore": 20,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
