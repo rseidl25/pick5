@@ -153,18 +153,18 @@
     "games": [
       {
         "homeTeam": "Indianapolis Colts",
-        "homeScore": 20,
+        "homeScore": 23,
         "awayTeam": "Denver Broncos",
-        "awayScore": 21,
+        "awayScore": 28,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Arizona Cardinals",
-        "homeScore": 20,
+        "homeScore": 27,
         "awayTeam": "Carolina Panthers",
-        "awayScore": 3,
+        "awayScore": 9,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -173,7 +173,7 @@
         "homeTeam": "Kansas City Chiefs",
         "homeScore": 10,
         "awayTeam": "Philadelphia Eagles",
-        "awayScore": 10,
+        "awayScore": 13,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
