@@ -152,15 +152,6 @@
     "week": 2,
     "games": [
       {
-        "homeTeam": "Green Bay Packers",
-        "homeScore": 27,
-        "awayTeam": "Washington Commanders",
-        "awayScore": 18,
-        "weekday": "Thursday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "Cincinnati Bengals",
         "homeScore": 0,
         "awayTeam": "Jacksonville Jaguars",
@@ -276,6 +267,15 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Green Bay Packers",
+        "homeScore": 27,
+        "awayTeam": "Washington Commanders",
+        "awayScore": 18,
+        "weekday": "Thursday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Houston Texans",
