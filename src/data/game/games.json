@@ -153,7 +153,7 @@
     "games": [
       {
         "homeTeam": "Indianapolis Colts",
-        "homeScore": 23,
+        "homeScore": 26,
         "awayTeam": "Denver Broncos",
         "awayScore": 28,
         "weekday": "Sunday",
@@ -164,7 +164,7 @@
         "homeTeam": "Arizona Cardinals",
         "homeScore": 27,
         "awayTeam": "Carolina Panthers",
-        "awayScore": 9,
+        "awayScore": 15,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
