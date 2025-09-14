@@ -5058,7 +5058,7 @@
             "bonus": false
           },
           "Indianapolis Colts": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "San Francisco 49ers": {
@@ -5066,7 +5066,7 @@
             "bonus": true
           }
         },
-        "total": 46
+        "total": 56
       },
       "week3": {
         "teams": {
@@ -5469,7 +5469,7 @@
         "total": 0
       }
     },
-    "overall_score": 113
+    "overall_score": 123
   },
   "hELkxczX1UerNFvp4fpORxqLr9X2": {
     "name": "PP",
