@@ -30,11 +30,11 @@
       "week2": {
         "teams": {
           "Baltimore Ravens": {
-            "points": 0,
+            "points": 51,
             "bonus": true
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Dallas Cowboys": {
@@ -42,7 +42,7 @@
             "bonus": false
           },
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Miami Dolphins": {
@@ -50,7 +50,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 71
       },
       "week3": {
         "teams": {
@@ -453,7 +453,7 @@
         "total": 0
       }
     },
-    "overall_score": 51
+    "overall_score": 122
   },
   "A5dssZETIMhNd0WYKQamFxxb9Ak2": {
     "name": "Judy Phillip",
@@ -486,11 +486,11 @@
       "week2": {
         "teams": {
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
-            "points": 0,
+            "points": 51,
             "bonus": true
           },
           "Los Angeles Chargers": {
@@ -498,7 +498,7 @@
             "bonus": false
           },
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Detroit Lions": {
@@ -506,7 +506,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 71
       },
       "week3": {
         "teams": {
@@ -909,7 +909,7 @@
         "total": 0
       }
     },
-    "overall_score": 71
+    "overall_score": 142
   },
   "AmEIaRh92vdP40uVAseDWGxcZBM2": {
     "name": "Brett Sievwright",
@@ -942,7 +942,7 @@
       "week2": {
         "teams": {
           "Buffalo Bills": {
-            "points": 0,
+            "points": 40,
             "bonus": true
           },
           "Green Bay Packers": {
@@ -962,7 +962,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 50
       },
       "week3": {
         "teams": {
@@ -1365,7 +1365,7 @@
         "total": 0
       }
     },
-    "overall_score": 30
+    "overall_score": 70
   },
   "D2fLoPEINITIuA9oJNB8ybVaOps2": {
     "name": "Kalysta",
@@ -1402,7 +1402,7 @@
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Los Angeles Chargers": {
@@ -1410,15 +1410,15 @@
             "bonus": false
           },
           "Seattle Seahawks": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
-            "points": 0,
+            "points": 51,
             "bonus": true
           }
         },
-        "total": 0
+        "total": 71
       },
       "week3": {
         "teams": {
@@ -1821,7 +1821,7 @@
         "total": 0
       }
     },
-    "overall_score": 77
+    "overall_score": 148
   },
   "FkbsYIXzm7TorvwE2qbaTiKsrmi1": {
     "name": "Steve",
@@ -1854,11 +1854,11 @@
       "week2": {
         "teams": {
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "San Francisco 49ers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Dallas Cowboys": {
@@ -1870,11 +1870,11 @@
             "bonus": true
           },
           "Baltimore Ravens": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 30
       },
       "week3": {
         "teams": {
@@ -2277,7 +2277,7 @@
         "total": 0
       }
     },
-    "overall_score": 71
+    "overall_score": 101
   },
   "Fn25s976WxT6gML22x8yJsQ33PM2": {
     "name": "Milly",
@@ -2318,7 +2318,7 @@
             "bonus": false
           },
           "San Francisco 49ers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Minnesota Vikings": {
@@ -2330,7 +2330,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week3": {
         "teams": {
@@ -2733,7 +2733,7 @@
         "total": 0
       }
     },
-    "overall_score": 60
+    "overall_score": 70
   },
   "K9X8fKAf1bNvZjJH0jM9eO2uobP2": {
     "name": "Bryan",
@@ -2766,7 +2766,7 @@
       "week2": {
         "teams": {
           "Baltimore Ravens": {
-            "points": 0,
+            "points": 51,
             "bonus": true
           },
           "Detroit Lions": {
@@ -2774,7 +2774,7 @@
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Los Angeles Chargers": {
@@ -2782,11 +2782,11 @@
             "bonus": false
           },
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 71
       },
       "week3": {
         "teams": {
@@ -3189,7 +3189,7 @@
         "total": 0
       }
     },
-    "overall_score": 71
+    "overall_score": 142
   },
   "LKY6YytQUfbPzmcw2yfIYm0XEQD2": {
     "name": "Smelly Kelly",
@@ -3222,11 +3222,11 @@
       "week2": {
         "teams": {
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Detroit Lions": {
@@ -3242,7 +3242,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 20
       },
       "week3": {
         "teams": {
@@ -3645,7 +3645,7 @@
         "total": 0
       }
     },
-    "overall_score": 70
+    "overall_score": 90
   },
   "NluZaqiuGKRzhuir9Jfu5uKRm302": {
     "name": "Angie Phillip",
@@ -3678,15 +3678,15 @@
       "week2": {
         "teams": {
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
-            "points": 0,
+            "points": 51,
             "bonus": true
           },
           "San Francisco 49ers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Detroit Lions": {
@@ -3694,11 +3694,11 @@
             "bonus": false
           },
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 81
       },
       "week3": {
         "teams": {
@@ -4101,7 +4101,7 @@
         "total": 0
       }
     },
-    "overall_score": 74
+    "overall_score": 155
   },
   "US8t7rlGTXV5t8M3K8OWB2kzQo93": {
     "name": "Sam",
@@ -4134,11 +4134,11 @@
       "week2": {
         "teams": {
           "San Francisco 49ers": {
-            "points": 0,
+            "points": 36,
             "bonus": true
           },
           "Baltimore Ravens": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Cincinnati Bengals": {
@@ -4154,7 +4154,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 46
       },
       "week3": {
         "teams": {
@@ -4557,7 +4557,7 @@
         "total": 0
       }
     },
-    "overall_score": 61
+    "overall_score": 107
   },
   "XKPW7eAMivNTYBrIivGGT9DFV022": {
     "name": "Joey",
@@ -4590,7 +4590,7 @@
       "week2": {
         "teams": {
           "Buffalo Bills": {
-            "points": 0,
+            "points": 40,
             "bonus": true
           },
           "Atlanta Falcons": {
@@ -4598,11 +4598,11 @@
             "bonus": false
           },
           "Baltimore Ravens": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "San Francisco 49ers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Cincinnati Bengals": {
@@ -4610,7 +4610,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 60
       },
       "week3": {
         "teams": {
@@ -5013,7 +5013,7 @@
         "total": 0
       }
     },
-    "overall_score": 47
+    "overall_score": 107
   },
   "dac8Eg3ax4PxQl7aSydfS9lAWv23": {
     "name": "Ben",
@@ -5062,11 +5062,11 @@
             "bonus": false
           },
           "San Francisco 49ers": {
-            "points": 0,
+            "points": 36,
             "bonus": true
           }
         },
-        "total": 0
+        "total": 36
       },
       "week3": {
         "teams": {
@@ -5469,7 +5469,7 @@
         "total": 0
       }
     },
-    "overall_score": 67
+    "overall_score": 103
   },
   "hELkxczX1UerNFvp4fpORxqLr9X2": {
     "name": "PP",
@@ -5510,11 +5510,11 @@
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Minnesota Vikings": {
@@ -5522,7 +5522,7 @@
             "bonus": true
           }
         },
-        "total": 0
+        "total": 20
       },
       "week3": {
         "teams": {
@@ -5925,7 +5925,7 @@
         "total": 0
       }
     },
-    "overall_score": 71
+    "overall_score": 91
   },
   "hR9aypGuwBfk5pE5MwNjxEvfkh43": {
     "name": "Ryan",
@@ -5966,19 +5966,19 @@
             "bonus": false
           },
           "San Francisco 49ers": {
-            "points": 0,
+            "points": 36,
             "bonus": true
           },
           "Baltimore Ravens": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 56
       },
       "week3": {
         "teams": {
@@ -6381,7 +6381,7 @@
         "total": 0
       }
     },
-    "overall_score": 60
+    "overall_score": 116
   },
   "jydlml7YsWe72ieLWGDFhuxY3Nb2": {
     "name": "Cal",
@@ -6414,15 +6414,15 @@
       "week2": {
         "teams": {
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Denver Broncos": {
@@ -6434,7 +6434,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 30
       },
       "week3": {
         "teams": {
@@ -6837,7 +6837,7 @@
         "total": 0
       }
     },
-    "overall_score": 67
+    "overall_score": 97
   },
   "tinL2DkOXZTYEdYZDlT3cQzk6Yi2": {
     "name": "Lauren",
@@ -6870,11 +6870,11 @@
       "week2": {
         "teams": {
           "Baltimore Ravens": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Denver Broncos": {
@@ -6882,15 +6882,15 @@
             "bonus": false
           },
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "San Francisco 49ers": {
-            "points": 0,
+            "points": 36,
             "bonus": true
           }
         },
-        "total": 0
+        "total": 66
       },
       "week3": {
         "teams": {
@@ -7293,7 +7293,7 @@
         "total": 0
       }
     },
-    "overall_score": 63
+    "overall_score": 129
   },
   "u8geiYcJqpcTBRxAtLVB5QKA8Ii2": {
     "name": "Lisa: Certified League Wrecker",
@@ -7326,19 +7326,19 @@
       "week2": {
         "teams": {
           "Baltimore Ravens": {
-            "points": 0,
+            "points": 51,
             "bonus": true
           },
           "San Francisco 49ers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Denver Broncos": {
@@ -7346,7 +7346,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 81
       },
       "week3": {
         "teams": {
@@ -7749,6 +7749,6 @@
         "total": 0
       }
     },
-    "overall_score": 70
+    "overall_score": 151
   }
 }
