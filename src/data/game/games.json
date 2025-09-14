@@ -155,7 +155,7 @@
         "homeTeam": "Indianapolis Colts",
         "homeScore": 13,
         "awayTeam": "Denver Broncos",
-        "awayScore": 7,
+        "awayScore": 14,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -171,7 +171,7 @@
       },
       {
         "homeTeam": "Kansas City Chiefs",
-        "homeScore": 0,
+        "homeScore": 3,
         "awayTeam": "Philadelphia Eagles",
         "awayScore": 7,
         "weekday": "Sunday",
