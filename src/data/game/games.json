@@ -162,7 +162,7 @@
       },
       {
         "homeTeam": "Dallas Cowboys",
-        "homeScore": 20,
+        "homeScore": 27,
         "awayTeam": "New York Giants",
         "awayScore": 23,
         "weekday": "Sunday",
@@ -173,7 +173,7 @@
         "homeTeam": "Detroit Lions",
         "homeScore": 45,
         "awayTeam": "Chicago Bears",
-        "awayScore": 14,
+        "awayScore": 21,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -182,7 +182,7 @@
         "homeTeam": "Tennessee Titans",
         "homeScore": 16,
         "awayTeam": "Los Angeles Rams",
-        "awayScore": 27,
+        "awayScore": 33,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -198,7 +198,7 @@
       },
       {
         "homeTeam": "New Orleans Saints",
-        "homeScore": 14,
+        "homeScore": 21,
         "awayTeam": "San Francisco 49ers",
         "awayScore": 26,
         "weekday": "Sunday",
@@ -225,7 +225,7 @@
       },
       {
         "homeTeam": "Baltimore Ravens",
-        "homeScore": 27,
+        "homeScore": 34,
         "awayTeam": "Cleveland Browns",
         "awayScore": 10,
         "weekday": "Sunday",
@@ -1391,146 +1391,6 @@
     ]
   },
   {
-    "week": 11,
-    "games": [
-      {
-        "homeTeam": "New England Patriots",
-        "homeScore": 0,
-        "awayTeam": "New York Jets",
-        "awayScore": 0,
-        "weekday": "Thursday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Miami Dolphins",
-        "homeScore": 0,
-        "awayTeam": "Washington Commanders",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Atlanta Falcons",
-        "homeScore": 0,
-        "awayTeam": "Carolina Panthers",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Buffalo Bills",
-        "homeScore": 0,
-        "awayTeam": "Tampa Bay Buccaneers",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Tennessee Titans",
-        "homeScore": 0,
-        "awayTeam": "Houston Texans",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Minnesota Vikings",
-        "homeScore": 0,
-        "awayTeam": "Chicago Bears",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "New York Giants",
-        "homeScore": 0,
-        "awayTeam": "Green Bay Packers",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Pittsburgh Steelers",
-        "homeScore": 0,
-        "awayTeam": "Cincinnati Bengals",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Jacksonville Jaguars",
-        "homeScore": 0,
-        "awayTeam": "Los Angeles Chargers",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Los Angeles Rams",
-        "homeScore": 0,
-        "awayTeam": "Seattle Seahawks",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Arizona Cardinals",
-        "homeScore": 0,
-        "awayTeam": "San Francisco 49ers",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Cleveland Browns",
-        "homeScore": 0,
-        "awayTeam": "Baltimore Ravens",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Denver Broncos",
-        "homeScore": 0,
-        "awayTeam": "Kansas City Chiefs",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Philadelphia Eagles",
-        "homeScore": 0,
-        "awayTeam": "Detroit Lions",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Las Vegas Raiders",
-        "homeScore": 0,
-        "awayTeam": "Dallas Cowboys",
-        "awayScore": 0,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Preview"
-      }
-    ]
-  },
-  {
     "week": 12,
     "games": [
       {
@@ -2091,155 +1951,6 @@
     ]
   },
   {
-    "week": 16,
-    "games": [
-      {
-        "homeTeam": "Seattle Seahawks",
-        "homeScore": 0,
-        "awayTeam": "Los Angeles Rams",
-        "awayScore": 0,
-        "weekday": "Thursday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Chicago Bears",
-        "homeScore": 0,
-        "awayTeam": "Green Bay Packers",
-        "awayScore": 0,
-        "weekday": "Saturday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Washington Commanders",
-        "homeScore": 0,
-        "awayTeam": "Philadelphia Eagles",
-        "awayScore": 0,
-        "weekday": "Saturday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Cleveland Browns",
-        "homeScore": 0,
-        "awayTeam": "Buffalo Bills",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Dallas Cowboys",
-        "homeScore": 0,
-        "awayTeam": "Los Angeles Chargers",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Tennessee Titans",
-        "homeScore": 0,
-        "awayTeam": "Kansas City Chiefs",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "New Orleans Saints",
-        "homeScore": 0,
-        "awayTeam": "New York Jets",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "New York Giants",
-        "homeScore": 0,
-        "awayTeam": "Minnesota Vikings",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Carolina Panthers",
-        "homeScore": 0,
-        "awayTeam": "Tampa Bay Buccaneers",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Baltimore Ravens",
-        "homeScore": 0,
-        "awayTeam": "New England Patriots",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Denver Broncos",
-        "homeScore": 0,
-        "awayTeam": "Jacksonville Jaguars",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Arizona Cardinals",
-        "homeScore": 0,
-        "awayTeam": "Atlanta Falcons",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Detroit Lions",
-        "homeScore": 0,
-        "awayTeam": "Pittsburgh Steelers",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Houston Texans",
-        "homeScore": 0,
-        "awayTeam": "Las Vegas Raiders",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Miami Dolphins",
-        "homeScore": 0,
-        "awayTeam": "Cincinnati Bengals",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Indianapolis Colts",
-        "homeScore": 0,
-        "awayTeam": "San Francisco 49ers",
-        "awayScore": 0,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Preview"
-      }
-    ]
-  },
-  {
     "week": 17,
     "games": [
       {
@@ -2383,155 +2094,6 @@
         "awayTeam": "Los Angeles Rams",
         "awayScore": 0,
         "weekday": "Monday",
-        "gameTime": null,
-        "status": "Preview"
-      }
-    ]
-  },
-  {
-    "week": 18,
-    "games": [
-      {
-        "homeTeam": "Atlanta Falcons",
-        "homeScore": 0,
-        "awayTeam": "New Orleans Saints",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Buffalo Bills",
-        "homeScore": 0,
-        "awayTeam": "New York Jets",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Chicago Bears",
-        "homeScore": 0,
-        "awayTeam": "Detroit Lions",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Cincinnati Bengals",
-        "homeScore": 0,
-        "awayTeam": "Cleveland Browns",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Denver Broncos",
-        "homeScore": 0,
-        "awayTeam": "Los Angeles Chargers",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Las Vegas Raiders",
-        "homeScore": 0,
-        "awayTeam": "Kansas City Chiefs",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Los Angeles Rams",
-        "homeScore": 0,
-        "awayTeam": "Arizona Cardinals",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Minnesota Vikings",
-        "homeScore": 0,
-        "awayTeam": "Green Bay Packers",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "New England Patriots",
-        "homeScore": 0,
-        "awayTeam": "Miami Dolphins",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "New York Giants",
-        "homeScore": 0,
-        "awayTeam": "Dallas Cowboys",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Philadelphia Eagles",
-        "homeScore": 0,
-        "awayTeam": "Washington Commanders",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Pittsburgh Steelers",
-        "homeScore": 0,
-        "awayTeam": "Baltimore Ravens",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "San Francisco 49ers",
-        "homeScore": 0,
-        "awayTeam": "Seattle Seahawks",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Tampa Bay Buccaneers",
-        "homeScore": 0,
-        "awayTeam": "Carolina Panthers",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Jacksonville Jaguars",
-        "homeScore": 0,
-        "awayTeam": "Tennessee Titans",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Houston Texans",
-        "homeScore": 0,
-        "awayTeam": "Indianapolis Colts",
-        "awayScore": 0,
-        "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
       }
