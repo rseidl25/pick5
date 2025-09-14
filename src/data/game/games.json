@@ -152,24 +152,6 @@
     "week": 2,
     "games": [
       {
-        "homeTeam": "Arizona Cardinals",
-        "homeScore": 27,
-        "awayTeam": "Carolina Panthers",
-        "awayScore": 22,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Kansas City Chiefs",
-        "homeScore": 17,
-        "awayTeam": "Philadelphia Eagles",
-        "awayScore": 20,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Minnesota Vikings",
         "homeScore": 0,
         "awayTeam": "Atlanta Falcons",
@@ -179,10 +161,19 @@
         "status": "Preview"
       },
       {
-        "homeTeam": "Indianapolis Colts",
-        "homeScore": 29,
-        "awayTeam": "Denver Broncos",
-        "awayScore": 28,
+        "homeTeam": "Arizona Cardinals",
+        "homeScore": 27,
+        "awayTeam": "Carolina Panthers",
+        "awayScore": 22,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Kansas City Chiefs",
+        "homeScore": 17,
+        "awayTeam": "Philadelphia Eagles",
+        "awayScore": 20,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
@@ -264,6 +255,15 @@
         "homeScore": 41,
         "awayTeam": "Cleveland Browns",
         "awayScore": 17,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Indianapolis Colts",
+        "homeScore": 29,
+        "awayTeam": "Denver Broncos",
+        "awayScore": 28,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"

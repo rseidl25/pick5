@@ -958,11 +958,11 @@
             "bonus": false
           },
           "Arizona Cardinals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 60
+        "total": 70
       },
       "week3": {
         "teams": {
@@ -1365,7 +1365,7 @@
         "total": 0
       }
     },
-    "overall_score": 80
+    "overall_score": 90
   },
   "D2fLoPEINITIuA9oJNB8ybVaOps2": {
     "name": "Kalysta",
@@ -2326,11 +2326,11 @@
             "bonus": true
           },
           "Arizona Cardinals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 20
+        "total": 30
       },
       "week3": {
         "teams": {
@@ -2733,7 +2733,7 @@
         "total": 0
       }
     },
-    "overall_score": 80
+    "overall_score": 90
   },
   "K9X8fKAf1bNvZjJH0jM9eO2uobP2": {
     "name": "Bryan",
@@ -3234,7 +3234,7 @@
             "bonus": false
           },
           "Arizona Cardinals": {
-            "points": 0,
+            "points": 37,
             "bonus": true
           },
           "Cincinnati Bengals": {
@@ -3242,7 +3242,7 @@
             "bonus": false
           }
         },
-        "total": 40
+        "total": 77
       },
       "week3": {
         "teams": {
@@ -3645,7 +3645,7 @@
         "total": 0
       }
     },
-    "overall_score": 110
+    "overall_score": 147
   },
   "NluZaqiuGKRzhuir9Jfu5uKRm302": {
     "name": "Angie Phillip",
