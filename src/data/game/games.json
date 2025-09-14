@@ -152,15 +152,6 @@
     "week": 2,
     "games": [
       {
-        "homeTeam": "Dallas Cowboys",
-        "homeScore": 37,
-        "awayTeam": "New York Giants",
-        "awayScore": 37,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Indianapolis Colts",
         "homeScore": 6,
         "awayTeam": "Denver Broncos",
@@ -173,7 +164,7 @@
         "homeTeam": "Arizona Cardinals",
         "homeScore": 10,
         "awayTeam": "Carolina Panthers",
-        "awayScore": 0,
+        "awayScore": 3,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -195,6 +186,15 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Dallas Cowboys",
+        "homeScore": 40,
+        "awayTeam": "New York Giants",
+        "awayScore": 37,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Cincinnati Bengals",
