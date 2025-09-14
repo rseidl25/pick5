@@ -502,11 +502,11 @@
             "bonus": false
           },
           "Detroit Lions": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 71
+        "total": 81
       },
       "week3": {
         "teams": {
@@ -909,7 +909,7 @@
         "total": 0
       }
     },
-    "overall_score": 142
+    "overall_score": 152
   },
   "AmEIaRh92vdP40uVAseDWGxcZBM2": {
     "name": "Brett Sievwright",
@@ -950,7 +950,7 @@
             "bonus": false
           },
           "Detroit Lions": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Miami Dolphins": {
@@ -962,7 +962,7 @@
             "bonus": false
           }
         },
-        "total": 50
+        "total": 60
       },
       "week3": {
         "teams": {
@@ -1365,7 +1365,7 @@
         "total": 0
       }
     },
-    "overall_score": 70
+    "overall_score": 80
   },
   "D2fLoPEINITIuA9oJNB8ybVaOps2": {
     "name": "Kalysta",
@@ -1398,7 +1398,7 @@
       "week2": {
         "teams": {
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
@@ -1418,7 +1418,7 @@
             "bonus": true
           }
         },
-        "total": 71
+        "total": 81
       },
       "week3": {
         "teams": {
@@ -1821,7 +1821,7 @@
         "total": 0
       }
     },
-    "overall_score": 148
+    "overall_score": 158
   },
   "FkbsYIXzm7TorvwE2qbaTiKsrmi1": {
     "name": "Steve",
@@ -1866,7 +1866,7 @@
             "bonus": false
           },
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 41,
             "bonus": true
           },
           "Baltimore Ravens": {
@@ -1874,7 +1874,7 @@
             "bonus": false
           }
         },
-        "total": 30
+        "total": 71
       },
       "week3": {
         "teams": {
@@ -2277,7 +2277,7 @@
         "total": 0
       }
     },
-    "overall_score": 101
+    "overall_score": 142
   },
   "Fn25s976WxT6gML22x8yJsQ33PM2": {
     "name": "Milly",
@@ -2310,7 +2310,7 @@
       "week2": {
         "teams": {
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Miami Dolphins": {
@@ -2330,7 +2330,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week3": {
         "teams": {
@@ -2733,7 +2733,7 @@
         "total": 0
       }
     },
-    "overall_score": 70
+    "overall_score": 80
   },
   "K9X8fKAf1bNvZjJH0jM9eO2uobP2": {
     "name": "Bryan",
@@ -2770,7 +2770,7 @@
             "bonus": true
           },
           "Detroit Lions": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
@@ -2786,7 +2786,7 @@
             "bonus": false
           }
         },
-        "total": 71
+        "total": 81
       },
       "week3": {
         "teams": {
@@ -3189,7 +3189,7 @@
         "total": 0
       }
     },
-    "overall_score": 142
+    "overall_score": 152
   },
   "LKY6YytQUfbPzmcw2yfIYm0XEQD2": {
     "name": "Smelly Kelly",
@@ -3230,7 +3230,7 @@
             "bonus": false
           },
           "Detroit Lions": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Arizona Cardinals": {
@@ -3238,11 +3238,11 @@
             "bonus": true
           },
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 20
+        "total": 40
       },
       "week3": {
         "teams": {
@@ -3645,7 +3645,7 @@
         "total": 0
       }
     },
-    "overall_score": 90
+    "overall_score": 110
   },
   "NluZaqiuGKRzhuir9Jfu5uKRm302": {
     "name": "Angie Phillip",
@@ -3690,7 +3690,7 @@
             "bonus": false
           },
           "Detroit Lions": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Los Angeles Rams": {
@@ -3698,7 +3698,7 @@
             "bonus": false
           }
         },
-        "total": 81
+        "total": 91
       },
       "week3": {
         "teams": {
@@ -4101,7 +4101,7 @@
         "total": 0
       }
     },
-    "overall_score": 155
+    "overall_score": 165
   },
   "US8t7rlGTXV5t8M3K8OWB2kzQo93": {
     "name": "Sam",
@@ -4142,11 +4142,11 @@
             "bonus": false
           },
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Detroit Lions": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Minnesota Vikings": {
@@ -4154,7 +4154,7 @@
             "bonus": false
           }
         },
-        "total": 46
+        "total": 66
       },
       "week3": {
         "teams": {
@@ -4557,7 +4557,7 @@
         "total": 0
       }
     },
-    "overall_score": 107
+    "overall_score": 127
   },
   "XKPW7eAMivNTYBrIivGGT9DFV022": {
     "name": "Joey",
@@ -4606,11 +4606,11 @@
             "bonus": false
           },
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 60
+        "total": 70
       },
       "week3": {
         "teams": {
@@ -5013,7 +5013,7 @@
         "total": 0
       }
     },
-    "overall_score": 107
+    "overall_score": 117
   },
   "dac8Eg3ax4PxQl7aSydfS9lAWv23": {
     "name": "Ben",
@@ -5502,11 +5502,11 @@
       "week2": {
         "teams": {
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Detroit Lions": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
@@ -5522,7 +5522,7 @@
             "bonus": true
           }
         },
-        "total": 20
+        "total": 40
       },
       "week3": {
         "teams": {
@@ -5925,7 +5925,7 @@
         "total": 0
       }
     },
-    "overall_score": 91
+    "overall_score": 111
   },
   "hR9aypGuwBfk5pE5MwNjxEvfkh43": {
     "name": "Ryan",
@@ -5958,11 +5958,11 @@
       "week2": {
         "teams": {
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Detroit Lions": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "San Francisco 49ers": {
@@ -5978,7 +5978,7 @@
             "bonus": false
           }
         },
-        "total": 56
+        "total": 76
       },
       "week3": {
         "teams": {
@@ -6381,7 +6381,7 @@
         "total": 0
       }
     },
-    "overall_score": 116
+    "overall_score": 136
   },
   "jydlml7YsWe72ieLWGDFhuxY3Nb2": {
     "name": "Cal",
@@ -6430,11 +6430,11 @@
             "bonus": true
           },
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 30
+        "total": 40
       },
       "week3": {
         "teams": {
@@ -6837,7 +6837,7 @@
         "total": 0
       }
     },
-    "overall_score": 97
+    "overall_score": 107
   },
   "tinL2DkOXZTYEdYZDlT3cQzk6Yi2": {
     "name": "Lauren",
