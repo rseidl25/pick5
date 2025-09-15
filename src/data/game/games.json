@@ -153,9 +153,9 @@
     "games": [
       {
         "homeTeam": "Minnesota Vikings",
-        "homeScore": 0,
+        "homeScore": 6,
         "awayTeam": "Atlanta Falcons",
-        "awayScore": 6,
+        "awayScore": 15,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
