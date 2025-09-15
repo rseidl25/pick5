@@ -153,12 +153,12 @@
     "games": [
       {
         "homeTeam": "Houston Texans",
-        "homeScore": 0,
+        "homeScore": 6,
         "awayTeam": "Tampa Bay Buccaneers",
         "awayScore": 0,
         "weekday": "Monday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Las Vegas Raiders",
