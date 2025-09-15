@@ -153,9 +153,9 @@
     "games": [
       {
         "homeTeam": "Houston Texans",
-        "homeScore": 6,
+        "homeScore": 7,
         "awayTeam": "Tampa Bay Buccaneers",
-        "awayScore": 0,
+        "awayScore": 7,
         "weekday": "Monday",
         "gameTime": null,
         "status": "In Progress"
