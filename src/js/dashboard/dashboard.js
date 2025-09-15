@@ -68,10 +68,14 @@ async function getCurrentWeek() {
     // ✅ use the latest date (usually Monday)
     const latest = new Date(Math.max(...gameDates.map(d => d.getTime())));
 
-    // if current date is after this week's Monday, move to the next
-    if (currentDate > latest && i + 1 < datesData.length) {
+    // ✅ Only advance AFTER Monday → i.e., starting Tuesday
+    const cutoff = new Date(latest);
+    cutoff.setDate(cutoff.getDate() + 1); // move to Tuesday
+
+    if (currentDate >= cutoff && i + 1 < datesData.length) {
       currentWeek = datesData[i + 1].week;
     }
+
   }
 
   console.log("📅 Current Date:", currentDate.toString());
