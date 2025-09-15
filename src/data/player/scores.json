@@ -4594,7 +4594,7 @@
             "bonus": true
           },
           "Atlanta Falcons": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
@@ -4610,7 +4610,7 @@
             "bonus": false
           }
         },
-        "total": 70
+        "total": 80
       },
       "week3": {
         "teams": {
@@ -5013,7 +5013,7 @@
         "total": 0
       }
     },
-    "overall_score": 117
+    "overall_score": 127
   },
   "dac8Eg3ax4PxQl7aSydfS9lAWv23": {
     "name": "Ben",
