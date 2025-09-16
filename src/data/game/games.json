@@ -152,22 +152,22 @@
     "week": 2,
     "games": [
       {
-        "homeTeam": "Houston Texans",
-        "homeScore": 10,
-        "awayTeam": "Tampa Bay Buccaneers",
-        "awayScore": 14,
+        "homeTeam": "Las Vegas Raiders",
+        "homeScore": 3,
+        "awayTeam": "Los Angeles Chargers",
+        "awayScore": 3,
         "weekday": "Monday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
-        "homeTeam": "Las Vegas Raiders",
-        "homeScore": 0,
-        "awayTeam": "Los Angeles Chargers",
-        "awayScore": 0,
+        "homeTeam": "Houston Texans",
+        "homeScore": 19,
+        "awayTeam": "Tampa Bay Buccaneers",
+        "awayScore": 20,
         "weekday": "Monday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "Completed"
       },
       {
         "homeTeam": "Green Bay Packers",
