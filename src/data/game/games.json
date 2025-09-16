@@ -152,24 +152,6 @@
     "week": 2,
     "games": [
       {
-        "homeTeam": "Las Vegas Raiders",
-        "homeScore": 9,
-        "awayTeam": "Los Angeles Chargers",
-        "awayScore": 20,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Houston Texans",
-        "homeScore": 19,
-        "awayTeam": "Tampa Bay Buccaneers",
-        "awayScore": 20,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "Green Bay Packers",
         "homeScore": 27,
         "awayTeam": "Washington Commanders",
@@ -292,6 +274,24 @@
         "awayTeam": "Atlanta Falcons",
         "awayScore": 22,
         "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Houston Texans",
+        "homeScore": 19,
+        "awayTeam": "Tampa Bay Buccaneers",
+        "awayScore": 20,
+        "weekday": "Monday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Las Vegas Raiders",
+        "homeScore": 9,
+        "awayTeam": "Los Angeles Chargers",
+        "awayScore": 20,
+        "weekday": "Monday",
         "gameTime": null,
         "status": "Completed"
       }

@@ -494,7 +494,7 @@
             "bonus": true
           },
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Los Angeles Rams": {
@@ -506,7 +506,7 @@
             "bonus": false
           }
         },
-        "total": 81
+        "total": 91
       },
       "week3": {
         "teams": {
@@ -909,7 +909,7 @@
         "total": 0
       }
     },
-    "overall_score": 152
+    "overall_score": 162
   },
   "AmEIaRh92vdP40uVAseDWGxcZBM2": {
     "name": "Brett Sievwright",
@@ -1406,7 +1406,7 @@
             "bonus": false
           },
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Seattle Seahawks": {
@@ -1418,7 +1418,7 @@
             "bonus": true
           }
         },
-        "total": 81
+        "total": 91
       },
       "week3": {
         "teams": {
@@ -1821,7 +1821,7 @@
         "total": 0
       }
     },
-    "overall_score": 158
+    "overall_score": 168
   },
   "FkbsYIXzm7TorvwE2qbaTiKsrmi1": {
     "name": "Steve",
@@ -2778,7 +2778,7 @@
             "bonus": false
           },
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Los Angeles Rams": {
@@ -2786,7 +2786,7 @@
             "bonus": false
           }
         },
-        "total": 81
+        "total": 91
       },
       "week3": {
         "teams": {
@@ -3189,7 +3189,7 @@
         "total": 0
       }
     },
-    "overall_score": 152
+    "overall_score": 162
   },
   "LKY6YytQUfbPzmcw2yfIYm0XEQD2": {
     "name": "Smelly Kelly",
