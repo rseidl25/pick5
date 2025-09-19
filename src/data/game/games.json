@@ -302,12 +302,12 @@
     "games": [
       {
         "homeTeam": "Buffalo Bills",
-        "homeScore": 21,
+        "homeScore": 31,
         "awayTeam": "Miami Dolphins",
         "awayScore": 21,
         "weekday": "Thursday",
         "gameTime": null,
-        "status": "In Progress"
+        "status": "Completed"
       },
       {
         "homeTeam": "Cleveland Browns",

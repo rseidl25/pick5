@@ -63,7 +63,7 @@
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Houston Texans": {
@@ -75,7 +75,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week4": {
         "teams": {
@@ -453,7 +453,7 @@
         "total": 0
       }
     },
-    "overall_score": 132
+    "overall_score": 142
   },
   "A5dssZETIMhNd0WYKQamFxxb9Ak2": {
     "name": "Judy Phillip",
@@ -527,11 +527,11 @@
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week4": {
         "teams": {
@@ -909,7 +909,7 @@
         "total": 0
       }
     },
-    "overall_score": 162
+    "overall_score": 172
   },
   "AmEIaRh92vdP40uVAseDWGxcZBM2": {
     "name": "Brett Sievwright",
@@ -2335,7 +2335,7 @@
       "week3": {
         "teams": {
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Green Bay Packers": {
@@ -2355,7 +2355,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week4": {
         "teams": {
@@ -2733,7 +2733,7 @@
         "total": 0
       }
     },
-    "overall_score": 90
+    "overall_score": 100
   },
   "K9X8fKAf1bNvZjJH0jM9eO2uobP2": {
     "name": "Bryan",
@@ -2807,11 +2807,11 @@
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week4": {
         "teams": {
@@ -3189,7 +3189,7 @@
         "total": 0
       }
     },
-    "overall_score": 162
+    "overall_score": 172
   },
   "LKY6YytQUfbPzmcw2yfIYm0XEQD2": {
     "name": "Smelly Kelly",
@@ -3247,7 +3247,7 @@
       "week3": {
         "teams": {
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Washington Commanders": {
@@ -3267,7 +3267,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week4": {
         "teams": {
@@ -3645,7 +3645,7 @@
         "total": 0
       }
     },
-    "overall_score": 147
+    "overall_score": 157
   },
   "NluZaqiuGKRzhuir9Jfu5uKRm302": {
     "name": "Angie Phillip",
@@ -3719,11 +3719,11 @@
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 41,
             "bonus": true
           }
         },
-        "total": 0
+        "total": 41
       },
       "week4": {
         "teams": {
@@ -4101,7 +4101,7 @@
         "total": 0
       }
     },
-    "overall_score": 165
+    "overall_score": 206
   },
   "US8t7rlGTXV5t8M3K8OWB2kzQo93": {
     "name": "Sam",
@@ -4167,7 +4167,7 @@
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Kansas City Chiefs": {
@@ -4179,7 +4179,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week4": {
         "teams": {
@@ -4557,7 +4557,7 @@
         "total": 0
       }
     },
-    "overall_score": 127
+    "overall_score": 137
   },
   "XKPW7eAMivNTYBrIivGGT9DFV022": {
     "name": "Joey",
@@ -5075,7 +5075,7 @@
             "bonus": true
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Pittsburgh Steelers": {
@@ -5091,7 +5091,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week4": {
         "teams": {
@@ -5469,7 +5469,7 @@
         "total": 0
       }
     },
-    "overall_score": 123
+    "overall_score": 133
   },
   "hELkxczX1UerNFvp4fpORxqLr9X2": {
     "name": "PP",
@@ -5527,7 +5527,7 @@
       "week3": {
         "teams": {
           "Buffalo Bills": {
-            "points": 0,
+            "points": 41,
             "bonus": true
           },
           "Green Bay Packers": {
@@ -5547,7 +5547,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 41
       },
       "week4": {
         "teams": {
@@ -5925,7 +5925,7 @@
         "total": 0
       }
     },
-    "overall_score": 111
+    "overall_score": 152
   },
   "hR9aypGuwBfk5pE5MwNjxEvfkh43": {
     "name": "Ryan",
@@ -6895,7 +6895,7 @@
       "week3": {
         "teams": {
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Kansas City Chiefs": {
@@ -6915,7 +6915,7 @@
             "bonus": true
           }
         },
-        "total": 0
+        "total": 10
       },
       "week4": {
         "teams": {
@@ -7293,7 +7293,7 @@
         "total": 0
       }
     },
-    "overall_score": 129
+    "overall_score": 139
   },
   "u8geiYcJqpcTBRxAtLVB5QKA8Ii2": {
     "name": "Lisa: Certified League Wrecker",
@@ -7355,7 +7355,7 @@
             "bonus": true
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
@@ -7371,7 +7371,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week4": {
         "teams": {
@@ -7749,6 +7749,6 @@
         "total": 0
       }
     },
-    "overall_score": 151
+    "overall_score": 161
   }
 }
