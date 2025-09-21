@@ -304,7 +304,7 @@
         "homeTeam": "Los Angeles Chargers",
         "homeScore": 13,
         "awayTeam": "Denver Broncos",
-        "awayScore": 17,
+        "awayScore": 20,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -313,14 +313,14 @@
         "homeTeam": "Seattle Seahawks",
         "homeScore": 44,
         "awayTeam": "New Orleans Saints",
-        "awayScore": 6,
+        "awayScore": 13,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Chicago Bears",
-        "homeScore": 24,
+        "homeScore": 31,
         "awayTeam": "Dallas Cowboys",
         "awayScore": 14,
         "weekday": "Sunday",
