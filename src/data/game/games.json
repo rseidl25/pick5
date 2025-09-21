@@ -313,14 +313,14 @@
         "homeTeam": "Tennessee Titans",
         "homeScore": 6,
         "awayTeam": "Indianapolis Colts",
-        "awayScore": 17,
+        "awayScore": 20,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Minnesota Vikings",
-        "homeScore": 17,
+        "homeScore": 31,
         "awayTeam": "Cincinnati Bengals",
         "awayScore": 3,
         "weekday": "Sunday",
@@ -340,14 +340,14 @@
         "homeTeam": "Philadelphia Eagles",
         "homeScore": 7,
         "awayTeam": "Los Angeles Rams",
-        "awayScore": 16,
+        "awayScore": 19,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Tampa Bay Buccaneers",
-        "homeScore": 10,
+        "homeScore": 20,
         "awayTeam": "New York Jets",
         "awayScore": 6,
         "weekday": "Sunday",
@@ -356,7 +356,7 @@
       },
       {
         "homeTeam": "Washington Commanders",
-        "homeScore": 16,
+        "homeScore": 20,
         "awayTeam": "Las Vegas Raiders",
         "awayScore": 10,
         "weekday": "Sunday",
