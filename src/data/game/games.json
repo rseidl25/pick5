@@ -302,7 +302,7 @@
     "games": [
       {
         "homeTeam": "Los Angeles Chargers",
-        "homeScore": 10,
+        "homeScore": 13,
         "awayTeam": "Denver Broncos",
         "awayScore": 17,
         "weekday": "Sunday",
@@ -311,7 +311,7 @@
       },
       {
         "homeTeam": "Seattle Seahawks",
-        "homeScore": 41,
+        "homeScore": 44,
         "awayTeam": "New Orleans Saints",
         "awayScore": 6,
         "weekday": "Sunday",
@@ -331,7 +331,7 @@
         "homeTeam": "San Francisco 49ers",
         "homeScore": 6,
         "awayTeam": "Arizona Cardinals",
-        "awayScore": 3,
+        "awayScore": 6,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
