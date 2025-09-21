@@ -313,7 +313,7 @@
         "homeTeam": "Seattle Seahawks",
         "homeScore": 38,
         "awayTeam": "New Orleans Saints",
-        "awayScore": 3,
+        "awayScore": 6,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -329,7 +329,7 @@
       },
       {
         "homeTeam": "San Francisco 49ers",
-        "homeScore": 3,
+        "homeScore": 6,
         "awayTeam": "Arizona Cardinals",
         "awayScore": 3,
         "weekday": "Sunday",
