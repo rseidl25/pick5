@@ -71,11 +71,11 @@
             "bonus": false
           },
           "Seattle Seahawks": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week4": {
         "teams": {
@@ -453,7 +453,7 @@
         "total": 0
       }
     },
-    "overall_score": 142
+    "overall_score": 152
   },
   "A5dssZETIMhNd0WYKQamFxxb9Ak2": {
     "name": "Judy Phillip",
@@ -1895,11 +1895,11 @@
             "bonus": false
           },
           "Seattle Seahawks": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 59
+        "total": 69
       },
       "week4": {
         "teams": {
@@ -2277,7 +2277,7 @@
         "total": 0
       }
     },
-    "overall_score": 211
+    "overall_score": 221
   },
   "Fn25s976WxT6gML22x8yJsQ33PM2": {
     "name": "Milly",
@@ -2347,7 +2347,7 @@
             "bonus": false
           },
           "Seattle Seahawks": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
@@ -2355,7 +2355,7 @@
             "bonus": false
           }
         },
-        "total": 30
+        "total": 40
       },
       "week4": {
         "teams": {
@@ -2733,7 +2733,7 @@
         "total": 0
       }
     },
-    "overall_score": 120
+    "overall_score": 130
   },
   "K9X8fKAf1bNvZjJH0jM9eO2uobP2": {
     "name": "Bryan",
@@ -4159,7 +4159,7 @@
       "week3": {
         "teams": {
           "Seattle Seahawks": {
-            "points": 0,
+            "points": 54,
             "bonus": true
           },
           "Green Bay Packers": {
@@ -4179,7 +4179,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 64
       },
       "week4": {
         "teams": {
@@ -4557,7 +4557,7 @@
         "total": 0
       }
     },
-    "overall_score": 137
+    "overall_score": 191
   },
   "XKPW7eAMivNTYBrIivGGT9DFV022": {
     "name": "Joey",
