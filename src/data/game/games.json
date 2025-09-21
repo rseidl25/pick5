@@ -301,15 +301,6 @@
     "week": 3,
     "games": [
       {
-        "homeTeam": "Buffalo Bills",
-        "homeScore": 31,
-        "awayTeam": "Miami Dolphins",
-        "awayScore": 21,
-        "weekday": "Thursday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "Cleveland Browns",
         "homeScore": 0,
         "awayTeam": "Green Bay Packers",
@@ -434,6 +425,15 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Buffalo Bills",
+        "homeScore": 31,
+        "awayTeam": "Miami Dolphins",
+        "awayScore": 21,
+        "weekday": "Thursday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Baltimore Ravens",
