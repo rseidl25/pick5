@@ -523,7 +523,7 @@
             "bonus": false
           },
           "Pittsburgh Steelers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
@@ -531,7 +531,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week4": {
         "teams": {
@@ -909,7 +909,7 @@
         "total": 0
       }
     },
-    "overall_score": 172
+    "overall_score": 182
   },
   "AmEIaRh92vdP40uVAseDWGxcZBM2": {
     "name": "Brett Sievwright",
@@ -1887,11 +1887,11 @@
             "bonus": false
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Washington Commanders": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Seattle Seahawks": {
@@ -1899,7 +1899,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 20
       },
       "week4": {
         "teams": {
@@ -2277,7 +2277,7 @@
         "total": 0
       }
     },
-    "overall_score": 152
+    "overall_score": 172
   },
   "Fn25s976WxT6gML22x8yJsQ33PM2": {
     "name": "Milly",
@@ -2343,7 +2343,7 @@
             "bonus": true
           },
           "Washington Commanders": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Seattle Seahawks": {
@@ -2355,7 +2355,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week4": {
         "teams": {
@@ -2733,7 +2733,7 @@
         "total": 0
       }
     },
-    "overall_score": 100
+    "overall_score": 110
   },
   "K9X8fKAf1bNvZjJH0jM9eO2uobP2": {
     "name": "Bryan",
@@ -2799,11 +2799,11 @@
             "bonus": false
           },
           "Washington Commanders": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Pittsburgh Steelers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
@@ -2811,7 +2811,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 30
       },
       "week4": {
         "teams": {
@@ -3189,7 +3189,7 @@
         "total": 0
       }
     },
-    "overall_score": 172
+    "overall_score": 192
   },
   "LKY6YytQUfbPzmcw2yfIYm0XEQD2": {
     "name": "Smelly Kelly",
@@ -3251,7 +3251,7 @@
             "bonus": false
           },
           "Washington Commanders": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Kansas City Chiefs": {
@@ -3267,7 +3267,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week4": {
         "teams": {
@@ -3645,7 +3645,7 @@
         "total": 0
       }
     },
-    "overall_score": 157
+    "overall_score": 167
   },
   "NluZaqiuGKRzhuir9Jfu5uKRm302": {
     "name": "Angie Phillip",
@@ -4623,11 +4623,11 @@
             "bonus": false
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Washington Commanders": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Kansas City Chiefs": {
@@ -4635,7 +4635,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 20
       },
       "week4": {
         "teams": {
@@ -5013,7 +5013,7 @@
         "total": 0
       }
     },
-    "overall_score": 127
+    "overall_score": 147
   },
   "dac8Eg3ax4PxQl7aSydfS9lAWv23": {
     "name": "Ben",
@@ -5079,7 +5079,7 @@
             "bonus": false
           },
           "Pittsburgh Steelers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
@@ -5091,7 +5091,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week4": {
         "teams": {
@@ -5469,7 +5469,7 @@
         "total": 0
       }
     },
-    "overall_score": 133
+    "overall_score": 143
   },
   "hELkxczX1UerNFvp4fpORxqLr9X2": {
     "name": "PP",
@@ -5543,11 +5543,11 @@
             "bonus": false
           },
           "Washington Commanders": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 41
+        "total": 51
       },
       "week4": {
         "teams": {
@@ -5925,7 +5925,7 @@
         "total": 0
       }
     },
-    "overall_score": 152
+    "overall_score": 162
   },
   "hR9aypGuwBfk5pE5MwNjxEvfkh43": {
     "name": "Ryan",
@@ -5991,7 +5991,7 @@
             "bonus": false
           },
           "Washington Commanders": {
-            "points": 0,
+            "points": 51,
             "bonus": true
           },
           "Houston Texans": {
@@ -6003,7 +6003,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 51
       },
       "week4": {
         "teams": {
@@ -6381,7 +6381,7 @@
         "total": 0
       }
     },
-    "overall_score": 136
+    "overall_score": 187
   },
   "jydlml7YsWe72ieLWGDFhuxY3Nb2": {
     "name": "Cal",
@@ -6443,7 +6443,7 @@
             "bonus": false
           },
           "Pittsburgh Steelers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Houston Texans": {
@@ -6459,7 +6459,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week4": {
         "teams": {
@@ -6837,7 +6837,7 @@
         "total": 0
       }
     },
-    "overall_score": 107
+    "overall_score": 117
   },
   "tinL2DkOXZTYEdYZDlT3cQzk6Yi2": {
     "name": "Lauren",
@@ -6911,11 +6911,11 @@
             "bonus": false
           },
           "Washington Commanders": {
-            "points": 0,
+            "points": 51,
             "bonus": true
           }
         },
-        "total": 10
+        "total": 61
       },
       "week4": {
         "teams": {
@@ -7293,7 +7293,7 @@
         "total": 0
       }
     },
-    "overall_score": 139
+    "overall_score": 190
   },
   "u8geiYcJqpcTBRxAtLVB5QKA8Ii2": {
     "name": "Lisa: Certified League Wrecker",
@@ -7363,7 +7363,7 @@
             "bonus": false
           },
           "Washington Commanders": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Kansas City Chiefs": {
@@ -7371,7 +7371,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week4": {
         "teams": {
@@ -7749,6 +7749,6 @@
         "total": 0
       }
     },
-    "overall_score": 161
+    "overall_score": 171
   }
 }
