@@ -311,18 +311,18 @@
       },
       {
         "homeTeam": "Seattle Seahawks",
-        "homeScore": 21,
+        "homeScore": 28,
         "awayTeam": "New Orleans Saints",
-        "awayScore": 0,
+        "awayScore": 3,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Chicago Bears",
-        "homeScore": 7,
+        "homeScore": 14,
         "awayTeam": "Dallas Cowboys",
-        "awayScore": 3,
+        "awayScore": 6,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -331,7 +331,7 @@
         "homeTeam": "San Francisco 49ers",
         "homeScore": 0,
         "awayTeam": "Arizona Cardinals",
-        "awayScore": 0,
+        "awayScore": 3,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
