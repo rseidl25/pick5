@@ -340,14 +340,14 @@
         "homeTeam": "Philadelphia Eagles",
         "homeScore": 7,
         "awayTeam": "Los Angeles Rams",
-        "awayScore": 3,
+        "awayScore": 10,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Tampa Bay Buccaneers",
-        "homeScore": 0,
+        "homeScore": 3,
         "awayTeam": "New York Jets",
         "awayScore": 3,
         "weekday": "Sunday",
