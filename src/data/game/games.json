@@ -329,9 +329,9 @@
       },
       {
         "homeTeam": "San Francisco 49ers",
-        "homeScore": 6,
+        "homeScore": 13,
         "awayTeam": "Arizona Cardinals",
-        "awayScore": 6,
+        "awayScore": 13,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
