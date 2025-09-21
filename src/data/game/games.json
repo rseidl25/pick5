@@ -307,16 +307,16 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Tennessee Titans",
         "homeScore": 0,
         "awayTeam": "Indianapolis Colts",
-        "awayScore": 0,
+        "awayScore": 7,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Minnesota Vikings",
@@ -325,7 +325,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "New England Patriots",
@@ -334,7 +334,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Philadelphia Eagles",
@@ -343,7 +343,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Tampa Bay Buccaneers",
@@ -352,16 +352,16 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Washington Commanders",
-        "homeScore": 0,
+        "homeScore": 7,
         "awayTeam": "Las Vegas Raiders",
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Carolina Panthers",
@@ -370,7 +370,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Jacksonville Jaguars",
@@ -379,7 +379,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Los Angeles Chargers",
