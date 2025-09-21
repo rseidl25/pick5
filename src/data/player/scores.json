@@ -975,7 +975,7 @@
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Green Bay Packers": {
@@ -983,11 +983,11 @@
             "bonus": true
           },
           "Minnesota Vikings": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 20
       },
       "week4": {
         "teams": {
@@ -1365,7 +1365,7 @@
         "total": 0
       }
     },
-    "overall_score": 90
+    "overall_score": 110
   },
   "D2fLoPEINITIuA9oJNB8ybVaOps2": {
     "name": "Kalysta",
@@ -1435,7 +1435,7 @@
             "bonus": true
           },
           "Tampa Bay Buccaneers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Dallas Cowboys": {
@@ -1443,7 +1443,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week4": {
         "teams": {
@@ -1821,7 +1821,7 @@
         "total": 0
       }
     },
-    "overall_score": 168
+    "overall_score": 178
   },
   "FkbsYIXzm7TorvwE2qbaTiKsrmi1": {
     "name": "Steve",
@@ -1879,7 +1879,7 @@
       "week3": {
         "teams": {
           "Tampa Bay Buccaneers": {
-            "points": 0,
+            "points": 39,
             "bonus": true
           },
           "Green Bay Packers": {
@@ -1899,7 +1899,7 @@
             "bonus": false
           }
         },
-        "total": 20
+        "total": 59
       },
       "week4": {
         "teams": {
@@ -2277,7 +2277,7 @@
         "total": 0
       }
     },
-    "overall_score": 172
+    "overall_score": 211
   },
   "Fn25s976WxT6gML22x8yJsQ33PM2": {
     "name": "Milly",
@@ -2351,11 +2351,11 @@
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 20
+        "total": 30
       },
       "week4": {
         "teams": {
@@ -2733,7 +2733,7 @@
         "total": 0
       }
     },
-    "overall_score": 110
+    "overall_score": 120
   },
   "K9X8fKAf1bNvZjJH0jM9eO2uobP2": {
     "name": "Bryan",
@@ -3707,7 +3707,7 @@
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Kansas City Chiefs": {
@@ -3723,7 +3723,7 @@
             "bonus": true
           }
         },
-        "total": 41
+        "total": 51
       },
       "week4": {
         "teams": {
@@ -4101,7 +4101,7 @@
         "total": 0
       }
     },
-    "overall_score": 206
+    "overall_score": 216
   },
   "US8t7rlGTXV5t8M3K8OWB2kzQo93": {
     "name": "Sam",
@@ -5083,7 +5083,7 @@
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Kansas City Chiefs": {
@@ -5091,7 +5091,7 @@
             "bonus": false
           }
         },
-        "total": 20
+        "total": 30
       },
       "week4": {
         "teams": {
@@ -5469,7 +5469,7 @@
         "total": 0
       }
     },
-    "overall_score": 143
+    "overall_score": 153
   },
   "hELkxczX1UerNFvp4fpORxqLr9X2": {
     "name": "PP",
@@ -5539,7 +5539,7 @@
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Washington Commanders": {
@@ -5547,7 +5547,7 @@
             "bonus": false
           }
         },
-        "total": 51
+        "total": 61
       },
       "week4": {
         "teams": {
@@ -5925,7 +5925,7 @@
         "total": 0
       }
     },
-    "overall_score": 162
+    "overall_score": 172
   },
   "hR9aypGuwBfk5pE5MwNjxEvfkh43": {
     "name": "Ryan",
@@ -5987,7 +5987,7 @@
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Washington Commanders": {
@@ -6003,7 +6003,7 @@
             "bonus": false
           }
         },
-        "total": 51
+        "total": 61
       },
       "week4": {
         "teams": {
@@ -6381,7 +6381,7 @@
         "total": 0
       }
     },
-    "overall_score": 187
+    "overall_score": 197
   },
   "jydlml7YsWe72ieLWGDFhuxY3Nb2": {
     "name": "Cal",
@@ -6907,7 +6907,7 @@
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Washington Commanders": {
@@ -6915,7 +6915,7 @@
             "bonus": true
           }
         },
-        "total": 61
+        "total": 71
       },
       "week4": {
         "teams": {
@@ -7293,7 +7293,7 @@
         "total": 0
       }
     },
-    "overall_score": 190
+    "overall_score": 200
   },
   "u8geiYcJqpcTBRxAtLVB5QKA8Ii2": {
     "name": "Lisa: Certified League Wrecker",
@@ -7359,7 +7359,7 @@
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Washington Commanders": {
@@ -7371,7 +7371,7 @@
             "bonus": false
           }
         },
-        "total": 20
+        "total": 30
       },
       "week4": {
         "teams": {
@@ -7749,6 +7749,6 @@
         "total": 0
       }
     },
-    "overall_score": 171
+    "overall_score": 181
   }
 }
