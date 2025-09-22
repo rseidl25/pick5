@@ -304,10 +304,10 @@
         "homeTeam": "New York Giants",
         "homeScore": 0,
         "awayTeam": "Kansas City Chiefs",
-        "awayScore": 0,
+        "awayScore": 3,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Cleveland Browns",
