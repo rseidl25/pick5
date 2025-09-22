@@ -302,9 +302,9 @@
     "games": [
       {
         "homeTeam": "New York Giants",
-        "homeScore": 0,
+        "homeScore": 6,
         "awayTeam": "Kansas City Chiefs",
-        "awayScore": 3,
+        "awayScore": 16,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
