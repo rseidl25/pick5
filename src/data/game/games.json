@@ -301,15 +301,6 @@
     "week": 3,
     "games": [
       {
-        "homeTeam": "Baltimore Ravens",
-        "homeScore": 30,
-        "awayTeam": "Detroit Lions",
-        "awayScore": 38,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "Buffalo Bills",
         "homeScore": 31,
         "awayTeam": "Miami Dolphins",
@@ -441,6 +432,15 @@
         "awayTeam": "Kansas City Chiefs",
         "awayScore": 22,
         "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Baltimore Ravens",
+        "homeScore": 30,
+        "awayTeam": "Detroit Lions",
+        "awayScore": 38,
+        "weekday": "Monday",
         "gameTime": null,
         "status": "Completed"
       }
