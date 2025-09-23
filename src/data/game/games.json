@@ -302,9 +302,9 @@
     "games": [
       {
         "homeTeam": "Baltimore Ravens",
-        "homeScore": 21,
+        "homeScore": 24,
         "awayTeam": "Detroit Lions",
-        "awayScore": 21,
+        "awayScore": 38,
         "weekday": "Monday",
         "gameTime": null,
         "status": "In Progress"
