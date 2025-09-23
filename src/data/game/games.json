@@ -302,12 +302,12 @@
     "games": [
       {
         "homeTeam": "Baltimore Ravens",
-        "homeScore": 0,
+        "homeScore": 7,
         "awayTeam": "Detroit Lions",
-        "awayScore": 0,
+        "awayScore": 7,
         "weekday": "Monday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Buffalo Bills",
