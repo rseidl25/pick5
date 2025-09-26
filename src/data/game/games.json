@@ -451,9 +451,9 @@
     "games": [
       {
         "homeTeam": "Arizona Cardinals",
-        "homeScore": 6,
+        "homeScore": 13,
         "awayTeam": "Seattle Seahawks",
-        "awayScore": 17,
+        "awayScore": 20,
         "weekday": "Thursday",
         "gameTime": null,
         "status": "In Progress"
