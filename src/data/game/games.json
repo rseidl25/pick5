@@ -451,12 +451,12 @@
     "games": [
       {
         "homeTeam": "Arizona Cardinals",
-        "homeScore": 13,
+        "homeScore": 20,
         "awayTeam": "Seattle Seahawks",
-        "awayScore": 20,
+        "awayScore": 23,
         "weekday": "Thursday",
         "gameTime": null,
-        "status": "In Progress"
+        "status": "Completed"
       },
       {
         "homeTeam": "Pittsburgh Steelers",
