@@ -451,9 +451,9 @@
     "games": [
       {
         "homeTeam": "Pittsburgh Steelers",
-        "homeScore": 21,
+        "homeScore": 24,
         "awayTeam": "Minnesota Vikings",
-        "awayScore": 6,
+        "awayScore": 14,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
