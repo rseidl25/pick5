@@ -451,9 +451,9 @@
     "games": [
       {
         "homeTeam": "Los Angeles Rams",
-        "homeScore": 3,
+        "homeScore": 6,
         "awayTeam": "Indianapolis Colts",
-        "awayScore": 3,
+        "awayScore": 10,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -478,7 +478,7 @@
       },
       {
         "homeTeam": "Las Vegas Raiders",
-        "homeScore": 0,
+        "homeScore": 7,
         "awayTeam": "Chicago Bears",
         "awayScore": 3,
         "weekday": "Sunday",
