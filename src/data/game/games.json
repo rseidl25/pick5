@@ -460,7 +460,7 @@
       },
       {
         "homeTeam": "San Francisco 49ers",
-        "homeScore": 6,
+        "homeScore": 14,
         "awayTeam": "Jacksonville Jaguars",
         "awayScore": 17,
         "weekday": "Sunday",
@@ -471,7 +471,7 @@
         "homeTeam": "Kansas City Chiefs",
         "homeScore": 20,
         "awayTeam": "Baltimore Ravens",
-        "awayScore": 7,
+        "awayScore": 10,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
