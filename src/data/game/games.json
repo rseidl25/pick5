@@ -451,9 +451,9 @@
     "games": [
       {
         "homeTeam": "Atlanta Falcons",
-        "homeScore": 24,
+        "homeScore": 31,
         "awayTeam": "Washington Commanders",
-        "awayScore": 13,
+        "awayScore": 16,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -462,7 +462,7 @@
         "homeTeam": "Buffalo Bills",
         "homeScore": 21,
         "awayTeam": "New Orleans Saints",
-        "awayScore": 10,
+        "awayScore": 16,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -498,7 +498,7 @@
         "homeTeam": "Tampa Bay Buccaneers",
         "homeScore": 13,
         "awayTeam": "Philadelphia Eagles",
-        "awayScore": 24,
+        "awayScore": 31,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
