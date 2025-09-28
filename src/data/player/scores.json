@@ -1456,7 +1456,7 @@
             "bonus": false
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
@@ -1468,7 +1468,7 @@
             "bonus": true
           }
         },
-        "total": 10
+        "total": 20
       },
       "week5": {
         "teams": {
@@ -1821,7 +1821,7 @@
         "total": 0
       }
     },
-    "overall_score": 198
+    "overall_score": 208
   },
   "FkbsYIXzm7TorvwE2qbaTiKsrmi1": {
     "name": "Steve",
