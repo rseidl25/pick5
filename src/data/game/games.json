@@ -460,7 +460,7 @@
       },
       {
         "homeTeam": "San Francisco 49ers",
-        "homeScore": 3,
+        "homeScore": 6,
         "awayTeam": "Jacksonville Jaguars",
         "awayScore": 14,
         "weekday": "Sunday",
@@ -478,9 +478,9 @@
       },
       {
         "homeTeam": "Las Vegas Raiders",
-        "homeScore": 7,
+        "homeScore": 14,
         "awayTeam": "Chicago Bears",
-        "awayScore": 3,
+        "awayScore": 6,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
