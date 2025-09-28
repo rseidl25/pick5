@@ -450,15 +450,6 @@
     "week": 4,
     "games": [
       {
-        "homeTeam": "Pittsburgh Steelers",
-        "homeScore": 24,
-        "awayTeam": "Minnesota Vikings",
-        "awayScore": 21,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Atlanta Falcons",
         "homeScore": 0,
         "awayTeam": "Washington Commanders",
@@ -565,6 +556,15 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Pittsburgh Steelers",
+        "homeScore": 24,
+        "awayTeam": "Minnesota Vikings",
+        "awayScore": 21,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Arizona Cardinals",
