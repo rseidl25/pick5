@@ -453,7 +453,7 @@
         "homeTeam": "Atlanta Falcons",
         "homeScore": 10,
         "awayTeam": "Washington Commanders",
-        "awayScore": 0,
+        "awayScore": 7,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -469,7 +469,7 @@
       },
       {
         "homeTeam": "Detroit Lions",
-        "homeScore": 7,
+        "homeScore": 10,
         "awayTeam": "Cleveland Browns",
         "awayScore": 7,
         "weekday": "Sunday",
@@ -478,7 +478,7 @@
       },
       {
         "homeTeam": "New England Patriots",
-        "homeScore": 6,
+        "homeScore": 7,
         "awayTeam": "Carolina Panthers",
         "awayScore": 6,
         "weekday": "Sunday",
@@ -496,7 +496,7 @@
       },
       {
         "homeTeam": "Tampa Bay Buccaneers",
-        "homeScore": 0,
+        "homeScore": 3,
         "awayTeam": "Philadelphia Eagles",
         "awayScore": 14,
         "weekday": "Sunday",
@@ -505,7 +505,7 @@
       },
       {
         "homeTeam": "Houston Texans",
-        "homeScore": 3,
+        "homeScore": 6,
         "awayTeam": "Tennessee Titans",
         "awayScore": 0,
         "weekday": "Sunday",
