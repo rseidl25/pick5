@@ -552,11 +552,11 @@
             "bonus": false
           },
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 64
+        "total": 74
       },
       "week5": {
         "teams": {
@@ -909,7 +909,7 @@
         "total": 0
       }
     },
-    "overall_score": 278
+    "overall_score": 288
   },
   "AmEIaRh92vdP40uVAseDWGxcZBM2": {
     "name": "Brett Sievwright",
@@ -1452,7 +1452,7 @@
             "bonus": false
           },
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Philadelphia Eagles": {
@@ -1468,7 +1468,7 @@
             "bonus": true
           }
         },
-        "total": 20
+        "total": 30
       },
       "week5": {
         "teams": {
@@ -1821,7 +1821,7 @@
         "total": 0
       }
     },
-    "overall_score": 208
+    "overall_score": 218
   },
   "FkbsYIXzm7TorvwE2qbaTiKsrmi1": {
     "name": "Steve",
@@ -3280,7 +3280,7 @@
             "bonus": false
           },
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "San Francisco 49ers": {
@@ -3292,7 +3292,7 @@
             "bonus": true
           }
         },
-        "total": 20
+        "total": 30
       },
       "week5": {
         "teams": {
@@ -3645,7 +3645,7 @@
         "total": 0
       }
     },
-    "overall_score": 219
+    "overall_score": 229
   },
   "NluZaqiuGKRzhuir9Jfu5uKRm302": {
     "name": "Angie Phillip",
@@ -3736,7 +3736,7 @@
             "bonus": false
           },
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Detroit Lions": {
@@ -3748,7 +3748,7 @@
             "bonus": false
           }
         },
-        "total": 54
+        "total": 64
       },
       "week5": {
         "teams": {
@@ -4101,7 +4101,7 @@
         "total": 0
       }
     },
-    "overall_score": 280
+    "overall_score": 290
   },
   "US8t7rlGTXV5t8M3K8OWB2kzQo93": {
     "name": "Sam",
@@ -4200,11 +4200,11 @@
             "bonus": false
           },
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 61
+        "total": 71
       },
       "week5": {
         "teams": {
@@ -4557,7 +4557,7 @@
         "total": 0
       }
     },
-    "overall_score": 262
+    "overall_score": 272
   },
   "XKPW7eAMivNTYBrIivGGT9DFV022": {
     "name": "Joey",
@@ -4656,11 +4656,11 @@
             "bonus": true
           },
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 20
+        "total": 30
       },
       "week5": {
         "teams": {
@@ -5013,7 +5013,7 @@
         "total": 0
       }
     },
-    "overall_score": 177
+    "overall_score": 187
   },
   "dac8Eg3ax4PxQl7aSydfS9lAWv23": {
     "name": "Ben",
@@ -6020,7 +6020,7 @@
             "bonus": false
           },
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "San Francisco 49ers": {
@@ -6028,7 +6028,7 @@
             "bonus": false
           }
         },
-        "total": 64
+        "total": 74
       },
       "week5": {
         "teams": {
@@ -6381,7 +6381,7 @@
         "total": 0
       }
     },
-    "overall_score": 271
+    "overall_score": 281
   },
   "jydlml7YsWe72ieLWGDFhuxY3Nb2": {
     "name": "Cal",
@@ -6936,11 +6936,11 @@
             "bonus": false
           },
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 54
+        "total": 64
       },
       "week5": {
         "teams": {
@@ -7293,7 +7293,7 @@
         "total": 0
       }
     },
-    "overall_score": 264
+    "overall_score": 274
   },
   "u8geiYcJqpcTBRxAtLVB5QKA8Ii2": {
     "name": "Lisa: Certified League Wrecker",
@@ -7388,7 +7388,7 @@
             "bonus": false
           },
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 37,
             "bonus": true
           },
           "Green Bay Packers": {
@@ -7396,7 +7396,7 @@
             "bonus": false
           }
         },
-        "total": 20
+        "total": 57
       },
       "week5": {
         "teams": {
@@ -7749,6 +7749,6 @@
         "total": 0
       }
     },
-    "overall_score": 211
+    "overall_score": 248
   }
 }

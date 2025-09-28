@@ -450,17 +450,8 @@
     "week": 4,
     "games": [
       {
-        "homeTeam": "Los Angeles Rams",
-        "homeScore": 20,
-        "awayTeam": "Indianapolis Colts",
-        "awayScore": 20,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "San Francisco 49ers",
-        "homeScore": 14,
+        "homeScore": 21,
         "awayTeam": "Jacksonville Jaguars",
         "awayScore": 26,
         "weekday": "Sunday",
@@ -469,7 +460,7 @@
       },
       {
         "homeTeam": "Kansas City Chiefs",
-        "homeScore": 30,
+        "homeScore": 37,
         "awayTeam": "Baltimore Ravens",
         "awayScore": 13,
         "weekday": "Sunday",
@@ -478,9 +469,9 @@
       },
       {
         "homeTeam": "Las Vegas Raiders",
-        "homeScore": 21,
+        "homeScore": 24,
         "awayTeam": "Chicago Bears",
-        "awayScore": 16,
+        "awayScore": 19,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -493,6 +484,15 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Los Angeles Rams",
+        "homeScore": 27,
+        "awayTeam": "Indianapolis Colts",
+        "awayScore": 20,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Pittsburgh Steelers",
