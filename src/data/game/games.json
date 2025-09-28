@@ -450,33 +450,6 @@
     "week": 4,
     "games": [
       {
-        "homeTeam": "San Francisco 49ers",
-        "homeScore": 21,
-        "awayTeam": "Jacksonville Jaguars",
-        "awayScore": 26,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Kansas City Chiefs",
-        "homeScore": 37,
-        "awayTeam": "Baltimore Ravens",
-        "awayScore": 13,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Las Vegas Raiders",
-        "homeScore": 24,
-        "awayTeam": "Chicago Bears",
-        "awayScore": 19,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Dallas Cowboys",
         "homeScore": 0,
         "awayTeam": "Green Bay Packers",
@@ -486,10 +459,28 @@
         "status": "Preview"
       },
       {
-        "homeTeam": "Los Angeles Rams",
-        "homeScore": 27,
-        "awayTeam": "Indianapolis Colts",
+        "homeTeam": "San Francisco 49ers",
+        "homeScore": 21,
+        "awayTeam": "Jacksonville Jaguars",
+        "awayScore": 26,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Kansas City Chiefs",
+        "homeScore": 37,
+        "awayTeam": "Baltimore Ravens",
         "awayScore": 20,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Las Vegas Raiders",
+        "homeScore": 24,
+        "awayTeam": "Chicago Bears",
+        "awayScore": 25,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
@@ -562,6 +553,15 @@
         "homeScore": 26,
         "awayTeam": "Tennessee Titans",
         "awayScore": 0,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Los Angeles Rams",
+        "homeScore": 27,
+        "awayTeam": "Indianapolis Colts",
+        "awayScore": 20,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
