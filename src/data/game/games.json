@@ -450,13 +450,31 @@
     "week": 4,
     "games": [
       {
-        "homeTeam": "Dallas Cowboys",
-        "homeScore": 37,
-        "awayTeam": "Green Bay Packers",
-        "awayScore": 37,
-        "weekday": "Sunday",
+        "homeTeam": "Miami Dolphins",
+        "homeScore": 0,
+        "awayTeam": "New York Jets",
+        "awayScore": 0,
+        "weekday": "Monday",
         "gameTime": null,
-        "status": "In Progress"
+        "status": "Preview"
+      },
+      {
+        "homeTeam": "Denver Broncos",
+        "homeScore": 0,
+        "awayTeam": "Cincinnati Bengals",
+        "awayScore": 0,
+        "weekday": "Monday",
+        "gameTime": null,
+        "status": "Preview"
+      },
+      {
+        "homeTeam": "Arizona Cardinals",
+        "homeScore": 20,
+        "awayTeam": "Seattle Seahawks",
+        "awayScore": 23,
+        "weekday": "Thursday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Pittsburgh Steelers",
@@ -567,31 +585,13 @@
         "status": "Completed"
       },
       {
-        "homeTeam": "Arizona Cardinals",
-        "homeScore": 20,
-        "awayTeam": "Seattle Seahawks",
-        "awayScore": 23,
-        "weekday": "Thursday",
+        "homeTeam": "Dallas Cowboys",
+        "homeScore": 40,
+        "awayTeam": "Green Bay Packers",
+        "awayScore": 40,
+        "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
-      },
-      {
-        "homeTeam": "Miami Dolphins",
-        "homeScore": 0,
-        "awayTeam": "New York Jets",
-        "awayScore": 0,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Denver Broncos",
-        "homeScore": 0,
-        "awayTeam": "Cincinnati Bengals",
-        "awayScore": 0,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Preview"
       }
     ]
   },

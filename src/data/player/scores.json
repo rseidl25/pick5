@@ -2372,7 +2372,7 @@
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Houston Texans": {
@@ -2380,7 +2380,7 @@
             "bonus": false
           }
         },
-        "total": 64
+        "total": 74
       },
       "week5": {
         "teams": {
@@ -2733,7 +2733,7 @@
         "total": 0
       }
     },
-    "overall_score": 194
+    "overall_score": 204
   },
   "K9X8fKAf1bNvZjJH0jM9eO2uobP2": {
     "name": "Bryan",
@@ -2832,11 +2832,11 @@
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 64
+        "total": 74
       },
       "week5": {
         "teams": {
@@ -3189,7 +3189,7 @@
         "total": 0
       }
     },
-    "overall_score": 266
+    "overall_score": 276
   },
   "LKY6YytQUfbPzmcw2yfIYm0XEQD2": {
     "name": "Smelly Kelly",
@@ -3744,11 +3744,11 @@
             "bonus": true
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 64
+        "total": 74
       },
       "week5": {
         "teams": {
@@ -4101,7 +4101,7 @@
         "total": 0
       }
     },
-    "overall_score": 290
+    "overall_score": 300
   },
   "US8t7rlGTXV5t8M3K8OWB2kzQo93": {
     "name": "Sam",
@@ -5112,11 +5112,11 @@
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 61
+        "total": 71
       },
       "week5": {
         "teams": {
@@ -5469,7 +5469,7 @@
         "total": 0
       }
     },
-    "overall_score": 224
+    "overall_score": 234
   },
   "hELkxczX1UerNFvp4fpORxqLr9X2": {
     "name": "PP",
@@ -5560,7 +5560,7 @@
             "bonus": true
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Washington Commanders": {
@@ -5572,7 +5572,7 @@
             "bonus": false
           }
         },
-        "total": 54
+        "total": 64
       },
       "week5": {
         "teams": {
@@ -5925,7 +5925,7 @@
         "total": 0
       }
     },
-    "overall_score": 226
+    "overall_score": 236
   },
   "hR9aypGuwBfk5pE5MwNjxEvfkh43": {
     "name": "Ryan",
@@ -6932,7 +6932,7 @@
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Los Angeles Rams": {
@@ -6940,7 +6940,7 @@
             "bonus": false
           }
         },
-        "total": 64
+        "total": 74
       },
       "week5": {
         "teams": {
@@ -7293,7 +7293,7 @@
         "total": 0
       }
     },
-    "overall_score": 274
+    "overall_score": 284
   },
   "u8geiYcJqpcTBRxAtLVB5QKA8Ii2": {
     "name": "Lisa: Certified League Wrecker",
@@ -7392,11 +7392,11 @@
             "bonus": true
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 57
+        "total": 67
       },
       "week5": {
         "teams": {
@@ -7749,6 +7749,6 @@
         "total": 0
       }
     },
-    "overall_score": 248
+    "overall_score": 258
   }
 }
