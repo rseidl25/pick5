@@ -766,18 +766,18 @@
         "status": "Preview"
       },
       {
-        "homeTeam": "Pittsburgh Steelers",
+        "homeTeam": "New Orleans Saints",
         "homeScore": 0,
-        "awayTeam": "Cleveland Browns",
+        "awayTeam": "New England Patriots",
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
       },
       {
-        "homeTeam": "Tampa Bay Buccaneers",
+        "homeTeam": "Pittsburgh Steelers",
         "homeScore": 0,
-        "awayTeam": "San Francisco 49ers",
+        "awayTeam": "Cleveland Browns",
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
@@ -829,9 +829,9 @@
         "status": "Preview"
       },
       {
-        "homeTeam": "New Orleans Saints",
+        "homeTeam": "Tampa Bay Buccaneers",
         "homeScore": 0,
-        "awayTeam": "New England Patriots",
+        "awayTeam": "San Francisco 49ers",
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
