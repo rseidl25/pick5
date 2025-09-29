@@ -451,9 +451,9 @@
     "games": [
       {
         "homeTeam": "Dallas Cowboys",
-        "homeScore": 22,
+        "homeScore": 30,
         "awayTeam": "Green Bay Packers",
-        "awayScore": 20,
+        "awayScore": 27,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
