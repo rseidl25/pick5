@@ -345,50 +345,93 @@ document.addEventListener("DOMContentLoaded", async () => {
   // =========================
   // Leaderboard
   // =========================
-  function loadLeaderboard() {
-    const tbody = document.getElementById("leaderboard-body");
-    tbody.innerHTML = "";
+  async function loadLeaderboard() {
+  const tbody = document.getElementById("leaderboard-body");
+  tbody.innerHTML = "";
 
-    const players = Object.entries(scoresData).map(([uid, player]) => ({
+  // Load games for current week if needed
+  let gamesForWeek = [];
+  if (currentWeek !== null) {
+    const gamesRes = await fetch("../src/data/game/games.json");
+    const gamesData = await gamesRes.json();
+    gamesForWeek = gamesData.find((g) => g.week === currentWeek)?.games || [];
+  }
+
+  const players = Object.entries(scoresData).map(([uid, player]) => {
+    let score;
+
+    if (currentWeek === null) {
+      // Overall leaderboard (just use stored overall_score for now)
+      score = player.overall_score;
+    } else {
+      // Corrected week score
+      const weekData = player.weeks?.[`week${currentWeek}`] || { teams: {} };
+      let correctedTotal = 0;
+
+      for (const [team, info] of Object.entries(weekData.teams || {})) {
+        const game = gamesForWeek.find(
+          (g) => g.homeTeam === team || g.awayTeam === team
+        );
+
+        if (game && game.status === "Completed") {
+          if (game.homeScore === game.awayScore) {
+            correctedTotal += 0;
+          } else {
+            const winner =
+              game.homeScore > game.awayScore ? game.homeTeam : game.awayTeam;
+            if (winner === team) {
+              correctedTotal += info.points;
+            }
+          }
+        } else {
+          // game not finished yet → keep stored points (projection)
+          correctedTotal += info.points;
+        }
+      }
+
+      score = correctedTotal;
+    }
+
+    return {
       uid,
       name: player.name,
-      score:
-        currentWeek === null
-          ? player.overall_score
-          : player.weeks?.[`week${currentWeek}`]?.total || 0,
+      score,
       photoURL: player.photoURL || DEFAULT_AVATAR,
-    }));
+    };
+  });
 
-    players.sort((a, b) => {
-      if (b.score !== a.score) return b.score - a.score;
-      return a.name.localeCompare(b.name);
-    });
+  // Sort by score desc, then name
+  players.sort((a, b) => {
+    if (b.score !== a.score) return b.score - a.score;
+    return a.name.localeCompare(b.name);
+  });
 
-    let currentRank = 0,
+  // Ranks
+  let currentRank = 0,
       prevScore = null,
       playersSeen = 0;
 
-    players.forEach((player) => {
-      playersSeen++;
-      if (player.score !== prevScore) currentRank = playersSeen;
-      prevScore = player.score;
+  players.forEach((player) => {
+    playersSeen++;
+    if (player.score !== prevScore) currentRank = playersSeen;
+    prevScore = player.score;
 
-      const tr = document.createElement("tr");
-      tr.classList.add(`position-${currentRank}`);
+    const tr = document.createElement("tr");
+    tr.classList.add(`position-${currentRank}`);
 
-      tr.innerHTML = `
-        <td>${currentRank}</td>
-        <td>
-          <div class="player-cell">
-            <img src="${player.photoURL}" alt="${player.name}" class="profile-pic">
-            <span>${player.name}</span>
-          </div>
-        </td>
-        <td>${player.score}</td>
-      `;
-      tbody.appendChild(tr);
-    });
-  }
+    tr.innerHTML = `
+      <td>${currentRank}</td>
+      <td>
+        <div class="player-cell">
+          <img src="${player.photoURL}" alt="${player.name}" class="profile-pic">
+          <span>${player.name}</span>
+        </div>
+      </td>
+      <td>${player.score}</td>
+    `;
+    tbody.appendChild(tr);
+  });
+}
 
   // =========================
   // Players Dropdown
