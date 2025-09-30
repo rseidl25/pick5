@@ -992,7 +992,7 @@
       "week4": {
         "teams": {
           "Miami Dolphins": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Houston Texans": {
@@ -1012,7 +1012,7 @@
             "bonus": true
           }
         },
-        "total": 54
+        "total": 64
       },
       "week5": {
         "teams": {
@@ -1365,7 +1365,7 @@
         "total": 0
       }
     },
-    "overall_score": 164
+    "overall_score": 174
   },
   "D2fLoPEINITIuA9oJNB8ybVaOps2": {
     "name": "Kalysta",
@@ -1920,11 +1920,11 @@
             "bonus": false
           },
           "Miami Dolphins": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 61
+        "total": 71
       },
       "week5": {
         "teams": {
@@ -2277,7 +2277,7 @@
         "total": 0
       }
     },
-    "overall_score": 282
+    "overall_score": 292
   },
   "Fn25s976WxT6gML22x8yJsQ33PM2": {
     "name": "Milly",
@@ -3288,11 +3288,11 @@
             "bonus": false
           },
           "Miami Dolphins": {
-            "points": 0,
+            "points": 37,
             "bonus": true
           }
         },
-        "total": 30
+        "total": 67
       },
       "week5": {
         "teams": {
@@ -3645,7 +3645,7 @@
         "total": 0
       }
     },
-    "overall_score": 229
+    "overall_score": 266
   },
   "NluZaqiuGKRzhuir9Jfu5uKRm302": {
     "name": "Angie Phillip",
@@ -4652,7 +4652,7 @@
             "bonus": false
           },
           "Miami Dolphins": {
-            "points": 0,
+            "points": 37,
             "bonus": true
           },
           "Los Angeles Rams": {
@@ -4660,7 +4660,7 @@
             "bonus": false
           }
         },
-        "total": 30
+        "total": 67
       },
       "week5": {
         "teams": {
@@ -5013,7 +5013,7 @@
         "total": 0
       }
     },
-    "overall_score": 187
+    "overall_score": 224
   },
   "dac8Eg3ax4PxQl7aSydfS9lAWv23": {
     "name": "Ben",
