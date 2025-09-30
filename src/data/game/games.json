@@ -451,12 +451,12 @@
     "games": [
       {
         "homeTeam": "Denver Broncos",
-        "homeScore": 21,
+        "homeScore": 28,
         "awayTeam": "Cincinnati Bengals",
         "awayScore": 3,
         "weekday": "Monday",
         "gameTime": null,
-        "status": "In Progress"
+        "status": "Completed"
       },
       {
         "homeTeam": "Miami Dolphins",
