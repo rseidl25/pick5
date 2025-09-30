@@ -450,19 +450,19 @@
     "week": 4,
     "games": [
       {
-        "homeTeam": "Denver Broncos",
-        "homeScore": 28,
-        "awayTeam": "Cincinnati Bengals",
-        "awayScore": 3,
+        "homeTeam": "Miami Dolphins",
+        "homeScore": 27,
+        "awayTeam": "New York Jets",
+        "awayScore": 21,
         "weekday": "Monday",
         "gameTime": null,
         "status": "Completed"
       },
       {
-        "homeTeam": "Miami Dolphins",
-        "homeScore": 27,
-        "awayTeam": "New York Jets",
-        "awayScore": 21,
+        "homeTeam": "Denver Broncos",
+        "homeScore": 28,
+        "awayTeam": "Cincinnati Bengals",
+        "awayScore": 3,
         "weekday": "Monday",
         "gameTime": null,
         "status": "Completed"
