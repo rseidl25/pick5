@@ -450,24 +450,6 @@
     "week": 4,
     "games": [
       {
-        "homeTeam": "Miami Dolphins",
-        "homeScore": 27,
-        "awayTeam": "New York Jets",
-        "awayScore": 21,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
-        "homeTeam": "Denver Broncos",
-        "homeScore": 28,
-        "awayTeam": "Cincinnati Bengals",
-        "awayScore": 3,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "Arizona Cardinals",
         "homeScore": 20,
         "awayTeam": "Seattle Seahawks",
@@ -590,6 +572,24 @@
         "awayTeam": "Green Bay Packers",
         "awayScore": 40,
         "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Miami Dolphins",
+        "homeScore": 27,
+        "awayTeam": "New York Jets",
+        "awayScore": 21,
+        "weekday": "Monday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Denver Broncos",
+        "homeScore": 28,
+        "awayTeam": "Cincinnati Bengals",
+        "awayScore": 3,
+        "weekday": "Monday",
         "gameTime": null,
         "status": "Completed"
       }
