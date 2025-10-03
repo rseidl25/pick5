@@ -600,9 +600,9 @@
     "games": [
       {
         "homeTeam": "Los Angeles Rams",
-        "homeScore": 14,
+        "homeScore": 20,
         "awayTeam": "San Francisco 49ers",
-        "awayScore": 20,
+        "awayScore": 23,
         "weekday": "Thursday",
         "gameTime": null,
         "status": "In Progress"
