@@ -602,7 +602,7 @@
         "homeTeam": "Indianapolis Colts",
         "homeScore": 40,
         "awayTeam": "Las Vegas Raiders",
-        "awayScore": 3,
+        "awayScore": 6,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -647,7 +647,7 @@
         "homeTeam": "Baltimore Ravens",
         "homeScore": 10,
         "awayTeam": "Houston Texans",
-        "awayScore": 41,
+        "awayScore": 44,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
