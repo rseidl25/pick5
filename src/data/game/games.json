@@ -599,15 +599,6 @@
     "week": 5,
     "games": [
       {
-        "homeTeam": "Cleveland Browns",
-        "homeScore": 17,
-        "awayTeam": "Minnesota Vikings",
-        "awayScore": 14,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Indianapolis Colts",
         "homeScore": 0,
         "awayTeam": "Las Vegas Raiders",
@@ -705,6 +696,15 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Cleveland Browns",
+        "homeScore": 17,
+        "awayTeam": "Minnesota Vikings",
+        "awayScore": 21,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Los Angeles Rams",
