@@ -636,7 +636,7 @@
       },
       {
         "homeTeam": "Carolina Panthers",
-        "homeScore": 10,
+        "homeScore": 13,
         "awayTeam": "Miami Dolphins",
         "awayScore": 17,
         "weekday": "Sunday",
@@ -647,7 +647,7 @@
         "homeTeam": "Baltimore Ravens",
         "homeScore": 3,
         "awayTeam": "Houston Texans",
-        "awayScore": 24,
+        "awayScore": 31,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
