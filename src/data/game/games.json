@@ -602,23 +602,23 @@
         "homeTeam": "Arizona Cardinals",
         "homeScore": 21,
         "awayTeam": "Tennessee Titans",
-        "awayScore": 6,
+        "awayScore": 12,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Seattle Seahawks",
-        "homeScore": 28,
+        "homeScore": 35,
         "awayTeam": "Tampa Bay Buccaneers",
-        "awayScore": 28,
+        "awayScore": 34,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Cincinnati Bengals",
-        "homeScore": 9,
+        "homeScore": 10,
         "awayTeam": "Detroit Lions",
         "awayScore": 28,
         "weekday": "Sunday",
