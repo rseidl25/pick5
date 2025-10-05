@@ -609,7 +609,7 @@
       },
       {
         "homeTeam": "Seattle Seahawks",
-        "homeScore": 0,
+        "homeScore": 7,
         "awayTeam": "Tampa Bay Buccaneers",
         "awayScore": 13,
         "weekday": "Sunday",
@@ -620,7 +620,7 @@
         "homeTeam": "Cincinnati Bengals",
         "homeScore": 0,
         "awayTeam": "Detroit Lions",
-        "awayScore": 7,
+        "awayScore": 14,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
