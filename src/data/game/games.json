@@ -618,7 +618,7 @@
       },
       {
         "homeTeam": "New York Jets",
-        "homeScore": 6,
+        "homeScore": 14,
         "awayTeam": "Dallas Cowboys",
         "awayScore": 30,
         "weekday": "Sunday",
@@ -629,16 +629,16 @@
         "homeTeam": "Philadelphia Eagles",
         "homeScore": 17,
         "awayTeam": "Denver Broncos",
-        "awayScore": 10,
+        "awayScore": 18,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Carolina Panthers",
-        "homeScore": 19,
+        "homeScore": 20,
         "awayTeam": "Miami Dolphins",
-        "awayScore": 17,
+        "awayScore": 24,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
