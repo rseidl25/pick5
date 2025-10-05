@@ -1029,7 +1029,7 @@
             "bonus": true
           },
           "New Orleans Saints": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Minnesota Vikings": {
@@ -1037,7 +1037,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week6": {
         "teams": {
@@ -1365,7 +1365,7 @@
         "total": 0
       }
     },
-    "overall_score": 184
+    "overall_score": 194
   },
   "D2fLoPEINITIuA9oJNB8ybVaOps2": {
     "name": "Kalysta",
