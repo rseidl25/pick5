@@ -599,28 +599,10 @@
     "week": 5,
     "games": [
       {
-        "homeTeam": "New York Jets",
-        "homeScore": 22,
-        "awayTeam": "Dallas Cowboys",
-        "awayScore": 37,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Philadelphia Eagles",
-        "homeScore": 17,
-        "awayTeam": "Denver Broncos",
-        "awayScore": 18,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Arizona Cardinals",
-        "homeScore": 0,
+        "homeScore": 7,
         "awayTeam": "Tennessee Titans",
-        "awayScore": 0,
+        "awayScore": 3,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -629,7 +611,7 @@
         "homeTeam": "Seattle Seahawks",
         "homeScore": 0,
         "awayTeam": "Tampa Bay Buccaneers",
-        "awayScore": 0,
+        "awayScore": 3,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -641,7 +623,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Los Angeles Chargers",
@@ -650,7 +632,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Buffalo Bills",
@@ -684,6 +666,24 @@
         "homeScore": 26,
         "awayTeam": "New York Giants",
         "awayScore": 14,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "New York Jets",
+        "homeScore": 22,
+        "awayTeam": "Dallas Cowboys",
+        "awayScore": 37,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Philadelphia Eagles",
+        "homeScore": 17,
+        "awayTeam": "Denver Broncos",
+        "awayScore": 21,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"

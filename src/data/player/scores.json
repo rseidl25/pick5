@@ -121,11 +121,11 @@
             "bonus": false
           },
           "Dallas Cowboys": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week6": {
         "teams": {
@@ -453,7 +453,7 @@
         "total": 0
       }
     },
-    "overall_score": 268
+    "overall_score": 278
   },
   "A5dssZETIMhNd0WYKQamFxxb9Ak2": {
     "name": "Judy Phillip",
@@ -1473,7 +1473,7 @@
       "week5": {
         "teams": {
           "Dallas Cowboys": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
@@ -1493,7 +1493,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week6": {
         "teams": {
@@ -1821,7 +1821,7 @@
         "total": 0
       }
     },
-    "overall_score": 218
+    "overall_score": 228
   },
   "FkbsYIXzm7TorvwE2qbaTiKsrmi1": {
     "name": "Steve",
@@ -4225,11 +4225,11 @@
             "bonus": false
           },
           "Dallas Cowboys": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 31
+        "total": 41
       },
       "week6": {
         "teams": {
@@ -4557,7 +4557,7 @@
         "total": 0
       }
     },
-    "overall_score": 303
+    "overall_score": 313
   },
   "XKPW7eAMivNTYBrIivGGT9DFV022": {
     "name": "Joey",
@@ -4673,7 +4673,7 @@
             "bonus": false
           },
           "Dallas Cowboys": {
-            "points": 0,
+            "points": 47,
             "bonus": true
           },
           "Miami Dolphins": {
@@ -4685,7 +4685,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 47
       },
       "week6": {
         "teams": {
@@ -5013,7 +5013,7 @@
         "total": 0
       }
     },
-    "overall_score": 224
+    "overall_score": 271
   },
   "dac8Eg3ax4PxQl7aSydfS9lAWv23": {
     "name": "Ben",
@@ -6045,7 +6045,7 @@
             "bonus": false
           },
           "Dallas Cowboys": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Arizona Cardinals": {
@@ -6053,7 +6053,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week6": {
         "teams": {
@@ -6381,7 +6381,7 @@
         "total": 0
       }
     },
-    "overall_score": 281
+    "overall_score": 291
   },
   "jydlml7YsWe72ieLWGDFhuxY3Nb2": {
     "name": "Cal",
