@@ -600,7 +600,7 @@
     "games": [
       {
         "homeTeam": "Indianapolis Colts",
-        "homeScore": 32,
+        "homeScore": 40,
         "awayTeam": "Las Vegas Raiders",
         "awayScore": 3,
         "weekday": "Sunday",
@@ -609,7 +609,7 @@
       },
       {
         "homeTeam": "New Orleans Saints",
-        "homeScore": 19,
+        "homeScore": 26,
         "awayTeam": "New York Giants",
         "awayScore": 14,
         "weekday": "Sunday",
@@ -618,9 +618,9 @@
       },
       {
         "homeTeam": "New York Jets",
-        "homeScore": 3,
+        "homeScore": 6,
         "awayTeam": "Dallas Cowboys",
-        "awayScore": 23,
+        "awayScore": 30,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -647,7 +647,7 @@
         "homeTeam": "Baltimore Ravens",
         "homeScore": 10,
         "awayTeam": "Houston Texans",
-        "awayScore": 34,
+        "awayScore": 41,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
