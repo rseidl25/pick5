@@ -599,15 +599,6 @@
     "week": 5,
     "games": [
       {
-        "homeTeam": "Los Angeles Rams",
-        "homeScore": 23,
-        "awayTeam": "San Francisco 49ers",
-        "awayScore": 26,
-        "weekday": "Thursday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "Cleveland Browns",
         "homeScore": 0,
         "awayTeam": "Minnesota Vikings",
@@ -714,6 +705,15 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Los Angeles Rams",
+        "homeScore": 23,
+        "awayTeam": "San Francisco 49ers",
+        "awayScore": 26,
+        "weekday": "Thursday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Jacksonville Jaguars",
