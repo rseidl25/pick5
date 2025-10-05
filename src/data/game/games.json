@@ -599,24 +599,6 @@
     "week": 5,
     "games": [
       {
-        "homeTeam": "Cincinnati Bengals",
-        "homeScore": 24,
-        "awayTeam": "Detroit Lions",
-        "awayScore": 35,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Los Angeles Chargers",
-        "homeScore": 10,
-        "awayTeam": "Washington Commanders",
-        "awayScore": 27,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Buffalo Bills",
         "homeScore": 0,
         "awayTeam": "New England Patriots",
@@ -624,15 +606,6 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
-      },
-      {
-        "homeTeam": "Arizona Cardinals",
-        "homeScore": 21,
-        "awayTeam": "Tennessee Titans",
-        "awayScore": 22,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Completed"
       },
       {
         "homeTeam": "Cleveland Browns",
@@ -698,10 +671,37 @@
         "status": "Completed"
       },
       {
+        "homeTeam": "Arizona Cardinals",
+        "homeScore": 21,
+        "awayTeam": "Tennessee Titans",
+        "awayScore": 22,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
         "homeTeam": "Seattle Seahawks",
         "homeScore": 35,
         "awayTeam": "Tampa Bay Buccaneers",
         "awayScore": 38,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Cincinnati Bengals",
+        "homeScore": 24,
+        "awayTeam": "Detroit Lions",
+        "awayScore": 37,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Los Angeles Chargers",
+        "homeScore": 10,
+        "awayTeam": "Washington Commanders",
+        "awayScore": 27,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
