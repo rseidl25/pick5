@@ -3313,11 +3313,11 @@
             "bonus": true
           },
           "Tampa Bay Buccaneers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 31
+        "total": 41
       },
       "week6": {
         "teams": {
@@ -3645,7 +3645,7 @@
         "total": 0
       }
     },
-    "overall_score": 297
+    "overall_score": 307
   },
   "NluZaqiuGKRzhuir9Jfu5uKRm302": {
     "name": "Angie Phillip",
@@ -3761,7 +3761,7 @@
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
@@ -3773,7 +3773,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week6": {
         "teams": {
@@ -4101,7 +4101,7 @@
         "total": 0
       }
     },
-    "overall_score": 310
+    "overall_score": 320
   },
   "US8t7rlGTXV5t8M3K8OWB2kzQo93": {
     "name": "Sam",
@@ -4681,11 +4681,11 @@
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 47
+        "total": 57
       },
       "week6": {
         "teams": {
@@ -5013,7 +5013,7 @@
         "total": 0
       }
     },
-    "overall_score": 271
+    "overall_score": 281
   },
   "dac8Eg3ax4PxQl7aSydfS9lAWv23": {
     "name": "Ben",
