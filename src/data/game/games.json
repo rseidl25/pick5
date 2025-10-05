@@ -602,7 +602,7 @@
         "homeTeam": "Indianapolis Colts",
         "homeScore": 0,
         "awayTeam": "Las Vegas Raiders",
-        "awayScore": 0,
+        "awayScore": 3,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -611,16 +611,16 @@
         "homeTeam": "New Orleans Saints",
         "homeScore": 0,
         "awayTeam": "New York Giants",
-        "awayScore": 0,
+        "awayScore": 7,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "New York Jets",
-        "homeScore": 0,
+        "homeScore": 3,
         "awayTeam": "Dallas Cowboys",
-        "awayScore": 0,
+        "awayScore": 3,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -629,7 +629,7 @@
         "homeTeam": "Philadelphia Eagles",
         "homeScore": 0,
         "awayTeam": "Denver Broncos",
-        "awayScore": 0,
+        "awayScore": 3,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -638,16 +638,16 @@
         "homeTeam": "Carolina Panthers",
         "homeScore": 0,
         "awayTeam": "Miami Dolphins",
-        "awayScore": 0,
+        "awayScore": 3,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Baltimore Ravens",
-        "homeScore": 0,
+        "homeScore": 3,
         "awayTeam": "Houston Texans",
-        "awayScore": 0,
+        "awayScore": 7,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
