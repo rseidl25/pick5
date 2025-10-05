@@ -599,17 +599,8 @@
     "week": 5,
     "games": [
       {
-        "homeTeam": "Arizona Cardinals",
-        "homeScore": 21,
-        "awayTeam": "Tennessee Titans",
-        "awayScore": 19,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Cincinnati Bengals",
-        "homeScore": 17,
+        "homeScore": 24,
         "awayTeam": "Detroit Lions",
         "awayScore": 35,
         "weekday": "Sunday",
@@ -620,7 +611,7 @@
         "homeTeam": "Los Angeles Chargers",
         "homeScore": 10,
         "awayTeam": "Washington Commanders",
-        "awayScore": 20,
+        "awayScore": 27,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -635,10 +626,10 @@
         "status": "Preview"
       },
       {
-        "homeTeam": "Seattle Seahawks",
-        "homeScore": 35,
-        "awayTeam": "Tampa Bay Buccaneers",
-        "awayScore": 38,
+        "homeTeam": "Arizona Cardinals",
+        "homeScore": 21,
+        "awayTeam": "Tennessee Titans",
+        "awayScore": 22,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
@@ -702,6 +693,15 @@
         "homeScore": 10,
         "awayTeam": "Houston Texans",
         "awayScore": 44,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Seattle Seahawks",
+        "homeScore": 35,
+        "awayTeam": "Tampa Bay Buccaneers",
+        "awayScore": 38,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
