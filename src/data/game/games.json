@@ -600,7 +600,7 @@
     "games": [
       {
         "homeTeam": "Indianapolis Colts",
-        "homeScore": 20,
+        "homeScore": 26,
         "awayTeam": "Las Vegas Raiders",
         "awayScore": 3,
         "weekday": "Sunday",
@@ -627,7 +627,7 @@
       },
       {
         "homeTeam": "Philadelphia Eagles",
-        "homeScore": 10,
+        "homeScore": 17,
         "awayTeam": "Denver Broncos",
         "awayScore": 3,
         "weekday": "Sunday",
