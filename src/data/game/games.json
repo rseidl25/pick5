@@ -600,9 +600,9 @@
     "games": [
       {
         "homeTeam": "Arizona Cardinals",
-        "homeScore": 14,
+        "homeScore": 21,
         "awayTeam": "Tennessee Titans",
-        "awayScore": 3,
+        "awayScore": 6,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -611,7 +611,7 @@
         "homeTeam": "Seattle Seahawks",
         "homeScore": 0,
         "awayTeam": "Tampa Bay Buccaneers",
-        "awayScore": 6,
+        "awayScore": 13,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -627,7 +627,7 @@
       },
       {
         "homeTeam": "Los Angeles Chargers",
-        "homeScore": 7,
+        "homeScore": 10,
         "awayTeam": "Washington Commanders",
         "awayScore": 0,
         "weekday": "Sunday",
