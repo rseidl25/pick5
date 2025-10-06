@@ -342,54 +342,58 @@ document.addEventListener("DOMContentLoaded", async () => {
     if (activeBtn) activeBtn.classList.add("active");
   }
 
-  // =========================
-  // Leaderboard
-  // =========================
-  async function loadLeaderboard() {
+ // =========================
+// Leaderboard (now also recalculates overall totals)
+// =========================
+async function loadLeaderboard() {
   const tbody = document.getElementById("leaderboard-body");
   tbody.innerHTML = "";
 
-  // Load games for current week if needed
-  let gamesForWeek = [];
-  if (currentWeek !== null) {
-    const gamesRes = await fetch("../src/data/game/games.json");
-    const gamesData = await gamesRes.json();
-    gamesForWeek = gamesData.find((g) => g.week === currentWeek)?.games || [];
+  const gamesRes = await fetch("../src/data/game/games.json");
+  const gamesData = await gamesRes.json();
+
+  // 🏈 Helper function to compute corrected total for one week
+  function computeWeekScore(weekData, gamesForWeek) {
+    let total = 0;
+    for (const [team, info] of Object.entries(weekData.teams || {})) {
+      const game = gamesForWeek.find(
+        (g) => g.homeTeam === team || g.awayTeam === team
+      );
+
+      if (game && game.status === "Completed") {
+        if (game.homeScore === game.awayScore) {
+          total += 0; // tie = 0
+        } else {
+          const winner =
+            game.homeScore > game.awayScore ? game.homeTeam : game.awayTeam;
+          if (winner === team) total += info.points;
+        }
+      } else {
+        // game not finished yet → keep stored points (projection)
+        total += info.points;
+      }
+    }
+    return total;
   }
 
   const players = Object.entries(scoresData).map(([uid, player]) => {
-    let score;
+    let score = 0;
 
     if (currentWeek === null) {
-      // Overall leaderboard (just use stored overall_score for now)
-      score = player.overall_score;
-    } else {
-      // Corrected week score
-      const weekData = player.weeks?.[`week${currentWeek}`] || { teams: {} };
-      let correctedTotal = 0;
-
-      for (const [team, info] of Object.entries(weekData.teams || {})) {
-        const game = gamesForWeek.find(
-          (g) => g.homeTeam === team || g.awayTeam === team
-        );
-
-        if (game && game.status === "Completed") {
-          if (game.homeScore === game.awayScore) {
-            correctedTotal += 0;
-          } else {
-            const winner =
-              game.homeScore > game.awayScore ? game.homeTeam : game.awayTeam;
-            if (winner === team) {
-              correctedTotal += info.points;
-            }
-          }
-        } else {
-          // game not finished yet → keep stored points (projection)
-          correctedTotal += info.points;
-        }
+      // ✅ Overall leaderboard: sum corrected totals from all completed weeks
+      for (const weekKey of Object.keys(player.weeks || {})) {
+        const weekNum = parseInt(weekKey.replace("week", ""), 10);
+        const gamesForWeek =
+          gamesData.find((g) => g.week === weekNum)?.games || [];
+        const weekData = player.weeks[weekKey] || { teams: {} };
+        score += computeWeekScore(weekData, gamesForWeek);
       }
-
-      score = correctedTotal;
+    } else {
+      // ✅ Single-week leaderboard: corrected total for current week
+      const gamesForWeek =
+        gamesData.find((g) => g.week === currentWeek)?.games || [];
+      const weekData = player.weeks?.[`week${currentWeek}`] || { teams: {} };
+      score = computeWeekScore(weekData, gamesForWeek);
     }
 
     return {
