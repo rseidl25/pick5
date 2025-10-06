@@ -602,10 +602,10 @@
         "homeTeam": "Buffalo Bills",
         "homeScore": 0,
         "awayTeam": "New England Patriots",
-        "awayScore": 0,
+        "awayScore": 3,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Cleveland Browns",
