@@ -113,7 +113,7 @@
             "bonus": false
           },
           "Minnesota Vikings": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Arizona Cardinals": {
@@ -121,11 +121,11 @@
             "bonus": false
           },
           "Dallas Cowboys": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 20
       },
       "week6": {
         "teams": {
@@ -453,7 +453,7 @@
         "total": 0
       }
     },
-    "overall_score": 258
+    "overall_score": 278
   },
   "A5dssZETIMhNd0WYKQamFxxb9Ak2": {
     "name": "Judy Phillip",
@@ -561,7 +561,7 @@
       "week5": {
         "teams": {
           "Minnesota Vikings": {
-            "points": 0,
+            "points": 31,
             "bonus": true
           },
           "Arizona Cardinals": {
@@ -569,7 +569,7 @@
             "bonus": false
           },
           "Detroit Lions": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
@@ -581,7 +581,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 41
       },
       "week6": {
         "teams": {
@@ -909,7 +909,7 @@
         "total": 0
       }
     },
-    "overall_score": 288
+    "overall_score": 329
   },
   "AmEIaRh92vdP40uVAseDWGxcZBM2": {
     "name": "Brett Sievwright",
@@ -992,7 +992,7 @@
       "week4": {
         "teams": {
           "Miami Dolphins": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Houston Texans": {
@@ -1012,7 +1012,7 @@
             "bonus": true
           }
         },
-        "total": 54
+        "total": 64
       },
       "week5": {
         "teams": {
@@ -1029,15 +1029,15 @@
             "bonus": true
           },
           "New Orleans Saints": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Minnesota Vikings": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 20
       },
       "week6": {
         "teams": {
@@ -1365,7 +1365,7 @@
         "total": 0
       }
     },
-    "overall_score": 164
+    "overall_score": 194
   },
   "D2fLoPEINITIuA9oJNB8ybVaOps2": {
     "name": "Kalysta",
@@ -1473,7 +1473,7 @@
       "week5": {
         "teams": {
           "Dallas Cowboys": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
@@ -1493,7 +1493,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week6": {
         "teams": {
@@ -1821,7 +1821,7 @@
         "total": 0
       }
     },
-    "overall_score": 218
+    "overall_score": 228
   },
   "FkbsYIXzm7TorvwE2qbaTiKsrmi1": {
     "name": "Steve",
@@ -1920,16 +1920,16 @@
             "bonus": false
           },
           "Miami Dolphins": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 61
+        "total": 71
       },
       "week5": {
         "teams": {
           "Minnesota Vikings": {
-            "points": 0,
+            "points": 31,
             "bonus": true
           },
           "Baltimore Ravens": {
@@ -1949,7 +1949,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 31
       },
       "week6": {
         "teams": {
@@ -2277,7 +2277,7 @@
         "total": 0
       }
     },
-    "overall_score": 282
+    "overall_score": 323
   },
   "Fn25s976WxT6gML22x8yJsQ33PM2": {
     "name": "Milly",
@@ -2401,11 +2401,11 @@
             "bonus": true
           },
           "Minnesota Vikings": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week6": {
         "teams": {
@@ -2733,7 +2733,7 @@
         "total": 0
       }
     },
-    "overall_score": 204
+    "overall_score": 214
   },
   "K9X8fKAf1bNvZjJH0jM9eO2uobP2": {
     "name": "Bryan",
@@ -2841,7 +2841,7 @@
       "week5": {
         "teams": {
           "Minnesota Vikings": {
-            "points": 0,
+            "points": 31,
             "bonus": true
           },
           "Kansas City Chiefs": {
@@ -2853,7 +2853,7 @@
             "bonus": false
           },
           "Detroit Lions": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Arizona Cardinals": {
@@ -2861,7 +2861,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 41
       },
       "week6": {
         "teams": {
@@ -3189,7 +3189,7 @@
         "total": 0
       }
     },
-    "overall_score": 276
+    "overall_score": 317
   },
   "LKY6YytQUfbPzmcw2yfIYm0XEQD2": {
     "name": "Smelly Kelly",
@@ -3288,11 +3288,11 @@
             "bonus": false
           },
           "Miami Dolphins": {
-            "points": 0,
+            "points": 37,
             "bonus": true
           }
         },
-        "total": 30
+        "total": 67
       },
       "week5": {
         "teams": {
@@ -3309,15 +3309,15 @@
             "bonus": false
           },
           "Minnesota Vikings": {
-            "points": 0,
+            "points": 31,
             "bonus": true
           },
           "Tampa Bay Buccaneers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 41
       },
       "week6": {
         "teams": {
@@ -3645,7 +3645,7 @@
         "total": 0
       }
     },
-    "overall_score": 229
+    "overall_score": 307
   },
   "NluZaqiuGKRzhuir9Jfu5uKRm302": {
     "name": "Angie Phillip",
@@ -3761,7 +3761,7 @@
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
@@ -3769,11 +3769,11 @@
             "bonus": false
           },
           "Minnesota Vikings": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 20
       },
       "week6": {
         "teams": {
@@ -4101,7 +4101,7 @@
         "total": 0
       }
     },
-    "overall_score": 300
+    "overall_score": 320
   },
   "US8t7rlGTXV5t8M3K8OWB2kzQo93": {
     "name": "Sam",
@@ -4217,7 +4217,7 @@
             "bonus": false
           },
           "Minnesota Vikings": {
-            "points": 0,
+            "points": 31,
             "bonus": true
           },
           "Miami Dolphins": {
@@ -4225,11 +4225,11 @@
             "bonus": false
           },
           "Dallas Cowboys": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 41
       },
       "week6": {
         "teams": {
@@ -4557,7 +4557,7 @@
         "total": 0
       }
     },
-    "overall_score": 272
+    "overall_score": 313
   },
   "XKPW7eAMivNTYBrIivGGT9DFV022": {
     "name": "Joey",
@@ -4652,7 +4652,7 @@
             "bonus": false
           },
           "Miami Dolphins": {
-            "points": 0,
+            "points": 37,
             "bonus": true
           },
           "Los Angeles Rams": {
@@ -4660,7 +4660,7 @@
             "bonus": false
           }
         },
-        "total": 30
+        "total": 67
       },
       "week5": {
         "teams": {
@@ -4673,7 +4673,7 @@
             "bonus": false
           },
           "Dallas Cowboys": {
-            "points": 0,
+            "points": 47,
             "bonus": true
           },
           "Miami Dolphins": {
@@ -4681,11 +4681,11 @@
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 57
       },
       "week6": {
         "teams": {
@@ -5013,7 +5013,7 @@
         "total": 0
       }
     },
-    "overall_score": 187
+    "overall_score": 281
   },
   "dac8Eg3ax4PxQl7aSydfS9lAWv23": {
     "name": "Ben",
@@ -5125,7 +5125,7 @@
             "bonus": true
           },
           "Minnesota Vikings": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Philadelphia Eagles": {
@@ -5141,7 +5141,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week6": {
         "teams": {
@@ -5469,7 +5469,7 @@
         "total": 0
       }
     },
-    "overall_score": 234
+    "overall_score": 244
   },
   "hELkxczX1UerNFvp4fpORxqLr9X2": {
     "name": "PP",
@@ -6045,7 +6045,7 @@
             "bonus": false
           },
           "Dallas Cowboys": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Arizona Cardinals": {
@@ -6053,7 +6053,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week6": {
         "teams": {
@@ -6381,7 +6381,7 @@
         "total": 0
       }
     },
-    "overall_score": 281
+    "overall_score": 291
   },
   "jydlml7YsWe72ieLWGDFhuxY3Nb2": {
     "name": "Cal",
@@ -6957,7 +6957,7 @@
             "bonus": false
           },
           "Minnesota Vikings": {
-            "points": 0,
+            "points": 31,
             "bonus": true
           },
           "Arizona Cardinals": {
@@ -6965,7 +6965,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 31
       },
       "week6": {
         "teams": {
@@ -7293,7 +7293,7 @@
         "total": 0
       }
     },
-    "overall_score": 284
+    "overall_score": 315
   },
   "u8geiYcJqpcTBRxAtLVB5QKA8Ii2": {
     "name": "Lisa: Certified League Wrecker",
@@ -7401,7 +7401,7 @@
       "week5": {
         "teams": {
           "Minnesota Vikings": {
-            "points": 0,
+            "points": 31,
             "bonus": true
           },
           "Baltimore Ravens": {
@@ -7421,7 +7421,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 31
       },
       "week6": {
         "teams": {
@@ -7749,6 +7749,6 @@
         "total": 0
       }
     },
-    "overall_score": 258
+    "overall_score": 289
   }
 }
