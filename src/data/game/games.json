@@ -599,6 +599,24 @@
     "week": 5,
     "games": [
       {
+        "homeTeam": "Jacksonville Jaguars",
+        "homeScore": 0,
+        "awayTeam": "Kansas City Chiefs",
+        "awayScore": 0,
+        "weekday": "Monday",
+        "gameTime": null,
+        "status": "Preview"
+      },
+      {
+        "homeTeam": "Los Angeles Rams",
+        "homeScore": 23,
+        "awayTeam": "San Francisco 49ers",
+        "awayScore": 26,
+        "weekday": "Thursday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
         "homeTeam": "Cleveland Browns",
         "homeScore": 17,
         "awayTeam": "Minnesota Vikings",
@@ -705,24 +723,6 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
-      },
-      {
-        "homeTeam": "Los Angeles Rams",
-        "homeScore": 23,
-        "awayTeam": "San Francisco 49ers",
-        "awayScore": 26,
-        "weekday": "Thursday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
-        "homeTeam": "Jacksonville Jaguars",
-        "homeScore": 0,
-        "awayTeam": "Kansas City Chiefs",
-        "awayScore": 0,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Preview"
       }
     ]
   },
