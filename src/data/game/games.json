@@ -600,9 +600,9 @@
     "games": [
       {
         "homeTeam": "Buffalo Bills",
-        "homeScore": 10,
+        "homeScore": 20,
         "awayTeam": "New England Patriots",
-        "awayScore": 13,
+        "awayScore": 20,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
