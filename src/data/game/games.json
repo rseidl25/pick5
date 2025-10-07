@@ -600,9 +600,9 @@
     "games": [
       {
         "homeTeam": "Jacksonville Jaguars",
-        "homeScore": 21,
+        "homeScore": 24,
         "awayTeam": "Kansas City Chiefs",
-        "awayScore": 14,
+        "awayScore": 28,
         "weekday": "Monday",
         "gameTime": null,
         "status": "In Progress"
