@@ -731,12 +731,12 @@
     "games": [
       {
         "homeTeam": "New York Giants",
-        "homeScore": 27,
+        "homeScore": 34,
         "awayTeam": "Philadelphia Eagles",
         "awayScore": 17,
         "weekday": "Thursday",
         "gameTime": null,
-        "status": "In Progress"
+        "status": "Completed"
       },
       {
         "homeTeam": "New York Jets",
