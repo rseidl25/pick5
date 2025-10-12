@@ -730,24 +730,6 @@
     "week": 6,
     "games": [
       {
-        "homeTeam": "Green Bay Packers",
-        "homeScore": 27,
-        "awayTeam": "Cincinnati Bengals",
-        "awayScore": 18,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Tampa Bay Buccaneers",
-        "homeScore": 27,
-        "awayTeam": "San Francisco 49ers",
-        "awayScore": 19,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Kansas City Chiefs",
         "homeScore": 0,
         "awayTeam": "Detroit Lions",
@@ -833,6 +815,24 @@
         "homeScore": 20,
         "awayTeam": "Tennessee Titans",
         "awayScore": 10,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Green Bay Packers",
+        "homeScore": 27,
+        "awayTeam": "Cincinnati Bengals",
+        "awayScore": 18,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Tampa Bay Buccaneers",
+        "homeScore": 30,
+        "awayTeam": "San Francisco 49ers",
+        "awayScore": 19,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"

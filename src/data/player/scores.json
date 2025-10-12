@@ -1506,7 +1506,7 @@
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Denver Broncos": {
@@ -1518,7 +1518,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week7": {
         "teams": {
@@ -1821,7 +1821,7 @@
         "total": 0
       }
     },
-    "overall_score": 238
+    "overall_score": 248
   },
   "FkbsYIXzm7TorvwE2qbaTiKsrmi1": {
     "name": "Steve",
@@ -6978,7 +6978,7 @@
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Washington Commanders": {
@@ -6990,7 +6990,7 @@
             "bonus": true
           }
         },
-        "total": 23
+        "total": 33
       },
       "week7": {
         "teams": {
@@ -7293,7 +7293,7 @@
         "total": 0
       }
     },
-    "overall_score": 338
+    "overall_score": 348
   },
   "u8geiYcJqpcTBRxAtLVB5QKA8Ii2": {
     "name": "Lisa: Certified League Wrecker",
