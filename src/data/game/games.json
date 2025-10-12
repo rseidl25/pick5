@@ -740,7 +740,7 @@
       },
       {
         "homeTeam": "Green Bay Packers",
-        "homeScore": 0,
+        "homeScore": 3,
         "awayTeam": "Cincinnati Bengals",
         "awayScore": 0,
         "weekday": "Sunday",
@@ -751,7 +751,7 @@
         "homeTeam": "Tampa Bay Buccaneers",
         "homeScore": 7,
         "awayTeam": "San Francisco 49ers",
-        "awayScore": 0,
+        "awayScore": 3,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
