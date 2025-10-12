@@ -730,15 +730,6 @@
     "week": 6,
     "games": [
       {
-        "homeTeam": "New York Jets",
-        "homeScore": 11,
-        "awayTeam": "Denver Broncos",
-        "awayScore": 13,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Indianapolis Colts",
         "homeScore": 0,
         "awayTeam": "Arizona Cardinals",
@@ -836,6 +827,15 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "New York Jets",
+        "homeScore": 11,
+        "awayTeam": "Denver Broncos",
+        "awayScore": 13,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "New York Giants",
