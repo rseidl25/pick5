@@ -730,17 +730,8 @@
     "week": 6,
     "games": [
       {
-        "homeTeam": "Pittsburgh Steelers",
-        "homeScore": 23,
-        "awayTeam": "Cleveland Browns",
-        "awayScore": 9,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Las Vegas Raiders",
-        "homeScore": 0,
+        "homeScore": 3,
         "awayTeam": "Tennessee Titans",
         "awayScore": 0,
         "weekday": "Sunday",
@@ -754,7 +745,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Tampa Bay Buccaneers",
@@ -763,7 +754,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Kansas City Chiefs",
@@ -806,6 +797,15 @@
         "homeScore": 19,
         "awayTeam": "New England Patriots",
         "awayScore": 25,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Pittsburgh Steelers",
+        "homeScore": 23,
+        "awayTeam": "Cleveland Browns",
+        "awayScore": 9,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
