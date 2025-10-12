@@ -138,7 +138,7 @@
             "bonus": false
           },
           "Seattle Seahawks": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Dallas Cowboys": {
@@ -150,7 +150,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week7": {
         "teams": {
@@ -453,7 +453,7 @@
         "total": 0
       }
     },
-    "overall_score": 278
+    "overall_score": 288
   },
   "A5dssZETIMhNd0WYKQamFxxb9Ak2": {
     "name": "Judy Phillip",
@@ -586,7 +586,7 @@
       "week6": {
         "teams": {
           "Seattle Seahawks": {
-            "points": 0,
+            "points": 30,
             "bonus": true
           },
           "Pittsburgh Steelers": {
@@ -606,7 +606,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 30
       },
       "week7": {
         "teams": {
@@ -909,7 +909,7 @@
         "total": 0
       }
     },
-    "overall_score": 329
+    "overall_score": 359
   },
   "AmEIaRh92vdP40uVAseDWGxcZBM2": {
     "name": "Brett Sievwright",
@@ -1054,7 +1054,7 @@
             "bonus": false
           },
           "Seattle Seahawks": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
@@ -1062,7 +1062,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week7": {
         "teams": {
@@ -1365,7 +1365,7 @@
         "total": 0
       }
     },
-    "overall_score": 194
+    "overall_score": 204
   },
   "D2fLoPEINITIuA9oJNB8ybVaOps2": {
     "name": "Kalysta",
@@ -2418,7 +2418,7 @@
             "bonus": false
           },
           "Seattle Seahawks": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Las Vegas Raiders": {
@@ -2430,7 +2430,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week7": {
         "teams": {
@@ -2733,7 +2733,7 @@
         "total": 0
       }
     },
-    "overall_score": 214
+    "overall_score": 224
   },
   "K9X8fKAf1bNvZjJH0jM9eO2uobP2": {
     "name": "Bryan",
@@ -2878,7 +2878,7 @@
             "bonus": false
           },
           "Seattle Seahawks": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
@@ -2886,7 +2886,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week7": {
         "teams": {
@@ -3189,7 +3189,7 @@
         "total": 0
       }
     },
-    "overall_score": 317
+    "overall_score": 327
   },
   "LKY6YytQUfbPzmcw2yfIYm0XEQD2": {
     "name": "Smelly Kelly",
@@ -3338,11 +3338,11 @@
             "bonus": false
           },
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 39,
             "bonus": true
           }
         },
-        "total": 10
+        "total": 49
       },
       "week7": {
         "teams": {
@@ -3645,7 +3645,7 @@
         "total": 0
       }
     },
-    "overall_score": 317
+    "overall_score": 356
   },
   "NluZaqiuGKRzhuir9Jfu5uKRm302": {
     "name": "Angie Phillip",
@@ -3782,7 +3782,7 @@
             "bonus": false
           },
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Pittsburgh Steelers": {
@@ -3798,7 +3798,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week7": {
         "teams": {
@@ -4101,7 +4101,7 @@
         "total": 0
       }
     },
-    "overall_score": 330
+    "overall_score": 340
   },
   "US8t7rlGTXV5t8M3K8OWB2kzQo93": {
     "name": "Sam",
@@ -5158,7 +5158,7 @@
             "bonus": false
           },
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
@@ -5166,7 +5166,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week7": {
         "teams": {
@@ -5469,7 +5469,7 @@
         "total": 0
       }
     },
-    "overall_score": 254
+    "overall_score": 264
   },
   "hELkxczX1UerNFvp4fpORxqLr9X2": {
     "name": "PP",
@@ -7434,7 +7434,7 @@
             "bonus": false
           },
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Pittsburgh Steelers": {
@@ -7446,7 +7446,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week7": {
         "teams": {
@@ -7749,6 +7749,6 @@
         "total": 0
       }
     },
-    "overall_score": 299
+    "overall_score": 309
   }
 }
