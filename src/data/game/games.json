@@ -731,12 +731,12 @@
     "games": [
       {
         "homeTeam": "Indianapolis Colts",
-        "homeScore": 0,
+        "homeScore": 6,
         "awayTeam": "Arizona Cardinals",
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Miami Dolphins",
@@ -745,16 +745,16 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "New Orleans Saints",
-        "homeScore": 0,
+        "homeScore": 3,
         "awayTeam": "New England Patriots",
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Pittsburgh Steelers",
@@ -763,7 +763,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Carolina Panthers",
@@ -772,7 +772,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Jacksonville Jaguars",
@@ -781,7 +781,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Baltimore Ravens",
@@ -790,7 +790,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Las Vegas Raiders",
