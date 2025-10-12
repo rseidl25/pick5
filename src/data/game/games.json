@@ -733,23 +733,23 @@
         "homeTeam": "Las Vegas Raiders",
         "homeScore": 20,
         "awayTeam": "Tennessee Titans",
-        "awayScore": 3,
+        "awayScore": 10,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Green Bay Packers",
-        "homeScore": 17,
+        "homeScore": 24,
         "awayTeam": "Cincinnati Bengals",
-        "awayScore": 7,
+        "awayScore": 10,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Tampa Bay Buccaneers",
-        "homeScore": 20,
+        "homeScore": 27,
         "awayTeam": "San Francisco 49ers",
         "awayScore": 19,
         "weekday": "Sunday",
