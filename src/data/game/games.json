@@ -740,7 +740,7 @@
       },
       {
         "homeTeam": "Miami Dolphins",
-        "homeScore": 13,
+        "homeScore": 20,
         "awayTeam": "Los Angeles Chargers",
         "awayScore": 26,
         "weekday": "Sunday",
@@ -758,7 +758,7 @@
       },
       {
         "homeTeam": "Pittsburgh Steelers",
-        "homeScore": 16,
+        "homeScore": 23,
         "awayTeam": "Cleveland Browns",
         "awayScore": 6,
         "weekday": "Sunday",
@@ -769,7 +769,7 @@
         "homeTeam": "Carolina Panthers",
         "homeScore": 27,
         "awayTeam": "Dallas Cowboys",
-        "awayScore": 24,
+        "awayScore": 27,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
