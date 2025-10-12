@@ -731,12 +731,12 @@
     "games": [
       {
         "homeTeam": "New York Jets",
-        "homeScore": 0,
+        "homeScore": 3,
         "awayTeam": "Denver Broncos",
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Indianapolis Colts",
