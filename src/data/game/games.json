@@ -730,15 +730,6 @@
     "week": 6,
     "games": [
       {
-        "homeTeam": "New York Giants",
-        "homeScore": 34,
-        "awayTeam": "Philadelphia Eagles",
-        "awayScore": 17,
-        "weekday": "Thursday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "New York Jets",
         "homeScore": 0,
         "awayTeam": "Denver Broncos",
@@ -845,6 +836,15 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "New York Giants",
+        "homeScore": 34,
+        "awayTeam": "Philadelphia Eagles",
+        "awayScore": 17,
+        "weekday": "Thursday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Atlanta Falcons",
