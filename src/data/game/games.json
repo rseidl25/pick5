@@ -733,7 +733,7 @@
         "homeTeam": "Indianapolis Colts",
         "homeScore": 7,
         "awayTeam": "Arizona Cardinals",
-        "awayScore": 0,
+        "awayScore": 7,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -742,7 +742,7 @@
         "homeTeam": "Miami Dolphins",
         "homeScore": 7,
         "awayTeam": "Los Angeles Chargers",
-        "awayScore": 3,
+        "awayScore": 6,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -751,7 +751,7 @@
         "homeTeam": "New Orleans Saints",
         "homeScore": 6,
         "awayTeam": "New England Patriots",
-        "awayScore": 7,
+        "awayScore": 14,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -769,7 +769,7 @@
         "homeTeam": "Carolina Panthers",
         "homeScore": 3,
         "awayTeam": "Dallas Cowboys",
-        "awayScore": 3,
+        "awayScore": 10,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
