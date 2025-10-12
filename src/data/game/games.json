@@ -731,7 +731,7 @@
     "games": [
       {
         "homeTeam": "Las Vegas Raiders",
-        "homeScore": 10,
+        "homeScore": 17,
         "awayTeam": "Tennessee Titans",
         "awayScore": 0,
         "weekday": "Sunday",
@@ -751,7 +751,7 @@
         "homeTeam": "Tampa Bay Buccaneers",
         "homeScore": 20,
         "awayTeam": "San Francisco 49ers",
-        "awayScore": 13,
+        "awayScore": 16,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
