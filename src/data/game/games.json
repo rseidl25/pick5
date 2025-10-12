@@ -730,19 +730,10 @@
     "week": 6,
     "games": [
       {
-        "homeTeam": "Las Vegas Raiders",
-        "homeScore": 20,
-        "awayTeam": "Tennessee Titans",
-        "awayScore": 10,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Green Bay Packers",
-        "homeScore": 24,
+        "homeScore": 27,
         "awayTeam": "Cincinnati Bengals",
-        "awayScore": 10,
+        "awayScore": 18,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -833,6 +824,15 @@
         "homeScore": 3,
         "awayTeam": "Los Angeles Rams",
         "awayScore": 17,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Las Vegas Raiders",
+        "homeScore": 20,
+        "awayTeam": "Tennessee Titans",
+        "awayScore": 10,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"

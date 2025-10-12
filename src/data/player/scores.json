@@ -2422,7 +2422,7 @@
             "bonus": false
           },
           "Las Vegas Raiders": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
@@ -2430,7 +2430,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week7": {
         "teams": {
@@ -2733,7 +2733,7 @@
         "total": 0
       }
     },
-    "overall_score": 224
+    "overall_score": 234
   },
   "K9X8fKAf1bNvZjJH0jM9eO2uobP2": {
     "name": "Bryan",
