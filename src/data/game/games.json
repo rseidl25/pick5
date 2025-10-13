@@ -730,6 +730,33 @@
     "week": 6,
     "games": [
       {
+        "homeTeam": "Atlanta Falcons",
+        "homeScore": 0,
+        "awayTeam": "Buffalo Bills",
+        "awayScore": 0,
+        "weekday": "Monday",
+        "gameTime": null,
+        "status": "Preview"
+      },
+      {
+        "homeTeam": "Washington Commanders",
+        "homeScore": 0,
+        "awayTeam": "Chicago Bears",
+        "awayScore": 0,
+        "weekday": "Monday",
+        "gameTime": null,
+        "status": "Preview"
+      },
+      {
+        "homeTeam": "New York Giants",
+        "homeScore": 34,
+        "awayTeam": "Philadelphia Eagles",
+        "awayScore": 17,
+        "weekday": "Thursday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
         "homeTeam": "New York Jets",
         "homeScore": 11,
         "awayTeam": "Denver Broncos",
@@ -836,33 +863,6 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
-      },
-      {
-        "homeTeam": "New York Giants",
-        "homeScore": 34,
-        "awayTeam": "Philadelphia Eagles",
-        "awayScore": 17,
-        "weekday": "Thursday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
-        "homeTeam": "Atlanta Falcons",
-        "homeScore": 0,
-        "awayTeam": "Buffalo Bills",
-        "awayScore": 0,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Washington Commanders",
-        "homeScore": 0,
-        "awayTeam": "Chicago Bears",
-        "awayScore": 0,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Preview"
       }
     ]
   },
