@@ -730,15 +730,6 @@
     "week": 6,
     "games": [
       {
-        "homeTeam": "Kansas City Chiefs",
-        "homeScore": 27,
-        "awayTeam": "Detroit Lions",
-        "awayScore": 17,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "New York Jets",
         "homeScore": 11,
         "awayTeam": "Denver Broncos",
@@ -833,6 +824,15 @@
         "homeScore": 30,
         "awayTeam": "San Francisco 49ers",
         "awayScore": 19,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Kansas City Chiefs",
+        "homeScore": 30,
+        "awayTeam": "Detroit Lions",
+        "awayScore": 17,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
