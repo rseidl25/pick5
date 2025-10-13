@@ -731,9 +731,9 @@
     "games": [
       {
         "homeTeam": "Kansas City Chiefs",
-        "homeScore": 6,
+        "homeScore": 27,
         "awayTeam": "Detroit Lions",
-        "awayScore": 10,
+        "awayScore": 17,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
