@@ -731,12 +731,12 @@
     "games": [
       {
         "homeTeam": "Kansas City Chiefs",
-        "homeScore": 0,
+        "homeScore": 6,
         "awayTeam": "Detroit Lions",
-        "awayScore": 0,
+        "awayScore": 10,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "New York Jets",
