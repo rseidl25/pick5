@@ -731,12 +731,12 @@
     "games": [
       {
         "homeTeam": "Washington Commanders",
-        "homeScore": 17,
+        "homeScore": 24,
         "awayTeam": "Chicago Bears",
-        "awayScore": 16,
+        "awayScore": 25,
         "weekday": "Monday",
         "gameTime": null,
-        "status": "In Progress"
+        "status": "Completed"
       },
       {
         "homeTeam": "Atlanta Falcons",
