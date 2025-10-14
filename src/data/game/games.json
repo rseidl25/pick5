@@ -730,24 +730,6 @@
     "week": 6,
     "games": [
       {
-        "homeTeam": "Atlanta Falcons",
-        "homeScore": 24,
-        "awayTeam": "Buffalo Bills",
-        "awayScore": 14,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
-        "homeTeam": "Washington Commanders",
-        "homeScore": 24,
-        "awayTeam": "Chicago Bears",
-        "awayScore": 25,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "New York Giants",
         "homeScore": 34,
         "awayTeam": "Philadelphia Eagles",
@@ -861,6 +843,24 @@
         "awayTeam": "Detroit Lions",
         "awayScore": 17,
         "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Atlanta Falcons",
+        "homeScore": 24,
+        "awayTeam": "Buffalo Bills",
+        "awayScore": 14,
+        "weekday": "Monday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Washington Commanders",
+        "homeScore": 24,
+        "awayTeam": "Chicago Bears",
+        "awayScore": 25,
+        "weekday": "Monday",
         "gameTime": null,
         "status": "Completed"
       }
