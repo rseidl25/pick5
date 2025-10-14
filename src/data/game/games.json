@@ -731,7 +731,7 @@
     "games": [
       {
         "homeTeam": "Atlanta Falcons",
-        "homeScore": 7,
+        "homeScore": 21,
         "awayTeam": "Buffalo Bills",
         "awayScore": 7,
         "weekday": "Monday",
@@ -742,10 +742,10 @@
         "homeTeam": "Washington Commanders",
         "homeScore": 0,
         "awayTeam": "Chicago Bears",
-        "awayScore": 0,
+        "awayScore": 13,
         "weekday": "Monday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "New York Giants",
