@@ -871,12 +871,12 @@
     "games": [
       {
         "homeTeam": "Cincinnati Bengals",
-        "homeScore": 30,
+        "homeScore": 33,
         "awayTeam": "Pittsburgh Steelers",
         "awayScore": 31,
         "weekday": "Thursday",
         "gameTime": null,
-        "status": "In Progress"
+        "status": "Completed"
       },
       {
         "homeTeam": "Jacksonville Jaguars",
