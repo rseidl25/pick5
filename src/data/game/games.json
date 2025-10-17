@@ -871,9 +871,9 @@
     "games": [
       {
         "homeTeam": "Cincinnati Bengals",
-        "homeScore": 20,
+        "homeScore": 30,
         "awayTeam": "Pittsburgh Steelers",
-        "awayScore": 17,
+        "awayScore": 31,
         "weekday": "Thursday",
         "gameTime": null,
         "status": "In Progress"
