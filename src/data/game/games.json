@@ -898,9 +898,9 @@
       },
       {
         "homeTeam": "Arizona Cardinals",
-        "homeScore": 6,
+        "homeScore": 13,
         "awayTeam": "Green Bay Packers",
-        "awayScore": 3,
+        "awayScore": 6,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
