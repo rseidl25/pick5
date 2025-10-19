@@ -871,9 +871,9 @@
     "games": [
       {
         "homeTeam": "Chicago Bears",
-        "homeScore": 20,
+        "homeScore": 23,
         "awayTeam": "New Orleans Saints",
-        "awayScore": 7,
+        "awayScore": 14,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -898,7 +898,7 @@
       },
       {
         "homeTeam": "Kansas City Chiefs",
-        "homeScore": 28,
+        "homeScore": 31,
         "awayTeam": "Las Vegas Raiders",
         "awayScore": 0,
         "weekday": "Sunday",
@@ -907,9 +907,9 @@
       },
       {
         "homeTeam": "Minnesota Vikings",
-        "homeScore": 9,
+        "homeScore": 16,
         "awayTeam": "Philadelphia Eagles",
-        "awayScore": 14,
+        "awayScore": 21,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -918,7 +918,7 @@
         "homeTeam": "New York Jets",
         "homeScore": 3,
         "awayTeam": "Carolina Panthers",
-        "awayScore": 10,
+        "awayScore": 13,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
