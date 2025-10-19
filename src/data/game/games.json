@@ -873,25 +873,7 @@
         "homeTeam": "Denver Broncos",
         "homeScore": 30,
         "awayTeam": "New York Giants",
-        "awayScore": 26,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Dallas Cowboys",
-        "homeScore": 44,
-        "awayTeam": "Washington Commanders",
-        "awayScore": 22,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Arizona Cardinals",
-        "homeScore": 23,
-        "awayTeam": "Green Bay Packers",
-        "awayScore": 27,
+        "awayScore": 32,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -904,6 +886,15 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Dallas Cowboys",
+        "homeScore": 44,
+        "awayTeam": "Washington Commanders",
+        "awayScore": 22,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Jacksonville Jaguars",
@@ -973,6 +964,15 @@
         "homeScore": 24,
         "awayTeam": "Indianapolis Colts",
         "awayScore": 38,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Arizona Cardinals",
+        "homeScore": 23,
+        "awayTeam": "Green Bay Packers",
+        "awayScore": 27,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"

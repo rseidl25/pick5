@@ -1067,7 +1067,7 @@
       "week7": {
         "teams": {
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Detroit Lions": {
@@ -1087,7 +1087,7 @@
             "bonus": true
           }
         },
-        "total": 55
+        "total": 65
       },
       "week8": {
         "teams": {
@@ -1365,7 +1365,7 @@
         "total": 0
       }
     },
-    "overall_score": 259
+    "overall_score": 269
   },
   "D2fLoPEINITIuA9oJNB8ybVaOps2": {
     "name": "Kalysta",
@@ -1535,7 +1535,7 @@
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Detroit Lions": {
@@ -1543,7 +1543,7 @@
             "bonus": false
           }
         },
-        "total": 65
+        "total": 75
       },
       "week8": {
         "teams": {
@@ -1821,7 +1821,7 @@
         "total": 0
       }
     },
-    "overall_score": 313
+    "overall_score": 323
   },
   "FkbsYIXzm7TorvwE2qbaTiKsrmi1": {
     "name": "Steve",
@@ -3355,7 +3355,7 @@
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "San Francisco 49ers": {
@@ -3367,7 +3367,7 @@
             "bonus": false
           }
         },
-        "total": 30
+        "total": 40
       },
       "week8": {
         "teams": {
@@ -3645,7 +3645,7 @@
         "total": 0
       }
     },
-    "overall_score": 386
+    "overall_score": 396
   },
   "NluZaqiuGKRzhuir9Jfu5uKRm302": {
     "name": "Angie Phillip",
@@ -7003,7 +7003,7 @@
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 37,
             "bonus": true
           },
           "Denver Broncos": {
@@ -7015,7 +7015,7 @@
             "bonus": false
           }
         },
-        "total": 30
+        "total": 67
       },
       "week8": {
         "teams": {
@@ -7293,7 +7293,7 @@
         "total": 0
       }
     },
-    "overall_score": 378
+    "overall_score": 415
   },
   "u8geiYcJqpcTBRxAtLVB5QKA8Ii2": {
     "name": "Lisa: Certified League Wrecker",
