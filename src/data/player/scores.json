@@ -155,7 +155,7 @@
       "week7": {
         "teams": {
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 45,
             "bonus": true
           },
           "Washington Commanders": {
@@ -175,7 +175,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 45
       },
       "week8": {
         "teams": {
@@ -453,7 +453,7 @@
         "total": 0
       }
     },
-    "overall_score": 288
+    "overall_score": 333
   },
   "A5dssZETIMhNd0WYKQamFxxb9Ak2": {
     "name": "Judy Phillip",
@@ -611,7 +611,7 @@
       "week7": {
         "teams": {
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 45,
             "bonus": true
           },
           "Kansas City Chiefs": {
@@ -631,7 +631,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 45
       },
       "week8": {
         "teams": {
@@ -909,7 +909,7 @@
         "total": 0
       }
     },
-    "overall_score": 369
+    "overall_score": 414
   },
   "AmEIaRh92vdP40uVAseDWGxcZBM2": {
     "name": "Brett Sievwright",
@@ -1083,11 +1083,11 @@
             "bonus": false
           },
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 45,
             "bonus": true
           }
         },
-        "total": 0
+        "total": 45
       },
       "week8": {
         "teams": {
@@ -1365,7 +1365,7 @@
         "total": 0
       }
     },
-    "overall_score": 204
+    "overall_score": 249
   },
   "D2fLoPEINITIuA9oJNB8ybVaOps2": {
     "name": "Kalysta",
@@ -1527,7 +1527,7 @@
             "bonus": false
           },
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 45,
             "bonus": true
           },
           "Kansas City Chiefs": {
@@ -1543,7 +1543,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 55
       },
       "week8": {
         "teams": {
@@ -1821,7 +1821,7 @@
         "total": 0
       }
     },
-    "overall_score": 258
+    "overall_score": 303
   },
   "FkbsYIXzm7TorvwE2qbaTiKsrmi1": {
     "name": "Steve",
@@ -2899,7 +2899,7 @@
             "bonus": false
           },
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Washington Commanders": {
@@ -2911,7 +2911,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week8": {
         "teams": {
@@ -3189,7 +3189,7 @@
         "total": 0
       }
     },
-    "overall_score": 337
+    "overall_score": 347
   },
   "LKY6YytQUfbPzmcw2yfIYm0XEQD2": {
     "name": "Smelly Kelly",
@@ -3363,11 +3363,11 @@
             "bonus": true
           },
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week8": {
         "teams": {
@@ -3645,7 +3645,7 @@
         "total": 0
       }
     },
-    "overall_score": 366
+    "overall_score": 376
   },
   "NluZaqiuGKRzhuir9Jfu5uKRm302": {
     "name": "Angie Phillip",
@@ -3811,7 +3811,7 @@
             "bonus": false
           },
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 45,
             "bonus": true
           },
           "Los Angeles Chargers": {
@@ -3823,7 +3823,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 45
       },
       "week8": {
         "teams": {
@@ -4101,7 +4101,7 @@
         "total": 0
       }
     },
-    "overall_score": 350
+    "overall_score": 395
   },
   "US8t7rlGTXV5t8M3K8OWB2kzQo93": {
     "name": "Sam",
@@ -4271,7 +4271,7 @@
             "bonus": false
           },
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Detroit Lions": {
@@ -4279,7 +4279,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week8": {
         "teams": {
@@ -4557,7 +4557,7 @@
         "total": 0
       }
     },
-    "overall_score": 346
+    "overall_score": 356
   },
   "XKPW7eAMivNTYBrIivGGT9DFV022": {
     "name": "Joey",
@@ -4715,7 +4715,7 @@
       "week7": {
         "teams": {
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Cincinnati Bengals": {
@@ -4735,7 +4735,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week8": {
         "teams": {
@@ -5013,7 +5013,7 @@
         "total": 0
       }
     },
-    "overall_score": 311
+    "overall_score": 321
   },
   "dac8Eg3ax4PxQl7aSydfS9lAWv23": {
     "name": "Ben",
@@ -6095,7 +6095,7 @@
             "bonus": true
           },
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Los Angeles Chargers": {
@@ -6103,7 +6103,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week8": {
         "teams": {
@@ -6381,7 +6381,7 @@
         "total": 0
       }
     },
-    "overall_score": 311
+    "overall_score": 321
   },
   "jydlml7YsWe72ieLWGDFhuxY3Nb2": {
     "name": "Cal",
@@ -7011,11 +7011,11 @@
             "bonus": false
           },
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week8": {
         "teams": {
@@ -7293,7 +7293,7 @@
         "total": 0
       }
     },
-    "overall_score": 348
+    "overall_score": 358
   },
   "u8geiYcJqpcTBRxAtLVB5QKA8Ii2": {
     "name": "Lisa: Certified League Wrecker",
@@ -7451,7 +7451,7 @@
       "week7": {
         "teams": {
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Chicago Bears": {
@@ -7471,7 +7471,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week8": {
         "teams": {
@@ -7749,6 +7749,6 @@
         "total": 0
       }
     },
-    "overall_score": 319
+    "overall_score": 329
   }
 }

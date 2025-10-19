@@ -870,15 +870,6 @@
     "week": 7,
     "games": [
       {
-        "homeTeam": "Jacksonville Jaguars",
-        "homeScore": 7,
-        "awayTeam": "Los Angeles Rams",
-        "awayScore": 35,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Chicago Bears",
         "homeScore": 0,
         "awayTeam": "New Orleans Saints",
@@ -976,6 +967,15 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Jacksonville Jaguars",
+        "homeScore": 7,
+        "awayTeam": "Los Angeles Rams",
+        "awayScore": 35,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Cincinnati Bengals",
