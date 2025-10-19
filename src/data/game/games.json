@@ -871,7 +871,7 @@
     "games": [
       {
         "homeTeam": "Chicago Bears",
-        "homeScore": 3,
+        "homeScore": 6,
         "awayTeam": "New Orleans Saints",
         "awayScore": 0,
         "weekday": "Sunday",
@@ -880,7 +880,7 @@
       },
       {
         "homeTeam": "Cleveland Browns",
-        "homeScore": 3,
+        "homeScore": 9,
         "awayTeam": "Miami Dolphins",
         "awayScore": 3,
         "weekday": "Sunday",
@@ -909,7 +909,7 @@
         "homeTeam": "Minnesota Vikings",
         "homeScore": 3,
         "awayTeam": "Philadelphia Eagles",
-        "awayScore": 7,
+        "awayScore": 14,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
