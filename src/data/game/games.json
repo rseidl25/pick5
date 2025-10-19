@@ -873,16 +873,16 @@
         "homeTeam": "Denver Broncos",
         "homeScore": 0,
         "awayTeam": "New York Giants",
-        "awayScore": 13,
+        "awayScore": 19,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Los Angeles Chargers",
-        "homeScore": 10,
+        "homeScore": 17,
         "awayTeam": "Indianapolis Colts",
-        "awayScore": 31,
+        "awayScore": 38,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -898,9 +898,9 @@
       },
       {
         "homeTeam": "Arizona Cardinals",
-        "homeScore": 13,
+        "homeScore": 20,
         "awayTeam": "Green Bay Packers",
-        "awayScore": 6,
+        "awayScore": 13,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
