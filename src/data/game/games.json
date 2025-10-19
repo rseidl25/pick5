@@ -873,7 +873,7 @@
         "homeTeam": "Chicago Bears",
         "homeScore": 20,
         "awayTeam": "New Orleans Saints",
-        "awayScore": 0,
+        "awayScore": 7,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -882,7 +882,7 @@
         "homeTeam": "Cleveland Browns",
         "homeScore": 17,
         "awayTeam": "Miami Dolphins",
-        "awayScore": 3,
+        "awayScore": 6,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -918,7 +918,7 @@
         "homeTeam": "New York Jets",
         "homeScore": 3,
         "awayTeam": "Carolina Panthers",
-        "awayScore": 3,
+        "awayScore": 10,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
