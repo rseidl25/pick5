@@ -889,7 +889,7 @@
       },
       {
         "homeTeam": "Dallas Cowboys",
-        "homeScore": 10,
+        "homeScore": 17,
         "awayTeam": "Washington Commanders",
         "awayScore": 8,
         "weekday": "Sunday",
@@ -898,9 +898,9 @@
       },
       {
         "homeTeam": "Arizona Cardinals",
-        "homeScore": 3,
+        "homeScore": 6,
         "awayTeam": "Green Bay Packers",
-        "awayScore": 0,
+        "awayScore": 3,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
