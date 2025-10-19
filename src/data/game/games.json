@@ -871,9 +871,9 @@
     "games": [
       {
         "homeTeam": "Jacksonville Jaguars",
-        "homeScore": 0,
+        "homeScore": 7,
         "awayTeam": "Los Angeles Rams",
-        "awayScore": 28,
+        "awayScore": 35,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
