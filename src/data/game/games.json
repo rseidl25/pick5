@@ -871,7 +871,7 @@
     "games": [
       {
         "homeTeam": "Chicago Bears",
-        "homeScore": 23,
+        "homeScore": 26,
         "awayTeam": "New Orleans Saints",
         "awayScore": 14,
         "weekday": "Sunday",
@@ -888,24 +888,6 @@
         "status": "In Progress"
       },
       {
-        "homeTeam": "Tennessee Titans",
-        "homeScore": 13,
-        "awayTeam": "New England Patriots",
-        "awayScore": 31,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Kansas City Chiefs",
-        "homeScore": 31,
-        "awayTeam": "Las Vegas Raiders",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Minnesota Vikings",
         "homeScore": 19,
         "awayTeam": "Philadelphia Eagles",
@@ -916,7 +898,7 @@
       },
       {
         "homeTeam": "New York Jets",
-        "homeScore": 3,
+        "homeScore": 6,
         "awayTeam": "Carolina Panthers",
         "awayScore": 13,
         "weekday": "Sunday",
@@ -973,6 +955,24 @@
         "homeScore": 7,
         "awayTeam": "Los Angeles Rams",
         "awayScore": 35,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Tennessee Titans",
+        "homeScore": 13,
+        "awayTeam": "New England Patriots",
+        "awayScore": 31,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Kansas City Chiefs",
+        "homeScore": 31,
+        "awayTeam": "Las Vegas Raiders",
+        "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
