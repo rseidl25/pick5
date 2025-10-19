@@ -876,7 +876,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Cleveland Browns",
@@ -885,25 +885,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Tennessee Titans",
-        "homeScore": 0,
-        "awayTeam": "New England Patriots",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Kansas City Chiefs",
-        "homeScore": 0,
-        "awayTeam": "Las Vegas Raiders",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Minnesota Vikings",
@@ -912,7 +894,25 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
+      },
+      {
+        "homeTeam": "Tennessee Titans",
+        "homeScore": 3,
+        "awayTeam": "New England Patriots",
+        "awayScore": 0,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "In Progress"
+      },
+      {
+        "homeTeam": "Kansas City Chiefs",
+        "homeScore": 0,
+        "awayTeam": "Las Vegas Raiders",
+        "awayScore": 0,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "In Progress"
       },
       {
         "homeTeam": "New York Jets",
@@ -921,7 +921,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Denver Broncos",
