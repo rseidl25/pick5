@@ -870,15 +870,6 @@
     "week": 7,
     "games": [
       {
-        "homeTeam": "Denver Broncos",
-        "homeScore": 30,
-        "awayTeam": "New York Giants",
-        "awayScore": 32,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "San Francisco 49ers",
         "homeScore": 0,
         "awayTeam": "Atlanta Falcons",
@@ -886,6 +877,15 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Denver Broncos",
+        "homeScore": 33,
+        "awayTeam": "New York Giants",
+        "awayScore": 32,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Dallas Cowboys",

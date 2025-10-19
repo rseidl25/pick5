@@ -167,7 +167,7 @@
             "bonus": false
           },
           "Denver Broncos": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Miami Dolphins": {
@@ -175,7 +175,7 @@
             "bonus": false
           }
         },
-        "total": 55
+        "total": 65
       },
       "week8": {
         "teams": {
@@ -453,7 +453,7 @@
         "total": 0
       }
     },
-    "overall_score": 343
+    "overall_score": 353
   },
   "A5dssZETIMhNd0WYKQamFxxb9Ak2": {
     "name": "Judy Phillip",
@@ -619,7 +619,7 @@
             "bonus": false
           },
           "Denver Broncos": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Washington Commanders": {
@@ -631,7 +631,7 @@
             "bonus": false
           }
         },
-        "total": 55
+        "total": 65
       },
       "week8": {
         "teams": {
@@ -909,7 +909,7 @@
         "total": 0
       }
     },
-    "overall_score": 424
+    "overall_score": 434
   },
   "AmEIaRh92vdP40uVAseDWGxcZBM2": {
     "name": "Brett Sievwright",
@@ -1075,7 +1075,7 @@
             "bonus": false
           },
           "Denver Broncos": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Kansas City Chiefs": {
@@ -1087,7 +1087,7 @@
             "bonus": true
           }
         },
-        "total": 65
+        "total": 75
       },
       "week8": {
         "teams": {
@@ -1365,7 +1365,7 @@
         "total": 0
       }
     },
-    "overall_score": 269
+    "overall_score": 279
   },
   "D2fLoPEINITIuA9oJNB8ybVaOps2": {
     "name": "Kalysta",
@@ -1987,7 +1987,7 @@
             "bonus": false
           },
           "Denver Broncos": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "San Francisco 49ers": {
@@ -1999,7 +1999,7 @@
             "bonus": false
           }
         },
-        "total": 46
+        "total": 56
       },
       "week8": {
         "teams": {
@@ -2277,7 +2277,7 @@
         "total": 0
       }
     },
-    "overall_score": 402
+    "overall_score": 412
   },
   "Fn25s976WxT6gML22x8yJsQ33PM2": {
     "name": "Milly",
@@ -2443,7 +2443,7 @@
             "bonus": false
           },
           "Denver Broncos": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Los Angeles Chargers": {
@@ -2455,7 +2455,7 @@
             "bonus": false
           }
         },
-        "total": 36
+        "total": 46
       },
       "week8": {
         "teams": {
@@ -2733,7 +2733,7 @@
         "total": 0
       }
     },
-    "overall_score": 270
+    "overall_score": 280
   },
   "K9X8fKAf1bNvZjJH0jM9eO2uobP2": {
     "name": "Bryan",
@@ -2891,7 +2891,7 @@
       "week7": {
         "teams": {
           "Denver Broncos": {
-            "points": 0,
+            "points": 43,
             "bonus": true
           },
           "Kansas City Chiefs": {
@@ -2911,7 +2911,7 @@
             "bonus": false
           }
         },
-        "total": 20
+        "total": 63
       },
       "week8": {
         "teams": {
@@ -3189,7 +3189,7 @@
         "total": 0
       }
     },
-    "overall_score": 357
+    "overall_score": 400
   },
   "LKY6YytQUfbPzmcw2yfIYm0XEQD2": {
     "name": "Smelly Kelly",
@@ -3807,7 +3807,7 @@
             "bonus": false
           },
           "Denver Broncos": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Los Angeles Rams": {
@@ -3823,7 +3823,7 @@
             "bonus": false
           }
         },
-        "total": 55
+        "total": 65
       },
       "week8": {
         "teams": {
@@ -4101,7 +4101,7 @@
         "total": 0
       }
     },
-    "overall_score": 405
+    "overall_score": 415
   },
   "US8t7rlGTXV5t8M3K8OWB2kzQo93": {
     "name": "Sam",
@@ -4267,7 +4267,7 @@
             "bonus": false
           },
           "Denver Broncos": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Los Angeles Rams": {
@@ -4279,7 +4279,7 @@
             "bonus": false
           }
         },
-        "total": 56
+        "total": 66
       },
       "week8": {
         "teams": {
@@ -4557,7 +4557,7 @@
         "total": 0
       }
     },
-    "overall_score": 402
+    "overall_score": 412
   },
   "XKPW7eAMivNTYBrIivGGT9DFV022": {
     "name": "Joey",
@@ -5639,7 +5639,7 @@
             "bonus": false
           },
           "Denver Broncos": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Los Angeles Chargers": {
@@ -5647,7 +5647,7 @@
             "bonus": true
           }
         },
-        "total": 30
+        "total": 40
       },
       "week8": {
         "teams": {
@@ -5925,7 +5925,7 @@
         "total": 0
       }
     },
-    "overall_score": 299
+    "overall_score": 309
   },
   "hR9aypGuwBfk5pE5MwNjxEvfkh43": {
     "name": "Ryan",
@@ -6547,7 +6547,7 @@
             "bonus": false
           },
           "Denver Broncos": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "San Francisco 49ers": {
@@ -6559,7 +6559,7 @@
             "bonus": true
           }
         },
-        "total": 20
+        "total": 30
       },
       "week8": {
         "teams": {
@@ -6837,7 +6837,7 @@
         "total": 0
       }
     },
-    "overall_score": 240
+    "overall_score": 250
   },
   "tinL2DkOXZTYEdYZDlT3cQzk6Yi2": {
     "name": "Lauren",
@@ -7007,7 +7007,7 @@
             "bonus": true
           },
           "Denver Broncos": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Los Angeles Rams": {
@@ -7015,7 +7015,7 @@
             "bonus": false
           }
         },
-        "total": 67
+        "total": 77
       },
       "week8": {
         "teams": {
@@ -7293,7 +7293,7 @@
         "total": 0
       }
     },
-    "overall_score": 415
+    "overall_score": 425
   },
   "u8geiYcJqpcTBRxAtLVB5QKA8Ii2": {
     "name": "Lisa: Certified League Wrecker",
@@ -7463,7 +7463,7 @@
             "bonus": false
           },
           "Denver Broncos": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Los Angeles Chargers": {
@@ -7471,7 +7471,7 @@
             "bonus": false
           }
         },
-        "total": 56
+        "total": 66
       },
       "week8": {
         "teams": {
@@ -7749,6 +7749,6 @@
         "total": 0
       }
     },
-    "overall_score": 375
+    "overall_score": 385
   }
 }
