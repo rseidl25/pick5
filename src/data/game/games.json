@@ -871,7 +871,7 @@
     "games": [
       {
         "homeTeam": "Denver Broncos",
-        "homeScore": 8,
+        "homeScore": 23,
         "awayTeam": "New York Giants",
         "awayScore": 26,
         "weekday": "Sunday",
@@ -891,14 +891,14 @@
         "homeTeam": "Dallas Cowboys",
         "homeScore": 41,
         "awayTeam": "Washington Commanders",
-        "awayScore": 15,
+        "awayScore": 22,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Arizona Cardinals",
-        "homeScore": 20,
+        "homeScore": 23,
         "awayTeam": "Green Bay Packers",
         "awayScore": 20,
         "weekday": "Sunday",
