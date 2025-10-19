@@ -880,7 +880,7 @@
       },
       {
         "homeTeam": "Cleveland Browns",
-        "homeScore": 17,
+        "homeScore": 24,
         "awayTeam": "Miami Dolphins",
         "awayScore": 6,
         "weekday": "Sunday",
@@ -891,14 +891,14 @@
         "homeTeam": "Tennessee Titans",
         "homeScore": 13,
         "awayTeam": "New England Patriots",
-        "awayScore": 17,
+        "awayScore": 31,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Kansas City Chiefs",
-        "homeScore": 21,
+        "homeScore": 28,
         "awayTeam": "Las Vegas Raiders",
         "awayScore": 0,
         "weekday": "Sunday",
@@ -907,7 +907,7 @@
       },
       {
         "homeTeam": "Minnesota Vikings",
-        "homeScore": 6,
+        "homeScore": 9,
         "awayTeam": "Philadelphia Eagles",
         "awayScore": 14,
         "weekday": "Sunday",
