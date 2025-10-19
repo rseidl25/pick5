@@ -870,15 +870,6 @@
     "week": 7,
     "games": [
       {
-        "homeTeam": "Cincinnati Bengals",
-        "homeScore": 33,
-        "awayTeam": "Pittsburgh Steelers",
-        "awayScore": 31,
-        "weekday": "Thursday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "Jacksonville Jaguars",
         "homeScore": 0,
         "awayTeam": "Los Angeles Rams",
@@ -985,6 +976,15 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Cincinnati Bengals",
+        "homeScore": 33,
+        "awayTeam": "Pittsburgh Steelers",
+        "awayScore": 31,
+        "weekday": "Thursday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Detroit Lions",
