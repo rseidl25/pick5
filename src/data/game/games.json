@@ -873,10 +873,10 @@
         "homeTeam": "San Francisco 49ers",
         "homeScore": 0,
         "awayTeam": "Atlanta Falcons",
-        "awayScore": 0,
+        "awayScore": 3,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Jacksonville Jaguars",
