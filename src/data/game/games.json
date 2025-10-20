@@ -870,6 +870,33 @@
     "week": 7,
     "games": [
       {
+        "homeTeam": "Detroit Lions",
+        "homeScore": 0,
+        "awayTeam": "Tampa Bay Buccaneers",
+        "awayScore": 0,
+        "weekday": "Monday",
+        "gameTime": null,
+        "status": "Preview"
+      },
+      {
+        "homeTeam": "Seattle Seahawks",
+        "homeScore": 0,
+        "awayTeam": "Houston Texans",
+        "awayScore": 0,
+        "weekday": "Monday",
+        "gameTime": null,
+        "status": "Preview"
+      },
+      {
+        "homeTeam": "Cincinnati Bengals",
+        "homeScore": 33,
+        "awayTeam": "Pittsburgh Steelers",
+        "awayScore": 31,
+        "weekday": "Thursday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
         "homeTeam": "Jacksonville Jaguars",
         "homeScore": 7,
         "awayTeam": "Los Angeles Rams",
@@ -976,33 +1003,6 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
-      },
-      {
-        "homeTeam": "Cincinnati Bengals",
-        "homeScore": 33,
-        "awayTeam": "Pittsburgh Steelers",
-        "awayScore": 31,
-        "weekday": "Thursday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
-        "homeTeam": "Detroit Lions",
-        "homeScore": 0,
-        "awayTeam": "Tampa Bay Buccaneers",
-        "awayScore": 0,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Seattle Seahawks",
-        "homeScore": 0,
-        "awayTeam": "Houston Texans",
-        "awayScore": 0,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Preview"
       }
     ]
   },
