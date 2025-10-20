@@ -1991,7 +1991,7 @@
             "bonus": false
           },
           "San Francisco 49ers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Detroit Lions": {
@@ -1999,7 +1999,7 @@
             "bonus": false
           }
         },
-        "total": 56
+        "total": 66
       },
       "week8": {
         "teams": {
@@ -2277,7 +2277,7 @@
         "total": 0
       }
     },
-    "overall_score": 412
+    "overall_score": 422
   },
   "Fn25s976WxT6gML22x8yJsQ33PM2": {
     "name": "Milly",
@@ -3359,7 +3359,7 @@
             "bonus": false
           },
           "San Francisco 49ers": {
-            "points": 0,
+            "points": 30,
             "bonus": true
           },
           "Los Angeles Rams": {
@@ -3367,7 +3367,7 @@
             "bonus": false
           }
         },
-        "total": 40
+        "total": 70
       },
       "week8": {
         "teams": {
@@ -3645,7 +3645,7 @@
         "total": 0
       }
     },
-    "overall_score": 396
+    "overall_score": 426
   },
   "NluZaqiuGKRzhuir9Jfu5uKRm302": {
     "name": "Angie Phillip",
@@ -6083,7 +6083,7 @@
       "week7": {
         "teams": {
           "San Francisco 49ers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Kansas City Chiefs": {
@@ -6103,7 +6103,7 @@
             "bonus": false
           }
         },
-        "total": 56
+        "total": 66
       },
       "week8": {
         "teams": {
@@ -6381,7 +6381,7 @@
         "total": 0
       }
     },
-    "overall_score": 367
+    "overall_score": 377
   },
   "jydlml7YsWe72ieLWGDFhuxY3Nb2": {
     "name": "Cal",
@@ -6551,7 +6551,7 @@
             "bonus": false
           },
           "San Francisco 49ers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Detroit Lions": {
@@ -6559,7 +6559,7 @@
             "bonus": true
           }
         },
-        "total": 30
+        "total": 40
       },
       "week8": {
         "teams": {
@@ -6837,7 +6837,7 @@
         "total": 0
       }
     },
-    "overall_score": 250
+    "overall_score": 260
   },
   "tinL2DkOXZTYEdYZDlT3cQzk6Yi2": {
     "name": "Lauren",

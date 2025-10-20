@@ -870,15 +870,6 @@
     "week": 7,
     "games": [
       {
-        "homeTeam": "San Francisco 49ers",
-        "homeScore": 13,
-        "awayTeam": "Atlanta Falcons",
-        "awayScore": 10,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Jacksonville Jaguars",
         "homeScore": 7,
         "awayTeam": "Los Angeles Rams",
@@ -973,6 +964,15 @@
         "homeScore": 23,
         "awayTeam": "Green Bay Packers",
         "awayScore": 27,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "San Francisco 49ers",
+        "homeScore": 20,
+        "awayTeam": "Atlanta Falcons",
+        "awayScore": 10,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
