@@ -627,11 +627,11 @@
             "bonus": false
           },
           "Detroit Lions": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 65
+        "total": 75
       },
       "week8": {
         "teams": {
@@ -909,7 +909,7 @@
         "total": 0
       }
     },
-    "overall_score": 434
+    "overall_score": 444
   },
   "AmEIaRh92vdP40uVAseDWGxcZBM2": {
     "name": "Brett Sievwright",
@@ -1071,7 +1071,7 @@
             "bonus": false
           },
           "Detroit Lions": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Denver Broncos": {
@@ -1087,7 +1087,7 @@
             "bonus": true
           }
         },
-        "total": 75
+        "total": 85
       },
       "week8": {
         "teams": {
@@ -1365,7 +1365,7 @@
         "total": 0
       }
     },
-    "overall_score": 279
+    "overall_score": 289
   },
   "D2fLoPEINITIuA9oJNB8ybVaOps2": {
     "name": "Kalysta",
@@ -1539,11 +1539,11 @@
             "bonus": false
           },
           "Detroit Lions": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 75
+        "total": 85
       },
       "week8": {
         "teams": {
@@ -1821,7 +1821,7 @@
         "total": 0
       }
     },
-    "overall_score": 323
+    "overall_score": 333
   },
   "FkbsYIXzm7TorvwE2qbaTiKsrmi1": {
     "name": "Steve",
@@ -1995,11 +1995,11 @@
             "bonus": false
           },
           "Detroit Lions": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 66
+        "total": 76
       },
       "week8": {
         "teams": {
@@ -2277,7 +2277,7 @@
         "total": 0
       }
     },
-    "overall_score": 422
+    "overall_score": 432
   },
   "Fn25s976WxT6gML22x8yJsQ33PM2": {
     "name": "Milly",
@@ -4275,11 +4275,11 @@
             "bonus": false
           },
           "Detroit Lions": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 66
+        "total": 76
       },
       "week8": {
         "teams": {
@@ -4557,7 +4557,7 @@
         "total": 0
       }
     },
-    "overall_score": 412
+    "overall_score": 422
   },
   "XKPW7eAMivNTYBrIivGGT9DFV022": {
     "name": "Joey",
@@ -6555,11 +6555,11 @@
             "bonus": false
           },
           "Detroit Lions": {
-            "points": 0,
+            "points": 34,
             "bonus": true
           }
         },
-        "total": 40
+        "total": 74
       },
       "week8": {
         "teams": {
@@ -6837,7 +6837,7 @@
         "total": 0
       }
     },
-    "overall_score": 260
+    "overall_score": 294
   },
   "tinL2DkOXZTYEdYZDlT3cQzk6Yi2": {
     "name": "Lauren",

@@ -870,22 +870,22 @@
     "week": 7,
     "games": [
       {
-        "homeTeam": "Detroit Lions",
+        "homeTeam": "Seattle Seahawks",
         "homeScore": 14,
-        "awayTeam": "Tampa Bay Buccaneers",
-        "awayScore": 9,
+        "awayTeam": "Houston Texans",
+        "awayScore": 0,
         "weekday": "Monday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
-        "homeTeam": "Seattle Seahawks",
-        "homeScore": 0,
-        "awayTeam": "Houston Texans",
-        "awayScore": 0,
+        "homeTeam": "Detroit Lions",
+        "homeScore": 24,
+        "awayTeam": "Tampa Bay Buccaneers",
+        "awayScore": 9,
         "weekday": "Monday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "Completed"
       },
       {
         "homeTeam": "Cincinnati Bengals",
