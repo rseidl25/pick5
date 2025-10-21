@@ -2451,11 +2451,11 @@
             "bonus": false
           },
           "Seattle Seahawks": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 46
+        "total": 56
       },
       "week8": {
         "teams": {
@@ -2733,7 +2733,7 @@
         "total": 0
       }
     },
-    "overall_score": 280
+    "overall_score": 290
   },
   "K9X8fKAf1bNvZjJH0jM9eO2uobP2": {
     "name": "Bryan",
