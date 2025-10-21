@@ -870,24 +870,6 @@
     "week": 7,
     "games": [
       {
-        "homeTeam": "Seattle Seahawks",
-        "homeScore": 27,
-        "awayTeam": "Houston Texans",
-        "awayScore": 19,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
-        "homeTeam": "Detroit Lions",
-        "homeScore": 24,
-        "awayTeam": "Tampa Bay Buccaneers",
-        "awayScore": 9,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "Cincinnati Bengals",
         "homeScore": 33,
         "awayTeam": "Pittsburgh Steelers",
@@ -1001,6 +983,24 @@
         "awayTeam": "Atlanta Falcons",
         "awayScore": 10,
         "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Detroit Lions",
+        "homeScore": 24,
+        "awayTeam": "Tampa Bay Buccaneers",
+        "awayScore": 9,
+        "weekday": "Monday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Seattle Seahawks",
+        "homeScore": 27,
+        "awayTeam": "Houston Texans",
+        "awayScore": 19,
+        "weekday": "Monday",
         "gameTime": null,
         "status": "Completed"
       }
