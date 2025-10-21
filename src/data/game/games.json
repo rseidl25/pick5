@@ -871,9 +871,9 @@
     "games": [
       {
         "homeTeam": "Detroit Lions",
-        "homeScore": 7,
+        "homeScore": 14,
         "awayTeam": "Tampa Bay Buccaneers",
-        "awayScore": 0,
+        "awayScore": 9,
         "weekday": "Monday",
         "gameTime": null,
         "status": "In Progress"
