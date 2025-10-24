@@ -5652,7 +5652,7 @@
       "week8": {
         "teams": {
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Cincinnati Bengals": {
@@ -5672,7 +5672,7 @@
             "bonus": true
           }
         },
-        "total": 0
+        "total": 10
       },
       "week9": {
         "teams": {
@@ -5925,7 +5925,7 @@
         "total": 0
       }
     },
-    "overall_score": 309
+    "overall_score": 319
   },
   "hR9aypGuwBfk5pE5MwNjxEvfkh43": {
     "name": "Ryan",

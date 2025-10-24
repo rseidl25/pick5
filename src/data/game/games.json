@@ -1011,12 +1011,12 @@
     "games": [
       {
         "homeTeam": "Los Angeles Chargers",
-        "homeScore": 34,
+        "homeScore": 37,
         "awayTeam": "Minnesota Vikings",
         "awayScore": 10,
         "weekday": "Thursday",
         "gameTime": null,
-        "status": "In Progress"
+        "status": "Completed"
       },
       {
         "homeTeam": "Atlanta Falcons",
