@@ -1011,9 +1011,9 @@
     "games": [
       {
         "homeTeam": "Los Angeles Chargers",
-        "homeScore": 14,
+        "homeScore": 24,
         "awayTeam": "Minnesota Vikings",
-        "awayScore": 0,
+        "awayScore": 3,
         "weekday": "Thursday",
         "gameTime": null,
         "status": "In Progress"
