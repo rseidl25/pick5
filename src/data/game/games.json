@@ -1010,17 +1010,8 @@
     "week": 8,
     "games": [
       {
-        "homeTeam": "New Orleans Saints",
-        "homeScore": 3,
-        "awayTeam": "Tampa Bay Buccaneers",
-        "awayScore": 23,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Denver Broncos",
-        "homeScore": 37,
+        "homeScore": 43,
         "awayTeam": "Dallas Cowboys",
         "awayScore": 17,
         "weekday": "Sunday",
@@ -1044,6 +1035,15 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "New Orleans Saints",
+        "homeScore": 3,
+        "awayTeam": "Tampa Bay Buccaneers",
+        "awayScore": 23,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Atlanta Falcons",
