@@ -1013,7 +1013,7 @@
         "homeTeam": "Atlanta Falcons",
         "homeScore": 0,
         "awayTeam": "Miami Dolphins",
-        "awayScore": 0,
+        "awayScore": 7,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1040,7 +1040,7 @@
         "homeTeam": "Philadelphia Eagles",
         "homeScore": 7,
         "awayTeam": "New York Giants",
-        "awayScore": 0,
+        "awayScore": 7,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1058,7 +1058,7 @@
         "homeTeam": "Baltimore Ravens",
         "homeScore": 0,
         "awayTeam": "Chicago Bears",
-        "awayScore": 3,
+        "awayScore": 6,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
