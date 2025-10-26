@@ -1013,14 +1013,14 @@
         "homeTeam": "New Orleans Saints",
         "homeScore": 3,
         "awayTeam": "Tampa Bay Buccaneers",
-        "awayScore": 7,
+        "awayScore": 14,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Denver Broncos",
-        "homeScore": 14,
+        "homeScore": 20,
         "awayTeam": "Dallas Cowboys",
         "awayScore": 10,
         "weekday": "Sunday",
