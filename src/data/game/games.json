@@ -1025,7 +1025,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Indianapolis Colts",
@@ -1034,7 +1034,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Pittsburgh Steelers",
@@ -1044,6 +1044,15 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Atlanta Falcons",
+        "homeScore": 10,
+        "awayTeam": "Miami Dolphins",
+        "awayScore": 34,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Cincinnati Bengals",
@@ -1064,33 +1073,6 @@
         "status": "Completed"
       },
       {
-        "homeTeam": "Baltimore Ravens",
-        "homeScore": 30,
-        "awayTeam": "Chicago Bears",
-        "awayScore": 16,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
-        "homeTeam": "Houston Texans",
-        "homeScore": 26,
-        "awayTeam": "San Francisco 49ers",
-        "awayScore": 15,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
-        "homeTeam": "Atlanta Falcons",
-        "homeScore": 10,
-        "awayTeam": "Miami Dolphins",
-        "awayScore": 34,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "Philadelphia Eagles",
         "homeScore": 38,
         "awayTeam": "New York Giants",
@@ -1104,6 +1086,24 @@
         "homeScore": 9,
         "awayTeam": "Buffalo Bills",
         "awayScore": 40,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Baltimore Ravens",
+        "homeScore": 30,
+        "awayTeam": "Chicago Bears",
+        "awayScore": 16,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Houston Texans",
+        "homeScore": 26,
+        "awayTeam": "San Francisco 49ers",
+        "awayScore": 15,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
