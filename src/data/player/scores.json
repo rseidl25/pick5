@@ -184,23 +184,23 @@
             "bonus": true
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Houston Texans": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 40
       },
       "week9": {
         "teams": {
@@ -453,7 +453,7 @@
         "total": 0
       }
     },
-    "overall_score": 353
+    "overall_score": 393
   },
   "A5dssZETIMhNd0WYKQamFxxb9Ak2": {
     "name": "Judy Phillip",
@@ -636,15 +636,15 @@
       "week8": {
         "teams": {
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 48,
             "bonus": true
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
@@ -656,7 +656,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 68
       },
       "week9": {
         "teams": {
@@ -909,7 +909,7 @@
         "total": 0
       }
     },
-    "overall_score": 444
+    "overall_score": 512
   },
   "AmEIaRh92vdP40uVAseDWGxcZBM2": {
     "name": "Brett Sievwright",
@@ -1092,11 +1092,11 @@
       "week8": {
         "teams": {
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Green Bay Packers": {
@@ -1112,7 +1112,7 @@
             "bonus": true
           }
         },
-        "total": 0
+        "total": 20
       },
       "week9": {
         "teams": {
@@ -1365,7 +1365,7 @@
         "total": 0
       }
     },
-    "overall_score": 289
+    "overall_score": 309
   },
   "D2fLoPEINITIuA9oJNB8ybVaOps2": {
     "name": "Kalysta",
@@ -1552,11 +1552,11 @@
             "bonus": true
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Green Bay Packers": {
@@ -1564,11 +1564,11 @@
             "bonus": false
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 30
       },
       "week9": {
         "teams": {
@@ -1821,7 +1821,7 @@
         "total": 0
       }
     },
-    "overall_score": 333
+    "overall_score": 363
   },
   "FkbsYIXzm7TorvwE2qbaTiKsrmi1": {
     "name": "Steve",
@@ -2004,7 +2004,7 @@
       "week8": {
         "teams": {
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 48,
             "bonus": true
           },
           "Cincinnati Bengals": {
@@ -2012,11 +2012,11 @@
             "bonus": false
           },
           "Baltimore Ravens": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
@@ -2024,7 +2024,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 68
       },
       "week9": {
         "teams": {
@@ -2277,7 +2277,7 @@
         "total": 0
       }
     },
-    "overall_score": 432
+    "overall_score": 500
   },
   "Fn25s976WxT6gML22x8yJsQ33PM2": {
     "name": "Milly",
@@ -2460,11 +2460,11 @@
       "week8": {
         "teams": {
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Houston Texans": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
@@ -2472,7 +2472,7 @@
             "bonus": true
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Green Bay Packers": {
@@ -2480,7 +2480,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 30
       },
       "week9": {
         "teams": {
@@ -2733,7 +2733,7 @@
         "total": 0
       }
     },
-    "overall_score": 290
+    "overall_score": 320
   },
   "K9X8fKAf1bNvZjJH0jM9eO2uobP2": {
     "name": "Bryan",
@@ -2920,15 +2920,15 @@
             "bonus": true
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
@@ -2936,7 +2936,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 30
       },
       "week9": {
         "teams": {
@@ -3189,7 +3189,7 @@
         "total": 0
       }
     },
-    "overall_score": 400
+    "overall_score": 430
   },
   "LKY6YytQUfbPzmcw2yfIYm0XEQD2": {
     "name": "Smelly Kelly",
@@ -3376,15 +3376,15 @@
             "bonus": false
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 48,
             "bonus": true
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
@@ -3392,7 +3392,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 68
       },
       "week9": {
         "teams": {
@@ -3645,7 +3645,7 @@
         "total": 0
       }
     },
-    "overall_score": 426
+    "overall_score": 494
   },
   "NluZaqiuGKRzhuir9Jfu5uKRm302": {
     "name": "Angie Phillip",
@@ -3832,15 +3832,15 @@
             "bonus": false
           },
           "New England Patriots": {
-            "points": 0,
+            "points": 42,
             "bonus": true
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
@@ -3848,7 +3848,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 62
       },
       "week9": {
         "teams": {
@@ -4101,7 +4101,7 @@
         "total": 0
       }
     },
-    "overall_score": 415
+    "overall_score": 477
   },
   "US8t7rlGTXV5t8M3K8OWB2kzQo93": {
     "name": "Sam",
@@ -4288,11 +4288,11 @@
             "bonus": false
           },
           "Baltimore Ravens": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Denver Broncos": {
@@ -4300,11 +4300,11 @@
             "bonus": false
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 48,
             "bonus": true
           }
         },
-        "total": 0
+        "total": 68
       },
       "week9": {
         "teams": {
@@ -4557,7 +4557,7 @@
         "total": 0
       }
     },
-    "overall_score": 422
+    "overall_score": 490
   },
   "XKPW7eAMivNTYBrIivGGT9DFV022": {
     "name": "Joey",
@@ -4740,7 +4740,7 @@
       "week8": {
         "teams": {
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Cincinnati Bengals": {
@@ -4748,11 +4748,11 @@
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
-            "points": 0,
+            "points": 40,
             "bonus": true
           },
           "Green Bay Packers": {
@@ -4760,7 +4760,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 60
       },
       "week9": {
         "teams": {
@@ -5013,7 +5013,7 @@
         "total": 0
       }
     },
-    "overall_score": 372
+    "overall_score": 432
   },
   "dac8Eg3ax4PxQl7aSydfS9lAWv23": {
     "name": "Ben",
@@ -5204,19 +5204,19 @@
             "bonus": false
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 30
       },
       "week9": {
         "teams": {
@@ -5469,7 +5469,7 @@
         "total": 0
       }
     },
-    "overall_score": 358
+    "overall_score": 388
   },
   "hELkxczX1UerNFvp4fpORxqLr9X2": {
     "name": "PP",
@@ -5660,19 +5660,19 @@
             "bonus": false
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
-            "points": 0,
+            "points": 40,
             "bonus": true
           }
         },
-        "total": 10
+        "total": 70
       },
       "week9": {
         "teams": {
@@ -5925,7 +5925,7 @@
         "total": 0
       }
     },
-    "overall_score": 319
+    "overall_score": 379
   },
   "hR9aypGuwBfk5pE5MwNjxEvfkh43": {
     "name": "Ryan",
@@ -6112,15 +6112,15 @@
             "bonus": false
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 48,
             "bonus": true
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
@@ -6128,7 +6128,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 68
       },
       "week9": {
         "teams": {
@@ -6381,7 +6381,7 @@
         "total": 0
       }
     },
-    "overall_score": 377
+    "overall_score": 445
   },
   "jydlml7YsWe72ieLWGDFhuxY3Nb2": {
     "name": "Cal",
@@ -6568,15 +6568,15 @@
             "bonus": false
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
-            "points": 0,
+            "points": 40,
             "bonus": true
           },
           "Green Bay Packers": {
@@ -6584,7 +6584,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 60
       },
       "week9": {
         "teams": {
@@ -6837,7 +6837,7 @@
         "total": 0
       }
     },
-    "overall_score": 294
+    "overall_score": 354
   },
   "tinL2DkOXZTYEdYZDlT3cQzk6Yi2": {
     "name": "Lauren",
@@ -7020,15 +7020,15 @@
       "week8": {
         "teams": {
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
@@ -7040,7 +7040,7 @@
             "bonus": true
           }
         },
-        "total": 0
+        "total": 30
       },
       "week9": {
         "teams": {
@@ -7293,7 +7293,7 @@
         "total": 0
       }
     },
-    "overall_score": 425
+    "overall_score": 455
   },
   "u8geiYcJqpcTBRxAtLVB5QKA8Ii2": {
     "name": "Lisa: Certified League Wrecker",
@@ -7480,15 +7480,15 @@
             "bonus": false
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
@@ -7496,7 +7496,7 @@
             "bonus": true
           }
         },
-        "total": 0
+        "total": 30
       },
       "week9": {
         "teams": {
@@ -7749,6 +7749,6 @@
         "total": 0
       }
     },
-    "overall_score": 385
+    "overall_score": 415
   }
 }
