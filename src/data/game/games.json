@@ -1022,14 +1022,14 @@
         "homeTeam": "Denver Broncos",
         "homeScore": 0,
         "awayTeam": "Dallas Cowboys",
-        "awayScore": 0,
+        "awayScore": 3,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Indianapolis Colts",
-        "homeScore": 0,
+        "homeScore": 3,
         "awayTeam": "Tennessee Titans",
         "awayScore": 0,
         "weekday": "Sunday",
