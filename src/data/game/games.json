@@ -1020,7 +1020,7 @@
       },
       {
         "homeTeam": "Denver Broncos",
-        "homeScore": 7,
+        "homeScore": 14,
         "awayTeam": "Dallas Cowboys",
         "awayScore": 3,
         "weekday": "Sunday",
@@ -1031,7 +1031,7 @@
         "homeTeam": "Indianapolis Colts",
         "homeScore": 10,
         "awayTeam": "Tennessee Titans",
-        "awayScore": 0,
+        "awayScore": 7,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
