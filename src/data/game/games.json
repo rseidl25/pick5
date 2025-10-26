@@ -1013,23 +1013,23 @@
         "homeTeam": "New Orleans Saints",
         "homeScore": 3,
         "awayTeam": "Tampa Bay Buccaneers",
-        "awayScore": 17,
+        "awayScore": 20,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Denver Broncos",
-        "homeScore": 27,
+        "homeScore": 30,
         "awayTeam": "Dallas Cowboys",
-        "awayScore": 10,
+        "awayScore": 17,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Indianapolis Colts",
-        "homeScore": 24,
+        "homeScore": 31,
         "awayTeam": "Tennessee Titans",
         "awayScore": 7,
         "weekday": "Sunday",
