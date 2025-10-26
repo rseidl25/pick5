@@ -1019,15 +1019,6 @@
         "status": "Preview"
       },
       {
-        "homeTeam": "Denver Broncos",
-        "homeScore": 44,
-        "awayTeam": "Dallas Cowboys",
-        "awayScore": 24,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "Atlanta Falcons",
         "homeScore": 10,
         "awayTeam": "Miami Dolphins",
@@ -1095,6 +1086,15 @@
         "homeScore": 3,
         "awayTeam": "Tampa Bay Buccaneers",
         "awayScore": 23,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Denver Broncos",
+        "homeScore": 44,
+        "awayTeam": "Dallas Cowboys",
+        "awayScore": 24,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
