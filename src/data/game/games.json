@@ -1029,7 +1029,7 @@
       },
       {
         "homeTeam": "New England Patriots",
-        "homeScore": 9,
+        "homeScore": 16,
         "awayTeam": "Cleveland Browns",
         "awayScore": 7,
         "weekday": "Sunday",
@@ -1049,14 +1049,14 @@
         "homeTeam": "Carolina Panthers",
         "homeScore": 3,
         "awayTeam": "Buffalo Bills",
-        "awayScore": 19,
+        "awayScore": 26,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Baltimore Ravens",
-        "homeScore": 13,
+        "homeScore": 16,
         "awayTeam": "Chicago Bears",
         "awayScore": 6,
         "weekday": "Sunday",
