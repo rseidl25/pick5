@@ -1011,18 +1011,9 @@
     "games": [
       {
         "homeTeam": "Denver Broncos",
-        "homeScore": 43,
+        "homeScore": 44,
         "awayTeam": "Dallas Cowboys",
-        "awayScore": 17,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Indianapolis Colts",
-        "homeScore": 38,
-        "awayTeam": "Tennessee Titans",
-        "awayScore": 7,
+        "awayScore": 24,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1037,10 +1028,10 @@
         "status": "Preview"
       },
       {
-        "homeTeam": "New Orleans Saints",
-        "homeScore": 3,
-        "awayTeam": "Tampa Bay Buccaneers",
-        "awayScore": 23,
+        "homeTeam": "Indianapolis Colts",
+        "homeScore": 38,
+        "awayTeam": "Tennessee Titans",
+        "awayScore": 14,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
@@ -1104,6 +1095,15 @@
         "homeScore": 26,
         "awayTeam": "San Francisco 49ers",
         "awayScore": 15,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "New Orleans Saints",
+        "homeScore": 3,
+        "awayTeam": "Tampa Bay Buccaneers",
+        "awayScore": 23,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"

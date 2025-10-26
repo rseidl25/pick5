@@ -652,11 +652,11 @@
             "bonus": false
           },
           "Indianapolis Colts": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 78
+        "total": 88
       },
       "week9": {
         "teams": {
@@ -909,7 +909,7 @@
         "total": 0
       }
     },
-    "overall_score": 522
+    "overall_score": 532
   },
   "AmEIaRh92vdP40uVAseDWGxcZBM2": {
     "name": "Brett Sievwright",
@@ -1104,7 +1104,7 @@
             "bonus": false
           },
           "Indianapolis Colts": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "New Orleans Saints": {
@@ -1112,7 +1112,7 @@
             "bonus": true
           }
         },
-        "total": 20
+        "total": 30
       },
       "week9": {
         "teams": {
@@ -1365,7 +1365,7 @@
         "total": 0
       }
     },
-    "overall_score": 309
+    "overall_score": 319
   },
   "D2fLoPEINITIuA9oJNB8ybVaOps2": {
     "name": "Kalysta",
@@ -2916,7 +2916,7 @@
       "week8": {
         "teams": {
           "Indianapolis Colts": {
-            "points": 0,
+            "points": 48,
             "bonus": true
           },
           "Philadelphia Eagles": {
@@ -2936,7 +2936,7 @@
             "bonus": false
           }
         },
-        "total": 40
+        "total": 88
       },
       "week9": {
         "teams": {
@@ -3189,7 +3189,7 @@
         "total": 0
       }
     },
-    "overall_score": 440
+    "overall_score": 488
   },
   "LKY6YytQUfbPzmcw2yfIYm0XEQD2": {
     "name": "Smelly Kelly",
