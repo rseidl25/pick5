@@ -1010,15 +1010,6 @@
     "week": 8,
     "games": [
       {
-        "homeTeam": "Los Angeles Chargers",
-        "homeScore": 37,
-        "awayTeam": "Minnesota Vikings",
-        "awayScore": 10,
-        "weekday": "Thursday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "Atlanta Falcons",
         "homeScore": 0,
         "awayTeam": "Miami Dolphins",
@@ -1116,6 +1107,15 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Los Angeles Chargers",
+        "homeScore": 37,
+        "awayTeam": "Minnesota Vikings",
+        "awayScore": 10,
+        "weekday": "Thursday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Kansas City Chiefs",
