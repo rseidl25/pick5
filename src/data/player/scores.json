@@ -4296,7 +4296,7 @@
             "bonus": false
           },
           "Denver Broncos": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Philadelphia Eagles": {
@@ -4304,7 +4304,7 @@
             "bonus": true
           }
         },
-        "total": 78
+        "total": 88
       },
       "week9": {
         "teams": {
@@ -4557,7 +4557,7 @@
         "total": 0
       }
     },
-    "overall_score": 500
+    "overall_score": 510
   },
   "XKPW7eAMivNTYBrIivGGT9DFV022": {
     "name": "Joey",
