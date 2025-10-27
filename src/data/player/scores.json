@@ -1100,7 +1100,7 @@
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Indianapolis Colts": {
@@ -1112,7 +1112,7 @@
             "bonus": true
           }
         },
-        "total": 30
+        "total": 40
       },
       "week9": {
         "teams": {
@@ -1365,7 +1365,7 @@
         "total": 0
       }
     },
-    "overall_score": 319
+    "overall_score": 329
   },
   "D2fLoPEINITIuA9oJNB8ybVaOps2": {
     "name": "Kalysta",
@@ -1560,7 +1560,7 @@
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Philadelphia Eagles": {
@@ -1568,7 +1568,7 @@
             "bonus": false
           }
         },
-        "total": 30
+        "total": 40
       },
       "week9": {
         "teams": {
@@ -1821,7 +1821,7 @@
         "total": 0
       }
     },
-    "overall_score": 363
+    "overall_score": 373
   },
   "FkbsYIXzm7TorvwE2qbaTiKsrmi1": {
     "name": "Steve",
@@ -2476,11 +2476,11 @@
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 63
+        "total": 73
       },
       "week9": {
         "teams": {
@@ -2733,7 +2733,7 @@
         "total": 0
       }
     },
-    "overall_score": 353
+    "overall_score": 363
   },
   "K9X8fKAf1bNvZjJH0jM9eO2uobP2": {
     "name": "Bryan",
@@ -4756,11 +4756,11 @@
             "bonus": true
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 60
+        "total": 70
       },
       "week9": {
         "teams": {
@@ -5013,7 +5013,7 @@
         "total": 0
       }
     },
-    "overall_score": 432
+    "overall_score": 442
   },
   "dac8Eg3ax4PxQl7aSydfS9lAWv23": {
     "name": "Ben",
@@ -6580,11 +6580,11 @@
             "bonus": true
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 60
+        "total": 70
       },
       "week9": {
         "teams": {
@@ -6837,7 +6837,7 @@
         "total": 0
       }
     },
-    "overall_score": 354
+    "overall_score": 364
   },
   "tinL2DkOXZTYEdYZDlT3cQzk6Yi2": {
     "name": "Lauren",

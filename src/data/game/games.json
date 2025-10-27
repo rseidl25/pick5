@@ -1011,12 +1011,12 @@
     "games": [
       {
         "homeTeam": "Pittsburgh Steelers",
-        "homeScore": 19,
+        "homeScore": 25,
         "awayTeam": "Green Bay Packers",
-        "awayScore": 29,
+        "awayScore": 35,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "In Progress"
+        "status": "Completed"
       },
       {
         "homeTeam": "Atlanta Falcons",
