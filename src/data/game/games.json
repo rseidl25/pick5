@@ -1011,9 +1011,9 @@
     "games": [
       {
         "homeTeam": "Pittsburgh Steelers",
-        "homeScore": 6,
+        "homeScore": 19,
         "awayTeam": "Green Bay Packers",
-        "awayScore": 7,
+        "awayScore": 29,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
