@@ -1010,11 +1010,20 @@
     "week": 8,
     "games": [
       {
-        "homeTeam": "Pittsburgh Steelers",
-        "homeScore": 25,
-        "awayTeam": "Green Bay Packers",
-        "awayScore": 35,
-        "weekday": "Sunday",
+        "homeTeam": "Kansas City Chiefs",
+        "homeScore": 0,
+        "awayTeam": "Washington Commanders",
+        "awayScore": 0,
+        "weekday": "Monday",
+        "gameTime": null,
+        "status": "Preview"
+      },
+      {
+        "homeTeam": "Los Angeles Chargers",
+        "homeScore": 37,
+        "awayTeam": "Minnesota Vikings",
+        "awayScore": 10,
+        "weekday": "Thursday",
         "gameTime": null,
         "status": "Completed"
       },
@@ -1109,22 +1118,13 @@
         "status": "Completed"
       },
       {
-        "homeTeam": "Los Angeles Chargers",
-        "homeScore": 37,
-        "awayTeam": "Minnesota Vikings",
-        "awayScore": 10,
-        "weekday": "Thursday",
+        "homeTeam": "Pittsburgh Steelers",
+        "homeScore": 25,
+        "awayTeam": "Green Bay Packers",
+        "awayScore": 35,
+        "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
-      },
-      {
-        "homeTeam": "Kansas City Chiefs",
-        "homeScore": 0,
-        "awayTeam": "Washington Commanders",
-        "awayScore": 0,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Preview"
       }
     ]
   },
