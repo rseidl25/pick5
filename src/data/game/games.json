@@ -1133,9 +1133,9 @@
     "games": [
       {
         "homeTeam": "Miami Dolphins",
-        "homeScore": 3,
+        "homeScore": 6,
         "awayTeam": "Baltimore Ravens",
-        "awayScore": 14,
+        "awayScore": 28,
         "weekday": "Thursday",
         "gameTime": null,
         "status": "In Progress"
