@@ -1133,7 +1133,7 @@
     "games": [
       {
         "homeTeam": "Las Vegas Raiders",
-        "homeScore": 6,
+        "homeScore": 9,
         "awayTeam": "Jacksonville Jaguars",
         "awayScore": 6,
         "weekday": "Sunday",
@@ -1142,7 +1142,7 @@
       },
       {
         "homeTeam": "Los Angeles Rams",
-        "homeScore": 20,
+        "homeScore": 27,
         "awayTeam": "New Orleans Saints",
         "awayScore": 10,
         "weekday": "Sunday",
