@@ -1133,7 +1133,7 @@
     "games": [
       {
         "homeTeam": "Las Vegas Raiders",
-        "homeScore": 16,
+        "homeScore": 23,
         "awayTeam": "Jacksonville Jaguars",
         "awayScore": 20,
         "weekday": "Sunday",
@@ -1153,7 +1153,7 @@
         "homeTeam": "Buffalo Bills",
         "homeScore": 28,
         "awayTeam": "Kansas City Chiefs",
-        "awayScore": 13,
+        "awayScore": 19,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
