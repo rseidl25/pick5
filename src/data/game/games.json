@@ -1133,9 +1133,9 @@
     "games": [
       {
         "homeTeam": "Las Vegas Raiders",
-        "homeScore": 0,
+        "homeScore": 6,
         "awayTeam": "Jacksonville Jaguars",
-        "awayScore": 0,
+        "awayScore": 3,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1144,14 +1144,14 @@
         "homeTeam": "Los Angeles Rams",
         "homeScore": 20,
         "awayTeam": "New Orleans Saints",
-        "awayScore": 3,
+        "awayScore": 9,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Buffalo Bills",
-        "homeScore": 7,
+        "homeScore": 14,
         "awayTeam": "Kansas City Chiefs",
         "awayScore": 10,
         "weekday": "Sunday",
