@@ -1133,7 +1133,7 @@
     "games": [
       {
         "homeTeam": "Cincinnati Bengals",
-        "homeScore": 10,
+        "homeScore": 13,
         "awayTeam": "Chicago Bears",
         "awayScore": 14,
         "weekday": "Sunday",
@@ -1151,7 +1151,7 @@
       },
       {
         "homeTeam": "Green Bay Packers",
-        "homeScore": 3,
+        "homeScore": 6,
         "awayTeam": "Carolina Panthers",
         "awayScore": 7,
         "weekday": "Sunday",
@@ -1160,7 +1160,7 @@
       },
       {
         "homeTeam": "Tennessee Titans",
-        "homeScore": 14,
+        "homeScore": 17,
         "awayTeam": "Los Angeles Chargers",
         "awayScore": 17,
         "weekday": "Sunday",
@@ -1198,7 +1198,7 @@
         "homeTeam": "Houston Texans",
         "homeScore": 6,
         "awayTeam": "Denver Broncos",
-        "awayScore": 0,
+        "awayScore": 7,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
