@@ -1135,14 +1135,14 @@
         "homeTeam": "Las Vegas Raiders",
         "homeScore": 9,
         "awayTeam": "Jacksonville Jaguars",
-        "awayScore": 6,
+        "awayScore": 13,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Los Angeles Rams",
-        "homeScore": 27,
+        "homeScore": 34,
         "awayTeam": "New Orleans Saints",
         "awayScore": 10,
         "weekday": "Sunday",
