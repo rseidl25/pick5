@@ -1132,15 +1132,6 @@
     "week": 9,
     "games": [
       {
-        "homeTeam": "Cincinnati Bengals",
-        "homeScore": 42,
-        "awayTeam": "Chicago Bears",
-        "awayScore": 47,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Las Vegas Raiders",
         "homeScore": 0,
         "awayTeam": "Jacksonville Jaguars",
@@ -1175,6 +1166,15 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Cincinnati Bengals",
+        "homeScore": 42,
+        "awayTeam": "Chicago Bears",
+        "awayScore": 47,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Detroit Lions",
