@@ -1144,14 +1144,14 @@
         "homeTeam": "Los Angeles Rams",
         "homeScore": 20,
         "awayTeam": "New Orleans Saints",
-        "awayScore": 9,
+        "awayScore": 10,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Buffalo Bills",
-        "homeScore": 14,
+        "homeScore": 21,
         "awayTeam": "Kansas City Chiefs",
         "awayScore": 10,
         "weekday": "Sunday",
