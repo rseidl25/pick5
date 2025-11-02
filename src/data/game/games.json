@@ -1133,21 +1133,21 @@
     "games": [
       {
         "homeTeam": "Cincinnati Bengals",
-        "homeScore": 0,
+        "homeScore": 7,
         "awayTeam": "Chicago Bears",
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Detroit Lions",
-        "homeScore": 0,
+        "homeScore": 7,
         "awayTeam": "Minnesota Vikings",
-        "awayScore": 0,
+        "awayScore": 7,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Green Bay Packers",
@@ -1156,34 +1156,34 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Tennessee Titans",
-        "homeScore": 0,
+        "homeScore": 7,
         "awayTeam": "Los Angeles Chargers",
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "New England Patriots",
-        "homeScore": 0,
+        "homeScore": 7,
         "awayTeam": "Atlanta Falcons",
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "New York Giants",
-        "homeScore": 0,
+        "homeScore": 7,
         "awayTeam": "San Francisco 49ers",
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Pittsburgh Steelers",
@@ -1192,7 +1192,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Houston Texans",
@@ -1201,7 +1201,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Las Vegas Raiders",
