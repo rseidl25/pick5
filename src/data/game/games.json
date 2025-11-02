@@ -1135,7 +1135,7 @@
         "homeTeam": "Cincinnati Bengals",
         "homeScore": 10,
         "awayTeam": "Chicago Bears",
-        "awayScore": 7,
+        "awayScore": 14,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1151,7 +1151,7 @@
       },
       {
         "homeTeam": "Green Bay Packers",
-        "homeScore": 0,
+        "homeScore": 3,
         "awayTeam": "Carolina Panthers",
         "awayScore": 0,
         "weekday": "Sunday",
@@ -1169,7 +1169,7 @@
       },
       {
         "homeTeam": "New England Patriots",
-        "homeScore": 7,
+        "homeScore": 14,
         "awayTeam": "Atlanta Falcons",
         "awayScore": 7,
         "weekday": "Sunday",
@@ -1180,7 +1180,7 @@
         "homeTeam": "New York Giants",
         "homeScore": 7,
         "awayTeam": "San Francisco 49ers",
-        "awayScore": 7,
+        "awayScore": 14,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
