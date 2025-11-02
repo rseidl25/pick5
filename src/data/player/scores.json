@@ -2045,11 +2045,11 @@
             "bonus": false
           },
           "Pittsburgh Steelers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week10": {
         "teams": {
@@ -2277,7 +2277,7 @@
         "total": 0
       }
     },
-    "overall_score": 520
+    "overall_score": 530
   },
   "Fn25s976WxT6gML22x8yJsQ33PM2": {
     "name": "Milly",
@@ -5233,7 +5233,7 @@
             "bonus": false
           },
           "Pittsburgh Steelers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Los Angeles Chargers": {
@@ -5241,7 +5241,7 @@
             "bonus": false
           }
         },
-        "total": 20
+        "total": 30
       },
       "week10": {
         "teams": {
@@ -5469,7 +5469,7 @@
         "total": 0
       }
     },
-    "overall_score": 441
+    "overall_score": 451
   },
   "hELkxczX1UerNFvp4fpORxqLr9X2": {
     "name": "PP",
@@ -5693,11 +5693,11 @@
             "bonus": false
           },
           "Pittsburgh Steelers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week10": {
         "teams": {
@@ -5925,7 +5925,7 @@
         "total": 0
       }
     },
-    "overall_score": 379
+    "overall_score": 389
   },
   "hR9aypGuwBfk5pE5MwNjxEvfkh43": {
     "name": "Ryan",
