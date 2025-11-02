@@ -205,7 +205,7 @@
       "week9": {
         "teams": {
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 37,
             "bonus": true
           },
           "Green Bay Packers": {
@@ -225,7 +225,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 47
       },
       "week10": {
         "teams": {
@@ -453,7 +453,7 @@
         "total": 0
       }
     },
-    "overall_score": 436
+    "overall_score": 473
   },
   "A5dssZETIMhNd0WYKQamFxxb9Ak2": {
     "name": "Judy Phillip",
@@ -665,7 +665,7 @@
             "bonus": false
           },
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 37,
             "bonus": true
           },
           "Baltimore Ravens": {
@@ -681,7 +681,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 47
       },
       "week10": {
         "teams": {
@@ -909,7 +909,7 @@
         "total": 0
       }
     },
-    "overall_score": 542
+    "overall_score": 579
   },
   "AmEIaRh92vdP40uVAseDWGxcZBM2": {
     "name": "Brett Sievwright",
@@ -1121,7 +1121,7 @@
             "bonus": false
           },
           "San Francisco 49ers": {
-            "points": 0,
+            "points": 44,
             "bonus": true
           },
           "Dallas Cowboys": {
@@ -1137,7 +1137,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 44
       },
       "week10": {
         "teams": {
@@ -1365,7 +1365,7 @@
         "total": 0
       }
     },
-    "overall_score": 329
+    "overall_score": 373
   },
   "D2fLoPEINITIuA9oJNB8ybVaOps2": {
     "name": "Kalysta",
@@ -1585,7 +1585,7 @@
             "bonus": false
           },
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Los Angeles Rams": {
@@ -1593,7 +1593,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week10": {
         "teams": {
@@ -1821,7 +1821,7 @@
         "total": 0
       }
     },
-    "overall_score": 383
+    "overall_score": 393
   },
   "FkbsYIXzm7TorvwE2qbaTiKsrmi1": {
     "name": "Steve",
@@ -2041,7 +2041,7 @@
             "bonus": false
           },
           "San Francisco 49ers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Pittsburgh Steelers": {
@@ -2049,7 +2049,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week10": {
         "teams": {
@@ -2277,7 +2277,7 @@
         "total": 0
       }
     },
-    "overall_score": 510
+    "overall_score": 520
   },
   "Fn25s976WxT6gML22x8yJsQ33PM2": {
     "name": "Milly",
@@ -2941,7 +2941,7 @@
       "week9": {
         "teams": {
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 37,
             "bonus": true
           },
           "Green Bay Packers": {
@@ -2961,7 +2961,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 47
       },
       "week10": {
         "teams": {
@@ -3189,7 +3189,7 @@
         "total": 0
       }
     },
-    "overall_score": 498
+    "overall_score": 535
   },
   "LKY6YytQUfbPzmcw2yfIYm0XEQD2": {
     "name": "Smelly Kelly",
@@ -4321,7 +4321,7 @@
             "bonus": false
           },
           "New England Patriots": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Los Angeles Rams": {
@@ -4329,7 +4329,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week10": {
         "teams": {
@@ -4557,7 +4557,7 @@
         "total": 0
       }
     },
-    "overall_score": 520
+    "overall_score": 530
   },
   "XKPW7eAMivNTYBrIivGGT9DFV022": {
     "name": "Joey",
@@ -4773,7 +4773,7 @@
             "bonus": false
           },
           "San Francisco 49ers": {
-            "points": 0,
+            "points": 44,
             "bonus": true
           },
           "Atlanta Falcons": {
@@ -4785,7 +4785,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 44
       },
       "week10": {
         "teams": {
@@ -5013,7 +5013,7 @@
         "total": 0
       }
     },
-    "overall_score": 442
+    "overall_score": 486
   },
   "dac8Eg3ax4PxQl7aSydfS9lAWv23": {
     "name": "Ben",
@@ -5237,11 +5237,11 @@
             "bonus": false
           },
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week10": {
         "teams": {
@@ -5469,7 +5469,7 @@
         "total": 0
       }
     },
-    "overall_score": 431
+    "overall_score": 441
   },
   "hELkxczX1UerNFvp4fpORxqLr9X2": {
     "name": "PP",
@@ -6141,7 +6141,7 @@
             "bonus": true
           },
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Los Angeles Rams": {
@@ -6153,7 +6153,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week10": {
         "teams": {
@@ -6381,7 +6381,7 @@
         "total": 0
       }
     },
-    "overall_score": 455
+    "overall_score": 465
   },
   "jydlml7YsWe72ieLWGDFhuxY3Nb2": {
     "name": "Cal",
@@ -7061,11 +7061,11 @@
             "bonus": true
           },
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week10": {
         "teams": {
@@ -7293,7 +7293,7 @@
         "total": 0
       }
     },
-    "overall_score": 475
+    "overall_score": 485
   },
   "u8geiYcJqpcTBRxAtLVB5QKA8Ii2": {
     "name": "Lisa: Certified League Wrecker",
@@ -7509,11 +7509,11 @@
             "bonus": false
           },
           "San Francisco 49ers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 37,
             "bonus": true
           },
           "Los Angeles Rams": {
@@ -7521,7 +7521,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 57
       },
       "week10": {
         "teams": {
@@ -7749,6 +7749,6 @@
         "total": 0
       }
     },
-    "overall_score": 458
+    "overall_score": 505
   }
 }
