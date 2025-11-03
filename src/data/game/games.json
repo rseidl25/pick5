@@ -1132,6 +1132,24 @@
     "week": 9,
     "games": [
       {
+        "homeTeam": "Dallas Cowboys",
+        "homeScore": 0,
+        "awayTeam": "Arizona Cardinals",
+        "awayScore": 0,
+        "weekday": "Monday",
+        "gameTime": null,
+        "status": "Preview"
+      },
+      {
+        "homeTeam": "Miami Dolphins",
+        "homeScore": 6,
+        "awayTeam": "Baltimore Ravens",
+        "awayScore": 28,
+        "weekday": "Thursday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
         "homeTeam": "Cincinnati Bengals",
         "homeScore": 42,
         "awayTeam": "Chicago Bears",
@@ -1238,24 +1256,6 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
-      },
-      {
-        "homeTeam": "Miami Dolphins",
-        "homeScore": 6,
-        "awayTeam": "Baltimore Ravens",
-        "awayScore": 28,
-        "weekday": "Thursday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
-        "homeTeam": "Dallas Cowboys",
-        "homeScore": 0,
-        "awayTeam": "Arizona Cardinals",
-        "awayScore": 0,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Preview"
       }
     ]
   },
