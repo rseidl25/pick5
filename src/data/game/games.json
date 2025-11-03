@@ -1132,33 +1132,6 @@
     "week": 9,
     "games": [
       {
-        "homeTeam": "Las Vegas Raiders",
-        "homeScore": 23,
-        "awayTeam": "Jacksonville Jaguars",
-        "awayScore": 20,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Los Angeles Rams",
-        "homeScore": 34,
-        "awayTeam": "New Orleans Saints",
-        "awayScore": 10,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Buffalo Bills",
-        "homeScore": 28,
-        "awayTeam": "Kansas City Chiefs",
-        "awayScore": 19,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Washington Commanders",
         "homeScore": 0,
         "awayTeam": "Seattle Seahawks",
@@ -1235,6 +1208,33 @@
         "homeScore": 15,
         "awayTeam": "Denver Broncos",
         "awayScore": 18,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Las Vegas Raiders",
+        "homeScore": 29,
+        "awayTeam": "Jacksonville Jaguars",
+        "awayScore": 30,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Los Angeles Rams",
+        "homeScore": 34,
+        "awayTeam": "New Orleans Saints",
+        "awayScore": 10,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Buffalo Bills",
+        "homeScore": 28,
+        "awayTeam": "Kansas City Chiefs",
+        "awayScore": 21,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
