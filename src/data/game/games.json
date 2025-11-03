@@ -1132,15 +1132,6 @@
     "week": 9,
     "games": [
       {
-        "homeTeam": "Washington Commanders",
-        "homeScore": 14,
-        "awayTeam": "Seattle Seahawks",
-        "awayScore": 38,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Cincinnati Bengals",
         "homeScore": 42,
         "awayTeam": "Chicago Bears",
@@ -1235,6 +1226,15 @@
         "homeScore": 28,
         "awayTeam": "Kansas City Chiefs",
         "awayScore": 21,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Washington Commanders",
+        "homeScore": 14,
+        "awayTeam": "Seattle Seahawks",
+        "awayScore": 38,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
