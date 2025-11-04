@@ -1133,12 +1133,12 @@
     "games": [
       {
         "homeTeam": "Dallas Cowboys",
-        "homeScore": 0,
+        "homeScore": 7,
         "awayTeam": "Arizona Cardinals",
-        "awayScore": 0,
+        "awayScore": 17,
         "weekday": "Monday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Miami Dolphins",
