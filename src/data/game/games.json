@@ -1133,9 +1133,9 @@
     "games": [
       {
         "homeTeam": "Dallas Cowboys",
-        "homeScore": 7,
+        "homeScore": 10,
         "awayTeam": "Arizona Cardinals",
-        "awayScore": 17,
+        "awayScore": 27,
         "weekday": "Monday",
         "gameTime": null,
         "status": "In Progress"
