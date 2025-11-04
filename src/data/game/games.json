@@ -1132,15 +1132,6 @@
     "week": 9,
     "games": [
       {
-        "homeTeam": "Dallas Cowboys",
-        "homeScore": 17,
-        "awayTeam": "Arizona Cardinals",
-        "awayScore": 27,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "Miami Dolphins",
         "homeScore": 6,
         "awayTeam": "Baltimore Ravens",
@@ -1254,6 +1245,15 @@
         "awayTeam": "Seattle Seahawks",
         "awayScore": 38,
         "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Dallas Cowboys",
+        "homeScore": 17,
+        "awayTeam": "Arizona Cardinals",
+        "awayScore": 27,
+        "weekday": "Monday",
         "gameTime": null,
         "status": "Completed"
       }
