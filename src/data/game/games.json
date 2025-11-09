@@ -1275,14 +1275,14 @@
         "homeTeam": "San Francisco 49ers",
         "homeScore": 0,
         "awayTeam": "Los Angeles Rams",
-        "awayScore": 7,
+        "awayScore": 14,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Washington Commanders",
-        "homeScore": 0,
+        "homeScore": 3,
         "awayTeam": "Detroit Lions",
         "awayScore": 7,
         "weekday": "Sunday",
