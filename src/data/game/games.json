@@ -1266,7 +1266,7 @@
         "homeTeam": "Chicago Bears",
         "homeScore": 10,
         "awayTeam": "New York Giants",
-        "awayScore": 17,
+        "awayScore": 20,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1282,7 +1282,7 @@
       },
       {
         "homeTeam": "Minnesota Vikings",
-        "homeScore": 10,
+        "homeScore": 13,
         "awayTeam": "Baltimore Ravens",
         "awayScore": 19,
         "weekday": "Sunday",
@@ -1291,7 +1291,7 @@
       },
       {
         "homeTeam": "New York Jets",
-        "homeScore": 17,
+        "homeScore": 24,
         "awayTeam": "Cleveland Browns",
         "awayScore": 17,
         "weekday": "Sunday",
@@ -1311,7 +1311,7 @@
         "homeTeam": "Carolina Panthers",
         "homeScore": 7,
         "awayTeam": "New Orleans Saints",
-        "awayScore": 10,
+        "awayScore": 17,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
