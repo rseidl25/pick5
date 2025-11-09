@@ -1266,16 +1266,16 @@
         "homeTeam": "Seattle Seahawks",
         "homeScore": 38,
         "awayTeam": "Arizona Cardinals",
-        "awayScore": 7,
+        "awayScore": 15,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "San Francisco 49ers",
-        "homeScore": 7,
+        "homeScore": 14,
         "awayTeam": "Los Angeles Rams",
-        "awayScore": 21,
+        "awayScore": 28,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1284,7 +1284,7 @@
         "homeTeam": "Washington Commanders",
         "homeScore": 10,
         "awayTeam": "Detroit Lions",
-        "awayScore": 25,
+        "awayScore": 32,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
