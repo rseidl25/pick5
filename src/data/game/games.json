@@ -1293,7 +1293,7 @@
         "homeTeam": "New York Jets",
         "homeScore": 17,
         "awayTeam": "Cleveland Browns",
-        "awayScore": 14,
+        "awayScore": 17,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1302,7 +1302,7 @@
         "homeTeam": "Tampa Bay Buccaneers",
         "homeScore": 10,
         "awayTeam": "New England Patriots",
-        "awayScore": 14,
+        "awayScore": 21,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
