@@ -230,7 +230,7 @@
       "week10": {
         "teams": {
           "Houston Texans": {
-            "points": 0,
+            "points": 46,
             "bonus": true
           },
           "Los Angeles Rams": {
@@ -250,7 +250,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 56
       },
       "week11": {
         "teams": {
@@ -453,7 +453,7 @@
         "total": 0
       }
     },
-    "overall_score": 493
+    "overall_score": 539
   },
   "A5dssZETIMhNd0WYKQamFxxb9Ak2": {
     "name": "Judy Phillip",
@@ -686,7 +686,7 @@
       "week10": {
         "teams": {
           "Houston Texans": {
-            "points": 0,
+            "points": 46,
             "bonus": true
           },
           "Buffalo Bills": {
@@ -706,7 +706,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 46
       },
       "week11": {
         "teams": {
@@ -909,7 +909,7 @@
         "total": 0
       }
     },
-    "overall_score": 589
+    "overall_score": 635
   },
   "AmEIaRh92vdP40uVAseDWGxcZBM2": {
     "name": "Brett Sievwright",
@@ -1146,7 +1146,7 @@
             "bonus": false
           },
           "Houston Texans": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "New Orleans Saints": {
@@ -1162,7 +1162,7 @@
             "bonus": false
           }
         },
-        "total": 57
+        "total": 67
       },
       "week11": {
         "teams": {
@@ -1365,7 +1365,7 @@
         "total": 0
       }
     },
-    "overall_score": 430
+    "overall_score": 440
   },
   "D2fLoPEINITIuA9oJNB8ybVaOps2": {
     "name": "Kalysta",
@@ -2054,7 +2054,7 @@
       "week10": {
         "teams": {
           "Houston Texans": {
-            "points": 0,
+            "points": 46,
             "bonus": true
           },
           "Tampa Bay Buccaneers": {
@@ -2074,7 +2074,7 @@
             "bonus": false
           }
         },
-        "total": 30
+        "total": 76
       },
       "week11": {
         "teams": {
@@ -2277,7 +2277,7 @@
         "total": 0
       }
     },
-    "overall_score": 570
+    "overall_score": 616
   },
   "Fn25s976WxT6gML22x8yJsQ33PM2": {
     "name": "Milly",
@@ -2526,11 +2526,11 @@
             "bonus": false
           },
           "Houston Texans": {
-            "points": 0,
+            "points": 46,
             "bonus": true
           }
         },
-        "total": 0
+        "total": 46
       },
       "week11": {
         "teams": {
@@ -2733,7 +2733,7 @@
         "total": 0
       }
     },
-    "overall_score": 407
+    "overall_score": 453
   },
   "K9X8fKAf1bNvZjJH0jM9eO2uobP2": {
     "name": "Bryan",
@@ -2978,7 +2978,7 @@
             "bonus": false
           },
           "Houston Texans": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Detroit Lions": {
@@ -2986,7 +2986,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week11": {
         "teams": {
@@ -3189,7 +3189,7 @@
         "total": 0
       }
     },
-    "overall_score": 555
+    "overall_score": 565
   },
   "LKY6YytQUfbPzmcw2yfIYm0XEQD2": {
     "name": "Smelly Kelly",
@@ -3430,7 +3430,7 @@
             "bonus": false
           },
           "Houston Texans": {
-            "points": 0,
+            "points": 46,
             "bonus": true
           },
           "Los Angeles Chargers": {
@@ -3442,7 +3442,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 56
       },
       "week11": {
         "teams": {
@@ -3645,7 +3645,7 @@
         "total": 0
       }
     },
-    "overall_score": 534
+    "overall_score": 580
   },
   "NluZaqiuGKRzhuir9Jfu5uKRm302": {
     "name": "Angie Phillip",
@@ -4350,11 +4350,11 @@
             "bonus": false
           },
           "Houston Texans": {
-            "points": 0,
+            "points": 46,
             "bonus": true
           }
         },
-        "total": 20
+        "total": 66
       },
       "week11": {
         "teams": {
@@ -4557,7 +4557,7 @@
         "total": 0
       }
     },
-    "overall_score": 560
+    "overall_score": 606
   },
   "XKPW7eAMivNTYBrIivGGT9DFV022": {
     "name": "Joey",
@@ -5250,7 +5250,7 @@
             "bonus": true
           },
           "Houston Texans": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
@@ -5266,7 +5266,7 @@
             "bonus": false
           }
         },
-        "total": 30
+        "total": 40
       },
       "week11": {
         "teams": {
@@ -5469,7 +5469,7 @@
         "total": 0
       }
     },
-    "overall_score": 525
+    "overall_score": 535
   },
   "hELkxczX1UerNFvp4fpORxqLr9X2": {
     "name": "PP",
@@ -5706,7 +5706,7 @@
             "bonus": false
           },
           "Houston Texans": {
-            "points": 0,
+            "points": 46,
             "bonus": true
           },
           "Los Angeles Chargers": {
@@ -5722,7 +5722,7 @@
             "bonus": false
           }
         },
-        "total": 20
+        "total": 66
       },
       "week11": {
         "teams": {
@@ -5925,7 +5925,7 @@
         "total": 0
       }
     },
-    "overall_score": 419
+    "overall_score": 465
   },
   "hR9aypGuwBfk5pE5MwNjxEvfkh43": {
     "name": "Ryan",
@@ -6166,7 +6166,7 @@
             "bonus": false
           },
           "Houston Texans": {
-            "points": 0,
+            "points": 46,
             "bonus": true
           },
           "Los Angeles Chargers": {
@@ -6178,7 +6178,7 @@
             "bonus": false
           }
         },
-        "total": 20
+        "total": 66
       },
       "week11": {
         "teams": {
@@ -6381,7 +6381,7 @@
         "total": 0
       }
     },
-    "overall_score": 495
+    "overall_score": 541
   },
   "jydlml7YsWe72ieLWGDFhuxY3Nb2": {
     "name": "Cal",
@@ -6614,7 +6614,7 @@
       "week10": {
         "teams": {
           "Houston Texans": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Los Angeles Chargers": {
@@ -6634,7 +6634,7 @@
             "bonus": true
           }
         },
-        "total": 10
+        "total": 20
       },
       "week11": {
         "teams": {
@@ -6837,7 +6837,7 @@
         "total": 0
       }
     },
-    "overall_score": 418
+    "overall_score": 428
   },
   "tinL2DkOXZTYEdYZDlT3cQzk6Yi2": {
     "name": "Lauren",
@@ -7086,11 +7086,11 @@
             "bonus": false
           },
           "Houston Texans": {
-            "points": 0,
+            "points": 46,
             "bonus": true
           }
         },
-        "total": 20
+        "total": 66
       },
       "week11": {
         "teams": {
@@ -7293,7 +7293,7 @@
         "total": 0
       }
     },
-    "overall_score": 549
+    "overall_score": 595
   },
   "u8geiYcJqpcTBRxAtLVB5QKA8Ii2": {
     "name": "Lisa: Certified League Wrecker",
