@@ -1269,7 +1269,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Miami Dolphins",
@@ -1278,16 +1278,16 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Minnesota Vikings",
-        "homeScore": 0,
+        "homeScore": 7,
         "awayTeam": "Baltimore Ravens",
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "New York Jets",
@@ -1296,34 +1296,34 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Tampa Bay Buccaneers",
-        "homeScore": 0,
+        "homeScore": 7,
         "awayTeam": "New England Patriots",
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Carolina Panthers",
-        "homeScore": 0,
+        "homeScore": 7,
         "awayTeam": "New Orleans Saints",
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Houston Texans",
         "homeScore": 0,
         "awayTeam": "Jacksonville Jaguars",
-        "awayScore": 0,
+        "awayScore": 3,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Seattle Seahawks",
