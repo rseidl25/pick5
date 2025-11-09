@@ -1264,9 +1264,9 @@
     "games": [
       {
         "homeTeam": "Indianapolis Colts",
-        "homeScore": 6,
+        "homeScore": 13,
         "awayTeam": "Atlanta Falcons",
-        "awayScore": 0,
+        "awayScore": 7,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
