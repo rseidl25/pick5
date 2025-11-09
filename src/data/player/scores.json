@@ -1150,7 +1150,7 @@
             "bonus": false
           },
           "New Orleans Saints": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
@@ -1162,7 +1162,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week11": {
         "teams": {
@@ -1365,7 +1365,7 @@
         "total": 0
       }
     },
-    "overall_score": 383
+    "overall_score": 393
   },
   "D2fLoPEINITIuA9oJNB8ybVaOps2": {
     "name": "Kalysta",
