@@ -1263,15 +1263,6 @@
     "week": 10,
     "games": [
       {
-        "homeTeam": "Indianapolis Colts",
-        "homeScore": 25,
-        "awayTeam": "Atlanta Falcons",
-        "awayScore": 25,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Chicago Bears",
         "homeScore": 0,
         "awayTeam": "New York Giants",
@@ -1369,6 +1360,15 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Indianapolis Colts",
+        "homeScore": 31,
+        "awayTeam": "Atlanta Falcons",
+        "awayScore": 25,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Denver Broncos",
