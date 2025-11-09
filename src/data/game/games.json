@@ -1273,7 +1273,7 @@
       },
       {
         "homeTeam": "Miami Dolphins",
-        "homeScore": 13,
+        "homeScore": 16,
         "awayTeam": "Buffalo Bills",
         "awayScore": 0,
         "weekday": "Sunday",
@@ -1284,7 +1284,7 @@
         "homeTeam": "Minnesota Vikings",
         "homeScore": 10,
         "awayTeam": "Baltimore Ravens",
-        "awayScore": 3,
+        "awayScore": 6,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1293,14 +1293,14 @@
         "homeTeam": "New York Jets",
         "homeScore": 14,
         "awayTeam": "Cleveland Browns",
-        "awayScore": 7,
+        "awayScore": 14,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Tampa Bay Buccaneers",
-        "homeScore": 7,
+        "homeScore": 10,
         "awayTeam": "New England Patriots",
         "awayScore": 7,
         "weekday": "Sunday",
@@ -1318,7 +1318,7 @@
       },
       {
         "homeTeam": "Houston Texans",
-        "homeScore": 0,
+        "homeScore": 3,
         "awayTeam": "Jacksonville Jaguars",
         "awayScore": 17,
         "weekday": "Sunday",
