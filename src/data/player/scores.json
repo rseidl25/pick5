@@ -2070,11 +2070,11 @@
             "bonus": false
           },
           "New York Jets": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week11": {
         "teams": {
@@ -2277,7 +2277,7 @@
         "total": 0
       }
     },
-    "overall_score": 550
+    "overall_score": 560
   },
   "Fn25s976WxT6gML22x8yJsQ33PM2": {
     "name": "Milly",
@@ -6174,11 +6174,11 @@
             "bonus": false
           },
           "New York Jets": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week11": {
         "teams": {
@@ -6381,7 +6381,7 @@
         "total": 0
       }
     },
-    "overall_score": 485
+    "overall_score": 495
   },
   "jydlml7YsWe72ieLWGDFhuxY3Nb2": {
     "name": "Cal",
@@ -6626,7 +6626,7 @@
             "bonus": false
           },
           "New York Jets": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
@@ -6634,7 +6634,7 @@
             "bonus": true
           }
         },
-        "total": 0
+        "total": 10
       },
       "week11": {
         "teams": {
@@ -6837,7 +6837,7 @@
         "total": 0
       }
     },
-    "overall_score": 408
+    "overall_score": 418
   },
   "tinL2DkOXZTYEdYZDlT3cQzk6Yi2": {
     "name": "Lauren",
