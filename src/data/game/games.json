@@ -1264,7 +1264,7 @@
     "games": [
       {
         "homeTeam": "Seattle Seahawks",
-        "homeScore": 14,
+        "homeScore": 21,
         "awayTeam": "Arizona Cardinals",
         "awayScore": 0,
         "weekday": "Sunday",
@@ -1284,7 +1284,7 @@
         "homeTeam": "Washington Commanders",
         "homeScore": 0,
         "awayTeam": "Detroit Lions",
-        "awayScore": 0,
+        "awayScore": 7,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1297,15 +1297,6 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
-      },
-      {
-        "homeTeam": "Houston Texans",
-        "homeScore": 36,
-        "awayTeam": "Jacksonville Jaguars",
-        "awayScore": 29,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Completed"
       },
       {
         "homeTeam": "Indianapolis Colts",
@@ -1366,6 +1357,15 @@
         "homeScore": 7,
         "awayTeam": "New Orleans Saints",
         "awayScore": 17,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Houston Texans",
+        "homeScore": 36,
+        "awayTeam": "Jacksonville Jaguars",
+        "awayScore": 29,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
