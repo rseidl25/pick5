@@ -1263,26 +1263,8 @@
     "week": 10,
     "games": [
       {
-        "homeTeam": "Chicago Bears",
-        "homeScore": 24,
-        "awayTeam": "New York Giants",
-        "awayScore": 20,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Minnesota Vikings",
-        "homeScore": 19,
-        "awayTeam": "Baltimore Ravens",
-        "awayScore": 27,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Houston Texans",
-        "homeScore": 24,
+        "homeScore": 30,
         "awayTeam": "Jacksonville Jaguars",
         "awayScore": 29,
         "weekday": "Sunday",
@@ -1291,7 +1273,7 @@
       },
       {
         "homeTeam": "Seattle Seahawks",
-        "homeScore": 0,
+        "homeScore": 14,
         "awayTeam": "Arizona Cardinals",
         "awayScore": 0,
         "weekday": "Sunday",
@@ -1305,7 +1287,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Washington Commanders",
@@ -1314,7 +1296,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Los Angeles Chargers",
@@ -1335,10 +1317,28 @@
         "status": "Completed"
       },
       {
+        "homeTeam": "Chicago Bears",
+        "homeScore": 24,
+        "awayTeam": "New York Giants",
+        "awayScore": 20,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
         "homeTeam": "Miami Dolphins",
         "homeScore": 30,
         "awayTeam": "Buffalo Bills",
         "awayScore": 13,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Minnesota Vikings",
+        "homeScore": 19,
+        "awayTeam": "Baltimore Ravens",
+        "awayScore": 27,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
