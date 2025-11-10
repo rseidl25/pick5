@@ -1263,6 +1263,24 @@
     "week": 10,
     "games": [
       {
+        "homeTeam": "Green Bay Packers",
+        "homeScore": 0,
+        "awayTeam": "Philadelphia Eagles",
+        "awayScore": 0,
+        "weekday": "Monday",
+        "gameTime": null,
+        "status": "Preview"
+      },
+      {
+        "homeTeam": "Denver Broncos",
+        "homeScore": 10,
+        "awayTeam": "Las Vegas Raiders",
+        "awayScore": 7,
+        "weekday": "Thursday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
         "homeTeam": "Indianapolis Colts",
         "homeScore": 31,
         "awayTeam": "Atlanta Falcons",
@@ -1369,24 +1387,6 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
-      },
-      {
-        "homeTeam": "Denver Broncos",
-        "homeScore": 10,
-        "awayTeam": "Las Vegas Raiders",
-        "awayScore": 7,
-        "weekday": "Thursday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
-        "homeTeam": "Green Bay Packers",
-        "homeScore": 0,
-        "awayTeam": "Philadelphia Eagles",
-        "awayScore": 0,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Preview"
       }
     ]
   },
