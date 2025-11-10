@@ -234,7 +234,7 @@
             "bonus": true
           },
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
@@ -250,7 +250,7 @@
             "bonus": false
           }
         },
-        "total": 56
+        "total": 66
       },
       "week11": {
         "teams": {
@@ -453,7 +453,7 @@
         "total": 0
       }
     },
-    "overall_score": 539
+    "overall_score": 549
   },
   "A5dssZETIMhNd0WYKQamFxxb9Ak2": {
     "name": "Judy Phillip",
@@ -698,15 +698,15 @@
             "bonus": false
           },
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Detroit Lions": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 46
+        "total": 66
       },
       "week11": {
         "teams": {
@@ -909,7 +909,7 @@
         "total": 0
       }
     },
-    "overall_score": 635
+    "overall_score": 655
   },
   "AmEIaRh92vdP40uVAseDWGxcZBM2": {
     "name": "Brett Sievwright",
@@ -1142,7 +1142,7 @@
       "week10": {
         "teams": {
           "Seattle Seahawks": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Houston Texans": {
@@ -1162,7 +1162,7 @@
             "bonus": false
           }
         },
-        "total": 67
+        "total": 77
       },
       "week11": {
         "teams": {
@@ -1365,7 +1365,7 @@
         "total": 0
       }
     },
-    "overall_score": 440
+    "overall_score": 450
   },
   "D2fLoPEINITIuA9oJNB8ybVaOps2": {
     "name": "Kalysta",
@@ -1610,7 +1610,7 @@
             "bonus": true
           },
           "Seattle Seahawks": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Denver Broncos": {
@@ -1618,7 +1618,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week11": {
         "teams": {
@@ -1821,7 +1821,7 @@
         "total": 0
       }
     },
-    "overall_score": 413
+    "overall_score": 423
   },
   "FkbsYIXzm7TorvwE2qbaTiKsrmi1": {
     "name": "Steve",
@@ -2514,7 +2514,7 @@
             "bonus": false
           },
           "Seattle Seahawks": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
@@ -2530,7 +2530,7 @@
             "bonus": true
           }
         },
-        "total": 46
+        "total": 56
       },
       "week11": {
         "teams": {
@@ -2733,7 +2733,7 @@
         "total": 0
       }
     },
-    "overall_score": 453
+    "overall_score": 463
   },
   "K9X8fKAf1bNvZjJH0jM9eO2uobP2": {
     "name": "Bryan",
@@ -2982,11 +2982,11 @@
             "bonus": false
           },
           "Detroit Lions": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 20
+        "total": 30
       },
       "week11": {
         "teams": {
@@ -3189,7 +3189,7 @@
         "total": 0
       }
     },
-    "overall_score": 565
+    "overall_score": 575
   },
   "LKY6YytQUfbPzmcw2yfIYm0XEQD2": {
     "name": "Smelly Kelly",

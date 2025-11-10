@@ -1263,33 +1263,6 @@
     "week": 10,
     "games": [
       {
-        "homeTeam": "Seattle Seahawks",
-        "homeScore": 41,
-        "awayTeam": "Arizona Cardinals",
-        "awayScore": 15,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "San Francisco 49ers",
-        "homeScore": 20,
-        "awayTeam": "Los Angeles Rams",
-        "awayScore": 35,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Washington Commanders",
-        "homeScore": 16,
-        "awayTeam": "Detroit Lions",
-        "awayScore": 41,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Los Angeles Chargers",
         "homeScore": 0,
         "awayTeam": "Pittsburgh Steelers",
@@ -1366,6 +1339,33 @@
         "homeScore": 36,
         "awayTeam": "Jacksonville Jaguars",
         "awayScore": 29,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Seattle Seahawks",
+        "homeScore": 44,
+        "awayTeam": "Arizona Cardinals",
+        "awayScore": 22,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "San Francisco 49ers",
+        "homeScore": 26,
+        "awayTeam": "Los Angeles Rams",
+        "awayScore": 42,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Washington Commanders",
+        "homeScore": 22,
+        "awayTeam": "Detroit Lions",
+        "awayScore": 44,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
