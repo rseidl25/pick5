@@ -1602,7 +1602,7 @@
             "bonus": false
           },
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
@@ -1618,7 +1618,7 @@
             "bonus": false
           }
         },
-        "total": 20
+        "total": 30
       },
       "week11": {
         "teams": {
@@ -1821,7 +1821,7 @@
         "total": 0
       }
     },
-    "overall_score": 423
+    "overall_score": 433
   },
   "FkbsYIXzm7TorvwE2qbaTiKsrmi1": {
     "name": "Steve",
@@ -2510,7 +2510,7 @@
       "week10": {
         "teams": {
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Seattle Seahawks": {
@@ -2530,7 +2530,7 @@
             "bonus": true
           }
         },
-        "total": 56
+        "total": 66
       },
       "week11": {
         "teams": {
@@ -2733,7 +2733,7 @@
         "total": 0
       }
     },
-    "overall_score": 463
+    "overall_score": 473
   },
   "K9X8fKAf1bNvZjJH0jM9eO2uobP2": {
     "name": "Bryan",
@@ -3434,7 +3434,7 @@
             "bonus": true
           },
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
@@ -3442,7 +3442,7 @@
             "bonus": false
           }
         },
-        "total": 56
+        "total": 66
       },
       "week11": {
         "teams": {
@@ -3645,7 +3645,7 @@
         "total": 0
       }
     },
-    "overall_score": 580
+    "overall_score": 590
   },
   "NluZaqiuGKRzhuir9Jfu5uKRm302": {
     "name": "Angie Phillip",
@@ -5710,7 +5710,7 @@
             "bonus": true
           },
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
@@ -5722,7 +5722,7 @@
             "bonus": false
           }
         },
-        "total": 66
+        "total": 76
       },
       "week11": {
         "teams": {
@@ -5925,7 +5925,7 @@
         "total": 0
       }
     },
-    "overall_score": 465
+    "overall_score": 475
   },
   "hR9aypGuwBfk5pE5MwNjxEvfkh43": {
     "name": "Ryan",
@@ -6170,7 +6170,7 @@
             "bonus": true
           },
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "New York Jets": {
@@ -6178,7 +6178,7 @@
             "bonus": false
           }
         },
-        "total": 66
+        "total": 76
       },
       "week11": {
         "teams": {
@@ -6381,7 +6381,7 @@
         "total": 0
       }
     },
-    "overall_score": 541
+    "overall_score": 551
   },
   "jydlml7YsWe72ieLWGDFhuxY3Nb2": {
     "name": "Cal",
@@ -6618,7 +6618,7 @@
             "bonus": false
           },
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
@@ -6634,7 +6634,7 @@
             "bonus": true
           }
         },
-        "total": 20
+        "total": 30
       },
       "week11": {
         "teams": {
@@ -6837,7 +6837,7 @@
         "total": 0
       }
     },
-    "overall_score": 428
+    "overall_score": 438
   },
   "tinL2DkOXZTYEdYZDlT3cQzk6Yi2": {
     "name": "Lauren",
