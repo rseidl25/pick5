@@ -1264,9 +1264,9 @@
     "games": [
       {
         "homeTeam": "Green Bay Packers",
-        "homeScore": 0,
+        "homeScore": 7,
         "awayTeam": "Philadelphia Eagles",
-        "awayScore": 3,
+        "awayScore": 10,
         "weekday": "Monday",
         "gameTime": null,
         "status": "In Progress"
