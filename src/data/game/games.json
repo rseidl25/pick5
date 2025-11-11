@@ -1263,15 +1263,6 @@
     "week": 10,
     "games": [
       {
-        "homeTeam": "Green Bay Packers",
-        "homeScore": 7,
-        "awayTeam": "Philadelphia Eagles",
-        "awayScore": 10,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "Denver Broncos",
         "homeScore": 10,
         "awayTeam": "Las Vegas Raiders",
@@ -1385,6 +1376,15 @@
         "awayTeam": "Pittsburgh Steelers",
         "awayScore": 10,
         "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Green Bay Packers",
+        "homeScore": 7,
+        "awayTeam": "Philadelphia Eagles",
+        "awayScore": 10,
+        "weekday": "Monday",
         "gameTime": null,
         "status": "Completed"
       }
