@@ -4798,7 +4798,7 @@
             "bonus": false
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
@@ -4810,7 +4810,7 @@
             "bonus": false
           }
         },
-        "total": 40
+        "total": 50
       },
       "week11": {
         "teams": {
@@ -5013,7 +5013,7 @@
         "total": 0
       }
     },
-    "overall_score": 526
+    "overall_score": 536
   },
   "dac8Eg3ax4PxQl7aSydfS9lAWv23": {
     "name": "Ben",
