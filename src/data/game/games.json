@@ -1395,9 +1395,9 @@
     "games": [
       {
         "homeTeam": "New England Patriots",
-        "homeScore": 14,
+        "homeScore": 24,
         "awayTeam": "New York Jets",
-        "awayScore": 7,
+        "awayScore": 14,
         "weekday": "Thursday",
         "gameTime": null,
         "status": "In Progress"
