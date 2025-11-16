@@ -255,7 +255,7 @@
       "week11": {
         "teams": {
           "Green Bay Packers": {
-            "points": 0,
+            "points": 37,
             "bonus": true
           },
           "Washington Commanders": {
@@ -275,7 +275,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 37
       },
       "week12": {
         "teams": {
@@ -453,7 +453,7 @@
         "total": 0
       }
     },
-    "overall_score": 549
+    "overall_score": 586
   },
   "A5dssZETIMhNd0WYKQamFxxb9Ak2": {
     "name": "Judy Phillip",
@@ -711,7 +711,7 @@
       "week11": {
         "teams": {
           "Green Bay Packers": {
-            "points": 0,
+            "points": 37,
             "bonus": true
           },
           "Minnesota Vikings": {
@@ -723,7 +723,7 @@
             "bonus": false
           },
           "Houston Texans": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
@@ -731,7 +731,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 47
       },
       "week12": {
         "teams": {
@@ -909,7 +909,7 @@
         "total": 0
       }
     },
-    "overall_score": 655
+    "overall_score": 702
   },
   "AmEIaRh92vdP40uVAseDWGxcZBM2": {
     "name": "Brett Sievwright",
@@ -1171,7 +1171,7 @@
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
@@ -1187,7 +1187,7 @@
             "bonus": true
           }
         },
-        "total": 0
+        "total": 10
       },
       "week12": {
         "teams": {
@@ -1365,7 +1365,7 @@
         "total": 0
       }
     },
-    "overall_score": 450
+    "overall_score": 460
   },
   "D2fLoPEINITIuA9oJNB8ybVaOps2": {
     "name": "Kalysta",
@@ -1627,7 +1627,7 @@
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
@@ -1643,7 +1643,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week12": {
         "teams": {
@@ -1821,7 +1821,7 @@
         "total": 0
       }
     },
-    "overall_score": 433
+    "overall_score": 443
   },
   "FkbsYIXzm7TorvwE2qbaTiKsrmi1": {
     "name": "Steve",
@@ -2083,7 +2083,7 @@
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Los Angeles Chargers": {
@@ -2099,7 +2099,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week12": {
         "teams": {
@@ -2277,7 +2277,7 @@
         "total": 0
       }
     },
-    "overall_score": 616
+    "overall_score": 626
   },
   "Fn25s976WxT6gML22x8yJsQ33PM2": {
     "name": "Milly",
@@ -2539,7 +2539,7 @@
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
@@ -2555,7 +2555,7 @@
             "bonus": true
           }
         },
-        "total": 0
+        "total": 10
       },
       "week12": {
         "teams": {
@@ -2733,7 +2733,7 @@
         "total": 0
       }
     },
-    "overall_score": 473
+    "overall_score": 483
   },
   "K9X8fKAf1bNvZjJH0jM9eO2uobP2": {
     "name": "Bryan",
@@ -2991,7 +2991,7 @@
       "week11": {
         "teams": {
           "Houston Texans": {
-            "points": 0,
+            "points": 26,
             "bonus": true
           },
           "Baltimore Ravens": {
@@ -3003,7 +3003,7 @@
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Los Angeles Chargers": {
@@ -3011,7 +3011,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 36
       },
       "week12": {
         "teams": {
@@ -3189,7 +3189,7 @@
         "total": 0
       }
     },
-    "overall_score": 575
+    "overall_score": 611
   },
   "LKY6YytQUfbPzmcw2yfIYm0XEQD2": {
     "name": "Smelly Kelly",
@@ -3907,11 +3907,11 @@
             "bonus": false
           },
           "Houston Texans": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 37,
             "bonus": true
           },
           "Los Angeles Rams": {
@@ -3923,7 +3923,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 47
       },
       "week12": {
         "teams": {
@@ -4101,7 +4101,7 @@
         "total": 0
       }
     },
-    "overall_score": 561
+    "overall_score": 608
   },
   "US8t7rlGTXV5t8M3K8OWB2kzQo93": {
     "name": "Sam",
@@ -4363,7 +4363,7 @@
             "bonus": false
           },
           "Houston Texans": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Dallas Cowboys": {
@@ -4375,11 +4375,11 @@
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 20
       },
       "week12": {
         "teams": {
@@ -4557,7 +4557,7 @@
         "total": 0
       }
     },
-    "overall_score": 606
+    "overall_score": 626
   },
   "XKPW7eAMivNTYBrIivGGT9DFV022": {
     "name": "Joey",
@@ -5279,11 +5279,11 @@
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Houston Texans": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Kansas City Chiefs": {
@@ -5291,7 +5291,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 20
       },
       "week12": {
         "teams": {
@@ -5469,7 +5469,7 @@
         "total": 0
       }
     },
-    "overall_score": 535
+    "overall_score": 555
   },
   "hELkxczX1UerNFvp4fpORxqLr9X2": {
     "name": "PP",
@@ -5731,11 +5731,11 @@
             "bonus": true
           },
           "Houston Texans": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Kansas City Chiefs": {
@@ -5747,7 +5747,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 20
       },
       "week12": {
         "teams": {
@@ -5925,7 +5925,7 @@
         "total": 0
       }
     },
-    "overall_score": 475
+    "overall_score": 495
   },
   "hR9aypGuwBfk5pE5MwNjxEvfkh43": {
     "name": "Ryan",
@@ -6183,7 +6183,7 @@
       "week11": {
         "teams": {
           "Houston Texans": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Los Angeles Chargers": {
@@ -6203,7 +6203,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week12": {
         "teams": {
@@ -6381,7 +6381,7 @@
         "total": 0
       }
     },
-    "overall_score": 551
+    "overall_score": 561
   },
   "jydlml7YsWe72ieLWGDFhuxY3Nb2": {
     "name": "Cal",
@@ -6655,11 +6655,11 @@
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week12": {
         "teams": {
@@ -6837,7 +6837,7 @@
         "total": 0
       }
     },
-    "overall_score": 438
+    "overall_score": 448
   },
   "tinL2DkOXZTYEdYZDlT3cQzk6Yi2": {
     "name": "Lauren",
@@ -7099,7 +7099,7 @@
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Washington Commanders": {
@@ -7107,7 +7107,7 @@
             "bonus": false
           },
           "Houston Texans": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Los Angeles Chargers": {
@@ -7115,7 +7115,7 @@
             "bonus": true
           }
         },
-        "total": 0
+        "total": 20
       },
       "week12": {
         "teams": {
@@ -7293,7 +7293,7 @@
         "total": 0
       }
     },
-    "overall_score": 595
+    "overall_score": 615
   },
   "u8geiYcJqpcTBRxAtLVB5QKA8Ii2": {
     "name": "Lisa: Certified League Wrecker",
@@ -7559,7 +7559,7 @@
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
@@ -7567,11 +7567,11 @@
             "bonus": false
           },
           "Houston Texans": {
-            "points": 0,
+            "points": 26,
             "bonus": true
           }
         },
-        "total": 0
+        "total": 36
       },
       "week12": {
         "teams": {
@@ -7749,6 +7749,6 @@
         "total": 0
       }
     },
-    "overall_score": 545
+    "overall_score": 581
   }
 }
