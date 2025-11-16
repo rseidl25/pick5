@@ -1395,12 +1395,12 @@
     "games": [
       {
         "homeTeam": "Miami Dolphins",
-        "homeScore": 0,
+        "homeScore": 3,
         "awayTeam": "Washington Commanders",
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Atlanta Falcons",
