@@ -1406,14 +1406,14 @@
         "homeTeam": "Arizona Cardinals",
         "homeScore": 10,
         "awayTeam": "San Francisco 49ers",
-        "awayScore": 22,
+        "awayScore": 25,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Cleveland Browns",
-        "homeScore": 13,
+        "homeScore": 16,
         "awayTeam": "Baltimore Ravens",
         "awayScore": 10,
         "weekday": "Sunday",
