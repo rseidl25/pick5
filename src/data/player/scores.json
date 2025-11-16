@@ -1167,7 +1167,7 @@
       "week11": {
         "teams": {
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Green Bay Packers": {
@@ -1187,7 +1187,7 @@
             "bonus": true
           }
         },
-        "total": 10
+        "total": 20
       },
       "week12": {
         "teams": {
@@ -1365,7 +1365,7 @@
         "total": 0
       }
     },
-    "overall_score": 460
+    "overall_score": 470
   },
   "D2fLoPEINITIuA9oJNB8ybVaOps2": {
     "name": "Kalysta",
@@ -2079,7 +2079,7 @@
       "week11": {
         "teams": {
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Green Bay Packers": {
@@ -2099,7 +2099,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week12": {
         "teams": {
@@ -2277,7 +2277,7 @@
         "total": 0
       }
     },
-    "overall_score": 626
+    "overall_score": 636
   },
   "Fn25s976WxT6gML22x8yJsQ33PM2": {
     "name": "Milly",
@@ -2543,7 +2543,7 @@
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Washington Commanders": {
@@ -2555,7 +2555,7 @@
             "bonus": true
           }
         },
-        "total": 10
+        "total": 20
       },
       "week12": {
         "teams": {
@@ -2733,7 +2733,7 @@
         "total": 0
       }
     },
-    "overall_score": 483
+    "overall_score": 493
   },
   "K9X8fKAf1bNvZjJH0jM9eO2uobP2": {
     "name": "Bryan",
@@ -4819,7 +4819,7 @@
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Dallas Cowboys": {
@@ -4835,7 +4835,7 @@
             "bonus": true
           }
         },
-        "total": 0
+        "total": 10
       },
       "week12": {
         "teams": {
@@ -5013,7 +5013,7 @@
         "total": 0
       }
     },
-    "overall_score": 536
+    "overall_score": 546
   },
   "dac8Eg3ax4PxQl7aSydfS9lAWv23": {
     "name": "Ben",

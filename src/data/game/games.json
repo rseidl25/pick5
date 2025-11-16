@@ -1395,34 +1395,16 @@
     "games": [
       {
         "homeTeam": "Atlanta Falcons",
-        "homeScore": 24,
+        "homeScore": 27,
         "awayTeam": "Carolina Panthers",
-        "awayScore": 19,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Buffalo Bills",
-        "homeScore": 44,
-        "awayTeam": "Tampa Bay Buccaneers",
-        "awayScore": 32,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Pittsburgh Steelers",
-        "homeScore": 34,
-        "awayTeam": "Cincinnati Bengals",
-        "awayScore": 12,
+        "awayScore": 27,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Los Angeles Rams",
-        "homeScore": 0,
+        "homeScore": 7,
         "awayTeam": "Seattle Seahawks",
         "awayScore": 0,
         "weekday": "Sunday",
@@ -1433,7 +1415,7 @@
         "homeTeam": "Arizona Cardinals",
         "homeScore": 0,
         "awayTeam": "San Francisco 49ers",
-        "awayScore": 7,
+        "awayScore": 13,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1445,7 +1427,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Denver Broncos",
@@ -1454,7 +1436,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Philadelphia Eagles",
@@ -1464,6 +1446,24 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Buffalo Bills",
+        "homeScore": 44,
+        "awayTeam": "Tampa Bay Buccaneers",
+        "awayScore": 32,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Miami Dolphins",
+        "homeScore": 16,
+        "awayTeam": "Washington Commanders",
+        "awayScore": 13,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Tennessee Titans",
@@ -1493,10 +1493,10 @@
         "status": "Completed"
       },
       {
-        "homeTeam": "Miami Dolphins",
-        "homeScore": 16,
-        "awayTeam": "Washington Commanders",
-        "awayScore": 13,
+        "homeTeam": "Pittsburgh Steelers",
+        "homeScore": 34,
+        "awayTeam": "Cincinnati Bengals",
+        "awayScore": 12,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
