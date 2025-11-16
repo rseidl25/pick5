@@ -1397,7 +1397,7 @@
         "homeTeam": "Los Angeles Rams",
         "homeScore": 14,
         "awayTeam": "Seattle Seahawks",
-        "awayScore": 6,
+        "awayScore": 9,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1406,16 +1406,16 @@
         "homeTeam": "Arizona Cardinals",
         "homeScore": 10,
         "awayTeam": "San Francisco 49ers",
-        "awayScore": 19,
+        "awayScore": 22,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Cleveland Browns",
-        "homeScore": 6,
+        "homeScore": 13,
         "awayTeam": "Baltimore Ravens",
-        "awayScore": 3,
+        "awayScore": 10,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1424,7 +1424,7 @@
         "homeTeam": "Denver Broncos",
         "homeScore": 6,
         "awayTeam": "Kansas City Chiefs",
-        "awayScore": 3,
+        "awayScore": 6,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
