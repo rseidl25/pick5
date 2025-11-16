@@ -1394,15 +1394,6 @@
     "week": 11,
     "games": [
       {
-        "homeTeam": "Miami Dolphins",
-        "homeScore": 13,
-        "awayTeam": "Washington Commanders",
-        "awayScore": 13,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Atlanta Falcons",
         "homeScore": 0,
         "awayTeam": "Carolina Panthers",
@@ -1509,6 +1500,15 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Miami Dolphins",
+        "homeScore": 16,
+        "awayTeam": "Washington Commanders",
+        "awayScore": 13,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "New England Patriots",
