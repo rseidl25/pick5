@@ -1406,7 +1406,7 @@
         "homeTeam": "Buffalo Bills",
         "homeScore": 14,
         "awayTeam": "Tampa Bay Buccaneers",
-        "awayScore": 10,
+        "awayScore": 17,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1424,7 +1424,7 @@
         "homeTeam": "Minnesota Vikings",
         "homeScore": 3,
         "awayTeam": "Chicago Bears",
-        "awayScore": 0,
+        "awayScore": 7,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1433,7 +1433,7 @@
         "homeTeam": "New York Giants",
         "homeScore": 7,
         "awayTeam": "Green Bay Packers",
-        "awayScore": 6,
+        "awayScore": 13,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1449,7 +1449,7 @@
       },
       {
         "homeTeam": "Jacksonville Jaguars",
-        "homeScore": 7,
+        "homeScore": 14,
         "awayTeam": "Los Angeles Chargers",
         "awayScore": 6,
         "weekday": "Sunday",
