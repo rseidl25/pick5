@@ -1395,7 +1395,7 @@
     "games": [
       {
         "homeTeam": "Los Angeles Rams",
-        "homeScore": 7,
+        "homeScore": 14,
         "awayTeam": "Seattle Seahawks",
         "awayScore": 3,
         "weekday": "Sunday",
@@ -1415,7 +1415,7 @@
         "homeTeam": "Cleveland Browns",
         "homeScore": 0,
         "awayTeam": "Baltimore Ravens",
-        "awayScore": 0,
+        "awayScore": 3,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
