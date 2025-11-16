@@ -1406,7 +1406,7 @@
         "homeTeam": "Buffalo Bills",
         "homeScore": 31,
         "awayTeam": "Tampa Bay Buccaneers",
-        "awayScore": 26,
+        "awayScore": 32,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1431,7 +1431,7 @@
       },
       {
         "homeTeam": "New York Giants",
-        "homeScore": 13,
+        "homeScore": 20,
         "awayTeam": "Green Bay Packers",
         "awayScore": 19,
         "weekday": "Sunday",
@@ -1442,7 +1442,7 @@
         "homeTeam": "Pittsburgh Steelers",
         "homeScore": 20,
         "awayTeam": "Cincinnati Bengals",
-        "awayScore": 9,
+        "awayScore": 12,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
