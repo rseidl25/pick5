@@ -1394,26 +1394,17 @@
     "week": 11,
     "games": [
       {
-        "homeTeam": "Atlanta Falcons",
-        "homeScore": 27,
-        "awayTeam": "Carolina Panthers",
-        "awayScore": 27,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Los Angeles Rams",
         "homeScore": 7,
         "awayTeam": "Seattle Seahawks",
-        "awayScore": 0,
+        "awayScore": 3,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Arizona Cardinals",
-        "homeScore": 0,
+        "homeScore": 7,
         "awayTeam": "San Francisco 49ers",
         "awayScore": 13,
         "weekday": "Sunday",
@@ -1431,7 +1422,7 @@
       },
       {
         "homeTeam": "Denver Broncos",
-        "homeScore": 0,
+        "homeScore": 3,
         "awayTeam": "Kansas City Chiefs",
         "awayScore": 0,
         "weekday": "Sunday",
@@ -1448,10 +1439,10 @@
         "status": "Preview"
       },
       {
-        "homeTeam": "Buffalo Bills",
-        "homeScore": 44,
-        "awayTeam": "Tampa Bay Buccaneers",
-        "awayScore": 32,
+        "homeTeam": "Atlanta Falcons",
+        "homeScore": 27,
+        "awayTeam": "Carolina Panthers",
+        "awayScore": 30,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
@@ -1461,6 +1452,15 @@
         "homeScore": 16,
         "awayTeam": "Washington Commanders",
         "awayScore": 13,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Buffalo Bills",
+        "homeScore": 44,
+        "awayTeam": "Tampa Bay Buccaneers",
+        "awayScore": 32,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
