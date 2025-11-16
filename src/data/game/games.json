@@ -1395,16 +1395,16 @@
     "games": [
       {
         "homeTeam": "Atlanta Falcons",
-        "homeScore": 14,
+        "homeScore": 21,
         "awayTeam": "Carolina Panthers",
-        "awayScore": 7,
+        "awayScore": 10,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Buffalo Bills",
-        "homeScore": 14,
+        "homeScore": 21,
         "awayTeam": "Tampa Bay Buccaneers",
         "awayScore": 17,
         "weekday": "Sunday",
@@ -1424,14 +1424,14 @@
         "homeTeam": "Minnesota Vikings",
         "homeScore": 3,
         "awayTeam": "Chicago Bears",
-        "awayScore": 7,
+        "awayScore": 10,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "New York Giants",
-        "homeScore": 7,
+        "homeScore": 13,
         "awayTeam": "Green Bay Packers",
         "awayScore": 13,
         "weekday": "Sunday",
