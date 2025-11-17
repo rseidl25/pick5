@@ -1394,6 +1394,24 @@
     "week": 11,
     "games": [
       {
+        "homeTeam": "Las Vegas Raiders",
+        "homeScore": 0,
+        "awayTeam": "Dallas Cowboys",
+        "awayScore": 0,
+        "weekday": "Monday",
+        "gameTime": null,
+        "status": "Preview"
+      },
+      {
+        "homeTeam": "New England Patriots",
+        "homeScore": 27,
+        "awayTeam": "New York Jets",
+        "awayScore": 14,
+        "weekday": "Thursday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
         "homeTeam": "Miami Dolphins",
         "homeScore": 16,
         "awayTeam": "Washington Commanders",
@@ -1509,24 +1527,6 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
-      },
-      {
-        "homeTeam": "New England Patriots",
-        "homeScore": 27,
-        "awayTeam": "New York Jets",
-        "awayScore": 14,
-        "weekday": "Thursday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
-        "homeTeam": "Las Vegas Raiders",
-        "homeScore": 0,
-        "awayTeam": "Dallas Cowboys",
-        "awayScore": 0,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Preview"
       }
     ]
   },
