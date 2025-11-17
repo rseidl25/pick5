@@ -1394,42 +1394,6 @@
     "week": 11,
     "games": [
       {
-        "homeTeam": "Los Angeles Rams",
-        "homeScore": 21,
-        "awayTeam": "Seattle Seahawks",
-        "awayScore": 19,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Arizona Cardinals",
-        "homeScore": 16,
-        "awayTeam": "San Francisco 49ers",
-        "awayScore": 35,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Cleveland Browns",
-        "homeScore": 16,
-        "awayTeam": "Baltimore Ravens",
-        "awayScore": 13,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Denver Broncos",
-        "homeScore": 16,
-        "awayTeam": "Kansas City Chiefs",
-        "awayScore": 13,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Philadelphia Eagles",
         "homeScore": 0,
         "awayTeam": "Detroit Lions",
@@ -1506,6 +1470,42 @@
         "homeScore": 35,
         "awayTeam": "Los Angeles Chargers",
         "awayScore": 6,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Los Angeles Rams",
+        "homeScore": 21,
+        "awayTeam": "Seattle Seahawks",
+        "awayScore": 19,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Arizona Cardinals",
+        "homeScore": 22,
+        "awayTeam": "San Francisco 49ers",
+        "awayScore": 41,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Cleveland Browns",
+        "homeScore": 16,
+        "awayTeam": "Baltimore Ravens",
+        "awayScore": 23,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Denver Broncos",
+        "homeScore": 22,
+        "awayTeam": "Kansas City Chiefs",
+        "awayScore": 19,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
