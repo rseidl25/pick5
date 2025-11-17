@@ -1394,15 +1394,6 @@
     "week": 11,
     "games": [
       {
-        "homeTeam": "Philadelphia Eagles",
-        "homeScore": 16,
-        "awayTeam": "Detroit Lions",
-        "awayScore": 9,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "Miami Dolphins",
         "homeScore": 16,
         "awayTeam": "Washington Commanders",
@@ -1506,6 +1497,15 @@
         "homeScore": 22,
         "awayTeam": "Kansas City Chiefs",
         "awayScore": 19,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Philadelphia Eagles",
+        "homeScore": 16,
+        "awayTeam": "Detroit Lions",
+        "awayScore": 9,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
