@@ -1397,10 +1397,10 @@
         "homeTeam": "Philadelphia Eagles",
         "homeScore": 16,
         "awayTeam": "Detroit Lions",
-        "awayScore": 6,
+        "awayScore": 9,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "In Progress"
+        "status": "Completed"
       },
       {
         "homeTeam": "Miami Dolphins",
