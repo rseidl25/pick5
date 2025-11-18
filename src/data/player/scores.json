@@ -1183,11 +1183,11 @@
             "bonus": false
           },
           "Dallas Cowboys": {
-            "points": 0,
+            "points": 43,
             "bonus": true
           }
         },
-        "total": 30
+        "total": 73
       },
       "week12": {
         "teams": {
@@ -1365,7 +1365,7 @@
         "total": 0
       }
     },
-    "overall_score": 480
+    "overall_score": 523
   },
   "D2fLoPEINITIuA9oJNB8ybVaOps2": {
     "name": "Kalysta",
@@ -1635,7 +1635,7 @@
             "bonus": false
           },
           "Dallas Cowboys": {
-            "points": 0,
+            "points": 43,
             "bonus": true
           },
           "Cincinnati Bengals": {
@@ -1643,7 +1643,7 @@
             "bonus": false
           }
         },
-        "total": 20
+        "total": 63
       },
       "week12": {
         "teams": {
@@ -1821,7 +1821,7 @@
         "total": 0
       }
     },
-    "overall_score": 453
+    "overall_score": 496
   },
   "FkbsYIXzm7TorvwE2qbaTiKsrmi1": {
     "name": "Steve",
@@ -3447,7 +3447,7 @@
       "week11": {
         "teams": {
           "Dallas Cowboys": {
-            "points": 0,
+            "points": 43,
             "bonus": true
           },
           "Los Angeles Rams": {
@@ -3467,7 +3467,7 @@
             "bonus": false
           }
         },
-        "total": 20
+        "total": 63
       },
       "week12": {
         "teams": {
@@ -3645,7 +3645,7 @@
         "total": 0
       }
     },
-    "overall_score": 610
+    "overall_score": 653
   },
   "NluZaqiuGKRzhuir9Jfu5uKRm302": {
     "name": "Angie Phillip",
@@ -4367,7 +4367,7 @@
             "bonus": false
           },
           "Dallas Cowboys": {
-            "points": 0,
+            "points": 43,
             "bonus": true
           },
           "San Francisco 49ers": {
@@ -4379,7 +4379,7 @@
             "bonus": false
           }
         },
-        "total": 40
+        "total": 83
       },
       "week12": {
         "teams": {
@@ -4557,7 +4557,7 @@
         "total": 0
       }
     },
-    "overall_score": 646
+    "overall_score": 689
   },
   "XKPW7eAMivNTYBrIivGGT9DFV022": {
     "name": "Joey",
@@ -4823,7 +4823,7 @@
             "bonus": false
           },
           "Dallas Cowboys": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
@@ -4835,7 +4835,7 @@
             "bonus": true
           }
         },
-        "total": 51
+        "total": 61
       },
       "week12": {
         "teams": {
@@ -5013,7 +5013,7 @@
         "total": 0
       }
     },
-    "overall_score": 587
+    "overall_score": 597
   },
   "dac8Eg3ax4PxQl7aSydfS9lAWv23": {
     "name": "Ben",
@@ -6199,11 +6199,11 @@
             "bonus": false
           },
           "Dallas Cowboys": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 30
+        "total": 40
       },
       "week12": {
         "teams": {
@@ -6381,7 +6381,7 @@
         "total": 0
       }
     },
-    "overall_score": 581
+    "overall_score": 591
   },
   "jydlml7YsWe72ieLWGDFhuxY3Nb2": {
     "name": "Cal",
