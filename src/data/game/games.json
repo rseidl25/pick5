@@ -1394,15 +1394,6 @@
     "week": 11,
     "games": [
       {
-        "homeTeam": "Las Vegas Raiders",
-        "homeScore": 16,
-        "awayTeam": "Dallas Cowboys",
-        "awayScore": 33,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "New England Patriots",
         "homeScore": 27,
         "awayTeam": "New York Jets",
@@ -1525,6 +1516,15 @@
         "awayTeam": "Detroit Lions",
         "awayScore": 9,
         "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Las Vegas Raiders",
+        "homeScore": 16,
+        "awayTeam": "Dallas Cowboys",
+        "awayScore": 33,
+        "weekday": "Monday",
         "gameTime": null,
         "status": "Completed"
       }
