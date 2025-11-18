@@ -1395,9 +1395,9 @@
     "games": [
       {
         "homeTeam": "Las Vegas Raiders",
-        "homeScore": 6,
+        "homeScore": 16,
         "awayTeam": "Dallas Cowboys",
-        "awayScore": 24,
+        "awayScore": 31,
         "weekday": "Monday",
         "gameTime": null,
         "status": "In Progress"
