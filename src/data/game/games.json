@@ -1395,12 +1395,12 @@
     "games": [
       {
         "homeTeam": "Las Vegas Raiders",
-        "homeScore": 0,
+        "homeScore": 6,
         "awayTeam": "Dallas Cowboys",
-        "awayScore": 0,
+        "awayScore": 24,
         "weekday": "Monday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "New England Patriots",
