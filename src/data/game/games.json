@@ -1832,18 +1832,18 @@
         "status": "Preview"
       },
       {
-        "homeTeam": "Cleveland Browns",
+        "homeTeam": "Buffalo Bills",
         "homeScore": 0,
-        "awayTeam": "Tennessee Titans",
+        "awayTeam": "Cincinnati Bengals",
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
       },
       {
-        "homeTeam": "Green Bay Packers",
+        "homeTeam": "Cleveland Browns",
         "homeScore": 0,
-        "awayTeam": "Chicago Bears",
+        "awayTeam": "Tennessee Titans",
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
@@ -1904,9 +1904,9 @@
         "status": "Preview"
       },
       {
-        "homeTeam": "Buffalo Bills",
+        "homeTeam": "Green Bay Packers",
         "homeScore": 0,
-        "awayTeam": "Cincinnati Bengals",
+        "awayTeam": "Chicago Bears",
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
