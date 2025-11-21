@@ -1535,12 +1535,12 @@
     "games": [
       {
         "homeTeam": "Houston Texans",
-        "homeScore": 0,
+        "homeScore": 13,
         "awayTeam": "Buffalo Bills",
-        "awayScore": 0,
+        "awayScore": 16,
         "weekday": "Thursday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Chicago Bears",
