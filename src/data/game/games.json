@@ -1546,7 +1546,7 @@
         "homeTeam": "Arizona Cardinals",
         "homeScore": 14,
         "awayTeam": "Jacksonville Jaguars",
-        "awayScore": 10,
+        "awayScore": 17,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1564,7 +1564,7 @@
         "homeTeam": "New Orleans Saints",
         "homeScore": 7,
         "awayTeam": "Atlanta Falcons",
-        "awayScore": 13,
+        "awayScore": 16,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
