@@ -1534,15 +1534,6 @@
     "week": 12,
     "games": [
       {
-        "homeTeam": "Houston Texans",
-        "homeScore": 23,
-        "awayTeam": "Buffalo Bills",
-        "awayScore": 19,
-        "weekday": "Thursday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "Chicago Bears",
         "homeScore": 0,
         "awayTeam": "Pittsburgh Steelers",
@@ -1649,6 +1640,15 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Houston Texans",
+        "homeScore": 23,
+        "awayTeam": "Buffalo Bills",
+        "awayScore": 19,
+        "weekday": "Thursday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "San Francisco 49ers",
