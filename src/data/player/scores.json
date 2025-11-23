@@ -5756,7 +5756,7 @@
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Kansas City Chiefs": {
@@ -5772,7 +5772,7 @@
             "bonus": true
           }
         },
-        "total": 0
+        "total": 10
       },
       "week13": {
         "teams": {
@@ -5925,7 +5925,7 @@
         "total": 0
       }
     },
-    "overall_score": 505
+    "overall_score": 515
   },
   "hR9aypGuwBfk5pE5MwNjxEvfkh43": {
     "name": "Ryan",
