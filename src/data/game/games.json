@@ -1534,26 +1534,17 @@
     "week": 12,
     "games": [
       {
-        "homeTeam": "Chicago Bears",
-        "homeScore": 31,
-        "awayTeam": "Pittsburgh Steelers",
-        "awayScore": 28,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Cincinnati Bengals",
-        "homeScore": 13,
+        "homeScore": 20,
         "awayTeam": "New England Patriots",
-        "awayScore": 23,
+        "awayScore": 26,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Detroit Lions",
-        "homeScore": 24,
+        "homeScore": 27,
         "awayTeam": "New York Giants",
         "awayScore": 27,
         "weekday": "Sunday",
@@ -1562,7 +1553,7 @@
       },
       {
         "homeTeam": "Tennessee Titans",
-        "homeScore": 17,
+        "homeScore": 24,
         "awayTeam": "Seattle Seahawks",
         "awayScore": 30,
         "weekday": "Sunday",
@@ -1579,22 +1570,13 @@
         "status": "In Progress"
       },
       {
-        "homeTeam": "Baltimore Ravens",
-        "homeScore": 23,
-        "awayTeam": "New York Jets",
-        "awayScore": 10,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Las Vegas Raiders",
         "homeScore": 0,
         "awayTeam": "Cleveland Browns",
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Arizona Cardinals",
@@ -1603,7 +1585,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Dallas Cowboys",
@@ -1633,10 +1615,28 @@
         "status": "Preview"
       },
       {
+        "homeTeam": "Chicago Bears",
+        "homeScore": 31,
+        "awayTeam": "Pittsburgh Steelers",
+        "awayScore": 28,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
         "homeTeam": "Green Bay Packers",
         "homeScore": 23,
         "awayTeam": "Minnesota Vikings",
         "awayScore": 6,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Baltimore Ravens",
+        "homeScore": 23,
+        "awayTeam": "New York Jets",
+        "awayScore": 10,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
