@@ -1537,14 +1537,14 @@
         "homeTeam": "Las Vegas Raiders",
         "homeScore": 3,
         "awayTeam": "Cleveland Browns",
-        "awayScore": 17,
+        "awayScore": 24,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Arizona Cardinals",
-        "homeScore": 14,
+        "homeScore": 21,
         "awayTeam": "Jacksonville Jaguars",
         "awayScore": 17,
         "weekday": "Sunday",
@@ -1553,7 +1553,7 @@
       },
       {
         "homeTeam": "Dallas Cowboys",
-        "homeScore": 7,
+        "homeScore": 14,
         "awayTeam": "Philadelphia Eagles",
         "awayScore": 21,
         "weekday": "Sunday",
@@ -1562,7 +1562,7 @@
       },
       {
         "homeTeam": "New Orleans Saints",
-        "homeScore": 7,
+        "homeScore": 10,
         "awayTeam": "Atlanta Falcons",
         "awayScore": 16,
         "weekday": "Sunday",
