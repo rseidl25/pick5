@@ -1537,7 +1537,7 @@
         "homeTeam": "Chicago Bears",
         "homeScore": 31,
         "awayTeam": "Pittsburgh Steelers",
-        "awayScore": 21,
+        "awayScore": 28,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1580,7 +1580,7 @@
       },
       {
         "homeTeam": "Baltimore Ravens",
-        "homeScore": 20,
+        "homeScore": 23,
         "awayTeam": "New York Jets",
         "awayScore": 10,
         "weekday": "Sunday",
