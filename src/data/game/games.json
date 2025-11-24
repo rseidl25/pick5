@@ -1534,15 +1534,6 @@
     "week": 12,
     "games": [
       {
-        "homeTeam": "Los Angeles Rams",
-        "homeScore": 34,
-        "awayTeam": "Tampa Bay Buccaneers",
-        "awayScore": 7,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Chicago Bears",
         "homeScore": 31,
         "awayTeam": "Pittsburgh Steelers",
@@ -1637,6 +1628,15 @@
         "homeScore": 10,
         "awayTeam": "Atlanta Falcons",
         "awayScore": 24,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Los Angeles Rams",
+        "homeScore": 34,
+        "awayTeam": "Tampa Bay Buccaneers",
+        "awayScore": 7,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
