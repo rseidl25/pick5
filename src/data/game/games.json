@@ -1534,42 +1534,6 @@
     "week": 12,
     "games": [
       {
-        "homeTeam": "Las Vegas Raiders",
-        "homeScore": 3,
-        "awayTeam": "Cleveland Browns",
-        "awayScore": 24,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Arizona Cardinals",
-        "homeScore": 21,
-        "awayTeam": "Jacksonville Jaguars",
-        "awayScore": 17,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Dallas Cowboys",
-        "homeScore": 14,
-        "awayTeam": "Philadelphia Eagles",
-        "awayScore": 21,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "New Orleans Saints",
-        "homeScore": 10,
-        "awayTeam": "Atlanta Falcons",
-        "awayScore": 16,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Los Angeles Rams",
         "homeScore": 0,
         "awayTeam": "Tampa Bay Buccaneers",
@@ -1637,6 +1601,42 @@
         "homeScore": 23,
         "awayTeam": "New York Jets",
         "awayScore": 10,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Las Vegas Raiders",
+        "homeScore": 10,
+        "awayTeam": "Cleveland Browns",
+        "awayScore": 24,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Arizona Cardinals",
+        "homeScore": 24,
+        "awayTeam": "Jacksonville Jaguars",
+        "awayScore": 27,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Dallas Cowboys",
+        "homeScore": 24,
+        "awayTeam": "Philadelphia Eagles",
+        "awayScore": 21,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "New Orleans Saints",
+        "homeScore": 10,
+        "awayTeam": "Atlanta Falcons",
+        "awayScore": 24,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
