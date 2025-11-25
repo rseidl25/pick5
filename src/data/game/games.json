@@ -1534,15 +1534,6 @@
     "week": 12,
     "games": [
       {
-        "homeTeam": "San Francisco 49ers",
-        "homeScore": 20,
-        "awayTeam": "Carolina Panthers",
-        "awayScore": 9,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "Houston Texans",
         "homeScore": 23,
         "awayTeam": "Buffalo Bills",
@@ -1656,6 +1647,15 @@
         "awayTeam": "Tampa Bay Buccaneers",
         "awayScore": 7,
         "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "San Francisco 49ers",
+        "homeScore": 20,
+        "awayTeam": "Carolina Panthers",
+        "awayScore": 9,
+        "weekday": "Monday",
         "gameTime": null,
         "status": "Completed"
       }
