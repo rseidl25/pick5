@@ -1535,9 +1535,9 @@
     "games": [
       {
         "homeTeam": "San Francisco 49ers",
-        "homeScore": 10,
+        "homeScore": 20,
         "awayTeam": "Carolina Panthers",
-        "awayScore": 3,
+        "awayScore": 9,
         "weekday": "Monday",
         "gameTime": null,
         "status": "In Progress"
