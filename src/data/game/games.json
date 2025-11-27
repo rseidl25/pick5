@@ -1668,10 +1668,10 @@
         "homeTeam": "Detroit Lions",
         "homeScore": 0,
         "awayTeam": "Green Bay Packers",
-        "awayScore": 0,
+        "awayScore": 3,
         "weekday": "Thursday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Dallas Cowboys",
