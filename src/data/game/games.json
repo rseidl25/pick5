@@ -1665,15 +1665,6 @@
     "week": 13,
     "games": [
       {
-        "homeTeam": "Detroit Lions",
-        "homeScore": 24,
-        "awayTeam": "Green Bay Packers",
-        "awayScore": 31,
-        "weekday": "Thursday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Dallas Cowboys",
         "homeScore": 0,
         "awayTeam": "Kansas City Chiefs",
@@ -1690,6 +1681,15 @@
         "weekday": "Thursday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Detroit Lions",
+        "homeScore": 24,
+        "awayTeam": "Green Bay Packers",
+        "awayScore": 31,
+        "weekday": "Thursday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Philadelphia Eagles",
