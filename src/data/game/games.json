@@ -1665,15 +1665,6 @@
     "week": 13,
     "games": [
       {
-        "homeTeam": "Baltimore Ravens",
-        "homeScore": 14,
-        "awayTeam": "Cincinnati Bengals",
-        "awayScore": 32,
-        "weekday": "Thursday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Detroit Lions",
         "homeScore": 24,
         "awayTeam": "Green Bay Packers",
@@ -1687,6 +1678,15 @@
         "homeScore": 31,
         "awayTeam": "Kansas City Chiefs",
         "awayScore": 28,
+        "weekday": "Thursday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Baltimore Ravens",
+        "homeScore": 14,
+        "awayTeam": "Cincinnati Bengals",
+        "awayScore": 32,
         "weekday": "Thursday",
         "gameTime": null,
         "status": "Completed"
