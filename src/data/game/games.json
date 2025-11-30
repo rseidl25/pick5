@@ -1665,15 +1665,6 @@
     "week": 13,
     "games": [
       {
-        "homeTeam": "New York Jets",
-        "homeScore": 24,
-        "awayTeam": "Atlanta Falcons",
-        "awayScore": 24,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Seattle Seahawks",
         "homeScore": 0,
         "awayTeam": "Minnesota Vikings",
@@ -1689,7 +1680,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Los Angeles Chargers",
@@ -1698,7 +1689,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Washington Commanders",
@@ -1710,19 +1701,19 @@
         "status": "Preview"
       },
       {
-        "homeTeam": "Tennessee Titans",
-        "homeScore": 3,
-        "awayTeam": "Jacksonville Jaguars",
-        "awayScore": 25,
+        "homeTeam": "Cleveland Browns",
+        "homeScore": 8,
+        "awayTeam": "San Francisco 49ers",
+        "awayScore": 26,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
       },
       {
-        "homeTeam": "Cleveland Browns",
-        "homeScore": 8,
-        "awayTeam": "San Francisco 49ers",
-        "awayScore": 26,
+        "homeTeam": "Tennessee Titans",
+        "homeScore": 3,
+        "awayTeam": "Jacksonville Jaguars",
+        "awayScore": 25,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
@@ -1741,6 +1732,15 @@
         "homeScore": 21,
         "awayTeam": "New Orleans Saints",
         "awayScore": 17,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "New York Jets",
+        "homeScore": 27,
+        "awayTeam": "Atlanta Falcons",
+        "awayScore": 24,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"

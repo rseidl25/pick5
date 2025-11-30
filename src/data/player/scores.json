@@ -2593,7 +2593,7 @@
             "bonus": true
           },
           "New York Jets": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Los Angeles Rams": {
@@ -2605,7 +2605,7 @@
             "bonus": false
           }
         },
-        "total": 31
+        "total": 41
       },
       "week14": {
         "teams": {
@@ -2733,7 +2733,7 @@
         "total": 0
       }
     },
-    "overall_score": 554
+    "overall_score": 564
   },
   "K9X8fKAf1bNvZjJH0jM9eO2uobP2": {
     "name": "Bryan",
@@ -6697,7 +6697,7 @@
             "bonus": false
           },
           "New York Jets": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Philadelphia Eagles": {
@@ -6709,7 +6709,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week14": {
         "teams": {
@@ -6837,7 +6837,7 @@
         "total": 0
       }
     },
-    "overall_score": 498
+    "overall_score": 508
   },
   "tinL2DkOXZTYEdYZDlT3cQzk6Yi2": {
     "name": "Lauren",
