@@ -1686,7 +1686,7 @@
         "homeTeam": "Indianapolis Colts",
         "homeScore": 6,
         "awayTeam": "Houston Texans",
-        "awayScore": 10,
+        "awayScore": 13,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1695,16 +1695,16 @@
         "homeTeam": "Miami Dolphins",
         "homeScore": 16,
         "awayTeam": "New Orleans Saints",
-        "awayScore": 0,
+        "awayScore": 8,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "New York Jets",
-        "homeScore": 7,
+        "homeScore": 14,
         "awayTeam": "Atlanta Falcons",
-        "awayScore": 7,
+        "awayScore": 14,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
