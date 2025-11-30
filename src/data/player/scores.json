@@ -4881,11 +4881,11 @@
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
-            "points": 0,
+            "points": 30,
             "bonus": true
           }
         },
-        "total": 0
+        "total": 30
       },
       "week14": {
         "teams": {
@@ -5013,7 +5013,7 @@
         "total": 0
       }
     },
-    "overall_score": 671
+    "overall_score": 701
   },
   "dac8Eg3ax4PxQl7aSydfS9lAWv23": {
     "name": "Ben",
@@ -6249,11 +6249,11 @@
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week14": {
         "teams": {
@@ -6381,7 +6381,7 @@
         "total": 0
       }
     },
-    "overall_score": 654
+    "overall_score": 664
   },
   "jydlml7YsWe72ieLWGDFhuxY3Nb2": {
     "name": "Cal",
@@ -6693,7 +6693,7 @@
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "New York Jets": {
@@ -6709,7 +6709,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week14": {
         "teams": {
@@ -6837,7 +6837,7 @@
         "total": 0
       }
     },
-    "overall_score": 488
+    "overall_score": 498
   },
   "tinL2DkOXZTYEdYZDlT3cQzk6Yi2": {
     "name": "Lauren",

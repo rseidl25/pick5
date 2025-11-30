@@ -1702,27 +1702,9 @@
       },
       {
         "homeTeam": "New York Jets",
-        "homeScore": 17,
+        "homeScore": 24,
         "awayTeam": "Atlanta Falcons",
         "awayScore": 24,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Tampa Bay Buccaneers",
-        "homeScore": 20,
-        "awayTeam": "Arizona Cardinals",
-        "awayScore": 17,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Carolina Panthers",
-        "homeScore": 31,
-        "awayTeam": "Los Angeles Rams",
-        "awayScore": 28,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1762,6 +1744,24 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Tampa Bay Buccaneers",
+        "homeScore": 20,
+        "awayTeam": "Arizona Cardinals",
+        "awayScore": 17,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Carolina Panthers",
+        "homeScore": 31,
+        "awayTeam": "Los Angeles Rams",
+        "awayScore": 28,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Detroit Lions",
