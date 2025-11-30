@@ -1666,7 +1666,7 @@
     "games": [
       {
         "homeTeam": "Seattle Seahawks",
-        "homeScore": 19,
+        "homeScore": 26,
         "awayTeam": "Minnesota Vikings",
         "awayScore": 0,
         "weekday": "Sunday",
@@ -1684,7 +1684,7 @@
       },
       {
         "homeTeam": "Los Angeles Chargers",
-        "homeScore": 21,
+        "homeScore": 24,
         "awayTeam": "Las Vegas Raiders",
         "awayScore": 7,
         "weekday": "Sunday",
