@@ -1693,7 +1693,7 @@
       },
       {
         "homeTeam": "Miami Dolphins",
-        "homeScore": 7,
+        "homeScore": 10,
         "awayTeam": "New Orleans Saints",
         "awayScore": 0,
         "weekday": "Sunday",
@@ -1711,7 +1711,7 @@
       },
       {
         "homeTeam": "Tampa Bay Buccaneers",
-        "homeScore": 0,
+        "homeScore": 3,
         "awayTeam": "Arizona Cardinals",
         "awayScore": 0,
         "weekday": "Sunday",
@@ -1722,7 +1722,7 @@
         "homeTeam": "Carolina Panthers",
         "homeScore": 14,
         "awayTeam": "Los Angeles Rams",
-        "awayScore": 7,
+        "awayScore": 14,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
