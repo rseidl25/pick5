@@ -1677,7 +1677,7 @@
         "homeTeam": "Tennessee Titans",
         "homeScore": 3,
         "awayTeam": "Jacksonville Jaguars",
-        "awayScore": 0,
+        "awayScore": 15,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1686,7 +1686,7 @@
         "homeTeam": "Indianapolis Colts",
         "homeScore": 0,
         "awayTeam": "Houston Texans",
-        "awayScore": 0,
+        "awayScore": 3,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1702,7 +1702,7 @@
       },
       {
         "homeTeam": "New York Jets",
-        "homeScore": 0,
+        "homeScore": 7,
         "awayTeam": "Atlanta Falcons",
         "awayScore": 0,
         "weekday": "Sunday",
@@ -1720,7 +1720,7 @@
       },
       {
         "homeTeam": "Carolina Panthers",
-        "homeScore": 7,
+        "homeScore": 14,
         "awayTeam": "Los Angeles Rams",
         "awayScore": 7,
         "weekday": "Sunday",
