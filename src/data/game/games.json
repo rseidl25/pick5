@@ -1677,7 +1677,7 @@
         "homeTeam": "Pittsburgh Steelers",
         "homeScore": 7,
         "awayTeam": "Buffalo Bills",
-        "awayScore": 16,
+        "awayScore": 23,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1686,7 +1686,7 @@
         "homeTeam": "Los Angeles Chargers",
         "homeScore": 24,
         "awayTeam": "Las Vegas Raiders",
-        "awayScore": 7,
+        "awayScore": 14,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
