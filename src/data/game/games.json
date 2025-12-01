@@ -1665,33 +1665,6 @@
     "week": 13,
     "games": [
       {
-        "homeTeam": "Seattle Seahawks",
-        "homeScore": 26,
-        "awayTeam": "Minnesota Vikings",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Pittsburgh Steelers",
-        "homeScore": 7,
-        "awayTeam": "Buffalo Bills",
-        "awayScore": 23,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Los Angeles Chargers",
-        "homeScore": 24,
-        "awayTeam": "Las Vegas Raiders",
-        "awayScore": 14,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Washington Commanders",
         "homeScore": 0,
         "awayTeam": "Denver Broncos",
@@ -1759,6 +1732,33 @@
         "homeScore": 31,
         "awayTeam": "Los Angeles Rams",
         "awayScore": 28,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Seattle Seahawks",
+        "homeScore": 26,
+        "awayTeam": "Minnesota Vikings",
+        "awayScore": 0,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Pittsburgh Steelers",
+        "homeScore": 7,
+        "awayTeam": "Buffalo Bills",
+        "awayScore": 26,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Los Angeles Chargers",
+        "homeScore": 31,
+        "awayTeam": "Las Vegas Raiders",
+        "awayScore": 14,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"

@@ -321,11 +321,11 @@
             "bonus": false
           },
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 41
+        "total": 51
       },
       "week14": {
         "teams": {
@@ -453,7 +453,7 @@
         "total": 0
       }
     },
-    "overall_score": 697
+    "overall_score": 707
   },
   "A5dssZETIMhNd0WYKQamFxxb9Ak2": {
     "name": "Judy Phillip",
@@ -777,11 +777,11 @@
             "bonus": false
           },
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 31
+        "total": 41
       },
       "week14": {
         "teams": {
@@ -909,7 +909,7 @@
         "total": 0
       }
     },
-    "overall_score": 763
+    "overall_score": 773
   },
   "AmEIaRh92vdP40uVAseDWGxcZBM2": {
     "name": "Brett Sievwright",
@@ -1217,7 +1217,7 @@
       "week13": {
         "teams": {
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Washington Commanders": {
@@ -1237,7 +1237,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week14": {
         "teams": {
@@ -1365,7 +1365,7 @@
         "total": 0
       }
     },
-    "overall_score": 563
+    "overall_score": 573
   },
   "D2fLoPEINITIuA9oJNB8ybVaOps2": {
     "name": "Kalysta",
@@ -1685,7 +1685,7 @@
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Miami Dolphins": {
@@ -1693,7 +1693,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week14": {
         "teams": {
@@ -1821,7 +1821,7 @@
         "total": 0
       }
     },
-    "overall_score": 580
+    "overall_score": 590
   },
   "FkbsYIXzm7TorvwE2qbaTiKsrmi1": {
     "name": "Steve",
@@ -2141,7 +2141,7 @@
             "bonus": false
           },
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 41,
             "bonus": true
           },
           "Miami Dolphins": {
@@ -2149,7 +2149,7 @@
             "bonus": false
           }
         },
-        "total": 20
+        "total": 61
       },
       "week14": {
         "teams": {
@@ -2277,7 +2277,7 @@
         "total": 0
       }
     },
-    "overall_score": 773
+    "overall_score": 814
   },
   "Fn25s976WxT6gML22x8yJsQ33PM2": {
     "name": "Milly",
@@ -3057,11 +3057,11 @@
             "bonus": false
           },
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week14": {
         "teams": {
@@ -3189,7 +3189,7 @@
         "total": 0
       }
     },
-    "overall_score": 691
+    "overall_score": 701
   },
   "LKY6YytQUfbPzmcw2yfIYm0XEQD2": {
     "name": "Smelly Kelly",
@@ -3505,11 +3505,11 @@
             "bonus": true
           },
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Minnesota Vikings": {
@@ -3517,7 +3517,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 20
       },
       "week14": {
         "teams": {
@@ -3645,7 +3645,7 @@
         "total": 0
       }
     },
-    "overall_score": 727
+    "overall_score": 747
   },
   "NluZaqiuGKRzhuir9Jfu5uKRm302": {
     "name": "Angie Phillip",
@@ -3957,11 +3957,11 @@
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 41,
             "bonus": true
           },
           "Los Angeles Rams": {
@@ -3973,7 +3973,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 61
       },
       "week14": {
         "teams": {
@@ -4101,7 +4101,7 @@
         "total": 0
       }
     },
-    "overall_score": 688
+    "overall_score": 739
   },
   "US8t7rlGTXV5t8M3K8OWB2kzQo93": {
     "name": "Sam",
@@ -4417,7 +4417,7 @@
             "bonus": false
           },
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Houston Texans": {
@@ -4429,7 +4429,7 @@
             "bonus": false
           }
         },
-        "total": 51
+        "total": 61
       },
       "week14": {
         "teams": {
@@ -4557,7 +4557,7 @@
         "total": 0
       }
     },
-    "overall_score": 813
+    "overall_score": 823
   },
   "XKPW7eAMivNTYBrIivGGT9DFV022": {
     "name": "Joey",
@@ -4877,7 +4877,7 @@
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
@@ -4885,7 +4885,7 @@
             "bonus": true
           }
         },
-        "total": 30
+        "total": 40
       },
       "week14": {
         "teams": {
@@ -5013,7 +5013,7 @@
         "total": 0
       }
     },
-    "overall_score": 701
+    "overall_score": 711
   },
   "dac8Eg3ax4PxQl7aSydfS9lAWv23": {
     "name": "Ben",
@@ -5337,11 +5337,11 @@
             "bonus": false
           },
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 40
+        "total": 50
       },
       "week14": {
         "teams": {
@@ -5469,7 +5469,7 @@
         "total": 0
       }
     },
-    "overall_score": 658
+    "overall_score": 668
   },
   "hELkxczX1UerNFvp4fpORxqLr9X2": {
     "name": "PP",
@@ -5793,11 +5793,11 @@
             "bonus": true
           },
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 41
+        "total": 51
       },
       "week14": {
         "teams": {
@@ -5925,7 +5925,7 @@
         "total": 0
       }
     },
-    "overall_score": 616
+    "overall_score": 626
   },
   "hR9aypGuwBfk5pE5MwNjxEvfkh43": {
     "name": "Ryan",
@@ -6705,11 +6705,11 @@
             "bonus": true
           },
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 20
+        "total": 30
       },
       "week14": {
         "teams": {
@@ -6837,7 +6837,7 @@
         "total": 0
       }
     },
-    "overall_score": 508
+    "overall_score": 518
   },
   "tinL2DkOXZTYEdYZDlT3cQzk6Yi2": {
     "name": "Lauren",
@@ -7149,7 +7149,7 @@
             "bonus": true
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Kansas City Chiefs": {
@@ -7165,7 +7165,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week14": {
         "teams": {
@@ -7293,7 +7293,7 @@
         "total": 0
       }
     },
-    "overall_score": 688
+    "overall_score": 698
   },
   "u8geiYcJqpcTBRxAtLVB5QKA8Ii2": {
     "name": "Lisa: Certified League Wrecker",
@@ -7617,11 +7617,11 @@
             "bonus": true
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 36
+        "total": 46
       },
       "week14": {
         "teams": {
@@ -7749,6 +7749,6 @@
         "total": 0
       }
     },
-    "overall_score": 697
+    "overall_score": 707
   }
 }
