@@ -4413,7 +4413,7 @@
             "bonus": true
           },
           "Denver Broncos": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Los Angeles Chargers": {
@@ -4429,7 +4429,7 @@
             "bonus": false
           }
         },
-        "total": 61
+        "total": 71
       },
       "week14": {
         "teams": {
@@ -4557,7 +4557,7 @@
         "total": 0
       }
     },
-    "overall_score": 823
+    "overall_score": 833
   },
   "XKPW7eAMivNTYBrIivGGT9DFV022": {
     "name": "Joey",

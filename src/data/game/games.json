@@ -1666,12 +1666,12 @@
     "games": [
       {
         "homeTeam": "Washington Commanders",
-        "homeScore": 17,
+        "homeScore": 26,
         "awayTeam": "Denver Broncos",
-        "awayScore": 20,
+        "awayScore": 27,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "In Progress"
+        "status": "Completed"
       },
       {
         "homeTeam": "Cleveland Browns",
