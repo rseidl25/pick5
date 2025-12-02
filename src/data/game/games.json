@@ -1666,12 +1666,12 @@
     "games": [
       {
         "homeTeam": "New England Patriots",
-        "homeScore": 30,
+        "homeScore": 33,
         "awayTeam": "New York Giants",
         "awayScore": 15,
         "weekday": "Monday",
         "gameTime": null,
-        "status": "In Progress"
+        "status": "Completed"
       },
       {
         "homeTeam": "Detroit Lions",
