@@ -338,7 +338,7 @@
             "bonus": false
           },
           "Detroit Lions": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
@@ -350,7 +350,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week15": {
         "teams": {
@@ -453,7 +453,7 @@
         "total": 0
       }
     },
-    "overall_score": 707
+    "overall_score": 717
   },
   "A5dssZETIMhNd0WYKQamFxxb9Ak2": {
     "name": "Judy Phillip",
@@ -790,7 +790,7 @@
             "bonus": true
           },
           "Detroit Lions": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Green Bay Packers": {
@@ -806,7 +806,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week15": {
         "teams": {
@@ -909,7 +909,7 @@
         "total": 0
       }
     },
-    "overall_score": 773
+    "overall_score": 783
   },
   "AmEIaRh92vdP40uVAseDWGxcZBM2": {
     "name": "Brett Sievwright",
@@ -1254,7 +1254,7 @@
             "bonus": false
           },
           "Detroit Lions": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Indianapolis Colts": {
@@ -1262,7 +1262,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week15": {
         "teams": {
@@ -1365,7 +1365,7 @@
         "total": 0
       }
     },
-    "overall_score": 573
+    "overall_score": 583
   },
   "D2fLoPEINITIuA9oJNB8ybVaOps2": {
     "name": "Kalysta",
@@ -2154,7 +2154,7 @@
       "week14": {
         "teams": {
           "Detroit Lions": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Green Bay Packers": {
@@ -2174,7 +2174,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week15": {
         "teams": {
@@ -2277,7 +2277,7 @@
         "total": 0
       }
     },
-    "overall_score": 814
+    "overall_score": 824
   },
   "Fn25s976WxT6gML22x8yJsQ33PM2": {
     "name": "Milly",
@@ -2610,7 +2610,7 @@
       "week14": {
         "teams": {
           "Detroit Lions": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
@@ -2630,7 +2630,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week15": {
         "teams": {
@@ -2733,7 +2733,7 @@
         "total": 0
       }
     },
-    "overall_score": 564
+    "overall_score": 574
   },
   "K9X8fKAf1bNvZjJH0jM9eO2uobP2": {
     "name": "Bryan",
@@ -3070,7 +3070,7 @@
             "bonus": true
           },
           "Detroit Lions": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Green Bay Packers": {
@@ -3086,7 +3086,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week15": {
         "teams": {
@@ -3189,7 +3189,7 @@
         "total": 0
       }
     },
-    "overall_score": 701
+    "overall_score": 711
   },
   "LKY6YytQUfbPzmcw2yfIYm0XEQD2": {
     "name": "Smelly Kelly",
@@ -3538,11 +3538,11 @@
             "bonus": true
           },
           "Detroit Lions": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week15": {
         "teams": {
@@ -3645,7 +3645,7 @@
         "total": 0
       }
     },
-    "overall_score": 747
+    "overall_score": 757
   },
   "NluZaqiuGKRzhuir9Jfu5uKRm302": {
     "name": "Angie Phillip",
@@ -3990,7 +3990,7 @@
             "bonus": false
           },
           "Detroit Lions": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Green Bay Packers": {
@@ -3998,7 +3998,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week15": {
         "teams": {
@@ -4101,7 +4101,7 @@
         "total": 0
       }
     },
-    "overall_score": 739
+    "overall_score": 749
   },
   "US8t7rlGTXV5t8M3K8OWB2kzQo93": {
     "name": "Sam",
@@ -4442,7 +4442,7 @@
             "bonus": false
           },
           "Detroit Lions": {
-            "points": 0,
+            "points": 54,
             "bonus": true
           },
           "Baltimore Ravens": {
@@ -4454,7 +4454,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 54
       },
       "week15": {
         "teams": {
@@ -4557,7 +4557,7 @@
         "total": 0
       }
     },
-    "overall_score": 833
+    "overall_score": 887
   },
   "XKPW7eAMivNTYBrIivGGT9DFV022": {
     "name": "Joey",
@@ -5346,7 +5346,7 @@
       "week14": {
         "teams": {
           "Detroit Lions": {
-            "points": 0,
+            "points": 54,
             "bonus": true
           },
           "Green Bay Packers": {
@@ -5366,7 +5366,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 54
       },
       "week15": {
         "teams": {
@@ -5469,7 +5469,7 @@
         "total": 0
       }
     },
-    "overall_score": 668
+    "overall_score": 722
   },
   "hELkxczX1UerNFvp4fpORxqLr9X2": {
     "name": "PP",
@@ -5802,7 +5802,7 @@
       "week14": {
         "teams": {
           "Detroit Lions": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Green Bay Packers": {
@@ -5822,7 +5822,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week15": {
         "teams": {
@@ -5925,7 +5925,7 @@
         "total": 0
       }
     },
-    "overall_score": 626
+    "overall_score": 636
   },
   "hR9aypGuwBfk5pE5MwNjxEvfkh43": {
     "name": "Ryan",
@@ -6730,11 +6730,11 @@
             "bonus": true
           },
           "Detroit Lions": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week15": {
         "teams": {
@@ -6837,7 +6837,7 @@
         "total": 0
       }
     },
-    "overall_score": 518
+    "overall_score": 528
   },
   "tinL2DkOXZTYEdYZDlT3cQzk6Yi2": {
     "name": "Lauren",
@@ -7178,7 +7178,7 @@
             "bonus": true
           },
           "Detroit Lions": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
@@ -7190,7 +7190,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week15": {
         "teams": {
@@ -7293,7 +7293,7 @@
         "total": 0
       }
     },
-    "overall_score": 698
+    "overall_score": 708
   },
   "u8geiYcJqpcTBRxAtLVB5QKA8Ii2": {
     "name": "Lisa: Certified League Wrecker",
@@ -7626,7 +7626,7 @@
       "week14": {
         "teams": {
           "Detroit Lions": {
-            "points": 0,
+            "points": 54,
             "bonus": true
           },
           "Baltimore Ravens": {
@@ -7646,7 +7646,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 54
       },
       "week15": {
         "teams": {
@@ -7749,6 +7749,6 @@
         "total": 0
       }
     },
-    "overall_score": 707
+    "overall_score": 761
   }
 }
