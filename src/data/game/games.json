@@ -1815,9 +1815,9 @@
     "games": [
       {
         "homeTeam": "Detroit Lions",
-        "homeScore": 27,
+        "homeScore": 37,
         "awayTeam": "Dallas Cowboys",
-        "awayScore": 19,
+        "awayScore": 27,
         "weekday": "Thursday",
         "gameTime": null,
         "status": "In Progress"
