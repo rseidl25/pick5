@@ -1815,12 +1815,12 @@
     "games": [
       {
         "homeTeam": "Detroit Lions",
-        "homeScore": 0,
+        "homeScore": 20,
         "awayTeam": "Dallas Cowboys",
-        "awayScore": 0,
+        "awayScore": 9,
         "weekday": "Thursday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Atlanta Falcons",
