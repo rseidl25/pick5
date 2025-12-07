@@ -1824,7 +1824,7 @@
       },
       {
         "homeTeam": "Buffalo Bills",
-        "homeScore": 25,
+        "homeScore": 32,
         "awayTeam": "Cincinnati Bengals",
         "awayScore": 28,
         "weekday": "Sunday",
@@ -1835,16 +1835,7 @@
         "homeTeam": "Cleveland Browns",
         "homeScore": 17,
         "awayTeam": "Tennessee Titans",
-        "awayScore": 21,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Minnesota Vikings",
-        "homeScore": 31,
-        "awayTeam": "Washington Commanders",
-        "awayScore": 0,
+        "awayScore": 28,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1853,14 +1844,14 @@
         "homeTeam": "New York Jets",
         "homeScore": 10,
         "awayTeam": "Miami Dolphins",
-        "awayScore": 24,
+        "awayScore": 31,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Tampa Bay Buccaneers",
-        "homeScore": 17,
+        "homeScore": 20,
         "awayTeam": "New Orleans Saints",
         "awayScore": 24,
         "weekday": "Sunday",
@@ -1869,7 +1860,7 @@
       },
       {
         "homeTeam": "Jacksonville Jaguars",
-        "homeScore": 31,
+        "homeScore": 33,
         "awayTeam": "Indianapolis Colts",
         "awayScore": 13,
         "weekday": "Sunday",
@@ -1878,7 +1869,7 @@
       },
       {
         "homeTeam": "Baltimore Ravens",
-        "homeScore": 19,
+        "homeScore": 22,
         "awayTeam": "Pittsburgh Steelers",
         "awayScore": 27,
         "weekday": "Sunday",
@@ -1920,6 +1911,15 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Minnesota Vikings",
+        "homeScore": 31,
+        "awayTeam": "Washington Commanders",
+        "awayScore": 0,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Detroit Lions",
