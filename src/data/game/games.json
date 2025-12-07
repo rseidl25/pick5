@@ -1815,18 +1815,18 @@
     "games": [
       {
         "homeTeam": "Atlanta Falcons",
-        "homeScore": 6,
+        "homeScore": 9,
         "awayTeam": "Seattle Seahawks",
-        "awayScore": 23,
+        "awayScore": 30,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Buffalo Bills",
-        "homeScore": 18,
+        "homeScore": 24,
         "awayTeam": "Cincinnati Bengals",
-        "awayScore": 21,
+        "awayScore": 28,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1835,14 +1835,14 @@
         "homeTeam": "Cleveland Browns",
         "homeScore": 17,
         "awayTeam": "Tennessee Titans",
-        "awayScore": 14,
+        "awayScore": 21,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Minnesota Vikings",
-        "homeScore": 24,
+        "homeScore": 31,
         "awayTeam": "Washington Commanders",
         "awayScore": 0,
         "weekday": "Sunday",
@@ -1862,14 +1862,14 @@
         "homeTeam": "Tampa Bay Buccaneers",
         "homeScore": 17,
         "awayTeam": "New Orleans Saints",
-        "awayScore": 14,
+        "awayScore": 17,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Jacksonville Jaguars",
-        "homeScore": 28,
+        "homeScore": 31,
         "awayTeam": "Indianapolis Colts",
         "awayScore": 13,
         "weekday": "Sunday",
@@ -1878,9 +1878,9 @@
       },
       {
         "homeTeam": "Baltimore Ravens",
-        "homeScore": 16,
+        "homeScore": 19,
         "awayTeam": "Pittsburgh Steelers",
-        "awayScore": 20,
+        "awayScore": 27,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
