@@ -1824,9 +1824,9 @@
       },
       {
         "homeTeam": "Green Bay Packers",
-        "homeScore": 14,
+        "homeScore": 21,
         "awayTeam": "Chicago Bears",
-        "awayScore": 3,
+        "awayScore": 11,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
