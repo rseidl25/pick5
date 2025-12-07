@@ -1817,7 +1817,7 @@
         "homeTeam": "Las Vegas Raiders",
         "homeScore": 7,
         "awayTeam": "Denver Broncos",
-        "awayScore": 7,
+        "awayScore": 14,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1833,9 +1833,9 @@
       },
       {
         "homeTeam": "Arizona Cardinals",
-        "homeScore": 7,
+        "homeScore": 10,
         "awayTeam": "Los Angeles Rams",
-        "awayScore": 3,
+        "awayScore": 10,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
