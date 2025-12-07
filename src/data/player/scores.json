@@ -334,7 +334,7 @@
             "bonus": true
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Detroit Lions": {
@@ -350,7 +350,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week15": {
         "teams": {
@@ -453,7 +453,7 @@
         "total": 0
       }
     },
-    "overall_score": 717
+    "overall_score": 727
   },
   "A5dssZETIMhNd0WYKQamFxxb9Ak2": {
     "name": "Judy Phillip",
