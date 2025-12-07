@@ -1814,17 +1814,8 @@
     "week": 14,
     "games": [
       {
-        "homeTeam": "Cleveland Browns",
-        "homeScore": 29,
-        "awayTeam": "Tennessee Titans",
-        "awayScore": 31,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Las Vegas Raiders",
-        "homeScore": 0,
+        "homeScore": 7,
         "awayTeam": "Denver Broncos",
         "awayScore": 7,
         "weekday": "Sunday",
@@ -1842,7 +1833,7 @@
       },
       {
         "homeTeam": "Arizona Cardinals",
-        "homeScore": 0,
+        "homeScore": 7,
         "awayTeam": "Los Angeles Rams",
         "awayScore": 0,
         "weekday": "Sunday",
@@ -1859,15 +1850,6 @@
         "status": "Preview"
       },
       {
-        "homeTeam": "Baltimore Ravens",
-        "homeScore": 22,
-        "awayTeam": "Pittsburgh Steelers",
-        "awayScore": 27,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "Atlanta Falcons",
         "homeScore": 9,
         "awayTeam": "Seattle Seahawks",
@@ -1881,6 +1863,15 @@
         "homeScore": 39,
         "awayTeam": "Cincinnati Bengals",
         "awayScore": 34,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Cleveland Browns",
+        "homeScore": 29,
+        "awayTeam": "Tennessee Titans",
+        "awayScore": 31,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
@@ -1917,6 +1908,15 @@
         "homeScore": 36,
         "awayTeam": "Indianapolis Colts",
         "awayScore": 19,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Baltimore Ravens",
+        "homeScore": 22,
+        "awayTeam": "Pittsburgh Steelers",
+        "awayScore": 27,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
