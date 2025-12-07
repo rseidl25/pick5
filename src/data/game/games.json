@@ -1824,9 +1824,9 @@
       },
       {
         "homeTeam": "Green Bay Packers",
-        "homeScore": 0,
+        "homeScore": 7,
         "awayTeam": "Chicago Bears",
-        "awayScore": 0,
+        "awayScore": 3,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1835,7 +1835,7 @@
         "homeTeam": "Arizona Cardinals",
         "homeScore": 10,
         "awayTeam": "Los Angeles Rams",
-        "awayScore": 10,
+        "awayScore": 17,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
