@@ -1817,10 +1817,10 @@
         "homeTeam": "Kansas City Chiefs",
         "homeScore": 0,
         "awayTeam": "Houston Texans",
-        "awayScore": 0,
+        "awayScore": 10,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Atlanta Falcons",
