@@ -2148,6 +2148,15 @@
         "status": "Preview"
       },
       {
+        "homeTeam": "Miami Dolphins",
+        "homeScore": 0,
+        "awayTeam": "Cincinnati Bengals",
+        "awayScore": 0,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Preview"
+      },
+      {
         "homeTeam": "New Orleans Saints",
         "homeScore": 0,
         "awayTeam": "New York Jets",
@@ -2169,15 +2178,6 @@
         "homeTeam": "Carolina Panthers",
         "homeScore": 0,
         "awayTeam": "Tampa Bay Buccaneers",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Baltimore Ravens",
-        "homeScore": 0,
-        "awayTeam": "New England Patriots",
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
@@ -2220,9 +2220,9 @@
         "status": "Preview"
       },
       {
-        "homeTeam": "Miami Dolphins",
+        "homeTeam": "Baltimore Ravens",
         "homeScore": 0,
-        "awayTeam": "Cincinnati Bengals",
+        "awayTeam": "New England Patriots",
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
