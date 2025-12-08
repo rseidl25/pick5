@@ -330,7 +330,7 @@
       "week14": {
         "teams": {
           "Denver Broncos": {
-            "points": 0,
+            "points": 34,
             "bonus": true
           },
           "Buffalo Bills": {
@@ -350,7 +350,7 @@
             "bonus": false
           }
         },
-        "total": 20
+        "total": 54
       },
       "week15": {
         "teams": {
@@ -453,7 +453,7 @@
         "total": 0
       }
     },
-    "overall_score": 727
+    "overall_score": 761
   },
   "A5dssZETIMhNd0WYKQamFxxb9Ak2": {
     "name": "Judy Phillip",
@@ -794,11 +794,11 @@
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Denver Broncos": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Kansas City Chiefs": {
@@ -806,7 +806,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 30
       },
       "week15": {
         "teams": {
@@ -909,7 +909,7 @@
         "total": 0
       }
     },
-    "overall_score": 783
+    "overall_score": 803
   },
   "AmEIaRh92vdP40uVAseDWGxcZBM2": {
     "name": "Brett Sievwright",
@@ -1242,7 +1242,7 @@
       "week14": {
         "teams": {
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Miami Dolphins": {
@@ -1250,7 +1250,7 @@
             "bonus": true
           },
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Detroit Lions": {
@@ -1262,7 +1262,7 @@
             "bonus": false
           }
         },
-        "total": 54
+        "total": 74
       },
       "week15": {
         "teams": {
@@ -1365,7 +1365,7 @@
         "total": 0
       }
     },
-    "overall_score": 627
+    "overall_score": 647
   },
   "D2fLoPEINITIuA9oJNB8ybVaOps2": {
     "name": "Kalysta",
@@ -1698,7 +1698,7 @@
       "week14": {
         "teams": {
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Kansas City Chiefs": {
@@ -1710,7 +1710,7 @@
             "bonus": false
           },
           "Denver Broncos": {
-            "points": 0,
+            "points": 34,
             "bonus": true
           },
           "Baltimore Ravens": {
@@ -1718,7 +1718,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 44
       },
       "week15": {
         "teams": {
@@ -1821,7 +1821,7 @@
         "total": 0
       }
     },
-    "overall_score": 590
+    "overall_score": 634
   },
   "FkbsYIXzm7TorvwE2qbaTiKsrmi1": {
     "name": "Steve",
@@ -2158,7 +2158,7 @@
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
@@ -2170,11 +2170,11 @@
             "bonus": true
           },
           "Denver Broncos": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 10
+        "total": 30
       },
       "week15": {
         "teams": {
@@ -2277,7 +2277,7 @@
         "total": 0
       }
     },
-    "overall_score": 824
+    "overall_score": 844
   },
   "Fn25s976WxT6gML22x8yJsQ33PM2": {
     "name": "Milly",
@@ -3074,11 +3074,11 @@
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Denver Broncos": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
@@ -3086,7 +3086,7 @@
             "bonus": false
           }
         },
-        "total": 54
+        "total": 74
       },
       "week15": {
         "teams": {
@@ -3189,7 +3189,7 @@
         "total": 0
       }
     },
-    "overall_score": 755
+    "overall_score": 775
   },
   "LKY6YytQUfbPzmcw2yfIYm0XEQD2": {
     "name": "Smelly Kelly",
@@ -3522,7 +3522,7 @@
       "week14": {
         "teams": {
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
@@ -3530,7 +3530,7 @@
             "bonus": false
           },
           "Denver Broncos": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
@@ -3542,7 +3542,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 30
       },
       "week15": {
         "teams": {
@@ -3645,7 +3645,7 @@
         "total": 0
       }
     },
-    "overall_score": 757
+    "overall_score": 777
   },
   "NluZaqiuGKRzhuir9Jfu5uKRm302": {
     "name": "Angie Phillip",
@@ -3986,7 +3986,7 @@
             "bonus": false
           },
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Detroit Lions": {
@@ -3994,11 +3994,11 @@
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 10
+        "total": 30
       },
       "week15": {
         "teams": {
@@ -4101,7 +4101,7 @@
         "total": 0
       }
     },
-    "overall_score": 749
+    "overall_score": 769
   },
   "US8t7rlGTXV5t8M3K8OWB2kzQo93": {
     "name": "Sam",
@@ -4434,7 +4434,7 @@
       "week14": {
         "teams": {
           "Denver Broncos": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Philadelphia Eagles": {
@@ -4450,11 +4450,11 @@
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 54
+        "total": 74
       },
       "week15": {
         "teams": {
@@ -4557,7 +4557,7 @@
         "total": 0
       }
     },
-    "overall_score": 887
+    "overall_score": 907
   },
   "XKPW7eAMivNTYBrIivGGT9DFV022": {
     "name": "Joey",
@@ -4894,7 +4894,7 @@
             "bonus": false
           },
           "Los Angeles Rams": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Philadelphia Eagles": {
@@ -4906,11 +4906,11 @@
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 38,
             "bonus": true
           }
         },
-        "total": 10
+        "total": 58
       },
       "week15": {
         "teams": {
@@ -5013,7 +5013,7 @@
         "total": 0
       }
     },
-    "overall_score": 721
+    "overall_score": 769
   },
   "dac8Eg3ax4PxQl7aSydfS9lAWv23": {
     "name": "Ben",
@@ -5350,7 +5350,7 @@
             "bonus": true
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
@@ -5358,7 +5358,7 @@
             "bonus": false
           },
           "Denver Broncos": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Kansas City Chiefs": {
@@ -5366,7 +5366,7 @@
             "bonus": false
           }
         },
-        "total": 54
+        "total": 74
       },
       "week15": {
         "teams": {
@@ -5469,7 +5469,7 @@
         "total": 0
       }
     },
-    "overall_score": 722
+    "overall_score": 742
   },
   "hELkxczX1UerNFvp4fpORxqLr9X2": {
     "name": "PP",
@@ -5806,7 +5806,7 @@
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Washington Commanders": {
@@ -5822,7 +5822,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week15": {
         "teams": {
@@ -5925,7 +5925,7 @@
         "total": 0
       }
     },
-    "overall_score": 636
+    "overall_score": 646
   },
   "hR9aypGuwBfk5pE5MwNjxEvfkh43": {
     "name": "Ryan",
@@ -6258,7 +6258,7 @@
       "week14": {
         "teams": {
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
@@ -6274,11 +6274,11 @@
             "bonus": true
           },
           "Denver Broncos": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 20
       },
       "week15": {
         "teams": {
@@ -6381,7 +6381,7 @@
         "total": 0
       }
     },
-    "overall_score": 705
+    "overall_score": 725
   },
   "jydlml7YsWe72ieLWGDFhuxY3Nb2": {
     "name": "Cal",
@@ -6726,7 +6726,7 @@
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 38,
             "bonus": true
           },
           "Detroit Lions": {
@@ -6734,7 +6734,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 48
       },
       "week15": {
         "teams": {
@@ -6837,7 +6837,7 @@
         "total": 0
       }
     },
-    "overall_score": 528
+    "overall_score": 566
   },
   "tinL2DkOXZTYEdYZDlT3cQzk6Yi2": {
     "name": "Lauren",
@@ -7186,11 +7186,11 @@
             "bonus": false
           },
           "Green Bay Packers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week15": {
         "teams": {
@@ -7293,7 +7293,7 @@
         "total": 0
       }
     },
-    "overall_score": 708
+    "overall_score": 718
   },
   "u8geiYcJqpcTBRxAtLVB5QKA8Ii2": {
     "name": "Lisa: Certified League Wrecker",
@@ -7638,7 +7638,7 @@
             "bonus": false
           },
           "Denver Broncos": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Philadelphia Eagles": {
@@ -7646,7 +7646,7 @@
             "bonus": false
           }
         },
-        "total": 54
+        "total": 64
       },
       "week15": {
         "teams": {
@@ -7749,6 +7749,6 @@
         "total": 0
       }
     },
-    "overall_score": 761
+    "overall_score": 771
   }
 }
