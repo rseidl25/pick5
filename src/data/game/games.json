@@ -1814,15 +1814,6 @@
     "week": 14,
     "games": [
       {
-        "homeTeam": "Kansas City Chiefs",
-        "homeScore": 10,
-        "awayTeam": "Houston Texans",
-        "awayScore": 17,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Atlanta Falcons",
         "homeScore": 9,
         "awayTeam": "Seattle Seahawks",
@@ -1917,6 +1908,15 @@
         "homeScore": 17,
         "awayTeam": "Los Angeles Rams",
         "awayScore": 45,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Kansas City Chiefs",
+        "homeScore": 10,
+        "awayTeam": "Houston Texans",
+        "awayScore": 20,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
