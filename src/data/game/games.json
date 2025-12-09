@@ -1815,9 +1815,9 @@
     "games": [
       {
         "homeTeam": "Los Angeles Chargers",
-        "homeScore": 13,
+        "homeScore": 16,
         "awayTeam": "Philadelphia Eagles",
-        "awayScore": 16,
+        "awayScore": 19,
         "weekday": "Monday",
         "gameTime": null,
         "status": "In Progress"
