@@ -1814,15 +1814,6 @@
     "week": 14,
     "games": [
       {
-        "homeTeam": "Los Angeles Chargers",
-        "homeScore": 22,
-        "awayTeam": "Philadelphia Eagles",
-        "awayScore": 19,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "Detroit Lions",
         "homeScore": 44,
         "awayTeam": "Dallas Cowboys",
@@ -1936,6 +1927,15 @@
         "awayTeam": "Houston Texans",
         "awayScore": 20,
         "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Los Angeles Chargers",
+        "homeScore": 22,
+        "awayTeam": "Philadelphia Eagles",
+        "awayScore": 19,
+        "weekday": "Monday",
         "gameTime": null,
         "status": "Completed"
       }
