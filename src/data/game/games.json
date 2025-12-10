@@ -2270,9 +2270,9 @@
         "status": "Preview"
       },
       {
-        "homeTeam": "Cincinnati Bengals",
+        "homeTeam": "Los Angeles Chargers",
         "homeScore": 0,
-        "awayTeam": "Arizona Cardinals",
+        "awayTeam": "Houston Texans",
         "awayScore": 0,
         "weekday": "Saturday",
         "gameTime": null,
@@ -2288,20 +2288,11 @@
         "status": "Preview"
       },
       {
-        "homeTeam": "Los Angeles Chargers",
+        "homeTeam": "Cincinnati Bengals",
         "homeScore": 0,
-        "awayTeam": "Houston Texans",
+        "awayTeam": "Arizona Cardinals",
         "awayScore": 0,
-        "weekday": "Saturday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Carolina Panthers",
-        "homeScore": 0,
-        "awayTeam": "Seattle Seahawks",
-        "awayScore": 0,
-        "weekday": "Saturday",
+        "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
       },
@@ -2309,6 +2300,15 @@
         "homeTeam": "Las Vegas Raiders",
         "homeScore": 0,
         "awayTeam": "New York Giants",
+        "awayScore": 0,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Preview"
+      },
+      {
+        "homeTeam": "Carolina Panthers",
+        "homeScore": 0,
+        "awayTeam": "Seattle Seahawks",
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
