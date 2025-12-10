@@ -2288,15 +2288,6 @@
         "status": "Preview"
       },
       {
-        "homeTeam": "Las Vegas Raiders",
-        "homeScore": 0,
-        "awayTeam": "New York Giants",
-        "awayScore": 0,
-        "weekday": "Saturday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
         "homeTeam": "Los Angeles Chargers",
         "homeScore": 0,
         "awayTeam": "Houston Texans",
@@ -2311,6 +2302,15 @@
         "awayTeam": "Seattle Seahawks",
         "awayScore": 0,
         "weekday": "Saturday",
+        "gameTime": null,
+        "status": "Preview"
+      },
+      {
+        "homeTeam": "Las Vegas Raiders",
+        "homeScore": 0,
+        "awayTeam": "New York Giants",
+        "awayScore": 0,
+        "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
       },
