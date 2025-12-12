@@ -1946,12 +1946,12 @@
     "games": [
       {
         "homeTeam": "Tampa Bay Buccaneers",
-        "homeScore": 0,
+        "homeScore": 13,
         "awayTeam": "Atlanta Falcons",
-        "awayScore": 0,
+        "awayScore": 14,
         "weekday": "Thursday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Chicago Bears",
