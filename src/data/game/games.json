@@ -1948,16 +1948,16 @@
         "homeTeam": "Denver Broncos",
         "homeScore": 0,
         "awayTeam": "Green Bay Packers",
-        "awayScore": 3,
+        "awayScore": 6,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Los Angeles Rams",
-        "homeScore": 0,
+        "homeScore": 7,
         "awayTeam": "Detroit Lions",
-        "awayScore": 7,
+        "awayScore": 10,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1973,7 +1973,7 @@
       },
       {
         "homeTeam": "San Francisco 49ers",
-        "homeScore": 7,
+        "homeScore": 14,
         "awayTeam": "Tennessee Titans",
         "awayScore": 3,
         "weekday": "Sunday",
@@ -1982,7 +1982,7 @@
       },
       {
         "homeTeam": "Seattle Seahawks",
-        "homeScore": 0,
+        "homeScore": 3,
         "awayTeam": "Indianapolis Colts",
         "awayScore": 3,
         "weekday": "Sunday",
