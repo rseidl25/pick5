@@ -1945,28 +1945,10 @@
     "week": 15,
     "games": [
       {
-        "homeTeam": "Kansas City Chiefs",
-        "homeScore": 13,
-        "awayTeam": "Los Angeles Chargers",
-        "awayScore": 16,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "New York Giants",
-        "homeScore": 21,
-        "awayTeam": "Washington Commanders",
-        "awayScore": 29,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Jacksonville Jaguars",
-        "homeScore": 48,
+        "homeScore": 37,
         "awayTeam": "New York Jets",
-        "awayScore": 20,
+        "awayScore": 13,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1978,7 +1960,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Los Angeles Rams",
@@ -1987,7 +1969,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "New Orleans Saints",
@@ -1996,7 +1978,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "San Francisco 49ers",
@@ -2005,7 +1987,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Seattle Seahawks",
@@ -2014,7 +1996,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Dallas Cowboys",
@@ -2035,19 +2017,19 @@
         "status": "Completed"
       },
       {
-        "homeTeam": "Houston Texans",
-        "homeScore": 40,
-        "awayTeam": "Arizona Cardinals",
-        "awayScore": 20,
+        "homeTeam": "Cincinnati Bengals",
+        "homeScore": 0,
+        "awayTeam": "Baltimore Ravens",
+        "awayScore": 24,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
       },
       {
-        "homeTeam": "Cincinnati Bengals",
-        "homeScore": 0,
-        "awayTeam": "Baltimore Ravens",
-        "awayScore": 24,
+        "homeTeam": "Kansas City Chiefs",
+        "homeScore": 13,
+        "awayTeam": "Los Angeles Chargers",
+        "awayScore": 16,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
@@ -2062,10 +2044,28 @@
         "status": "Completed"
       },
       {
+        "homeTeam": "New York Giants",
+        "homeScore": 21,
+        "awayTeam": "Washington Commanders",
+        "awayScore": 29,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
         "homeTeam": "Philadelphia Eagles",
         "homeScore": 31,
         "awayTeam": "Las Vegas Raiders",
         "awayScore": 0,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Houston Texans",
+        "homeScore": 40,
+        "awayTeam": "Arizona Cardinals",
+        "awayScore": 20,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
