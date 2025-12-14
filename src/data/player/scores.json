@@ -1727,7 +1727,7 @@
             "bonus": false
           },
           "Jacksonville Jaguars": {
-            "points": 0,
+            "points": 58,
             "bonus": true
           },
           "Minnesota Vikings": {
@@ -1743,7 +1743,7 @@
             "bonus": false
           }
         },
-        "total": 20
+        "total": 78
       },
       "week16": {
         "teams": {
@@ -1821,7 +1821,7 @@
         "total": 0
       }
     },
-    "overall_score": 654
+    "overall_score": 712
   },
   "FkbsYIXzm7TorvwE2qbaTiKsrmi1": {
     "name": "Steve",

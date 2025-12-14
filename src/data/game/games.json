@@ -1945,19 +1945,10 @@
     "week": 15,
     "games": [
       {
-        "homeTeam": "Jacksonville Jaguars",
-        "homeScore": 37,
-        "awayTeam": "New York Jets",
-        "awayScore": 13,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Denver Broncos",
         "homeScore": 0,
         "awayTeam": "Green Bay Packers",
-        "awayScore": 0,
+        "awayScore": 3,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1966,7 +1957,7 @@
         "homeTeam": "Los Angeles Rams",
         "homeScore": 0,
         "awayTeam": "Detroit Lions",
-        "awayScore": 0,
+        "awayScore": 7,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1982,7 +1973,7 @@
       },
       {
         "homeTeam": "San Francisco 49ers",
-        "homeScore": 0,
+        "homeScore": 7,
         "awayTeam": "Tennessee Titans",
         "awayScore": 0,
         "weekday": "Sunday",
@@ -2057,6 +2048,15 @@
         "homeScore": 31,
         "awayTeam": "Las Vegas Raiders",
         "awayScore": 0,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Jacksonville Jaguars",
+        "homeScore": 48,
+        "awayTeam": "New York Jets",
+        "awayScore": 20,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
