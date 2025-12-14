@@ -1946,7 +1946,7 @@
     "games": [
       {
         "homeTeam": "Denver Broncos",
-        "homeScore": 14,
+        "homeScore": 21,
         "awayTeam": "Green Bay Packers",
         "awayScore": 23,
         "weekday": "Sunday",
@@ -1955,7 +1955,7 @@
       },
       {
         "homeTeam": "Los Angeles Rams",
-        "homeScore": 17,
+        "homeScore": 20,
         "awayTeam": "Detroit Lions",
         "awayScore": 24,
         "weekday": "Sunday",
@@ -1964,7 +1964,7 @@
       },
       {
         "homeTeam": "New Orleans Saints",
-        "homeScore": 7,
+        "homeScore": 10,
         "awayTeam": "Carolina Panthers",
         "awayScore": 17,
         "weekday": "Sunday",
@@ -1982,7 +1982,7 @@
       },
       {
         "homeTeam": "Seattle Seahawks",
-        "homeScore": 6,
+        "homeScore": 9,
         "awayTeam": "Indianapolis Colts",
         "awayScore": 13,
         "weekday": "Sunday",
