@@ -1964,9 +1964,9 @@
       },
       {
         "homeTeam": "Kansas City Chiefs",
-        "homeScore": 10,
+        "homeScore": 13,
         "awayTeam": "Los Angeles Chargers",
-        "awayScore": 3,
+        "awayScore": 9,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1984,7 +1984,7 @@
         "homeTeam": "New York Giants",
         "homeScore": 7,
         "awayTeam": "Washington Commanders",
-        "awayScore": 19,
+        "awayScore": 22,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -2000,7 +2000,7 @@
       },
       {
         "homeTeam": "Jacksonville Jaguars",
-        "homeScore": 21,
+        "homeScore": 24,
         "awayTeam": "New York Jets",
         "awayScore": 10,
         "weekday": "Sunday",
