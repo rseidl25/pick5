@@ -1945,15 +1945,6 @@
     "week": 15,
     "games": [
       {
-        "homeTeam": "Tampa Bay Buccaneers",
-        "homeScore": 28,
-        "awayTeam": "Atlanta Falcons",
-        "awayScore": 29,
-        "weekday": "Thursday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "Chicago Bears",
         "homeScore": 0,
         "awayTeam": "Cleveland Browns",
@@ -2078,6 +2069,15 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Tampa Bay Buccaneers",
+        "homeScore": 28,
+        "awayTeam": "Atlanta Falcons",
+        "awayScore": 29,
+        "weekday": "Thursday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Pittsburgh Steelers",
