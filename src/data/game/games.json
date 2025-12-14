@@ -1946,9 +1946,9 @@
     "games": [
       {
         "homeTeam": "Chicago Bears",
-        "homeScore": 14,
+        "homeScore": 21,
         "awayTeam": "Cleveland Browns",
-        "awayScore": 0,
+        "awayScore": 3,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1957,7 +1957,7 @@
         "homeTeam": "Cincinnati Bengals",
         "homeScore": 0,
         "awayTeam": "Baltimore Ravens",
-        "awayScore": 14,
+        "awayScore": 17,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1966,7 +1966,7 @@
         "homeTeam": "Kansas City Chiefs",
         "homeScore": 13,
         "awayTeam": "Los Angeles Chargers",
-        "awayScore": 10,
+        "awayScore": 13,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1975,14 +1975,14 @@
         "homeTeam": "New England Patriots",
         "homeScore": 24,
         "awayTeam": "Buffalo Bills",
-        "awayScore": 14,
+        "awayScore": 21,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "New York Giants",
-        "homeScore": 7,
+        "homeScore": 14,
         "awayTeam": "Washington Commanders",
         "awayScore": 22,
         "weekday": "Sunday",
@@ -1991,7 +1991,7 @@
       },
       {
         "homeTeam": "Philadelphia Eagles",
-        "homeScore": 24,
+        "homeScore": 31,
         "awayTeam": "Las Vegas Raiders",
         "awayScore": 0,
         "weekday": "Sunday",
@@ -2000,16 +2000,16 @@
       },
       {
         "homeTeam": "Jacksonville Jaguars",
-        "homeScore": 31,
+        "homeScore": 38,
         "awayTeam": "New York Jets",
-        "awayScore": 10,
+        "awayScore": 13,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Houston Texans",
-        "homeScore": 23,
+        "homeScore": 30,
         "awayTeam": "Arizona Cardinals",
         "awayScore": 7,
         "weekday": "Sunday",
