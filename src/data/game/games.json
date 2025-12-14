@@ -1946,18 +1946,18 @@
     "games": [
       {
         "homeTeam": "Denver Broncos",
-        "homeScore": 13,
+        "homeScore": 14,
         "awayTeam": "Green Bay Packers",
-        "awayScore": 13,
+        "awayScore": 16,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Los Angeles Rams",
-        "homeScore": 14,
+        "homeScore": 17,
         "awayTeam": "Detroit Lions",
-        "awayScore": 17,
+        "awayScore": 24,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1982,7 +1982,7 @@
       },
       {
         "homeTeam": "Seattle Seahawks",
-        "homeScore": 3,
+        "homeScore": 6,
         "awayTeam": "Indianapolis Colts",
         "awayScore": 13,
         "weekday": "Sunday",
