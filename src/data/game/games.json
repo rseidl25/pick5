@@ -1946,7 +1946,7 @@
     "games": [
       {
         "homeTeam": "Chicago Bears",
-        "homeScore": 28,
+        "homeScore": 31,
         "awayTeam": "Cleveland Browns",
         "awayScore": 3,
         "weekday": "Sunday",
@@ -1975,7 +1975,7 @@
         "homeTeam": "New England Patriots",
         "homeScore": 31,
         "awayTeam": "Buffalo Bills",
-        "awayScore": 28,
+        "awayScore": 35,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1991,7 +1991,7 @@
       },
       {
         "homeTeam": "Jacksonville Jaguars",
-        "homeScore": 41,
+        "homeScore": 48,
         "awayTeam": "New York Jets",
         "awayScore": 20,
         "weekday": "Sunday",
