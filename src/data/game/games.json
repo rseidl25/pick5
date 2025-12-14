@@ -1957,7 +1957,7 @@
         "homeTeam": "Cincinnati Bengals",
         "homeScore": 0,
         "awayTeam": "Baltimore Ravens",
-        "awayScore": 7,
+        "awayScore": 14,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1973,7 +1973,7 @@
       },
       {
         "homeTeam": "New England Patriots",
-        "homeScore": 21,
+        "homeScore": 24,
         "awayTeam": "Buffalo Bills",
         "awayScore": 7,
         "weekday": "Sunday",
@@ -1984,7 +1984,7 @@
         "homeTeam": "New York Giants",
         "homeScore": 7,
         "awayTeam": "Washington Commanders",
-        "awayScore": 13,
+        "awayScore": 19,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -2009,7 +2009,7 @@
       },
       {
         "homeTeam": "Houston Texans",
-        "homeScore": 20,
+        "homeScore": 23,
         "awayTeam": "Arizona Cardinals",
         "awayScore": 7,
         "weekday": "Sunday",
