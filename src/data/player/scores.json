@@ -367,7 +367,7 @@
             "bonus": false
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Pittsburgh Steelers": {
@@ -375,7 +375,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week16": {
         "teams": {
@@ -453,7 +453,7 @@
         "total": 0
       }
     },
-    "overall_score": 761
+    "overall_score": 771
   },
   "A5dssZETIMhNd0WYKQamFxxb9Ak2": {
     "name": "Judy Phillip",
@@ -1735,7 +1735,7 @@
             "bonus": false
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Chicago Bears": {
@@ -1743,7 +1743,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week16": {
         "teams": {
@@ -1821,7 +1821,7 @@
         "total": 0
       }
     },
-    "overall_score": 634
+    "overall_score": 644
   },
   "FkbsYIXzm7TorvwE2qbaTiKsrmi1": {
     "name": "Steve",
@@ -2187,7 +2187,7 @@
             "bonus": false
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "San Francisco 49ers": {
@@ -2199,7 +2199,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week16": {
         "teams": {
@@ -2277,7 +2277,7 @@
         "total": 0
       }
     },
-    "overall_score": 844
+    "overall_score": 854
   },
   "Fn25s976WxT6gML22x8yJsQ33PM2": {
     "name": "Milly",
@@ -3095,7 +3095,7 @@
             "bonus": true
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Washington Commanders": {
@@ -3111,7 +3111,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week16": {
         "teams": {
@@ -3189,7 +3189,7 @@
         "total": 0
       }
     },
-    "overall_score": 775
+    "overall_score": 785
   },
   "LKY6YytQUfbPzmcw2yfIYm0XEQD2": {
     "name": "Smelly Kelly",
@@ -3555,7 +3555,7 @@
             "bonus": true
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "San Francisco 49ers": {
@@ -3567,7 +3567,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week16": {
         "teams": {
@@ -3645,7 +3645,7 @@
         "total": 0
       }
     },
-    "overall_score": 777
+    "overall_score": 787
   },
   "NluZaqiuGKRzhuir9Jfu5uKRm302": {
     "name": "Angie Phillip",
@@ -4019,11 +4019,11 @@
             "bonus": false
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week16": {
         "teams": {
@@ -4101,7 +4101,7 @@
         "total": 0
       }
     },
-    "overall_score": 769
+    "overall_score": 779
   },
   "US8t7rlGTXV5t8M3K8OWB2kzQo93": {
     "name": "Sam",
@@ -4471,7 +4471,7 @@
             "bonus": false
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
@@ -4479,7 +4479,7 @@
             "bonus": true
           }
         },
-        "total": 0
+        "total": 10
       },
       "week16": {
         "teams": {
@@ -4557,7 +4557,7 @@
         "total": 0
       }
     },
-    "overall_score": 907
+    "overall_score": 917
   },
   "XKPW7eAMivNTYBrIivGGT9DFV022": {
     "name": "Joey",
@@ -4927,7 +4927,7 @@
             "bonus": true
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "San Francisco 49ers": {
@@ -4935,7 +4935,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week16": {
         "teams": {
@@ -5013,7 +5013,7 @@
         "total": 0
       }
     },
-    "overall_score": 769
+    "overall_score": 779
   },
   "dac8Eg3ax4PxQl7aSydfS9lAWv23": {
     "name": "Ben",
@@ -5379,7 +5379,7 @@
             "bonus": false
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "San Francisco 49ers": {
@@ -5391,7 +5391,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week16": {
         "teams": {
@@ -5469,7 +5469,7 @@
         "total": 0
       }
     },
-    "overall_score": 742
+    "overall_score": 752
   },
   "hELkxczX1UerNFvp4fpORxqLr9X2": {
     "name": "PP",
@@ -5839,7 +5839,7 @@
             "bonus": false
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 41,
             "bonus": true
           },
           "Detroit Lions": {
@@ -5847,7 +5847,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 41
       },
       "week16": {
         "teams": {
@@ -5925,7 +5925,7 @@
         "total": 0
       }
     },
-    "overall_score": 646
+    "overall_score": 687
   },
   "hR9aypGuwBfk5pE5MwNjxEvfkh43": {
     "name": "Ryan",
@@ -6291,7 +6291,7 @@
             "bonus": false
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "San Francisco 49ers": {
@@ -6303,7 +6303,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week16": {
         "teams": {
@@ -6381,7 +6381,7 @@
         "total": 0
       }
     },
-    "overall_score": 725
+    "overall_score": 735
   },
   "jydlml7YsWe72ieLWGDFhuxY3Nb2": {
     "name": "Cal",
@@ -6747,7 +6747,7 @@
             "bonus": false
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "San Francisco 49ers": {
@@ -6759,7 +6759,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week16": {
         "teams": {
@@ -6837,7 +6837,7 @@
         "total": 0
       }
     },
-    "overall_score": 566
+    "overall_score": 576
   },
   "tinL2DkOXZTYEdYZDlT3cQzk6Yi2": {
     "name": "Lauren",
@@ -7195,7 +7195,7 @@
       "week15": {
         "teams": {
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Chicago Bears": {
@@ -7215,7 +7215,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week16": {
         "teams": {
@@ -7293,7 +7293,7 @@
         "total": 0
       }
     },
-    "overall_score": 718
+    "overall_score": 728
   },
   "u8geiYcJqpcTBRxAtLVB5QKA8Ii2": {
     "name": "Lisa: Certified League Wrecker",
@@ -7663,7 +7663,7 @@
             "bonus": true
           },
           "Philadelphia Eagles": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "San Francisco 49ers": {
@@ -7671,7 +7671,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week16": {
         "teams": {
@@ -7749,6 +7749,6 @@
         "total": 0
       }
     },
-    "overall_score": 771
+    "overall_score": 781
   }
 }

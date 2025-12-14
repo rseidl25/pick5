@@ -1957,7 +1957,7 @@
         "homeTeam": "Cincinnati Bengals",
         "homeScore": 0,
         "awayTeam": "Baltimore Ravens",
-        "awayScore": 17,
+        "awayScore": 24,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1990,19 +1990,10 @@
         "status": "In Progress"
       },
       {
-        "homeTeam": "Philadelphia Eagles",
-        "homeScore": 31,
-        "awayTeam": "Las Vegas Raiders",
-        "awayScore": 0,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Jacksonville Jaguars",
         "homeScore": 41,
         "awayTeam": "New York Jets",
-        "awayScore": 13,
+        "awayScore": 20,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -2011,7 +2002,7 @@
         "homeTeam": "Houston Texans",
         "homeScore": 33,
         "awayTeam": "Arizona Cardinals",
-        "awayScore": 14,
+        "awayScore": 20,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -2069,6 +2060,15 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Philadelphia Eagles",
+        "homeScore": 31,
+        "awayTeam": "Las Vegas Raiders",
+        "awayScore": 0,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Tampa Bay Buccaneers",
