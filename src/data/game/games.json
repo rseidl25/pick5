@@ -1955,7 +1955,7 @@
       },
       {
         "homeTeam": "Los Angeles Rams",
-        "homeScore": 20,
+        "homeScore": 34,
         "awayTeam": "Detroit Lions",
         "awayScore": 24,
         "weekday": "Sunday",
@@ -1973,7 +1973,7 @@
       },
       {
         "homeTeam": "San Francisco 49ers",
-        "homeScore": 24,
+        "homeScore": 31,
         "awayTeam": "Tennessee Titans",
         "awayScore": 10,
         "weekday": "Sunday",
@@ -1982,7 +1982,7 @@
       },
       {
         "homeTeam": "Seattle Seahawks",
-        "homeScore": 9,
+        "homeScore": 12,
         "awayTeam": "Indianapolis Colts",
         "awayScore": 13,
         "weekday": "Sunday",
