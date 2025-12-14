@@ -1946,7 +1946,7 @@
     "games": [
       {
         "homeTeam": "Chicago Bears",
-        "homeScore": 21,
+        "homeScore": 28,
         "awayTeam": "Cleveland Browns",
         "awayScore": 3,
         "weekday": "Sunday",
@@ -1966,16 +1966,16 @@
         "homeTeam": "Kansas City Chiefs",
         "homeScore": 13,
         "awayTeam": "Los Angeles Chargers",
-        "awayScore": 13,
+        "awayScore": 16,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "New England Patriots",
-        "homeScore": 24,
+        "homeScore": 31,
         "awayTeam": "Buffalo Bills",
-        "awayScore": 21,
+        "awayScore": 28,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -1984,7 +1984,7 @@
         "homeTeam": "New York Giants",
         "homeScore": 14,
         "awayTeam": "Washington Commanders",
-        "awayScore": 22,
+        "awayScore": 29,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -2000,7 +2000,7 @@
       },
       {
         "homeTeam": "Jacksonville Jaguars",
-        "homeScore": 38,
+        "homeScore": 41,
         "awayTeam": "New York Jets",
         "awayScore": 13,
         "weekday": "Sunday",
@@ -2009,9 +2009,9 @@
       },
       {
         "homeTeam": "Houston Texans",
-        "homeScore": 30,
+        "homeScore": 33,
         "awayTeam": "Arizona Cardinals",
-        "awayScore": 7,
+        "awayScore": 14,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
