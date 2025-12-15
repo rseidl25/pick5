@@ -1945,6 +1945,24 @@
     "week": 15,
     "games": [
       {
+        "homeTeam": "Pittsburgh Steelers",
+        "homeScore": 0,
+        "awayTeam": "Miami Dolphins",
+        "awayScore": 0,
+        "weekday": "Monday",
+        "gameTime": null,
+        "status": "Preview"
+      },
+      {
+        "homeTeam": "Tampa Bay Buccaneers",
+        "homeScore": 28,
+        "awayTeam": "Atlanta Falcons",
+        "awayScore": 29,
+        "weekday": "Thursday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
         "homeTeam": "Chicago Bears",
         "homeScore": 31,
         "awayTeam": "Cleveland Browns",
@@ -2069,24 +2087,6 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
-      },
-      {
-        "homeTeam": "Tampa Bay Buccaneers",
-        "homeScore": 28,
-        "awayTeam": "Atlanta Falcons",
-        "awayScore": 29,
-        "weekday": "Thursday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
-        "homeTeam": "Pittsburgh Steelers",
-        "homeScore": 0,
-        "awayTeam": "Miami Dolphins",
-        "awayScore": 0,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Preview"
       }
     ]
   },
