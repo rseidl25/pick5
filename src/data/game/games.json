@@ -1945,15 +1945,6 @@
     "week": 15,
     "games": [
       {
-        "homeTeam": "Dallas Cowboys",
-        "homeScore": 23,
-        "awayTeam": "Minnesota Vikings",
-        "awayScore": 31,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Chicago Bears",
         "homeScore": 31,
         "awayTeam": "Cleveland Browns",
@@ -2066,6 +2057,15 @@
         "homeScore": 18,
         "awayTeam": "Indianapolis Colts",
         "awayScore": 16,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Dallas Cowboys",
+        "homeScore": 26,
+        "awayTeam": "Minnesota Vikings",
+        "awayScore": 34,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
