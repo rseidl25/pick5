@@ -1946,9 +1946,9 @@
     "games": [
       {
         "homeTeam": "Dallas Cowboys",
-        "homeScore": 17,
+        "homeScore": 23,
         "awayTeam": "Minnesota Vikings",
-        "awayScore": 17,
+        "awayScore": 31,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
