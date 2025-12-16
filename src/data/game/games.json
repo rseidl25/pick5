@@ -1946,12 +1946,12 @@
     "games": [
       {
         "homeTeam": "Pittsburgh Steelers",
-        "homeScore": 0,
+        "homeScore": 14,
         "awayTeam": "Miami Dolphins",
-        "awayScore": 0,
+        "awayScore": 3,
         "weekday": "Monday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Tampa Bay Buccaneers",
