@@ -1946,9 +1946,9 @@
     "games": [
       {
         "homeTeam": "Pittsburgh Steelers",
-        "homeScore": 14,
+        "homeScore": 28,
         "awayTeam": "Miami Dolphins",
-        "awayScore": 3,
+        "awayScore": 15,
         "weekday": "Monday",
         "gameTime": null,
         "status": "In Progress"
