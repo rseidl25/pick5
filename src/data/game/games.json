@@ -1945,15 +1945,6 @@
     "week": 15,
     "games": [
       {
-        "homeTeam": "Pittsburgh Steelers",
-        "homeScore": 28,
-        "awayTeam": "Miami Dolphins",
-        "awayScore": 15,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "Tampa Bay Buccaneers",
         "homeScore": 28,
         "awayTeam": "Atlanta Falcons",
@@ -2085,6 +2076,15 @@
         "awayTeam": "Minnesota Vikings",
         "awayScore": 34,
         "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Pittsburgh Steelers",
+        "homeScore": 28,
+        "awayTeam": "Miami Dolphins",
+        "awayScore": 15,
+        "weekday": "Monday",
         "gameTime": null,
         "status": "Completed"
       }
