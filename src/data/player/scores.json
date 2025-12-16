@@ -371,11 +371,11 @@
             "bonus": false
           },
           "Pittsburgh Steelers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 71
+        "total": 81
       },
       "week16": {
         "teams": {
@@ -453,7 +453,7 @@
         "total": 0
       }
     },
-    "overall_score": 832
+    "overall_score": 842
   },
   "A5dssZETIMhNd0WYKQamFxxb9Ak2": {
     "name": "Judy Phillip",
@@ -2195,11 +2195,11 @@
             "bonus": true
           },
           "Pittsburgh Steelers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 67
+        "total": 77
       },
       "week16": {
         "teams": {
@@ -2277,7 +2277,7 @@
         "total": 0
       }
     },
-    "overall_score": 911
+    "overall_score": 921
   },
   "Fn25s976WxT6gML22x8yJsQ33PM2": {
     "name": "Milly",
@@ -4007,7 +4007,7 @@
             "bonus": false
           },
           "Pittsburgh Steelers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Minnesota Vikings": {
@@ -4023,7 +4023,7 @@
             "bonus": false
           }
         },
-        "total": 74
+        "total": 84
       },
       "week16": {
         "teams": {
@@ -4101,7 +4101,7 @@
         "total": 0
       }
     },
-    "overall_score": 843
+    "overall_score": 853
   },
   "US8t7rlGTXV5t8M3K8OWB2kzQo93": {
     "name": "Sam",
@@ -5387,11 +5387,11 @@
             "bonus": false
           },
           "Pittsburgh Steelers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 69
+        "total": 79
       },
       "week16": {
         "teams": {
@@ -5469,7 +5469,7 @@
         "total": 0
       }
     },
-    "overall_score": 811
+    "overall_score": 821
   },
   "hELkxczX1UerNFvp4fpORxqLr9X2": {
     "name": "PP",
