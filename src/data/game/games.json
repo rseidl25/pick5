@@ -2095,12 +2095,12 @@
     "games": [
       {
         "homeTeam": "Seattle Seahawks",
-        "homeScore": 30,
+        "homeScore": 38,
         "awayTeam": "Los Angeles Rams",
-        "awayScore": 30,
+        "awayScore": 37,
         "weekday": "Thursday",
         "gameTime": null,
-        "status": "In Progress"
+        "status": "Completed"
       },
       {
         "homeTeam": "Washington Commanders",
