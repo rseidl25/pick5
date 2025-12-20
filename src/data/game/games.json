@@ -2094,15 +2094,6 @@
     "week": 16,
     "games": [
       {
-        "homeTeam": "Seattle Seahawks",
-        "homeScore": 38,
-        "awayTeam": "Los Angeles Rams",
-        "awayScore": 37,
-        "weekday": "Thursday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "Washington Commanders",
         "homeScore": 0,
         "awayTeam": "Philadelphia Eagles",
@@ -2119,6 +2110,15 @@
         "weekday": "Saturday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Seattle Seahawks",
+        "homeScore": 38,
+        "awayTeam": "Los Angeles Rams",
+        "awayScore": 37,
+        "weekday": "Thursday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Cleveland Browns",
