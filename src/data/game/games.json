@@ -2097,14 +2097,14 @@
         "homeTeam": "Denver Broncos",
         "homeScore": 0,
         "awayTeam": "Jacksonville Jaguars",
-        "awayScore": 0,
+        "awayScore": 7,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Arizona Cardinals",
-        "homeScore": 3,
+        "homeScore": 10,
         "awayTeam": "Atlanta Falcons",
         "awayScore": 0,
         "weekday": "Sunday",
@@ -2115,14 +2115,14 @@
         "homeTeam": "Detroit Lions",
         "homeScore": 0,
         "awayTeam": "Pittsburgh Steelers",
-        "awayScore": 0,
+        "awayScore": 3,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Houston Texans",
-        "homeScore": 0,
+        "homeScore": 7,
         "awayTeam": "Las Vegas Raiders",
         "awayScore": 0,
         "weekday": "Sunday",
