@@ -2095,7 +2095,7 @@
     "games": [
       {
         "homeTeam": "Denver Broncos",
-        "homeScore": 0,
+        "homeScore": 7,
         "awayTeam": "Jacksonville Jaguars",
         "awayScore": 7,
         "weekday": "Sunday",
@@ -2106,7 +2106,7 @@
         "homeTeam": "Arizona Cardinals",
         "homeScore": 10,
         "awayTeam": "Atlanta Falcons",
-        "awayScore": 0,
+        "awayScore": 3,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
