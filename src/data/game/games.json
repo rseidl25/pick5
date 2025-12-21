@@ -2113,7 +2113,7 @@
       },
       {
         "homeTeam": "Tennessee Titans",
-        "homeScore": 9,
+        "homeScore": 16,
         "awayTeam": "Kansas City Chiefs",
         "awayScore": 6,
         "weekday": "Sunday",
@@ -2124,7 +2124,7 @@
         "homeTeam": "Miami Dolphins",
         "homeScore": 14,
         "awayTeam": "Cincinnati Bengals",
-        "awayScore": 17,
+        "awayScore": 24,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -2151,7 +2151,7 @@
         "homeTeam": "Carolina Panthers",
         "homeScore": 13,
         "awayTeam": "Tampa Bay Buccaneers",
-        "awayScore": 10,
+        "awayScore": 17,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
