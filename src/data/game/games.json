@@ -2094,19 +2094,19 @@
     "week": 16,
     "games": [
       {
-        "homeTeam": "Chicago Bears",
-        "homeScore": 9,
-        "awayTeam": "Green Bay Packers",
-        "awayScore": 16,
-        "weekday": "Saturday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Washington Commanders",
         "homeScore": 18,
         "awayTeam": "Philadelphia Eagles",
         "awayScore": 29,
+        "weekday": "Saturday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Chicago Bears",
+        "homeScore": 22,
+        "awayTeam": "Green Bay Packers",
+        "awayScore": 16,
         "weekday": "Saturday",
         "gameTime": null,
         "status": "Completed"
