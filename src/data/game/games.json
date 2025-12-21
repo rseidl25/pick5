@@ -2094,85 +2094,22 @@
     "week": 16,
     "games": [
       {
-        "homeTeam": "Cleveland Browns",
-        "homeScore": 20,
-        "awayTeam": "Buffalo Bills",
-        "awayScore": 23,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Dallas Cowboys",
-        "homeScore": 17,
-        "awayTeam": "Los Angeles Chargers",
-        "awayScore": 34,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Tennessee Titans",
-        "homeScore": 26,
-        "awayTeam": "Kansas City Chiefs",
-        "awayScore": 9,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Miami Dolphins",
-        "homeScore": 21,
-        "awayTeam": "Cincinnati Bengals",
-        "awayScore": 45,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "New Orleans Saints",
-        "homeScore": 22,
-        "awayTeam": "New York Jets",
-        "awayScore": 6,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "New York Giants",
-        "homeScore": 13,
-        "awayTeam": "Minnesota Vikings",
-        "awayScore": 16,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Carolina Panthers",
-        "homeScore": 23,
-        "awayTeam": "Tampa Bay Buccaneers",
-        "awayScore": 20,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Denver Broncos",
         "homeScore": 0,
         "awayTeam": "Jacksonville Jaguars",
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Arizona Cardinals",
-        "homeScore": 0,
+        "homeScore": 3,
         "awayTeam": "Atlanta Falcons",
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Detroit Lions",
@@ -2200,6 +2137,69 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Cleveland Browns",
+        "homeScore": 20,
+        "awayTeam": "Buffalo Bills",
+        "awayScore": 23,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Dallas Cowboys",
+        "homeScore": 17,
+        "awayTeam": "Los Angeles Chargers",
+        "awayScore": 34,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Tennessee Titans",
+        "homeScore": 26,
+        "awayTeam": "Kansas City Chiefs",
+        "awayScore": 9,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Miami Dolphins",
+        "homeScore": 21,
+        "awayTeam": "Cincinnati Bengals",
+        "awayScore": 45,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "New Orleans Saints",
+        "homeScore": 29,
+        "awayTeam": "New York Jets",
+        "awayScore": 6,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "New York Giants",
+        "homeScore": 13,
+        "awayTeam": "Minnesota Vikings",
+        "awayScore": 16,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Carolina Panthers",
+        "homeScore": 23,
+        "awayTeam": "Tampa Bay Buccaneers",
+        "awayScore": 20,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Seattle Seahawks",

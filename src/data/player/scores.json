@@ -380,7 +380,7 @@
       "week16": {
         "teams": {
           "Minnesota Vikings": {
-            "points": 0,
+            "points": 26,
             "bonus": true
           },
           "Kansas City Chiefs": {
@@ -388,7 +388,7 @@
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Philadelphia Eagles": {
@@ -400,7 +400,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 46
       },
       "week17": {
         "teams": {
@@ -453,7 +453,7 @@
         "total": 0
       }
     },
-    "overall_score": 852
+    "overall_score": 888
   },
   "A5dssZETIMhNd0WYKQamFxxb9Ak2": {
     "name": "Judy Phillip",
@@ -844,7 +844,7 @@
             "bonus": false
           },
           "Minnesota Vikings": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
@@ -852,11 +852,11 @@
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 20
       },
       "week17": {
         "teams": {
@@ -909,7 +909,7 @@
         "total": 0
       }
     },
-    "overall_score": 868
+    "overall_score": 888
   },
   "AmEIaRh92vdP40uVAseDWGxcZBM2": {
     "name": "Brett Sievwright",
@@ -1296,7 +1296,7 @@
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Kansas City Chiefs": {
@@ -1312,7 +1312,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week17": {
         "teams": {
@@ -1365,7 +1365,7 @@
         "total": 0
       }
     },
-    "overall_score": 718
+    "overall_score": 728
   },
   "D2fLoPEINITIuA9oJNB8ybVaOps2": {
     "name": "Kalysta",
@@ -1752,7 +1752,7 @@
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 33,
             "bonus": true
           },
           "Tampa Bay Buccaneers": {
@@ -1760,7 +1760,7 @@
             "bonus": false
           },
           "Minnesota Vikings": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Houston Texans": {
@@ -1768,7 +1768,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 43
       },
       "week17": {
         "teams": {
@@ -1821,7 +1821,7 @@
         "total": 0
       }
     },
-    "overall_score": 722
+    "overall_score": 765
   },
   "FkbsYIXzm7TorvwE2qbaTiKsrmi1": {
     "name": "Steve",
@@ -2220,11 +2220,11 @@
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week17": {
         "teams": {
@@ -2277,7 +2277,7 @@
         "total": 0
       }
     },
-    "overall_score": 921
+    "overall_score": 931
   },
   "Fn25s976WxT6gML22x8yJsQ33PM2": {
     "name": "Milly",
@@ -2660,7 +2660,7 @@
       "week16": {
         "teams": {
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
@@ -2680,7 +2680,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week17": {
         "teams": {
@@ -2733,7 +2733,7 @@
         "total": 0
       }
     },
-    "overall_score": 659
+    "overall_score": 669
   },
   "K9X8fKAf1bNvZjJH0jM9eO2uobP2": {
     "name": "Bryan",
@@ -3120,7 +3120,7 @@
             "bonus": true
           },
           "Minnesota Vikings": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Baltimore Ravens": {
@@ -3132,11 +3132,11 @@
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 20
       },
       "week17": {
         "teams": {
@@ -3189,7 +3189,7 @@
         "total": 0
       }
     },
-    "overall_score": 850
+    "overall_score": 870
   },
   "LKY6YytQUfbPzmcw2yfIYm0XEQD2": {
     "name": "Smelly Kelly",
@@ -4028,11 +4028,11 @@
       "week16": {
         "teams": {
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Minnesota Vikings": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Denver Broncos": {
@@ -4040,7 +4040,7 @@
             "bonus": true
           },
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Kansas City Chiefs": {
@@ -4048,7 +4048,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 30
       },
       "week17": {
         "teams": {
@@ -4101,7 +4101,7 @@
         "total": 0
       }
     },
-    "overall_score": 853
+    "overall_score": 883
   },
   "US8t7rlGTXV5t8M3K8OWB2kzQo93": {
     "name": "Sam",
@@ -4500,11 +4500,11 @@
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week17": {
         "teams": {
@@ -4557,7 +4557,7 @@
         "total": 0
       }
     },
-    "overall_score": 947
+    "overall_score": 957
   },
   "XKPW7eAMivNTYBrIivGGT9DFV022": {
     "name": "Joey",
@@ -4940,7 +4940,7 @@
       "week16": {
         "teams": {
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Tampa Bay Buccaneers": {
@@ -4956,11 +4956,11 @@
             "bonus": false
           },
           "New Orleans Saints": {
-            "points": 0,
+            "points": 39,
             "bonus": true
           }
         },
-        "total": 0
+        "total": 49
       },
       "week17": {
         "teams": {
@@ -5013,7 +5013,7 @@
         "total": 0
       }
     },
-    "overall_score": 848
+    "overall_score": 897
   },
   "dac8Eg3ax4PxQl7aSydfS9lAWv23": {
     "name": "Ben",
@@ -5396,7 +5396,7 @@
       "week16": {
         "teams": {
           "Los Angeles Chargers": {
-            "points": 0,
+            "points": 44,
             "bonus": true
           },
           "Baltimore Ravens": {
@@ -5404,7 +5404,7 @@
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Kansas City Chiefs": {
@@ -5412,11 +5412,11 @@
             "bonus": false
           },
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 64
       },
       "week17": {
         "teams": {
@@ -5469,7 +5469,7 @@
         "total": 0
       }
     },
-    "overall_score": 821
+    "overall_score": 885
   },
   "hELkxczX1UerNFvp4fpORxqLr9X2": {
     "name": "PP",
@@ -5856,7 +5856,7 @@
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Kansas City Chiefs": {
@@ -5872,7 +5872,7 @@
             "bonus": true
           }
         },
-        "total": 0
+        "total": 10
       },
       "week17": {
         "teams": {
@@ -5925,7 +5925,7 @@
         "total": 0
       }
     },
-    "overall_score": 697
+    "overall_score": 707
   },
   "hR9aypGuwBfk5pE5MwNjxEvfkh43": {
     "name": "Ryan",
@@ -6308,7 +6308,7 @@
       "week16": {
         "teams": {
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Kansas City Chiefs": {
@@ -6328,7 +6328,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week17": {
         "teams": {
@@ -6381,7 +6381,7 @@
         "total": 0
       }
     },
-    "overall_score": 765
+    "overall_score": 775
   },
   "jydlml7YsWe72ieLWGDFhuxY3Nb2": {
     "name": "Cal",
@@ -6764,7 +6764,7 @@
       "week16": {
         "teams": {
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Kansas City Chiefs": {
@@ -6784,7 +6784,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week17": {
         "teams": {
@@ -6837,7 +6837,7 @@
         "total": 0
       }
     },
-    "overall_score": 653
+    "overall_score": 663
   },
   "tinL2DkOXZTYEdYZDlT3cQzk6Yi2": {
     "name": "Lauren",
@@ -7224,7 +7224,7 @@
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 33,
             "bonus": true
           },
           "Kansas City Chiefs": {
@@ -7240,7 +7240,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 33
       },
       "week17": {
         "teams": {
@@ -7293,7 +7293,7 @@
         "total": 0
       }
     },
-    "overall_score": 799
+    "overall_score": 832
   },
   "u8geiYcJqpcTBRxAtLVB5QKA8Ii2": {
     "name": "Lisa: Certified League Wrecker",
@@ -7692,11 +7692,11 @@
             "bonus": false
           },
           "Buffalo Bills": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week17": {
         "teams": {
@@ -7749,6 +7749,6 @@
         "total": 0
       }
     },
-    "overall_score": 840
+    "overall_score": 850
   }
 }
