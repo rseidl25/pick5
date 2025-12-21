@@ -2106,7 +2106,7 @@
         "homeTeam": "Dallas Cowboys",
         "homeScore": 17,
         "awayTeam": "Los Angeles Chargers",
-        "awayScore": 27,
+        "awayScore": 34,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -2122,7 +2122,7 @@
       },
       {
         "homeTeam": "Miami Dolphins",
-        "homeScore": 14,
+        "homeScore": 21,
         "awayTeam": "Cincinnati Bengals",
         "awayScore": 45,
         "weekday": "Sunday",
@@ -2131,7 +2131,7 @@
       },
       {
         "homeTeam": "New Orleans Saints",
-        "homeScore": 19,
+        "homeScore": 22,
         "awayTeam": "New York Jets",
         "awayScore": 6,
         "weekday": "Sunday",
@@ -2142,14 +2142,14 @@
         "homeTeam": "New York Giants",
         "homeScore": 13,
         "awayTeam": "Minnesota Vikings",
-        "awayScore": 13,
+        "awayScore": 16,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Carolina Panthers",
-        "homeScore": 20,
+        "homeScore": 23,
         "awayTeam": "Tampa Bay Buccaneers",
         "awayScore": 20,
         "weekday": "Sunday",
