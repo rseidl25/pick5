@@ -2094,15 +2094,6 @@
     "week": 16,
     "games": [
       {
-        "homeTeam": "Washington Commanders",
-        "homeScore": 10,
-        "awayTeam": "Philadelphia Eagles",
-        "awayScore": 7,
-        "weekday": "Saturday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Chicago Bears",
         "homeScore": 0,
         "awayTeam": "Green Bay Packers",
@@ -2110,6 +2101,15 @@
         "weekday": "Saturday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Washington Commanders",
+        "homeScore": 18,
+        "awayTeam": "Philadelphia Eagles",
+        "awayScore": 29,
+        "weekday": "Saturday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Seattle Seahawks",
