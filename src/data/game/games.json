@@ -2106,14 +2106,14 @@
         "homeTeam": "Arizona Cardinals",
         "homeScore": 16,
         "awayTeam": "Atlanta Falcons",
-        "awayScore": 10,
+        "awayScore": 16,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Detroit Lions",
-        "homeScore": 3,
+        "homeScore": 10,
         "awayTeam": "Pittsburgh Steelers",
         "awayScore": 3,
         "weekday": "Sunday",
@@ -2122,7 +2122,7 @@
       },
       {
         "homeTeam": "Houston Texans",
-        "homeScore": 10,
+        "homeScore": 13,
         "awayTeam": "Las Vegas Raiders",
         "awayScore": 7,
         "weekday": "Sunday",
