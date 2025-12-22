@@ -2095,9 +2095,9 @@
     "games": [
       {
         "homeTeam": "Baltimore Ravens",
-        "homeScore": 10,
+        "homeScore": 24,
         "awayTeam": "New England Patriots",
-        "awayScore": 10,
+        "awayScore": 21,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
