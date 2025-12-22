@@ -2094,6 +2094,42 @@
     "week": 16,
     "games": [
       {
+        "homeTeam": "Indianapolis Colts",
+        "homeScore": 0,
+        "awayTeam": "San Francisco 49ers",
+        "awayScore": 0,
+        "weekday": "Monday",
+        "gameTime": null,
+        "status": "Preview"
+      },
+      {
+        "homeTeam": "Seattle Seahawks",
+        "homeScore": 38,
+        "awayTeam": "Los Angeles Rams",
+        "awayScore": 37,
+        "weekday": "Thursday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Washington Commanders",
+        "homeScore": 18,
+        "awayTeam": "Philadelphia Eagles",
+        "awayScore": 29,
+        "weekday": "Saturday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Chicago Bears",
+        "homeScore": 22,
+        "awayTeam": "Green Bay Packers",
+        "awayScore": 16,
+        "weekday": "Saturday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
         "homeTeam": "Cleveland Browns",
         "homeScore": 20,
         "awayTeam": "Buffalo Bills",
@@ -2200,42 +2236,6 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
-      },
-      {
-        "homeTeam": "Seattle Seahawks",
-        "homeScore": 38,
-        "awayTeam": "Los Angeles Rams",
-        "awayScore": 37,
-        "weekday": "Thursday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
-        "homeTeam": "Washington Commanders",
-        "homeScore": 18,
-        "awayTeam": "Philadelphia Eagles",
-        "awayScore": 29,
-        "weekday": "Saturday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
-        "homeTeam": "Chicago Bears",
-        "homeScore": 22,
-        "awayTeam": "Green Bay Packers",
-        "awayScore": 16,
-        "weekday": "Saturday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
-        "homeTeam": "Indianapolis Colts",
-        "homeScore": 0,
-        "awayTeam": "San Francisco 49ers",
-        "awayScore": 0,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Preview"
       }
     ]
   },
