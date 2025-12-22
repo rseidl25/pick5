@@ -2094,15 +2094,6 @@
     "week": 16,
     "games": [
       {
-        "homeTeam": "Baltimore Ravens",
-        "homeScore": 24,
-        "awayTeam": "New England Patriots",
-        "awayScore": 21,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Cleveland Browns",
         "homeScore": 20,
         "awayTeam": "Buffalo Bills",
@@ -2197,6 +2188,15 @@
         "homeScore": 23,
         "awayTeam": "Las Vegas Raiders",
         "awayScore": 21,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Baltimore Ravens",
+        "homeScore": 24,
+        "awayTeam": "New England Patriots",
+        "awayScore": 28,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
