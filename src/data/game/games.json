@@ -2095,12 +2095,12 @@
     "games": [
       {
         "homeTeam": "Baltimore Ravens",
-        "homeScore": 0,
+        "homeScore": 10,
         "awayTeam": "New England Patriots",
-        "awayScore": 0,
+        "awayScore": 10,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Cleveland Browns",
