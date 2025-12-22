@@ -1764,11 +1764,11 @@
             "bonus": false
           },
           "Houston Texans": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 43
+        "total": 53
       },
       "week17": {
         "teams": {
@@ -1821,7 +1821,7 @@
         "total": 0
       }
     },
-    "overall_score": 765
+    "overall_score": 775
   },
   "FkbsYIXzm7TorvwE2qbaTiKsrmi1": {
     "name": "Steve",
@@ -3588,11 +3588,11 @@
             "bonus": false
           },
           "Houston Texans": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week17": {
         "teams": {
@@ -3645,7 +3645,7 @@
         "total": 0
       }
     },
-    "overall_score": 846
+    "overall_score": 856
   },
   "NluZaqiuGKRzhuir9Jfu5uKRm302": {
     "name": "Angie Phillip",
@@ -4488,7 +4488,7 @@
             "bonus": true
           },
           "Houston Texans": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Detroit Lions": {
@@ -4504,7 +4504,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week17": {
         "teams": {
@@ -4557,7 +4557,7 @@
         "total": 0
       }
     },
-    "overall_score": 957
+    "overall_score": 967
   },
   "XKPW7eAMivNTYBrIivGGT9DFV022": {
     "name": "Joey",
@@ -6324,11 +6324,11 @@
             "bonus": false
           },
           "Houston Texans": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week17": {
         "teams": {
@@ -6381,7 +6381,7 @@
         "total": 0
       }
     },
-    "overall_score": 775
+    "overall_score": 785
   },
   "jydlml7YsWe72ieLWGDFhuxY3Nb2": {
     "name": "Cal",
@@ -6772,7 +6772,7 @@
             "bonus": false
           },
           "Houston Texans": {
-            "points": 0,
+            "points": 33,
             "bonus": true
           },
           "Denver Broncos": {
@@ -6784,7 +6784,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 43
       },
       "week17": {
         "teams": {
@@ -6837,7 +6837,7 @@
         "total": 0
       }
     },
-    "overall_score": 663
+    "overall_score": 696
   },
   "tinL2DkOXZTYEdYZDlT3cQzk6Yi2": {
     "name": "Lauren",
