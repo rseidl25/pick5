@@ -2095,9 +2095,9 @@
     "games": [
       {
         "homeTeam": "Indianapolis Colts",
-        "homeScore": 17,
+        "homeScore": 27,
         "awayTeam": "San Francisco 49ers",
-        "awayScore": 24,
+        "awayScore": 41,
         "weekday": "Monday",
         "gameTime": null,
         "status": "In Progress"
