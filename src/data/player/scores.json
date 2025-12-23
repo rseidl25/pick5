@@ -4948,7 +4948,7 @@
             "bonus": false
           },
           "San Francisco 49ers": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Detroit Lions": {
@@ -4960,7 +4960,7 @@
             "bonus": true
           }
         },
-        "total": 49
+        "total": 59
       },
       "week17": {
         "teams": {
@@ -5013,7 +5013,7 @@
         "total": 0
       }
     },
-    "overall_score": 897
+    "overall_score": 907
   },
   "dac8Eg3ax4PxQl7aSydfS9lAWv23": {
     "name": "Ben",

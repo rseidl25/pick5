@@ -2097,10 +2097,10 @@
         "homeTeam": "Indianapolis Colts",
         "homeScore": 27,
         "awayTeam": "San Francisco 49ers",
-        "awayScore": 41,
+        "awayScore": 48,
         "weekday": "Monday",
         "gameTime": null,
-        "status": "In Progress"
+        "status": "Completed"
       },
       {
         "homeTeam": "Seattle Seahawks",
