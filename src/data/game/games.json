@@ -2094,15 +2094,6 @@
     "week": 16,
     "games": [
       {
-        "homeTeam": "Indianapolis Colts",
-        "homeScore": 27,
-        "awayTeam": "San Francisco 49ers",
-        "awayScore": 48,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "Seattle Seahawks",
         "homeScore": 38,
         "awayTeam": "Los Angeles Rams",
@@ -2234,6 +2225,15 @@
         "awayTeam": "New England Patriots",
         "awayScore": 28,
         "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Indianapolis Colts",
+        "homeScore": 27,
+        "awayTeam": "San Francisco 49ers",
+        "awayScore": 48,
+        "weekday": "Monday",
         "gameTime": null,
         "status": "Completed"
       }
