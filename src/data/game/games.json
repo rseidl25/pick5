@@ -2244,9 +2244,9 @@
     "games": [
       {
         "homeTeam": "Washington Commanders",
-        "homeScore": 10,
+        "homeScore": 17,
         "awayTeam": "Dallas Cowboys",
-        "awayScore": 24,
+        "awayScore": 27,
         "weekday": "Thursday",
         "gameTime": null,
         "status": "In Progress"
