@@ -2243,15 +2243,6 @@
     "week": 17,
     "games": [
       {
-        "homeTeam": "Washington Commanders",
-        "homeScore": 20,
-        "awayTeam": "Dallas Cowboys",
-        "awayScore": 30,
-        "weekday": "Thursday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Minnesota Vikings",
         "homeScore": 0,
         "awayTeam": "Detroit Lions",
@@ -2268,6 +2259,15 @@
         "weekday": "Thursday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Washington Commanders",
+        "homeScore": 23,
+        "awayTeam": "Dallas Cowboys",
+        "awayScore": 30,
+        "weekday": "Thursday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Los Angeles Chargers",
