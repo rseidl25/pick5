@@ -2244,12 +2244,12 @@
     "games": [
       {
         "homeTeam": "Kansas City Chiefs",
-        "homeScore": 0,
+        "homeScore": 10,
         "awayTeam": "Denver Broncos",
-        "awayScore": 0,
+        "awayScore": 6,
         "weekday": "Thursday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Washington Commanders",
