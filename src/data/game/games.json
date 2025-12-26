@@ -2243,15 +2243,6 @@
     "week": 17,
     "games": [
       {
-        "homeTeam": "Minnesota Vikings",
-        "homeScore": 13,
-        "awayTeam": "Detroit Lions",
-        "awayScore": 7,
-        "weekday": "Thursday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Kansas City Chiefs",
         "homeScore": 0,
         "awayTeam": "Denver Broncos",
@@ -2265,6 +2256,15 @@
         "homeScore": 23,
         "awayTeam": "Dallas Cowboys",
         "awayScore": 30,
+        "weekday": "Thursday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Minnesota Vikings",
+        "homeScore": 23,
+        "awayTeam": "Detroit Lions",
+        "awayScore": 10,
         "weekday": "Thursday",
         "gameTime": null,
         "status": "Completed"
