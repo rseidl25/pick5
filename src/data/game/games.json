@@ -2244,9 +2244,9 @@
     "games": [
       {
         "homeTeam": "Kansas City Chiefs",
-        "homeScore": 10,
+        "homeScore": 13,
         "awayTeam": "Denver Broncos",
-        "awayScore": 6,
+        "awayScore": 20,
         "weekday": "Thursday",
         "gameTime": null,
         "status": "In Progress"
