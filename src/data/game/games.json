@@ -2243,6 +2243,24 @@
     "week": 17,
     "games": [
       {
+        "homeTeam": "Los Angeles Chargers",
+        "homeScore": 0,
+        "awayTeam": "Houston Texans",
+        "awayScore": 0,
+        "weekday": "Saturday",
+        "gameTime": null,
+        "status": "Preview"
+      },
+      {
+        "homeTeam": "Green Bay Packers",
+        "homeScore": 0,
+        "awayTeam": "Baltimore Ravens",
+        "awayScore": 0,
+        "weekday": "Saturday",
+        "gameTime": null,
+        "status": "Preview"
+      },
+      {
         "homeTeam": "Washington Commanders",
         "homeScore": 23,
         "awayTeam": "Dallas Cowboys",
@@ -2268,24 +2286,6 @@
         "weekday": "Thursday",
         "gameTime": null,
         "status": "Completed"
-      },
-      {
-        "homeTeam": "Los Angeles Chargers",
-        "homeScore": 0,
-        "awayTeam": "Houston Texans",
-        "awayScore": 0,
-        "weekday": "Saturday",
-        "gameTime": null,
-        "status": "Preview"
-      },
-      {
-        "homeTeam": "Green Bay Packers",
-        "homeScore": 0,
-        "awayTeam": "Baltimore Ravens",
-        "awayScore": 0,
-        "weekday": "Saturday",
-        "gameTime": null,
-        "status": "Preview"
       },
       {
         "homeTeam": "Cincinnati Bengals",
