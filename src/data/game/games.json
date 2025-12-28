@@ -2243,51 +2243,6 @@
     "week": 17,
     "games": [
       {
-        "homeTeam": "Los Angeles Chargers",
-        "homeScore": 16,
-        "awayTeam": "Houston Texans",
-        "awayScore": 20,
-        "weekday": "Saturday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
-        "homeTeam": "Green Bay Packers",
-        "homeScore": 24,
-        "awayTeam": "Baltimore Ravens",
-        "awayScore": 41,
-        "weekday": "Saturday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
-        "homeTeam": "Washington Commanders",
-        "homeScore": 23,
-        "awayTeam": "Dallas Cowboys",
-        "awayScore": 30,
-        "weekday": "Thursday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
-        "homeTeam": "Minnesota Vikings",
-        "homeScore": 23,
-        "awayTeam": "Detroit Lions",
-        "awayScore": 10,
-        "weekday": "Thursday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
-        "homeTeam": "Kansas City Chiefs",
-        "homeScore": 13,
-        "awayTeam": "Denver Broncos",
-        "awayScore": 20,
-        "weekday": "Thursday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "Cincinnati Bengals",
         "homeScore": 0,
         "awayTeam": "Arizona Cardinals",
@@ -2376,6 +2331,51 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Washington Commanders",
+        "homeScore": 23,
+        "awayTeam": "Dallas Cowboys",
+        "awayScore": 30,
+        "weekday": "Thursday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Minnesota Vikings",
+        "homeScore": 23,
+        "awayTeam": "Detroit Lions",
+        "awayScore": 10,
+        "weekday": "Thursday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Kansas City Chiefs",
+        "homeScore": 13,
+        "awayTeam": "Denver Broncos",
+        "awayScore": 20,
+        "weekday": "Thursday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Los Angeles Chargers",
+        "homeScore": 16,
+        "awayTeam": "Houston Texans",
+        "awayScore": 20,
+        "weekday": "Saturday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Green Bay Packers",
+        "homeScore": 24,
+        "awayTeam": "Baltimore Ravens",
+        "awayScore": 41,
+        "weekday": "Saturday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Atlanta Falcons",
