@@ -2246,14 +2246,14 @@
         "homeTeam": "Cincinnati Bengals",
         "homeScore": 37,
         "awayTeam": "Arizona Cardinals",
-        "awayScore": 7,
+        "awayScore": 14,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Cleveland Browns",
-        "homeScore": 10,
+        "homeScore": 13,
         "awayTeam": "Pittsburgh Steelers",
         "awayScore": 6,
         "weekday": "Sunday",
@@ -2264,7 +2264,7 @@
         "homeTeam": "Tennessee Titans",
         "homeScore": 26,
         "awayTeam": "New Orleans Saints",
-        "awayScore": 20,
+        "awayScore": 27,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -2273,7 +2273,7 @@
         "homeTeam": "Indianapolis Colts",
         "homeScore": 17,
         "awayTeam": "Jacksonville Jaguars",
-        "awayScore": 17,
+        "awayScore": 20,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
