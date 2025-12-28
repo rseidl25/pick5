@@ -2246,7 +2246,7 @@
         "homeTeam": "Las Vegas Raiders",
         "homeScore": 3,
         "awayTeam": "New York Giants",
-        "awayScore": 7,
+        "awayScore": 14,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -2255,7 +2255,7 @@
         "homeTeam": "Buffalo Bills",
         "homeScore": 0,
         "awayTeam": "Philadelphia Eagles",
-        "awayScore": 0,
+        "awayScore": 7,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
