@@ -1781,7 +1781,7 @@
             "bonus": false
           },
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Kansas City Chiefs": {
@@ -1793,7 +1793,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week18": {
         "teams": {
@@ -1821,7 +1821,7 @@
         "total": 0
       }
     },
-    "overall_score": 775
+    "overall_score": 785
   },
   "FkbsYIXzm7TorvwE2qbaTiKsrmi1": {
     "name": "Steve",
@@ -2233,7 +2233,7 @@
             "bonus": true
           },
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Las Vegas Raiders": {
@@ -2249,7 +2249,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week18": {
         "teams": {
@@ -2277,7 +2277,7 @@
         "total": 0
       }
     },
-    "overall_score": 931
+    "overall_score": 941
   },
   "Fn25s976WxT6gML22x8yJsQ33PM2": {
     "name": "Milly",
@@ -2689,7 +2689,7 @@
             "bonus": false
           },
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Las Vegas Raiders": {
@@ -2705,7 +2705,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week18": {
         "teams": {
@@ -2733,7 +2733,7 @@
         "total": 0
       }
     },
-    "overall_score": 669
+    "overall_score": 679
   },
   "K9X8fKAf1bNvZjJH0jM9eO2uobP2": {
     "name": "Bryan",
@@ -3605,7 +3605,7 @@
             "bonus": false
           },
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 47,
             "bonus": true
           },
           "Tampa Bay Buccaneers": {
@@ -3617,7 +3617,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 47
       },
       "week18": {
         "teams": {
@@ -3645,7 +3645,7 @@
         "total": 0
       }
     },
-    "overall_score": 856
+    "overall_score": 903
   },
   "NluZaqiuGKRzhuir9Jfu5uKRm302": {
     "name": "Angie Phillip",
@@ -4057,7 +4057,7 @@
             "bonus": false
           },
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Pittsburgh Steelers": {
@@ -4073,7 +4073,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week18": {
         "teams": {
@@ -4101,7 +4101,7 @@
         "total": 0
       }
     },
-    "overall_score": 883
+    "overall_score": 893
   },
   "US8t7rlGTXV5t8M3K8OWB2kzQo93": {
     "name": "Sam",
@@ -4521,7 +4521,7 @@
             "bonus": false
           },
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 47,
             "bonus": true
           },
           "Washington Commanders": {
@@ -4529,7 +4529,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 57
       },
       "week18": {
         "teams": {
@@ -4557,7 +4557,7 @@
         "total": 0
       }
     },
-    "overall_score": 977
+    "overall_score": 1024
   },
   "XKPW7eAMivNTYBrIivGGT9DFV022": {
     "name": "Joey",
@@ -4965,7 +4965,7 @@
       "week17": {
         "teams": {
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "San Francisco 49ers": {
@@ -4985,7 +4985,7 @@
             "bonus": true
           }
         },
-        "total": 10
+        "total": 20
       },
       "week18": {
         "teams": {
@@ -5013,7 +5013,7 @@
         "total": 0
       }
     },
-    "overall_score": 917
+    "overall_score": 927
   },
   "dac8Eg3ax4PxQl7aSydfS9lAWv23": {
     "name": "Ben",
@@ -6337,7 +6337,7 @@
             "bonus": false
           },
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 47,
             "bonus": true
           },
           "Los Angeles Rams": {
@@ -6353,7 +6353,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 57
       },
       "week18": {
         "teams": {
@@ -6381,7 +6381,7 @@
         "total": 0
       }
     },
-    "overall_score": 795
+    "overall_score": 842
   },
   "jydlml7YsWe72ieLWGDFhuxY3Nb2": {
     "name": "Cal",
@@ -6789,7 +6789,7 @@
       "week17": {
         "teams": {
           "Cincinnati Bengals": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Las Vegas Raiders": {
@@ -6809,7 +6809,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week18": {
         "teams": {
@@ -6837,7 +6837,7 @@
         "total": 0
       }
     },
-    "overall_score": 696
+    "overall_score": 706
   },
   "tinL2DkOXZTYEdYZDlT3cQzk6Yi2": {
     "name": "Lauren",
