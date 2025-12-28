@@ -2244,9 +2244,9 @@
     "games": [
       {
         "homeTeam": "Green Bay Packers",
-        "homeScore": 0,
+        "homeScore": 17,
         "awayTeam": "Baltimore Ravens",
-        "awayScore": 0,
+        "awayScore": 27,
         "weekday": "Saturday",
         "gameTime": null,
         "status": "In Progress"
