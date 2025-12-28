@@ -2262,7 +2262,7 @@
       },
       {
         "homeTeam": "Tennessee Titans",
-        "homeScore": 23,
+        "homeScore": 26,
         "awayTeam": "New Orleans Saints",
         "awayScore": 20,
         "weekday": "Sunday",
@@ -2289,7 +2289,7 @@
       },
       {
         "homeTeam": "New York Jets",
-        "homeScore": 3,
+        "homeScore": 10,
         "awayTeam": "New England Patriots",
         "awayScore": 42,
         "weekday": "Sunday",
@@ -2298,9 +2298,9 @@
       },
       {
         "homeTeam": "Carolina Panthers",
-        "homeScore": 3,
+        "homeScore": 10,
         "awayTeam": "Seattle Seahawks",
-        "awayScore": 17,
+        "awayScore": 20,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
