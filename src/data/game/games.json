@@ -2258,7 +2258,7 @@
         "awayScore": 0,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "San Francisco 49ers",
@@ -2268,15 +2268,6 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
-      },
-      {
-        "homeTeam": "Tennessee Titans",
-        "homeScore": 26,
-        "awayTeam": "New Orleans Saints",
-        "awayScore": 34,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "Completed"
       },
       {
         "homeTeam": "Cincinnati Bengals",
@@ -2292,6 +2283,15 @@
         "homeScore": 13,
         "awayTeam": "Pittsburgh Steelers",
         "awayScore": 6,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Tennessee Titans",
+        "homeScore": 26,
+        "awayTeam": "New Orleans Saints",
+        "awayScore": 34,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
