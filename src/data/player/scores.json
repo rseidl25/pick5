@@ -4973,7 +4973,7 @@
             "bonus": false
           },
           "Houston Texans": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "New England Patriots": {
@@ -4985,7 +4985,7 @@
             "bonus": true
           }
         },
-        "total": 0
+        "total": 10
       },
       "week18": {
         "teams": {
@@ -5013,7 +5013,7 @@
         "total": 0
       }
     },
-    "overall_score": 907
+    "overall_score": 917
   },
   "dac8Eg3ax4PxQl7aSydfS9lAWv23": {
     "name": "Ben",
