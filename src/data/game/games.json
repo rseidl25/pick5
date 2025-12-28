@@ -2244,9 +2244,9 @@
     "games": [
       {
         "homeTeam": "Las Vegas Raiders",
-        "homeScore": 3,
+        "homeScore": 10,
         "awayTeam": "New York Giants",
-        "awayScore": 17,
+        "awayScore": 26,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
