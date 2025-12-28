@@ -417,7 +417,7 @@
             "bonus": false
           },
           "Seattle Seahawks": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Indianapolis Colts": {
@@ -425,7 +425,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week18": {
         "teams": {
@@ -453,7 +453,7 @@
         "total": 0
       }
     },
-    "overall_score": 888
+    "overall_score": 898
   },
   "A5dssZETIMhNd0WYKQamFxxb9Ak2": {
     "name": "Judy Phillip",
@@ -865,7 +865,7 @@
             "bonus": true
           },
           "Seattle Seahawks": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Washington Commanders": {
@@ -881,7 +881,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week18": {
         "teams": {
@@ -909,7 +909,7 @@
         "total": 0
       }
     },
-    "overall_score": 888
+    "overall_score": 898
   },
   "AmEIaRh92vdP40uVAseDWGxcZBM2": {
     "name": "Brett Sievwright",
@@ -1329,7 +1329,7 @@
             "bonus": false
           },
           "Seattle Seahawks": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Indianapolis Colts": {
@@ -1337,7 +1337,7 @@
             "bonus": true
           }
         },
-        "total": 0
+        "total": 10
       },
       "week18": {
         "teams": {
@@ -1365,7 +1365,7 @@
         "total": 0
       }
     },
-    "overall_score": 728
+    "overall_score": 738
   },
   "D2fLoPEINITIuA9oJNB8ybVaOps2": {
     "name": "Kalysta",
@@ -1773,7 +1773,7 @@
       "week17": {
         "teams": {
           "Seattle Seahawks": {
-            "points": 0,
+            "points": 37,
             "bonus": true
           },
           "Tampa Bay Buccaneers": {
@@ -1793,7 +1793,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 47
       },
       "week18": {
         "teams": {
@@ -1821,7 +1821,7 @@
         "total": 0
       }
     },
-    "overall_score": 785
+    "overall_score": 822
   },
   "FkbsYIXzm7TorvwE2qbaTiKsrmi1": {
     "name": "Steve",
@@ -2229,7 +2229,7 @@
       "week17": {
         "teams": {
           "Seattle Seahawks": {
-            "points": 0,
+            "points": 37,
             "bonus": true
           },
           "Cincinnati Bengals": {
@@ -2249,7 +2249,7 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 47
       },
       "week18": {
         "teams": {
@@ -2277,7 +2277,7 @@
         "total": 0
       }
     },
-    "overall_score": 941
+    "overall_score": 978
   },
   "Fn25s976WxT6gML22x8yJsQ33PM2": {
     "name": "Milly",
@@ -2701,11 +2701,11 @@
             "bonus": true
           },
           "Seattle Seahawks": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           }
         },
-        "total": 10
+        "total": 20
       },
       "week18": {
         "teams": {
@@ -2733,7 +2733,7 @@
         "total": 0
       }
     },
-    "overall_score": 679
+    "overall_score": 689
   },
   "K9X8fKAf1bNvZjJH0jM9eO2uobP2": {
     "name": "Bryan",
@@ -3149,7 +3149,7 @@
             "bonus": false
           },
           "Seattle Seahawks": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Kansas City Chiefs": {
@@ -3161,7 +3161,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week18": {
         "teams": {
@@ -3189,7 +3189,7 @@
         "total": 0
       }
     },
-    "overall_score": 870
+    "overall_score": 880
   },
   "LKY6YytQUfbPzmcw2yfIYm0XEQD2": {
     "name": "Smelly Kelly",
@@ -4977,15 +4977,15 @@
             "bonus": false
           },
           "New England Patriots": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Seattle Seahawks": {
-            "points": 0,
+            "points": 37,
             "bonus": true
           }
         },
-        "total": 20
+        "total": 67
       },
       "week18": {
         "teams": {
@@ -5013,7 +5013,7 @@
         "total": 0
       }
     },
-    "overall_score": 927
+    "overall_score": 974
   },
   "dac8Eg3ax4PxQl7aSydfS9lAWv23": {
     "name": "Ben",
@@ -5421,7 +5421,7 @@
       "week17": {
         "teams": {
           "Seattle Seahawks": {
-            "points": 0,
+            "points": 37,
             "bonus": true
           },
           "Washington Commanders": {
@@ -5441,7 +5441,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 37
       },
       "week18": {
         "teams": {
@@ -5469,7 +5469,7 @@
         "total": 0
       }
     },
-    "overall_score": 885
+    "overall_score": 922
   },
   "hELkxczX1UerNFvp4fpORxqLr9X2": {
     "name": "PP",
@@ -7257,7 +7257,7 @@
             "bonus": true
           },
           "Seattle Seahawks": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Washington Commanders": {
@@ -7265,7 +7265,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week18": {
         "teams": {
@@ -7293,7 +7293,7 @@
         "total": 0
       }
     },
-    "overall_score": 832
+    "overall_score": 842
   },
   "u8geiYcJqpcTBRxAtLVB5QKA8Ii2": {
     "name": "Lisa: Certified League Wrecker",
@@ -7705,7 +7705,7 @@
             "bonus": false
           },
           "Seattle Seahawks": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Pittsburgh Steelers": {
@@ -7721,7 +7721,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week18": {
         "teams": {
@@ -7749,6 +7749,6 @@
         "total": 0
       }
     },
-    "overall_score": 850
+    "overall_score": 860
   }
 }
