@@ -2255,14 +2255,14 @@
         "homeTeam": "Cleveland Browns",
         "homeScore": 10,
         "awayTeam": "Pittsburgh Steelers",
-        "awayScore": 3,
+        "awayScore": 6,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
       },
       {
         "homeTeam": "Tennessee Titans",
-        "homeScore": 13,
+        "homeScore": 20,
         "awayTeam": "New Orleans Saints",
         "awayScore": 10,
         "weekday": "Sunday",
@@ -2291,7 +2291,7 @@
         "homeTeam": "New York Jets",
         "homeScore": 3,
         "awayTeam": "New England Patriots",
-        "awayScore": 28,
+        "awayScore": 35,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
