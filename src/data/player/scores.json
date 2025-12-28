@@ -4509,7 +4509,7 @@
       "week17": {
         "teams": {
           "Baltimore Ravens": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "Detroit Lions": {
@@ -4529,7 +4529,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week18": {
         "teams": {
@@ -4557,7 +4557,7 @@
         "total": 0
       }
     },
-    "overall_score": 967
+    "overall_score": 977
   },
   "XKPW7eAMivNTYBrIivGGT9DFV022": {
     "name": "Joey",
@@ -6345,7 +6345,7 @@
             "bonus": false
           },
           "Baltimore Ravens": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "New York Jets": {
@@ -6353,7 +6353,7 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 10
       },
       "week18": {
         "teams": {
@@ -6381,7 +6381,7 @@
         "total": 0
       }
     },
-    "overall_score": 785
+    "overall_score": 795
   },
   "jydlml7YsWe72ieLWGDFhuxY3Nb2": {
     "name": "Cal",
