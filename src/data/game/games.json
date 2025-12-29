@@ -2244,9 +2244,9 @@
     "games": [
       {
         "homeTeam": "San Francisco 49ers",
-        "homeScore": 28,
+        "homeScore": 42,
         "awayTeam": "Chicago Bears",
-        "awayScore": 21,
+        "awayScore": 38,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
