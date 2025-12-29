@@ -2244,12 +2244,12 @@
     "games": [
       {
         "homeTeam": "San Francisco 49ers",
-        "homeScore": 0,
+        "homeScore": 28,
         "awayTeam": "Chicago Bears",
-        "awayScore": 0,
+        "awayScore": 21,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "Cincinnati Bengals",
