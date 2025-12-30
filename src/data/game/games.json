@@ -2244,9 +2244,9 @@
     "games": [
       {
         "homeTeam": "Atlanta Falcons",
-        "homeScore": 21,
+        "homeScore": 27,
         "awayTeam": "Los Angeles Rams",
-        "awayScore": 3,
+        "awayScore": 24,
         "weekday": "Monday",
         "gameTime": null,
         "status": "In Progress"
