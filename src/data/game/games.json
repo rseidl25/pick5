@@ -2243,15 +2243,6 @@
     "week": 17,
     "games": [
       {
-        "homeTeam": "Atlanta Falcons",
-        "homeScore": 27,
-        "awayTeam": "Los Angeles Rams",
-        "awayScore": 24,
-        "weekday": "Monday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "Washington Commanders",
         "homeScore": 23,
         "awayTeam": "Dallas Cowboys",
@@ -2383,6 +2374,15 @@
         "awayTeam": "Chicago Bears",
         "awayScore": 38,
         "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Atlanta Falcons",
+        "homeScore": 27,
+        "awayTeam": "Los Angeles Rams",
+        "awayScore": 24,
+        "weekday": "Monday",
         "gameTime": null,
         "status": "Completed"
       }
