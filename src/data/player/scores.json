@@ -6801,7 +6801,7 @@
             "bonus": false
           },
           "Atlanta Falcons": {
-            "points": 0,
+            "points": 10,
             "bonus": false
           },
           "San Francisco 49ers": {
@@ -6809,7 +6809,7 @@
             "bonus": false
           }
         },
-        "total": 20
+        "total": 30
       },
       "week18": {
         "teams": {
@@ -6837,7 +6837,7 @@
         "total": 0
       }
     },
-    "overall_score": 716
+    "overall_score": 726
   },
   "tinL2DkOXZTYEdYZDlT3cQzk6Yi2": {
     "name": "Lauren",
