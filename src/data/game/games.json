@@ -2393,12 +2393,12 @@
     "games": [
       {
         "homeTeam": "Tampa Bay Buccaneers",
-        "homeScore": 0,
+        "homeScore": 7,
         "awayTeam": "Carolina Panthers",
         "awayScore": 0,
         "weekday": "Saturday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
       },
       {
         "homeTeam": "San Francisco 49ers",
