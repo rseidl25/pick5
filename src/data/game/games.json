@@ -2393,18 +2393,9 @@
     "games": [
       {
         "homeTeam": "Atlanta Falcons",
-        "homeScore": 16,
+        "homeScore": 19,
         "awayTeam": "New Orleans Saints",
         "awayScore": 10,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Cincinnati Bengals",
-        "homeScore": 18,
-        "awayTeam": "Cleveland Browns",
-        "awayScore": 17,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
@@ -2498,6 +2489,15 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Cincinnati Bengals",
+        "homeScore": 18,
+        "awayTeam": "Cleveland Browns",
+        "awayScore": 20,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Minnesota Vikings",
