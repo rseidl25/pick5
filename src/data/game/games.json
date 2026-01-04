@@ -2393,9 +2393,9 @@
     "games": [
       {
         "homeTeam": "San Francisco 49ers",
-        "homeScore": 0,
+        "homeScore": 3,
         "awayTeam": "Seattle Seahawks",
-        "awayScore": 0,
+        "awayScore": 13,
         "weekday": "Saturday",
         "gameTime": null,
         "status": "In Progress"
