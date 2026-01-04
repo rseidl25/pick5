@@ -2392,33 +2392,6 @@
     "week": 18,
     "games": [
       {
-        "homeTeam": "Atlanta Falcons",
-        "homeScore": 19,
-        "awayTeam": "New Orleans Saints",
-        "awayScore": 10,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "New York Giants",
-        "homeScore": 34,
-        "awayTeam": "Dallas Cowboys",
-        "awayScore": 17,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
-        "homeTeam": "Houston Texans",
-        "homeScore": 29,
-        "awayTeam": "Indianapolis Colts",
-        "awayScore": 27,
-        "weekday": "Sunday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "Buffalo Bills",
         "homeScore": 0,
         "awayTeam": "New York Jets",
@@ -2491,6 +2464,24 @@
         "status": "Preview"
       },
       {
+        "homeTeam": "Houston Texans",
+        "homeScore": 38,
+        "awayTeam": "Indianapolis Colts",
+        "awayScore": 30,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "Atlanta Falcons",
+        "homeScore": 19,
+        "awayTeam": "New Orleans Saints",
+        "awayScore": 17,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
         "homeTeam": "Cincinnati Bengals",
         "homeScore": 18,
         "awayTeam": "Cleveland Browns",
@@ -2504,6 +2495,15 @@
         "homeScore": 16,
         "awayTeam": "Green Bay Packers",
         "awayScore": 3,
+        "weekday": "Sunday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "New York Giants",
+        "homeScore": 34,
+        "awayTeam": "Dallas Cowboys",
+        "awayScore": 17,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
