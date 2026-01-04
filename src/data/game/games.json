@@ -2393,7 +2393,7 @@
     "games": [
       {
         "homeTeam": "Buffalo Bills",
-        "homeScore": 29,
+        "homeScore": 35,
         "awayTeam": "New York Jets",
         "awayScore": 0,
         "weekday": "Sunday",
@@ -2402,7 +2402,7 @@
       },
       {
         "homeTeam": "Chicago Bears",
-        "homeScore": 8,
+        "homeScore": 16,
         "awayTeam": "Detroit Lions",
         "awayScore": 16,
         "weekday": "Sunday",
@@ -2429,7 +2429,7 @@
       },
       {
         "homeTeam": "Los Angeles Rams",
-        "homeScore": 23,
+        "homeScore": 30,
         "awayTeam": "Arizona Cardinals",
         "awayScore": 20,
         "weekday": "Sunday",
@@ -2449,7 +2449,7 @@
         "homeTeam": "Philadelphia Eagles",
         "homeScore": 17,
         "awayTeam": "Washington Commanders",
-        "awayScore": 10,
+        "awayScore": 17,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
