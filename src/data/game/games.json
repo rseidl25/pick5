@@ -2438,9 +2438,9 @@
       },
       {
         "homeTeam": "Houston Texans",
-        "homeScore": 20,
+        "homeScore": 23,
         "awayTeam": "Indianapolis Colts",
-        "awayScore": 10,
+        "awayScore": 17,
         "weekday": "Sunday",
         "gameTime": null,
         "status": "In Progress"
