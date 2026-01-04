@@ -5446,7 +5446,7 @@
       "week18": {
         "teams": {
           "Jacksonville Jaguars": {
-            "points": 0,
+            "points": 51,
             "bonus": true
           },
           "Buffalo Bills": {
@@ -5466,10 +5466,10 @@
             "bonus": false
           }
         },
-        "total": 10
+        "total": 61
       }
     },
-    "overall_score": 932
+    "overall_score": 983
   },
   "hELkxczX1UerNFvp4fpORxqLr9X2": {
     "name": "PP",
