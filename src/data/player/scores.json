@@ -1346,7 +1346,7 @@
             "bonus": false
           },
           "Seattle Seahawks": {
-            "points": 0,
+            "points": 23,
             "bonus": true
           },
           "Tennessee Titans": {
@@ -1362,10 +1362,10 @@
             "bonus": false
           }
         },
-        "total": 0
+        "total": 23
       }
     },
-    "overall_score": 738
+    "overall_score": 761
   },
   "D2fLoPEINITIuA9oJNB8ybVaOps2": {
     "name": "Kalysta",
