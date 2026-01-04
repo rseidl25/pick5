@@ -2402,7 +2402,7 @@
       },
       {
         "homeTeam": "Chicago Bears",
-        "homeScore": 0,
+        "homeScore": 8,
         "awayTeam": "Detroit Lions",
         "awayScore": 16,
         "weekday": "Sunday",
@@ -2420,7 +2420,7 @@
       },
       {
         "homeTeam": "Las Vegas Raiders",
-        "homeScore": 6,
+        "homeScore": 9,
         "awayTeam": "Kansas City Chiefs",
         "awayScore": 6,
         "weekday": "Sunday",
@@ -2429,7 +2429,7 @@
       },
       {
         "homeTeam": "Los Angeles Rams",
-        "homeScore": 16,
+        "homeScore": 23,
         "awayTeam": "Arizona Cardinals",
         "awayScore": 20,
         "weekday": "Sunday",
@@ -2438,7 +2438,7 @@
       },
       {
         "homeTeam": "New England Patriots",
-        "homeScore": 31,
+        "homeScore": 38,
         "awayTeam": "Miami Dolphins",
         "awayScore": 10,
         "weekday": "Sunday",
@@ -2447,7 +2447,7 @@
       },
       {
         "homeTeam": "Philadelphia Eagles",
-        "homeScore": 14,
+        "homeScore": 17,
         "awayTeam": "Washington Commanders",
         "awayScore": 10,
         "weekday": "Sunday",
