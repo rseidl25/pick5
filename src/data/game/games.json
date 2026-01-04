@@ -2392,24 +2392,6 @@
     "week": 18,
     "games": [
       {
-        "homeTeam": "Tampa Bay Buccaneers",
-        "homeScore": 16,
-        "awayTeam": "Carolina Panthers",
-        "awayScore": 14,
-        "weekday": "Saturday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
-        "homeTeam": "San Francisco 49ers",
-        "homeScore": 3,
-        "awayTeam": "Seattle Seahawks",
-        "awayScore": 13,
-        "weekday": "Saturday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
         "homeTeam": "Atlanta Falcons",
         "homeScore": 0,
         "awayTeam": "New Orleans Saints",
@@ -2534,6 +2516,24 @@
         "weekday": "Sunday",
         "gameTime": null,
         "status": "Preview"
+      },
+      {
+        "homeTeam": "Tampa Bay Buccaneers",
+        "homeScore": 16,
+        "awayTeam": "Carolina Panthers",
+        "awayScore": 14,
+        "weekday": "Saturday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "San Francisco 49ers",
+        "homeScore": 3,
+        "awayTeam": "Seattle Seahawks",
+        "awayScore": 13,
+        "weekday": "Saturday",
+        "gameTime": null,
+        "status": "Completed"
       }
     ]
   }
