@@ -2392,22 +2392,22 @@
     "week": 18,
     "games": [
       {
-        "homeTeam": "Tampa Bay Buccaneers",
-        "homeScore": 16,
-        "awayTeam": "Carolina Panthers",
-        "awayScore": 7,
-        "weekday": "Saturday",
-        "gameTime": null,
-        "status": "In Progress"
-      },
-      {
         "homeTeam": "San Francisco 49ers",
         "homeScore": 0,
         "awayTeam": "Seattle Seahawks",
         "awayScore": 0,
         "weekday": "Saturday",
         "gameTime": null,
-        "status": "Preview"
+        "status": "In Progress"
+      },
+      {
+        "homeTeam": "Tampa Bay Buccaneers",
+        "homeScore": 16,
+        "awayTeam": "Carolina Panthers",
+        "awayScore": 14,
+        "weekday": "Saturday",
+        "gameTime": null,
+        "status": "Completed"
       },
       {
         "homeTeam": "Atlanta Falcons",
