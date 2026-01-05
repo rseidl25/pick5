@@ -2393,12 +2393,12 @@
     "games": [
       {
         "homeTeam": "Pittsburgh Steelers",
-        "homeScore": 10,
+        "homeScore": 26,
         "awayTeam": "Baltimore Ravens",
-        "awayScore": 10,
+        "awayScore": 24,
         "weekday": "Sunday",
         "gameTime": null,
-        "status": "In Progress"
+        "status": "Completed"
       },
       {
         "homeTeam": "Atlanta Falcons",
