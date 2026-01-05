@@ -2392,11 +2392,20 @@
     "week": 18,
     "games": [
       {
-        "homeTeam": "Pittsburgh Steelers",
-        "homeScore": 26,
-        "awayTeam": "Baltimore Ravens",
-        "awayScore": 24,
-        "weekday": "Sunday",
+        "homeTeam": "Tampa Bay Buccaneers",
+        "homeScore": 16,
+        "awayTeam": "Carolina Panthers",
+        "awayScore": 14,
+        "weekday": "Saturday",
+        "gameTime": null,
+        "status": "Completed"
+      },
+      {
+        "homeTeam": "San Francisco 49ers",
+        "homeScore": 3,
+        "awayTeam": "Seattle Seahawks",
+        "awayScore": 13,
+        "weekday": "Saturday",
         "gameTime": null,
         "status": "Completed"
       },
@@ -2518,20 +2527,11 @@
         "status": "Completed"
       },
       {
-        "homeTeam": "Tampa Bay Buccaneers",
-        "homeScore": 16,
-        "awayTeam": "Carolina Panthers",
-        "awayScore": 14,
-        "weekday": "Saturday",
-        "gameTime": null,
-        "status": "Completed"
-      },
-      {
-        "homeTeam": "San Francisco 49ers",
-        "homeScore": 3,
-        "awayTeam": "Seattle Seahawks",
-        "awayScore": 13,
-        "weekday": "Saturday",
+        "homeTeam": "Pittsburgh Steelers",
+        "homeScore": 26,
+        "awayTeam": "Baltimore Ravens",
+        "awayScore": 24,
+        "weekday": "Sunday",
         "gameTime": null,
         "status": "Completed"
       }
